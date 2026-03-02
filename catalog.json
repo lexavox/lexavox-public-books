@@ -1,0 +1,14 @@
+{
+  "books": [
+    { "id": "pg1342", "title": "Pride and Prejudice", "author": "Jane Austen", "filename": "pride_and_prejudice_by_jane_austen.epub" },
+    { "id": "pg2701", "title": "Moby Dick; or, The Whale", "author": "Herman Melville", "filename": "moby_dick_or_the_whale_by_herman_melville.epub" },
+    { "id": "pg64317", "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "filename": "the_great_gatsby_by_f_scott_fitzgerald.epub" },
+    { "id": "pg76", "title": "Adventures of Huckleberry Finn", "author": "Mark Twain", "filename": "adventures_of_huckleberry_finn_by_mark_twain.epub" },
+    { "id": "pg74", "title": "The Adventures of Tom Sawyer", "author": "Mark Twain", "filename": "the_adventures_of_tom_sawyer_by_mark_twain.epub" },
+    { "id": "pg84", "title": "Frankenstein", "author": "Mary Wollstonecraft Shelley", "filename": "frankenstein_by_mary_wollstonecraft_shelley.epub" },
+    { "id": "pg345", "title": "Dracula", "author": "Bram Stoker", "filename": "dracula_by_bram_stoker.epub" },
+    { "id": "pg174", "title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "filename": "the_picture_of_dorian_gray_by_oscar_wilde.epub" },
+    { "id": "pg11", "title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "filename": "alice_s_adventures_in_wonderland_by_lewis_carroll.epub" },
+    { "id": "pg98", "title": "A Tale of Two Cities", "author": "Charles Dickens", "filename": "a_tale_of_two_cities_by_charles_dickens.epub" }
+  ]
+}

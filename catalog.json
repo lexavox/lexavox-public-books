@@ -8,7 +8,7 @@
     { "id": "pg98", "title": "A Tale of Two Cities", "author": "Charles Dickens", "filename": "a_tale_of_two_cities_by_charles_dickens.epub" },
     { "id": "pg1400", "title": "Great Expectations", "author": "Charles Dickens", "filename": "great_expectations_by_charles_dickens.epub" },
     { "id": "pg46", "title": "A Christmas Carol", "author": "Charles Dickens", "filename": "a_christmas_carol_by_charles_dickens.epub" },
-    { "id": "pg2701", "title": "Moby Dick; or, The Whale", "author": "Herman Melville", "filename": "moby_dick_or_the_whale_by_herman_melville.epub" },
+    { "id": "pg2701", "title": "Moby-Dick; or, The Whale", "author": "Herman Melville", "filename": "moby_dick_or_the_whale_by_herman_melville.epub" },
     { "id": "pg84", "title": "Frankenstein", "author": "Mary Wollstonecraft Shelley", "filename": "frankenstein_by_mary_wollstonecraft_shelley.epub" },
     { "id": "pg345", "title": "Dracula", "author": "Bram Stoker", "filename": "dracula_by_bram_stoker.epub" },
     { "id": "pg174", "title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "filename": "the_picture_of_dorian_gray_by_oscar_wilde.epub" },
@@ -29,6 +29,27 @@
     { "id": "pg1497", "title": "The Republic", "author": "Plato", "filename": "the_republic_by_plato.epub" },
     { "id": "pg45304", "title": "The City of God", "author": "Augustine", "filename": "the_city_of_god_by_augustine.epub" },
     { "id": "pg100", "title": "The Complete Works of William Shakespeare", "author": "William Shakespeare", "filename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.epub" },
+<<<<<<< HEAD
     { "id": "pg1322", "title": "Leaves of Grass", "author": "Walt Whitman", "filename": "leaves_of_grass_by_walt_whitman.epub" }
+=======
+    { "id": "pg1322", "title": "Leaves of Grass", "author": "Walt Whitman", "filename": "leaves_of_grass_by_walt_whitman.epub" },
+    { "id": "pg33", "title": "The Scarlet Letter", "author": "Nathaniel Hawthorne", "filename": "the_scarlet_letter_by_nathaniel_hawthorne.epub" },
+    { "id": "pg35", "title": "The Time Machine", "author": "H.G. Wells", "filename": "the_time_machine_by_h_g_wells.epub" },
+    { "id": "pg36", "title": "The War of the Worlds", "author": "H.G. Wells", "filename": "the_war_of_the_worlds_by_h_g_wells.epub" },
+    { "id": "pg5230", "title": "The Invisible Man", "author": "H.G. Wells", "filename": "the_invisible_man_by_h_g_wells.epub" },
+    { "id": "pg159", "title": "The Island of Doctor Moreau", "author": "H.G. Wells", "filename": "the_island_of_doctor_moreau_by_h_g_wells.epub" },
+    { "id": "pg215", "title": "The Call of the Wild", "author": "Jack London", "filename": "the_call_of_the_wild_by_jack_london.epub" },
+    { "id": "pg910", "title": "White Fang", "author": "Jack London", "filename": "white_fang_by_jack_london.epub" },
+    { "id": "pg113", "title": "The Secret Garden", "author": "Frances Hodgson Burnett", "filename": "the_secret_garden_by_frances_hodgson_burnett.epub" },
+    { "id": "pg146", "title": "A Little Princess", "author": "Frances Hodgson Burnett", "filename": "a_little_princess_by_frances_hodgson_burnett.epub" },
+    { "id": "pg45", "title": "Anne of Green Gables", "author": "L.M. Montgomery", "filename": "anne_of_green_gables_by_l_m_montgomery.epub" },
+    { "id": "pg526", "title": "Heart of Darkness", "author": "Joseph Conrad", "filename": "heart_of_darkness_by_joseph_conrad.epub" },
+    { "id": "pg205", "title": "Walden", "author": "Henry David Thoreau", "filename": "walden_by_henry_david_thoreau.epub" },
+    { "id": "pg1727", "title": "The Odyssey", "author": "Homer", "filename": "the_odyssey_by_homer.epub" },
+    { "id": "pg289", "title": "The Wind in the Willows", "author": "Kenneth Grahame", "filename": "the_wind_in_the_willows_by_kenneth_grahame.epub" },
+    { "id": "pg236", "title": "The Jungle Book", "author": "Rudyard Kipling", "filename": "the_jungle_book_by_rudyard_kipling.epub" },
+    { "id": "pg1524", "title": "Hamlet", "author": "William Shakespeare", "filename": "hamlet_by_william_shakespeare.epub" },
+    { "id": "pg844", "title": "The Importance of Being Earnest", "author": "Oscar Wilde", "filename": "the_importance_of_being_earnest_by_oscar_wilde.epub" }
+>>>>>>> cad52b6 (Add 45 classics (no-images EPUBs), download script, catalog)
   ]
 }

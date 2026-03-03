@@ -1,11 +1,12 @@
 # download_gutenberg_epubs.ps1
 # Run from lexavox-public-books repo root. Downloads EPUBs from Project Gutenberg into books/.
+# Uses .epub.noimages so we don't include picture-book editions (the app doesn't display images).
 $ErrorActionPreference = "Continue"
 $catalog = Get-Content -Raw "catalog.json" | ConvertFrom-Json
-$baseUrl = "https://www.gutenberg.org/cache/epub"
+$baseUrl = "https://www.gutenberg.org/ebooks"
 foreach ($book in $catalog.books) {
   $id = $book.id -replace "pg", ""
-  $url = "$baseUrl/$id/pg$id.epub"
+  $url = "$baseUrl/$id.epub.noimages"
   $path = "books/$($book.filename)"
   Write-Host "Downloading $($book.title)..."
   try {

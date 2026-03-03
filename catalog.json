@@ -29,9 +29,6 @@
     { "id": "pg1497", "title": "The Republic", "author": "Plato", "filename": "the_republic_by_plato.epub" },
     { "id": "pg45304", "title": "The City of God", "author": "Augustine", "filename": "the_city_of_god_by_augustine.epub" },
     { "id": "pg100", "title": "The Complete Works of William Shakespeare", "author": "William Shakespeare", "filename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.epub" },
-<<<<<<< HEAD
-    { "id": "pg1322", "title": "Leaves of Grass", "author": "Walt Whitman", "filename": "leaves_of_grass_by_walt_whitman.epub" }
-=======
     { "id": "pg1322", "title": "Leaves of Grass", "author": "Walt Whitman", "filename": "leaves_of_grass_by_walt_whitman.epub" },
     { "id": "pg33", "title": "The Scarlet Letter", "author": "Nathaniel Hawthorne", "filename": "the_scarlet_letter_by_nathaniel_hawthorne.epub" },
     { "id": "pg35", "title": "The Time Machine", "author": "H.G. Wells", "filename": "the_time_machine_by_h_g_wells.epub" },
@@ -50,6 +47,5 @@
     { "id": "pg236", "title": "The Jungle Book", "author": "Rudyard Kipling", "filename": "the_jungle_book_by_rudyard_kipling.epub" },
     { "id": "pg1524", "title": "Hamlet", "author": "William Shakespeare", "filename": "hamlet_by_william_shakespeare.epub" },
     { "id": "pg844", "title": "The Importance of Being Earnest", "author": "Oscar Wilde", "filename": "the_importance_of_being_earnest_by_oscar_wilde.epub" }
->>>>>>> cad52b6 (Add 45 classics (no-images EPUBs), download script, catalog)
   ]
 }

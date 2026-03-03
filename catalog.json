@@ -1,14 +1,34 @@
 {
   "books": [
     { "id": "pg1342", "title": "Pride and Prejudice", "author": "Jane Austen", "filename": "pride_and_prejudice_by_jane_austen.epub" },
+    { "id": "pg161", "title": "Sense and Sensibility", "author": "Jane Austen", "filename": "sense_and_sensibility_by_jane_austen.epub" },
+    { "id": "pg158", "title": "Emma", "author": "Jane Austen", "filename": "emma_by_jane_austen.epub" },
+    { "id": "pg1260", "title": "Jane Eyre", "author": "Charlotte Brontë", "filename": "jane_eyre_by_charlotte_bronte.epub" },
+    { "id": "pg768", "title": "Wuthering Heights", "author": "Emily Brontë", "filename": "wuthering_heights_by_emily_bronte.epub" },
+    { "id": "pg98", "title": "A Tale of Two Cities", "author": "Charles Dickens", "filename": "a_tale_of_two_cities_by_charles_dickens.epub" },
+    { "id": "pg1400", "title": "Great Expectations", "author": "Charles Dickens", "filename": "great_expectations_by_charles_dickens.epub" },
+    { "id": "pg46", "title": "A Christmas Carol", "author": "Charles Dickens", "filename": "a_christmas_carol_by_charles_dickens.epub" },
     { "id": "pg2701", "title": "Moby Dick; or, The Whale", "author": "Herman Melville", "filename": "moby_dick_or_the_whale_by_herman_melville.epub" },
-    { "id": "pg64317", "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "filename": "the_great_gatsby_by_f_scott_fitzgerald.epub" },
-    { "id": "pg76", "title": "Adventures of Huckleberry Finn", "author": "Mark Twain", "filename": "adventures_of_huckleberry_finn_by_mark_twain.epub" },
-    { "id": "pg74", "title": "The Adventures of Tom Sawyer", "author": "Mark Twain", "filename": "the_adventures_of_tom_sawyer_by_mark_twain.epub" },
     { "id": "pg84", "title": "Frankenstein", "author": "Mary Wollstonecraft Shelley", "filename": "frankenstein_by_mary_wollstonecraft_shelley.epub" },
     { "id": "pg345", "title": "Dracula", "author": "Bram Stoker", "filename": "dracula_by_bram_stoker.epub" },
     { "id": "pg174", "title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "filename": "the_picture_of_dorian_gray_by_oscar_wilde.epub" },
+    { "id": "pg64317", "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "filename": "the_great_gatsby_by_f_scott_fitzgerald.epub" },
+    { "id": "pg74", "title": "The Adventures of Tom Sawyer", "author": "Mark Twain", "filename": "the_adventures_of_tom_sawyer_by_mark_twain.epub" },
+    { "id": "pg76", "title": "Adventures of Huckleberry Finn", "author": "Mark Twain", "filename": "adventures_of_huckleberry_finn_by_mark_twain.epub" },
+    { "id": "pg1184", "title": "The Count of Monte Cristo", "author": "Alexandre Dumas", "filename": "the_count_of_monte_cristo_by_alexandre_dumas.epub" },
+    { "id": "pg135", "title": "Les Misérables", "author": "Victor Hugo", "filename": "les_miserables_by_victor_hugo.epub" },
+    { "id": "pg1661", "title": "The Adventures of Sherlock Holmes", "author": "Arthur Conan Doyle", "filename": "the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.epub" },
+    { "id": "pg41", "title": "The Legend of Sleepy Hollow", "author": "Washington Irving", "filename": "the_legend_of_sleepy_hollow_by_washington_irving.epub" },
+    { "id": "pg514", "title": "Little Women", "author": "Louisa May Alcott", "filename": "little_women_by_louisa_may_alcott.epub" },
     { "id": "pg11", "title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "filename": "alice_s_adventures_in_wonderland_by_lewis_carroll.epub" },
-    { "id": "pg98", "title": "A Tale of Two Cities", "author": "Charles Dickens", "filename": "a_tale_of_two_cities_by_charles_dickens.epub" }
+    { "id": "pg12", "title": "Through the Looking-Glass", "author": "Lewis Carroll", "filename": "through_the_looking_glass_by_lewis_carroll.epub" },
+    { "id": "pg55", "title": "The Wonderful Wizard of Oz", "author": "L. Frank Baum", "filename": "the_wonderful_wizard_of_oz_by_l_frank_baum.epub" },
+    { "id": "pg120", "title": "Treasure Island", "author": "Robert Louis Stevenson", "filename": "treasure_island_by_robert_louis_stevenson.epub" },
+    { "id": "pg23", "title": "Narrative of the Life of Frederick Douglass", "author": "Frederick Douglass", "filename": "narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.epub" },
+    { "id": "pg1232", "title": "The Prince", "author": "Niccolò Machiavelli", "filename": "the_prince_by_niccolo_machiavelli.epub" },
+    { "id": "pg1497", "title": "The Republic", "author": "Plato", "filename": "the_republic_by_plato.epub" },
+    { "id": "pg45304", "title": "The City of God", "author": "Augustine", "filename": "the_city_of_god_by_augustine.epub" },
+    { "id": "pg100", "title": "The Complete Works of William Shakespeare", "author": "William Shakespeare", "filename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.epub" },
+    { "id": "pg1322", "title": "Leaves of Grass", "author": "Walt Whitman", "filename": "leaves_of_grass_by_walt_whitman.epub" }
   ]
 }

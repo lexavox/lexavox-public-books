@@ -1,5 +1,7 @@
 # Internal tooling scripts (not part of the public repo)
 *.py
+*.ps1
+scripts/
 __pycache__/
 *.pyc
 

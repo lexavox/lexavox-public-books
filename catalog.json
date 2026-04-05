@@ -53,7 +53,7 @@
       "jsonFilename": "adventures_of_huckleberry_finn_by_mark_twain.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/adventures_of_huckleberry_finn_by_mark_twain.json",
       "epubFilename": "adventures_of_huckleberry_finn_by_mark_twain.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/76/pg76.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg76.jpg"
     },
     {
       "id": "pg421",
@@ -64,7 +64,7 @@
       "jsonFilename": "kidnapped_by_robert_louis_stevenson.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/kidnapped_by_robert_louis_stevenson.json",
       "epubFilename": "kidnapped_by_robert_louis_stevenson.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/421/pg421.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg421.jpg"
     },
     {
       "id": "pg521",
@@ -75,7 +75,7 @@
       "jsonFilename": "robinson_crusoe_by_daniel_defoe.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/robinson_crusoe_by_daniel_defoe.json",
       "epubFilename": "robinson_crusoe_by_daniel_defoe.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/521/pg521.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg521.jpg"
     },
     {
       "id": "pg1661",
@@ -86,7 +86,7 @@
       "jsonFilename": "the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.json",
       "epubFilename": "the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1661.jpg"
     },
     {
       "id": "pg74",
@@ -97,7 +97,7 @@
       "jsonFilename": "the_adventures_of_tom_sawyer_by_mark_twain.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_adventures_of_tom_sawyer_by_mark_twain.json",
       "epubFilename": "the_adventures_of_tom_sawyer_by_mark_twain.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/74/pg74.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg74.jpg"
     },
     {
       "id": "pg215",
@@ -108,7 +108,7 @@
       "jsonFilename": "the_call_of_the_wild_by_jack_london.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_call_of_the_wild_by_jack_london.json",
       "epubFilename": "the_call_of_the_wild_by_jack_london.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/215/pg215.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg215.jpg"
     },
     {
       "id": "pg236",
@@ -119,7 +119,7 @@
       "jsonFilename": "the_jungle_book_by_rudyard_kipling.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_jungle_book_by_rudyard_kipling.json",
       "epubFilename": "the_jungle_book_by_rudyard_kipling.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/236/pg236.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg236.jpg"
     },
     {
       "id": "pg27681",
@@ -130,7 +130,7 @@
       "jsonFilename": "the_last_of_the_mohicans_by_james_fenimore_cooper.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_last_of_the_mohicans_by_james_fenimore_cooper.json",
       "epubFilename": "the_last_of_the_mohicans_by_james_fenimore_cooper.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/27681/pg27681.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg27681.jpg"
     },
     {
       "id": "pg41",
@@ -141,7 +141,7 @@
       "jsonFilename": "the_legend_of_sleepy_hollow_by_washington_irving.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_legend_of_sleepy_hollow_by_washington_irving.json",
       "epubFilename": "the_legend_of_sleepy_hollow_by_washington_irving.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/41/pg41.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg41.jpg"
     },
     {
       "id": "pg1257",
@@ -152,7 +152,7 @@
       "jsonFilename": "the_three_musketeers_by_alexandre_dumas.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_three_musketeers_by_alexandre_dumas.json",
       "epubFilename": "the_three_musketeers_by_alexandre_dumas.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1257/pg1257.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1257.jpg"
     },
     {
       "id": "pg120",
@@ -163,7 +163,7 @@
       "jsonFilename": "treasure_island_by_robert_louis_stevenson.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/treasure_island_by_robert_louis_stevenson.json",
       "epubFilename": "treasure_island_by_robert_louis_stevenson.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/120/pg120.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg120.jpg"
     },
     {
       "id": "pg910",
@@ -174,7 +174,7 @@
       "jsonFilename": "white_fang_by_jack_london.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/white_fang_by_jack_london.json",
       "epubFilename": "white_fang_by_jack_london.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/910/pg910.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg910.jpg"
     },
     {
       "id": "pg146",
@@ -185,7 +185,7 @@
       "jsonFilename": "a_little_princess_by_frances_hodgson_burnett.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/a_little_princess_by_frances_hodgson_burnett.json",
       "epubFilename": "a_little_princess_by_frances_hodgson_burnett.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/146/pg146.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg146.jpg"
     },
     {
       "id": "pg11",
@@ -196,7 +196,7 @@
       "jsonFilename": "alice_s_adventures_in_wonderland_by_lewis_carroll.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/alice_s_adventures_in_wonderland_by_lewis_carroll.json",
       "epubFilename": "alice_s_adventures_in_wonderland_by_lewis_carroll.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg11.jpg"
     },
     {
       "id": "pg271",
@@ -207,7 +207,7 @@
       "jsonFilename": "black_beauty_by_anna_sewell.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/black_beauty_by_anna_sewell.json",
       "epubFilename": "black_beauty_by_anna_sewell.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/271/pg271.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg271.jpg"
     },
     {
       "id": "pg1448",
@@ -218,7 +218,7 @@
       "jsonFilename": "heidi_by_johanna_spyri.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/heidi_by_johanna_spyri.json",
       "epubFilename": "heidi_by_johanna_spyri.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1448/pg1448.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1448.jpg"
     },
     {
       "id": "pg16",
@@ -229,7 +229,7 @@
       "jsonFilename": "peter_pan_by_j_m_barrie.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/peter_pan_by_j_m_barrie.json",
       "epubFilename": "peter_pan_by_j_m_barrie.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/16/pg16.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg16.jpg"
     },
     {
       "id": "pg1874",
@@ -240,7 +240,7 @@
       "jsonFilename": "the_railway_children_by_e_nesbit.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_railway_children_by_e_nesbit.json",
       "epubFilename": "the_railway_children_by_e_nesbit.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1874/pg1874.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1874.jpg"
     },
     {
       "id": "pg113",
@@ -251,7 +251,7 @@
       "jsonFilename": "the_secret_garden_by_frances_hodgson_burnett.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_secret_garden_by_frances_hodgson_burnett.json",
       "epubFilename": "the_secret_garden_by_frances_hodgson_burnett.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/113/pg113.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg113.jpg"
     },
     {
       "id": "pg289",
@@ -262,7 +262,7 @@
       "jsonFilename": "the_wind_in_the_willows_by_kenneth_grahame.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_wind_in_the_willows_by_kenneth_grahame.json",
       "epubFilename": "the_wind_in_the_willows_by_kenneth_grahame.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/289/pg289.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg289.jpg"
     },
     {
       "id": "pg55",
@@ -273,7 +273,7 @@
       "jsonFilename": "the_wonderful_wizard_of_oz_by_l_frank_baum.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_wonderful_wizard_of_oz_by_l_frank_baum.json",
       "epubFilename": "the_wonderful_wizard_of_oz_by_l_frank_baum.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/55/pg55.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg55.jpg"
     },
     {
       "id": "pg12",
@@ -284,7 +284,7 @@
       "jsonFilename": "through_the_looking_glass_by_lewis_carroll.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/through_the_looking_glass_by_lewis_carroll.json",
       "epubFilename": "through_the_looking_glass_by_lewis_carroll.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/12/pg12.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg12.jpg"
     },
     {
       "id": "pg3296",
@@ -295,7 +295,7 @@
       "jsonFilename": "confessions_by_augustine.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/confessions_by_augustine.json",
       "epubFilename": "confessions_by_augustine.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/3296/pg3296.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg3296.jpg"
     },
     {
       "id": "pg22400",
@@ -306,7 +306,7 @@
       "jsonFilename": "foxes_book_of_martyrs_by_john_foxe.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/foxes_book_of_martyrs_by_john_foxe.json",
       "epubFilename": "foxes_book_of_martyrs_by_john_foxe.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/22400/pg22400.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg22400.jpg"
     },
     {
       "id": "pg654",
@@ -317,7 +317,7 @@
       "jsonFilename": "grace_abounding_by_john_bunyan.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/grace_abounding_by_john_bunyan.json",
       "epubFilename": "grace_abounding_by_john_bunyan.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/654/pg654.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg654.jpg"
     },
     {
       "id": "pg4377",
@@ -328,7 +328,7 @@
       "jsonFilename": "in_his_steps_by_charles_sheldon.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/in_his_steps_by_charles_sheldon.json",
       "epubFilename": "in_his_steps_by_charles_sheldon.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/4377/pg4377.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg4377.jpg"
     },
     {
       "id": "ccel-mhc1",
@@ -399,7 +399,7 @@
       "jsonFilename": "matthew_henry_concise_commentary.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_concise_commentary.json",
       "epubFilename": "matthew_henry_concise_commentary.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/44121/pg44121.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg44121.jpg"
     },
     {
       "id": "ccel-spurgeon",
@@ -410,7 +410,7 @@
       "jsonFilename": "morning_and_evening_by_charles_spurgeon.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/morning_and_evening_by_charles_spurgeon.json",
       "epubFilename": "morning_and_evening_by_charles_spurgeon.epub",
-      "coverUrl": "https://covers.openlibrary.org/b/id/842091-M.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/ccel-spurgeon.jpg"
     },
     {
       "id": "ccel-julian",
@@ -421,7 +421,7 @@
       "jsonFilename": "revelations_of_divine_love_by_julian_of_norwich.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/revelations_of_divine_love_by_julian_of_norwich.json",
       "epubFilename": "revelations_of_divine_love_by_julian_of_norwich.epub",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8242954-M.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/ccel-julian.jpg"
     },
     {
       "id": "ccel-aquinas",
@@ -432,7 +432,7 @@
       "jsonFilename": "summa_theologica_by_thomas_aquinas.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/summa_theologica_by_thomas_aquinas.json",
       "epubFilename": "summa_theologica_by_thomas_aquinas.epub",
-      "coverUrl": "https://covers.openlibrary.org/b/id/8236222-M.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/ccel-aquinas.jpg"
     },
     {
       "id": "pg45304",
@@ -443,7 +443,7 @@
       "jsonFilename": "the_city_of_god_by_augustine.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_city_of_god_by_augustine.json",
       "epubFilename": "the_city_of_god_by_augustine.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/45304/pg45304.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg45304.jpg"
     },
     {
       "id": "pg3483",
@@ -454,7 +454,7 @@
       "jsonFilename": "the_holy_war_by_john_bunyan.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_holy_war_by_john_bunyan.json",
       "epubFilename": "the_holy_war_by_john_bunyan.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/3483/pg3483.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg3483.jpg"
     },
     {
       "id": "pg1653",
@@ -465,7 +465,7 @@
       "jsonFilename": "the_imitation_of_christ_by_thomas_a_kempis.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_imitation_of_christ_by_thomas_a_kempis.json",
       "epubFilename": "the_imitation_of_christ_by_thomas_a_kempis.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1653/pg1653.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1653.jpg"
     },
     {
       "id": "pg131",
@@ -476,7 +476,7 @@
       "jsonFilename": "the_pilgrims_progress_by_john_bunyan.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_pilgrims_progress_by_john_bunyan.json",
       "epubFilename": "the_pilgrims_progress_by_john_bunyan.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/131/pg131.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg131.jpg"
     },
     {
       "id": "pg5657",
@@ -487,7 +487,7 @@
       "jsonFilename": "the_practice_of_the_presence_of_god_by_brother_lawrence.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_practice_of_the_presence_of_god_by_brother_lawrence.json",
       "epubFilename": "the_practice_of_the_presence_of_god_by_brother_lawrence.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/5657/pg5657.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg5657.jpg"
     },
     {
       "id": "pg46",
@@ -498,7 +498,7 @@
       "jsonFilename": "a_christmas_carol_by_charles_dickens.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/a_christmas_carol_by_charles_dickens.json",
       "epubFilename": "a_christmas_carol_by_charles_dickens.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg46.jpg"
     },
     {
       "id": "pg98",
@@ -509,7 +509,7 @@
       "jsonFilename": "a_tale_of_two_cities_by_charles_dickens.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/a_tale_of_two_cities_by_charles_dickens.json",
       "epubFilename": "a_tale_of_two_cities_by_charles_dickens.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg98.jpg"
     },
     {
       "id": "pg45",
@@ -520,7 +520,7 @@
       "jsonFilename": "anne_of_green_gables_by_l_m_montgomery.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/anne_of_green_gables_by_l_m_montgomery.json",
       "epubFilename": "anne_of_green_gables_by_l_m_montgomery.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/45/pg45.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg45.jpg"
     },
     {
       "id": "pg345",
@@ -531,7 +531,7 @@
       "jsonFilename": "dracula_by_bram_stoker.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/dracula_by_bram_stoker.json",
       "epubFilename": "dracula_by_bram_stoker.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg345.jpg"
     },
     {
       "id": "pg158",
@@ -542,7 +542,7 @@
       "jsonFilename": "emma_by_jane_austen.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/emma_by_jane_austen.json",
       "epubFilename": "emma_by_jane_austen.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/158/pg158.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg158.jpg"
     },
     {
       "id": "pg84",
@@ -553,7 +553,7 @@
       "jsonFilename": "frankenstein_by_mary_wollstonecraft_shelley.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/frankenstein_by_mary_wollstonecraft_shelley.json",
       "epubFilename": "frankenstein_by_mary_wollstonecraft_shelley.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg84.jpg"
     },
     {
       "id": "pg1400",
@@ -564,7 +564,7 @@
       "jsonFilename": "great_expectations_by_charles_dickens.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/great_expectations_by_charles_dickens.json",
       "epubFilename": "great_expectations_by_charles_dickens.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1400/pg1400.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1400.jpg"
     },
     {
       "id": "pg526",
@@ -575,7 +575,7 @@
       "jsonFilename": "heart_of_darkness_by_joseph_conrad.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/heart_of_darkness_by_joseph_conrad.json",
       "epubFilename": "heart_of_darkness_by_joseph_conrad.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/526/pg526.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg526.jpg"
     },
     {
       "id": "pg1260",
@@ -586,7 +586,7 @@
       "jsonFilename": "jane_eyre_by_charlotte_bronte.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/jane_eyre_by_charlotte_bronte.json",
       "epubFilename": "jane_eyre_by_charlotte_bronte.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1260.jpg"
     },
     {
       "id": "pg135",
@@ -607,7 +607,7 @@
       "jsonFilename": "little_women_by_louisa_may_alcott.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/little_women_by_louisa_may_alcott.json",
       "epubFilename": "little_women_by_louisa_may_alcott.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/514/pg514.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg514.jpg"
     },
     {
       "id": "pg2701",
@@ -618,7 +618,7 @@
       "jsonFilename": "moby_dick_or_the_whale_by_herman_melville.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/moby_dick_or_the_whale_by_herman_melville.json",
       "epubFilename": "moby_dick_or_the_whale_by_herman_melville.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg2701.jpg"
     },
     {
       "id": "pg1342",
@@ -629,7 +629,7 @@
       "jsonFilename": "pride_and_prejudice_by_jane_austen.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/pride_and_prejudice_by_jane_austen.json",
       "epubFilename": "pride_and_prejudice_by_jane_austen.epub",
-      "coverUrl": "https://covers.openlibrary.org/b/id/13148521-M.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1342.jpg"
     },
     {
       "id": "pg161",
@@ -640,7 +640,7 @@
       "jsonFilename": "sense_and_sensibility_by_jane_austen.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/sense_and_sensibility_by_jane_austen.json",
       "epubFilename": "sense_and_sensibility_by_jane_austen.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/161/pg161.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg161.jpg"
     },
     {
       "id": "pg1184",
@@ -651,7 +651,7 @@
       "jsonFilename": "the_count_of_monte_cristo_by_alexandre_dumas.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_count_of_monte_cristo_by_alexandre_dumas.json",
       "epubFilename": "the_count_of_monte_cristo_by_alexandre_dumas.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1184/pg1184.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1184.jpg"
     },
     {
       "id": "pg64317",
@@ -662,7 +662,7 @@
       "jsonFilename": "the_great_gatsby_by_f_scott_fitzgerald.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_great_gatsby_by_f_scott_fitzgerald.json",
       "epubFilename": "the_great_gatsby_by_f_scott_fitzgerald.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/64317/pg64317.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg64317.jpg"
     },
     {
       "id": "pg844",
@@ -673,7 +673,7 @@
       "jsonFilename": "the_importance_of_being_earnest_by_oscar_wilde.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_importance_of_being_earnest_by_oscar_wilde.json",
       "epubFilename": "the_importance_of_being_earnest_by_oscar_wilde.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/844/pg844.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg844.jpg"
     },
     {
       "id": "pg174",
@@ -684,7 +684,7 @@
       "jsonFilename": "the_picture_of_dorian_gray_by_oscar_wilde.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_picture_of_dorian_gray_by_oscar_wilde.json",
       "epubFilename": "the_picture_of_dorian_gray_by_oscar_wilde.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg174.jpg"
     },
     {
       "id": "pg33",
@@ -695,7 +695,7 @@
       "jsonFilename": "the_scarlet_letter_by_nathaniel_hawthorne.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_scarlet_letter_by_nathaniel_hawthorne.json",
       "epubFilename": "the_scarlet_letter_by_nathaniel_hawthorne.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/33/pg33.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg33.jpg"
     },
     {
       "id": "pg768",
@@ -706,7 +706,7 @@
       "jsonFilename": "wuthering_heights_by_emily_bronte.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/wuthering_heights_by_emily_bronte.json",
       "epubFilename": "wuthering_heights_by_emily_bronte.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/768/pg768.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg768.jpg"
     },
     {
       "id": "pg147",
@@ -717,7 +717,7 @@
       "jsonFilename": "common_sense_by_thomas_paine.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/common_sense_by_thomas_paine.json",
       "epubFilename": "common_sense_by_thomas_paine.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/147/pg147.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg147.jpg"
     },
     {
       "id": "pg23",
@@ -728,7 +728,7 @@
       "jsonFilename": "narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.json",
       "epubFilename": "narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/23/pg23.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg23.jpg"
     },
     {
       "id": "pg148",
@@ -739,7 +739,7 @@
       "jsonFilename": "the_autobiography_of_benjamin_franklin.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/the_autobiography_of_benjamin_franklin.json",
       "epubFilename": "the_autobiography_of_benjamin_franklin.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/148/pg148.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg148.jpg"
     },
     {
       "id": "pg61",
@@ -760,7 +760,7 @@
       "jsonFilename": "up_from_slavery_by_booker_t_washington.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/up_from_slavery_by_booker_t_washington.json",
       "epubFilename": "up_from_slavery_by_booker_t_washington.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/2376/pg2376.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg2376.jpg"
     },
     {
       "id": "pg4363",
@@ -771,7 +771,7 @@
       "jsonFilename": "beyond_good_and_evil_by_friedrich_nietzsche.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/beyond_good_and_evil_by_friedrich_nietzsche.json",
       "epubFilename": "beyond_good_and_evil_by_friedrich_nietzsche.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg4363.jpg"
     },
     {
       "id": "pg2680",
@@ -782,7 +782,7 @@
       "jsonFilename": "meditations_by_marcus_aurelius.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/meditations_by_marcus_aurelius.json",
       "epubFilename": "meditations_by_marcus_aurelius.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/2680/pg2680.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg2680.jpg"
     },
     {
       "id": "pg132",
@@ -793,7 +793,7 @@
       "jsonFilename": "the_art_of_war_by_sun_tzu.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/the_art_of_war_by_sun_tzu.json",
       "epubFilename": "the_art_of_war_by_sun_tzu.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/132/pg132.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg132.jpg"
     },
     {
       "id": "pg1232",
@@ -804,7 +804,7 @@
       "jsonFilename": "the_prince_by_niccolo_machiavelli.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/the_prince_by_niccolo_machiavelli.json",
       "epubFilename": "the_prince_by_niccolo_machiavelli.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1232/pg1232.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1232.jpg"
     },
     {
       "id": "pg1497",
@@ -815,7 +815,7 @@
       "jsonFilename": "the_republic_by_plato.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/the_republic_by_plato.json",
       "epubFilename": "the_republic_by_plato.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1497.jpg"
     },
     {
       "id": "pg1998",
@@ -826,7 +826,7 @@
       "jsonFilename": "thus_spake_zarathustra_by_friedrich_nietzsche.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/thus_spake_zarathustra_by_friedrich_nietzsche.json",
       "epubFilename": "thus_spake_zarathustra_by_friedrich_nietzsche.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1998/pg1998.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1998.jpg"
     },
     {
       "id": "pg2130",
@@ -837,7 +837,7 @@
       "jsonFilename": "utopia_by_thomas_more.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/utopia_by_thomas_more.json",
       "epubFilename": "utopia_by_thomas_more.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/2130/pg2130.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg2130.jpg"
     },
     {
       "id": "pg205",
@@ -848,7 +848,7 @@
       "jsonFilename": "walden_by_henry_david_thoreau.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/walden_by_henry_david_thoreau.json",
       "epubFilename": "walden_by_henry_david_thoreau.epub",
-      "coverUrl": "https://covers.openlibrary.org/b/id/11248037-M.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg205.jpg"
     },
     {
       "id": "pg1524",
@@ -859,7 +859,7 @@
       "jsonFilename": "hamlet_by_william_shakespeare.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/hamlet_by_william_shakespeare.json",
       "epubFilename": "hamlet_by_william_shakespeare.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1524/pg1524.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1524.jpg"
     },
     {
       "id": "pg1322",
@@ -870,7 +870,7 @@
       "jsonFilename": "leaves_of_grass_by_walt_whitman.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/leaves_of_grass_by_walt_whitman.json",
       "epubFilename": "leaves_of_grass_by_walt_whitman.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1322/pg1322.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1322.jpg"
     },
     {
       "id": "pg26",
@@ -881,7 +881,7 @@
       "jsonFilename": "paradise_lost_by_john_milton.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/paradise_lost_by_john_milton.json",
       "epubFilename": "paradise_lost_by_john_milton.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/26/pg26.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg26.jpg"
     },
     {
       "id": "pg1041",
@@ -892,7 +892,7 @@
       "jsonFilename": "shakespeares_sonnets_by_william_shakespeare.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/shakespeares_sonnets_by_william_shakespeare.json",
       "epubFilename": "shakespeares_sonnets_by_william_shakespeare.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1041/pg1041.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1041.jpg"
     },
     {
       "id": "pg100",
@@ -903,7 +903,7 @@
       "jsonFilename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/the_complete_works_of_william_shakespeare_by_william_shakespeare.json",
       "epubFilename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/100/pg100.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg100.jpg"
     },
     {
       "id": "pg8800",
@@ -914,7 +914,7 @@
       "jsonFilename": "the_divine_comedy_by_dante_alighieri.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/the_divine_comedy_by_dante_alighieri.json",
       "epubFilename": "the_divine_comedy_by_dante_alighieri.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/8800/pg8800.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg8800.jpg"
     },
     {
       "id": "pg1727",
@@ -925,7 +925,7 @@
       "jsonFilename": "the_odyssey_by_homer.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/the_odyssey_by_homer.json",
       "epubFilename": "the_odyssey_by_homer.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/1727/pg1727.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg1727.jpg"
     },
     {
       "id": "pg103",
@@ -936,7 +936,7 @@
       "jsonFilename": "around_the_world_in_eighty_days_by_jules_verne.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/around_the_world_in_eighty_days_by_jules_verne.json",
       "epubFilename": "around_the_world_in_eighty_days_by_jules_verne.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/103/pg103.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg103.jpg"
     },
     {
       "id": "pg18857",
@@ -947,7 +947,7 @@
       "jsonFilename": "journey_to_the_center_of_the_earth_by_jules_verne.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/journey_to_the_center_of_the_earth_by_jules_verne.json",
       "epubFilename": "journey_to_the_center_of_the_earth_by_jules_verne.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/18857/pg18857.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg18857.jpg"
     },
     {
       "id": "pg5230",
@@ -958,7 +958,7 @@
       "jsonFilename": "the_invisible_man_by_h_g_wells.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_invisible_man_by_h_g_wells.json",
       "epubFilename": "the_invisible_man_by_h_g_wells.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/5230/pg5230.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg5230.jpg"
     },
     {
       "id": "pg159",
@@ -969,7 +969,7 @@
       "jsonFilename": "the_island_of_doctor_moreau_by_h_g_wells.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_island_of_doctor_moreau_by_h_g_wells.json",
       "epubFilename": "the_island_of_doctor_moreau_by_h_g_wells.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/159/pg159.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg159.jpg"
     },
     {
       "id": "pg43",
@@ -980,7 +980,7 @@
       "jsonFilename": "the_strange_case_of_dr_jekyll_and_mr_hyde_by_robert_louis_stevenson.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_strange_case_of_dr_jekyll_and_mr_hyde_by_robert_louis_stevenson.json",
       "epubFilename": "the_strange_case_of_dr_jekyll_and_mr_hyde_by_robert_louis_stevenson.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg43.jpg"
     },
     {
       "id": "pg35",
@@ -991,7 +991,7 @@
       "jsonFilename": "the_time_machine_by_h_g_wells.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_time_machine_by_h_g_wells.json",
       "epubFilename": "the_time_machine_by_h_g_wells.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/35/pg35.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg35.jpg"
     },
     {
       "id": "pg36",
@@ -1002,7 +1002,7 @@
       "jsonFilename": "the_war_of_the_worlds_by_h_g_wells.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_war_of_the_worlds_by_h_g_wells.json",
       "epubFilename": "the_war_of_the_worlds_by_h_g_wells.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/36/pg36.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg36.jpg"
     },
     {
       "id": "pg164",
@@ -1013,7 +1013,7 @@
       "jsonFilename": "twenty_thousand_leagues_under_the_sea_by_jules_verne.json",
       "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/twenty_thousand_leagues_under_the_sea_by_jules_verne.json",
       "epubFilename": "twenty_thousand_leagues_under_the_sea_by_jules_verne.epub",
-      "coverUrl": "https://www.gutenberg.org/cache/epub/164/pg164.cover.medium.jpg"
+      "coverUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/covers/pg164.jpg"
     }
   ],
   "coversFetchedAt": "2026-04-05T13:59:30Z"

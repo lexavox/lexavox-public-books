@@ -1,51 +1,938 @@
 {
+  "version": 3,
+  "updatedAt": "2026-04-05T07:11:20Z",
+  "categories": [
+    {
+      "id": "christian",
+      "label": "Christian Classics",
+      "icon": "book-cross"
+    },
+    {
+      "id": "fiction",
+      "label": "Classic Fiction",
+      "icon": "book-open-variant"
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure",
+      "icon": "compass-rose"
+    },
+    {
+      "id": "scifi",
+      "label": "Science Fiction",
+      "icon": "rocket-launch"
+    },
+    {
+      "id": "children",
+      "label": "Children's Literature",
+      "icon": "teddy-bear"
+    },
+    {
+      "id": "poetry",
+      "label": "Poetry & Drama",
+      "icon": "script-text"
+    },
+    {
+      "id": "philosophy",
+      "label": "Philosophy",
+      "icon": "head-cog"
+    },
+    {
+      "id": "history",
+      "label": "History & Biography",
+      "icon": "history"
+    }
+  ],
   "books": [
-    { "id": "pg1342", "title": "Pride and Prejudice", "author": "Jane Austen", "filename": "pride_and_prejudice_by_jane_austen.epub" },
-    { "id": "pg161", "title": "Sense and Sensibility", "author": "Jane Austen", "filename": "sense_and_sensibility_by_jane_austen.epub" },
-    { "id": "pg158", "title": "Emma", "author": "Jane Austen", "filename": "emma_by_jane_austen.epub" },
-    { "id": "pg1260", "title": "Jane Eyre", "author": "Charlotte Brontë", "filename": "jane_eyre_by_charlotte_bronte.epub" },
-    { "id": "pg768", "title": "Wuthering Heights", "author": "Emily Brontë", "filename": "wuthering_heights_by_emily_bronte.epub" },
-    { "id": "pg98", "title": "A Tale of Two Cities", "author": "Charles Dickens", "filename": "a_tale_of_two_cities_by_charles_dickens.epub" },
-    { "id": "pg1400", "title": "Great Expectations", "author": "Charles Dickens", "filename": "great_expectations_by_charles_dickens.epub" },
-    { "id": "pg46", "title": "A Christmas Carol", "author": "Charles Dickens", "filename": "a_christmas_carol_by_charles_dickens.epub" },
-    { "id": "pg2701", "title": "Moby-Dick; or, The Whale", "author": "Herman Melville", "filename": "moby_dick_or_the_whale_by_herman_melville.epub" },
-    { "id": "pg84", "title": "Frankenstein", "author": "Mary Wollstonecraft Shelley", "filename": "frankenstein_by_mary_wollstonecraft_shelley.epub" },
-    { "id": "pg345", "title": "Dracula", "author": "Bram Stoker", "filename": "dracula_by_bram_stoker.epub" },
-    { "id": "pg174", "title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "filename": "the_picture_of_dorian_gray_by_oscar_wilde.epub" },
-    { "id": "pg64317", "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "filename": "the_great_gatsby_by_f_scott_fitzgerald.epub" },
-    { "id": "pg74", "title": "The Adventures of Tom Sawyer", "author": "Mark Twain", "filename": "the_adventures_of_tom_sawyer_by_mark_twain.epub" },
-    { "id": "pg76", "title": "Adventures of Huckleberry Finn", "author": "Mark Twain", "filename": "adventures_of_huckleberry_finn_by_mark_twain.epub" },
-    { "id": "pg1184", "title": "The Count of Monte Cristo", "author": "Alexandre Dumas", "filename": "the_count_of_monte_cristo_by_alexandre_dumas.epub" },
-    { "id": "pg135", "title": "Les Misérables", "author": "Victor Hugo", "filename": "les_miserables_by_victor_hugo.epub" },
-    { "id": "pg1661", "title": "The Adventures of Sherlock Holmes", "author": "Arthur Conan Doyle", "filename": "the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.epub" },
-    { "id": "pg41", "title": "The Legend of Sleepy Hollow", "author": "Washington Irving", "filename": "the_legend_of_sleepy_hollow_by_washington_irving.epub" },
-    { "id": "pg514", "title": "Little Women", "author": "Louisa May Alcott", "filename": "little_women_by_louisa_may_alcott.epub" },
-    { "id": "pg11", "title": "Alice's Adventures in Wonderland", "author": "Lewis Carroll", "filename": "alice_s_adventures_in_wonderland_by_lewis_carroll.epub" },
-    { "id": "pg12", "title": "Through the Looking-Glass", "author": "Lewis Carroll", "filename": "through_the_looking_glass_by_lewis_carroll.epub" },
-    { "id": "pg55", "title": "The Wonderful Wizard of Oz", "author": "L. Frank Baum", "filename": "the_wonderful_wizard_of_oz_by_l_frank_baum.epub" },
-    { "id": "pg120", "title": "Treasure Island", "author": "Robert Louis Stevenson", "filename": "treasure_island_by_robert_louis_stevenson.epub" },
-    { "id": "pg23", "title": "Narrative of the Life of Frederick Douglass", "author": "Frederick Douglass", "filename": "narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.epub" },
-    { "id": "pg1232", "title": "The Prince", "author": "Niccolò Machiavelli", "filename": "the_prince_by_niccolo_machiavelli.epub" },
-    { "id": "pg1497", "title": "The Republic", "author": "Plato", "filename": "the_republic_by_plato.epub" },
-    { "id": "pg45304", "title": "The City of God", "author": "Augustine", "filename": "the_city_of_god_by_augustine.epub" },
-    { "id": "pg100", "title": "The Complete Works of William Shakespeare", "author": "William Shakespeare", "filename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.epub" },
-    { "id": "pg1322", "title": "Leaves of Grass", "author": "Walt Whitman", "filename": "leaves_of_grass_by_walt_whitman.epub" },
-    { "id": "pg33", "title": "The Scarlet Letter", "author": "Nathaniel Hawthorne", "filename": "the_scarlet_letter_by_nathaniel_hawthorne.epub" },
-    { "id": "pg35", "title": "The Time Machine", "author": "H.G. Wells", "filename": "the_time_machine_by_h_g_wells.epub" },
-    { "id": "pg36", "title": "The War of the Worlds", "author": "H.G. Wells", "filename": "the_war_of_the_worlds_by_h_g_wells.epub" },
-    { "id": "pg5230", "title": "The Invisible Man", "author": "H.G. Wells", "filename": "the_invisible_man_by_h_g_wells.epub" },
-    { "id": "pg159", "title": "The Island of Doctor Moreau", "author": "H.G. Wells", "filename": "the_island_of_doctor_moreau_by_h_g_wells.epub" },
-    { "id": "pg215", "title": "The Call of the Wild", "author": "Jack London", "filename": "the_call_of_the_wild_by_jack_london.epub" },
-    { "id": "pg910", "title": "White Fang", "author": "Jack London", "filename": "white_fang_by_jack_london.epub" },
-    { "id": "pg113", "title": "The Secret Garden", "author": "Frances Hodgson Burnett", "filename": "the_secret_garden_by_frances_hodgson_burnett.epub" },
-    { "id": "pg146", "title": "A Little Princess", "author": "Frances Hodgson Burnett", "filename": "a_little_princess_by_frances_hodgson_burnett.epub" },
-    { "id": "pg45", "title": "Anne of Green Gables", "author": "L.M. Montgomery", "filename": "anne_of_green_gables_by_l_m_montgomery.epub" },
-    { "id": "pg526", "title": "Heart of Darkness", "author": "Joseph Conrad", "filename": "heart_of_darkness_by_joseph_conrad.epub" },
-    { "id": "pg205", "title": "Walden", "author": "Henry David Thoreau", "filename": "walden_by_henry_david_thoreau.epub" },
-    { "id": "pg1727", "title": "The Odyssey", "author": "Homer", "filename": "the_odyssey_by_homer.epub" },
-    { "id": "pg289", "title": "The Wind in the Willows", "author": "Kenneth Grahame", "filename": "the_wind_in_the_willows_by_kenneth_grahame.epub" },
-    { "id": "pg236", "title": "The Jungle Book", "author": "Rudyard Kipling", "filename": "the_jungle_book_by_rudyard_kipling.epub" },
-    { "id": "pg1524", "title": "Hamlet", "author": "William Shakespeare", "filename": "hamlet_by_william_shakespeare.epub" },
-    { "id": "pg844", "title": "The Importance of Being Earnest", "author": "Oscar Wilde", "filename": "the_importance_of_being_earnest_by_oscar_wilde.epub" }
+    {
+      "id": "pg76",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "adventures_of_huckleberry_finn_by_mark_twain.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/adventures_of_huckleberry_finn_by_mark_twain.json",
+      "epubFilename": "adventures_of_huckleberry_finn_by_mark_twain.epub"
+    },
+    {
+      "id": "pg421",
+      "title": "Kidnapped",
+      "author": "Robert Louis Stevenson",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "kidnapped_by_robert_louis_stevenson.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/kidnapped_by_robert_louis_stevenson.json",
+      "epubFilename": "kidnapped_by_robert_louis_stevenson.epub"
+    },
+    {
+      "id": "pg521",
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "robinson_crusoe_by_daniel_defoe.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/robinson_crusoe_by_daniel_defoe.json",
+      "epubFilename": "robinson_crusoe_by_daniel_defoe.epub"
+    },
+    {
+      "id": "pg1661",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.json",
+      "epubFilename": "the_adventures_of_sherlock_holmes_by_arthur_conan_doyle.epub"
+    },
+    {
+      "id": "pg74",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_adventures_of_tom_sawyer_by_mark_twain.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_adventures_of_tom_sawyer_by_mark_twain.json",
+      "epubFilename": "the_adventures_of_tom_sawyer_by_mark_twain.epub"
+    },
+    {
+      "id": "pg215",
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_call_of_the_wild_by_jack_london.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_call_of_the_wild_by_jack_london.json",
+      "epubFilename": "the_call_of_the_wild_by_jack_london.epub"
+    },
+    {
+      "id": "pg236",
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_jungle_book_by_rudyard_kipling.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_jungle_book_by_rudyard_kipling.json",
+      "epubFilename": "the_jungle_book_by_rudyard_kipling.epub"
+    },
+    {
+      "id": "pg27681",
+      "title": "The Last of the Mohicans",
+      "author": "James Fenimore Cooper",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_last_of_the_mohicans_by_james_fenimore_cooper.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_last_of_the_mohicans_by_james_fenimore_cooper.json",
+      "epubFilename": "the_last_of_the_mohicans_by_james_fenimore_cooper.epub"
+    },
+    {
+      "id": "pg41",
+      "title": "The Legend of Sleepy Hollow",
+      "author": "Washington Irving",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_legend_of_sleepy_hollow_by_washington_irving.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_legend_of_sleepy_hollow_by_washington_irving.json",
+      "epubFilename": "the_legend_of_sleepy_hollow_by_washington_irving.epub"
+    },
+    {
+      "id": "pg1257",
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "the_three_musketeers_by_alexandre_dumas.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/the_three_musketeers_by_alexandre_dumas.json",
+      "epubFilename": "the_three_musketeers_by_alexandre_dumas.epub"
+    },
+    {
+      "id": "pg120",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "treasure_island_by_robert_louis_stevenson.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/treasure_island_by_robert_louis_stevenson.json",
+      "epubFilename": "treasure_island_by_robert_louis_stevenson.epub"
+    },
+    {
+      "id": "pg910",
+      "title": "White Fang",
+      "author": "Jack London",
+      "language": "en",
+      "category": "adventure",
+      "jsonFilename": "white_fang_by_jack_london.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/adventure/white_fang_by_jack_london.json",
+      "epubFilename": "white_fang_by_jack_london.epub"
+    },
+    {
+      "id": "pg146",
+      "title": "A Little Princess",
+      "author": "Frances Hodgson Burnett",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "a_little_princess_by_frances_hodgson_burnett.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/a_little_princess_by_frances_hodgson_burnett.json",
+      "epubFilename": "a_little_princess_by_frances_hodgson_burnett.epub"
+    },
+    {
+      "id": "pg11",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "alice_s_adventures_in_wonderland_by_lewis_carroll.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/alice_s_adventures_in_wonderland_by_lewis_carroll.json",
+      "epubFilename": "alice_s_adventures_in_wonderland_by_lewis_carroll.epub"
+    },
+    {
+      "id": "pg271",
+      "title": "Black Beauty",
+      "author": "Anna Sewell",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "black_beauty_by_anna_sewell.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/black_beauty_by_anna_sewell.json",
+      "epubFilename": "black_beauty_by_anna_sewell.epub"
+    },
+    {
+      "id": "pg1448",
+      "title": "Heidi",
+      "author": "Johanna Spyri",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "heidi_by_johanna_spyri.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/heidi_by_johanna_spyri.json",
+      "epubFilename": "heidi_by_johanna_spyri.epub"
+    },
+    {
+      "id": "pg16",
+      "title": "Peter Pan",
+      "author": "J.M. Barrie",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "peter_pan_by_j_m_barrie.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/peter_pan_by_j_m_barrie.json",
+      "epubFilename": "peter_pan_by_j_m_barrie.epub"
+    },
+    {
+      "id": "pg1874",
+      "title": "The Railway Children",
+      "author": "E. Nesbit",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "the_railway_children_by_e_nesbit.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_railway_children_by_e_nesbit.json",
+      "epubFilename": "the_railway_children_by_e_nesbit.epub"
+    },
+    {
+      "id": "pg113",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "the_secret_garden_by_frances_hodgson_burnett.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_secret_garden_by_frances_hodgson_burnett.json",
+      "epubFilename": "the_secret_garden_by_frances_hodgson_burnett.epub"
+    },
+    {
+      "id": "pg289",
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "the_wind_in_the_willows_by_kenneth_grahame.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_wind_in_the_willows_by_kenneth_grahame.json",
+      "epubFilename": "the_wind_in_the_willows_by_kenneth_grahame.epub"
+    },
+    {
+      "id": "pg55",
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "the_wonderful_wizard_of_oz_by_l_frank_baum.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/the_wonderful_wizard_of_oz_by_l_frank_baum.json",
+      "epubFilename": "the_wonderful_wizard_of_oz_by_l_frank_baum.epub"
+    },
+    {
+      "id": "pg12",
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "language": "en",
+      "category": "children",
+      "jsonFilename": "through_the_looking_glass_by_lewis_carroll.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/children/through_the_looking_glass_by_lewis_carroll.json",
+      "epubFilename": "through_the_looking_glass_by_lewis_carroll.epub"
+    },
+    {
+      "id": "pg3296",
+      "title": "Confessions",
+      "author": "Augustine of Hippo",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "confessions_by_augustine.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/confessions_by_augustine.json",
+      "epubFilename": "confessions_by_augustine.epub"
+    },
+    {
+      "id": "pg22400",
+      "title": "Foxe's Book of Martyrs",
+      "author": "John Foxe",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "foxes_book_of_martyrs_by_john_foxe.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/foxes_book_of_martyrs_by_john_foxe.json",
+      "epubFilename": "foxes_book_of_martyrs_by_john_foxe.epub"
+    },
+    {
+      "id": "pg654",
+      "title": "Grace Abounding to the Chief of Sinners",
+      "author": "John Bunyan",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "grace_abounding_by_john_bunyan.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/grace_abounding_by_john_bunyan.json",
+      "epubFilename": "grace_abounding_by_john_bunyan.epub"
+    },
+    {
+      "id": "pg4377",
+      "title": "In His Steps",
+      "author": "Charles M. Sheldon",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "in_his_steps_by_charles_sheldon.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/in_his_steps_by_charles_sheldon.json",
+      "epubFilename": "in_his_steps_by_charles_sheldon.epub"
+    },
+    {
+      "id": "ccel-mhc1",
+      "title": "Matthew Henry Commentary Vol. 1: Genesisâ€“Deuteronomy",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_commentary_vol1_genesis_to_deuteronomy.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_commentary_vol1_genesis_to_deuteronomy.json",
+      "epubFilename": "matthew_henry_commentary_vol1_genesis_to_deuteronomy.epub"
+    },
+    {
+      "id": "ccel-mhc2",
+      "title": "Matthew Henry Commentary Vol. 2: Joshuaâ€“Esther",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_commentary_vol2_joshua_to_esther.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_commentary_vol2_joshua_to_esther.json",
+      "epubFilename": "matthew_henry_commentary_vol2_joshua_to_esther.epub"
+    },
+    {
+      "id": "ccel-mhc3",
+      "title": "Matthew Henry Commentary Vol. 3: Jobâ€“Song of Solomon",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_commentary_vol3_job_to_song_of_solomon.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_commentary_vol3_job_to_song_of_solomon.json",
+      "epubFilename": "matthew_henry_commentary_vol3_job_to_song_of_solomon.epub"
+    },
+    {
+      "id": "ccel-mhc4",
+      "title": "Matthew Henry Commentary Vol. 4: Isaiahâ€“Malachi",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_commentary_vol4_isaiah_to_malachi.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_commentary_vol4_isaiah_to_malachi.json",
+      "epubFilename": "matthew_henry_commentary_vol4_isaiah_to_malachi.epub"
+    },
+    {
+      "id": "ccel-mhc5",
+      "title": "Matthew Henry Commentary Vol. 5: Matthewâ€“John",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_commentary_vol5_matthew_to_john.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_commentary_vol5_matthew_to_john.json",
+      "epubFilename": "matthew_henry_commentary_vol5_matthew_to_john.epub"
+    },
+    {
+      "id": "ccel-mhc6",
+      "title": "Matthew Henry Commentary Vol. 6: Actsâ€“Revelation",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_commentary_vol6_acts_to_revelation.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_commentary_vol6_acts_to_revelation.json",
+      "epubFilename": "matthew_henry_commentary_vol6_acts_to_revelation.epub"
+    },
+    {
+      "id": "pg44121",
+      "title": "Matthew Henry Concise Commentary",
+      "author": "Matthew Henry",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "matthew_henry_concise_commentary.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/matthew_henry_concise_commentary.json",
+      "epubFilename": "matthew_henry_concise_commentary.epub"
+    },
+    {
+      "id": "ccel-spurgeon",
+      "title": "Morning and Evening",
+      "author": "Charles Spurgeon",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "morning_and_evening_by_charles_spurgeon.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/morning_and_evening_by_charles_spurgeon.json",
+      "epubFilename": "morning_and_evening_by_charles_spurgeon.epub"
+    },
+    {
+      "id": "ccel-julian",
+      "title": "Revelations of Divine Love",
+      "author": "Julian of Norwich",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "revelations_of_divine_love_by_julian_of_norwich.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/revelations_of_divine_love_by_julian_of_norwich.json",
+      "epubFilename": "revelations_of_divine_love_by_julian_of_norwich.epub"
+    },
+    {
+      "id": "ccel-aquinas",
+      "title": "Summa Theologica",
+      "author": "Thomas Aquinas",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "summa_theologica_by_thomas_aquinas.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/summa_theologica_by_thomas_aquinas.json",
+      "epubFilename": "summa_theologica_by_thomas_aquinas.epub"
+    },
+    {
+      "id": "pg45304",
+      "title": "The City of God",
+      "author": "Augustine of Hippo",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "the_city_of_god_by_augustine.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_city_of_god_by_augustine.json",
+      "epubFilename": "the_city_of_god_by_augustine.epub"
+    },
+    {
+      "id": "pg3483",
+      "title": "The Holy War",
+      "author": "John Bunyan",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "the_holy_war_by_john_bunyan.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_holy_war_by_john_bunyan.json",
+      "epubFilename": "the_holy_war_by_john_bunyan.epub"
+    },
+    {
+      "id": "pg1653",
+      "title": "The Imitation of Christ",
+      "author": "Thomas Ã  Kempis",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "the_imitation_of_christ_by_thomas_a_kempis.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_imitation_of_christ_by_thomas_a_kempis.json",
+      "epubFilename": "the_imitation_of_christ_by_thomas_a_kempis.epub"
+    },
+    {
+      "id": "pg131",
+      "title": "The Pilgrim's Progress",
+      "author": "John Bunyan",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "the_pilgrims_progress_by_john_bunyan.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_pilgrims_progress_by_john_bunyan.json",
+      "epubFilename": "the_pilgrims_progress_by_john_bunyan.epub"
+    },
+    {
+      "id": "pg5657",
+      "title": "The Practice of the Presence of God",
+      "author": "Brother Lawrence",
+      "language": "en",
+      "category": "christian",
+      "jsonFilename": "the_practice_of_the_presence_of_god_by_brother_lawrence.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/christian/the_practice_of_the_presence_of_god_by_brother_lawrence.json",
+      "epubFilename": "the_practice_of_the_presence_of_god_by_brother_lawrence.epub"
+    },
+    {
+      "id": "pg46",
+      "title": "A Christmas Carol",
+      "author": "Charles Dickens",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "a_christmas_carol_by_charles_dickens.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/a_christmas_carol_by_charles_dickens.json",
+      "epubFilename": "a_christmas_carol_by_charles_dickens.epub"
+    },
+    {
+      "id": "pg98",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "a_tale_of_two_cities_by_charles_dickens.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/a_tale_of_two_cities_by_charles_dickens.json",
+      "epubFilename": "a_tale_of_two_cities_by_charles_dickens.epub"
+    },
+    {
+      "id": "pg45",
+      "title": "Anne of Green Gables",
+      "author": "L.M. Montgomery",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "anne_of_green_gables_by_l_m_montgomery.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/anne_of_green_gables_by_l_m_montgomery.json",
+      "epubFilename": "anne_of_green_gables_by_l_m_montgomery.epub"
+    },
+    {
+      "id": "pg345",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "dracula_by_bram_stoker.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/dracula_by_bram_stoker.json",
+      "epubFilename": "dracula_by_bram_stoker.epub"
+    },
+    {
+      "id": "pg158",
+      "title": "Emma",
+      "author": "Jane Austen",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "emma_by_jane_austen.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/emma_by_jane_austen.json",
+      "epubFilename": "emma_by_jane_austen.epub"
+    },
+    {
+      "id": "pg84",
+      "title": "Frankenstein",
+      "author": "Mary Wollstonecraft Shelley",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "frankenstein_by_mary_wollstonecraft_shelley.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/frankenstein_by_mary_wollstonecraft_shelley.json",
+      "epubFilename": "frankenstein_by_mary_wollstonecraft_shelley.epub"
+    },
+    {
+      "id": "pg1400",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "great_expectations_by_charles_dickens.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/great_expectations_by_charles_dickens.json",
+      "epubFilename": "great_expectations_by_charles_dickens.epub"
+    },
+    {
+      "id": "pg526",
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "heart_of_darkness_by_joseph_conrad.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/heart_of_darkness_by_joseph_conrad.json",
+      "epubFilename": "heart_of_darkness_by_joseph_conrad.epub"
+    },
+    {
+      "id": "pg1260",
+      "title": "Jane Eyre",
+      "author": "Charlotte BrontÃ«",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "jane_eyre_by_charlotte_bronte.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/jane_eyre_by_charlotte_bronte.json",
+      "epubFilename": "jane_eyre_by_charlotte_bronte.epub"
+    },
+    {
+      "id": "pg135",
+      "title": "Les MisÃ©rables",
+      "author": "Victor Hugo",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "les_miserables_by_victor_hugo.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/les_miserables_by_victor_hugo.json",
+      "epubFilename": "les_miserables_by_victor_hugo.epub"
+    },
+    {
+      "id": "pg514",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "little_women_by_louisa_may_alcott.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/little_women_by_louisa_may_alcott.json",
+      "epubFilename": "little_women_by_louisa_may_alcott.epub"
+    },
+    {
+      "id": "pg2701",
+      "title": "Moby-Dick; or, The Whale",
+      "author": "Herman Melville",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "moby_dick_or_the_whale_by_herman_melville.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/moby_dick_or_the_whale_by_herman_melville.json",
+      "epubFilename": "moby_dick_or_the_whale_by_herman_melville.epub"
+    },
+    {
+      "id": "pg1342",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "pride_and_prejudice_by_jane_austen.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/pride_and_prejudice_by_jane_austen.json",
+      "epubFilename": "pride_and_prejudice_by_jane_austen.epub"
+    },
+    {
+      "id": "pg161",
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "sense_and_sensibility_by_jane_austen.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/sense_and_sensibility_by_jane_austen.json",
+      "epubFilename": "sense_and_sensibility_by_jane_austen.epub"
+    },
+    {
+      "id": "pg1184",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "the_count_of_monte_cristo_by_alexandre_dumas.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_count_of_monte_cristo_by_alexandre_dumas.json",
+      "epubFilename": "the_count_of_monte_cristo_by_alexandre_dumas.epub"
+    },
+    {
+      "id": "pg64317",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "the_great_gatsby_by_f_scott_fitzgerald.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_great_gatsby_by_f_scott_fitzgerald.json",
+      "epubFilename": "the_great_gatsby_by_f_scott_fitzgerald.epub"
+    },
+    {
+      "id": "pg844",
+      "title": "The Importance of Being Earnest",
+      "author": "Oscar Wilde",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "the_importance_of_being_earnest_by_oscar_wilde.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_importance_of_being_earnest_by_oscar_wilde.json",
+      "epubFilename": "the_importance_of_being_earnest_by_oscar_wilde.epub"
+    },
+    {
+      "id": "pg174",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "the_picture_of_dorian_gray_by_oscar_wilde.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_picture_of_dorian_gray_by_oscar_wilde.json",
+      "epubFilename": "the_picture_of_dorian_gray_by_oscar_wilde.epub"
+    },
+    {
+      "id": "pg33",
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "the_scarlet_letter_by_nathaniel_hawthorne.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/the_scarlet_letter_by_nathaniel_hawthorne.json",
+      "epubFilename": "the_scarlet_letter_by_nathaniel_hawthorne.epub"
+    },
+    {
+      "id": "pg768",
+      "title": "Wuthering Heights",
+      "author": "Emily BrontÃ«",
+      "language": "en",
+      "category": "fiction",
+      "jsonFilename": "wuthering_heights_by_emily_bronte.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/fiction/wuthering_heights_by_emily_bronte.json",
+      "epubFilename": "wuthering_heights_by_emily_bronte.epub"
+    },
+    {
+      "id": "pg147",
+      "title": "Common Sense",
+      "author": "Thomas Paine",
+      "language": "en",
+      "category": "history",
+      "jsonFilename": "common_sense_by_thomas_paine.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/common_sense_by_thomas_paine.json",
+      "epubFilename": "common_sense_by_thomas_paine.epub"
+    },
+    {
+      "id": "pg23",
+      "title": "Narrative of the Life of Frederick Douglass",
+      "author": "Frederick Douglass",
+      "language": "en",
+      "category": "history",
+      "jsonFilename": "narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.json",
+      "epubFilename": "narrative_of_the_life_of_frederick_douglass_by_frederick_douglass.epub"
+    },
+    {
+      "id": "pg148",
+      "title": "The Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "language": "en",
+      "category": "history",
+      "jsonFilename": "the_autobiography_of_benjamin_franklin.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/the_autobiography_of_benjamin_franklin.json",
+      "epubFilename": "the_autobiography_of_benjamin_franklin.epub"
+    },
+    {
+      "id": "pg61",
+      "title": "The Communist Manifesto",
+      "author": "Karl Marx & Friedrich Engels",
+      "language": "en",
+      "category": "history",
+      "jsonFilename": "the_communist_manifesto_by_karl_marx.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/the_communist_manifesto_by_karl_marx.json",
+      "epubFilename": "the_communist_manifesto_by_karl_marx.epub"
+    },
+    {
+      "id": "pg2376",
+      "title": "Up from Slavery",
+      "author": "Booker T. Washington",
+      "language": "en",
+      "category": "history",
+      "jsonFilename": "up_from_slavery_by_booker_t_washington.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/history/up_from_slavery_by_booker_t_washington.json",
+      "epubFilename": "up_from_slavery_by_booker_t_washington.epub"
+    },
+    {
+      "id": "pg4363",
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "beyond_good_and_evil_by_friedrich_nietzsche.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/beyond_good_and_evil_by_friedrich_nietzsche.json",
+      "epubFilename": "beyond_good_and_evil_by_friedrich_nietzsche.epub"
+    },
+    {
+      "id": "pg2680",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "meditations_by_marcus_aurelius.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/meditations_by_marcus_aurelius.json",
+      "epubFilename": "meditations_by_marcus_aurelius.epub"
+    },
+    {
+      "id": "pg132",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "the_art_of_war_by_sun_tzu.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/the_art_of_war_by_sun_tzu.json",
+      "epubFilename": "the_art_of_war_by_sun_tzu.epub"
+    },
+    {
+      "id": "pg1232",
+      "title": "The Prince",
+      "author": "NiccolÃ² Machiavelli",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "the_prince_by_niccolo_machiavelli.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/the_prince_by_niccolo_machiavelli.json",
+      "epubFilename": "the_prince_by_niccolo_machiavelli.epub"
+    },
+    {
+      "id": "pg1497",
+      "title": "The Republic",
+      "author": "Plato",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "the_republic_by_plato.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/the_republic_by_plato.json",
+      "epubFilename": "the_republic_by_plato.epub"
+    },
+    {
+      "id": "pg1998",
+      "title": "Thus Spake Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "thus_spake_zarathustra_by_friedrich_nietzsche.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/thus_spake_zarathustra_by_friedrich_nietzsche.json",
+      "epubFilename": "thus_spake_zarathustra_by_friedrich_nietzsche.epub"
+    },
+    {
+      "id": "pg2130",
+      "title": "Utopia",
+      "author": "Thomas More",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "utopia_by_thomas_more.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/utopia_by_thomas_more.json",
+      "epubFilename": "utopia_by_thomas_more.epub"
+    },
+    {
+      "id": "pg205",
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "language": "en",
+      "category": "philosophy",
+      "jsonFilename": "walden_by_henry_david_thoreau.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/philosophy/walden_by_henry_david_thoreau.json",
+      "epubFilename": "walden_by_henry_david_thoreau.epub"
+    },
+    {
+      "id": "pg1524",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "hamlet_by_william_shakespeare.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/hamlet_by_william_shakespeare.json",
+      "epubFilename": "hamlet_by_william_shakespeare.epub"
+    },
+    {
+      "id": "pg1322",
+      "title": "Leaves of Grass",
+      "author": "Walt Whitman",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "leaves_of_grass_by_walt_whitman.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/leaves_of_grass_by_walt_whitman.json",
+      "epubFilename": "leaves_of_grass_by_walt_whitman.epub"
+    },
+    {
+      "id": "pg26",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "paradise_lost_by_john_milton.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/paradise_lost_by_john_milton.json",
+      "epubFilename": "paradise_lost_by_john_milton.epub"
+    },
+    {
+      "id": "pg1041",
+      "title": "Shakespeare's Sonnets",
+      "author": "William Shakespeare",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "shakespeares_sonnets_by_william_shakespeare.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/shakespeares_sonnets_by_william_shakespeare.json",
+      "epubFilename": "shakespeares_sonnets_by_william_shakespeare.epub"
+    },
+    {
+      "id": "pg100",
+      "title": "The Complete Works of William Shakespeare",
+      "author": "William Shakespeare",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/the_complete_works_of_william_shakespeare_by_william_shakespeare.json",
+      "epubFilename": "the_complete_works_of_william_shakespeare_by_william_shakespeare.epub"
+    },
+    {
+      "id": "pg8800",
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "the_divine_comedy_by_dante_alighieri.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/the_divine_comedy_by_dante_alighieri.json",
+      "epubFilename": "the_divine_comedy_by_dante_alighieri.epub"
+    },
+    {
+      "id": "pg1727",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "language": "en",
+      "category": "poetry",
+      "jsonFilename": "the_odyssey_by_homer.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/poetry/the_odyssey_by_homer.json",
+      "epubFilename": "the_odyssey_by_homer.epub"
+    },
+    {
+      "id": "pg103",
+      "title": "Around the World in Eighty Days",
+      "author": "Jules Verne",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "around_the_world_in_eighty_days_by_jules_verne.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/around_the_world_in_eighty_days_by_jules_verne.json",
+      "epubFilename": "around_the_world_in_eighty_days_by_jules_verne.epub"
+    },
+    {
+      "id": "pg18857",
+      "title": "Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "journey_to_the_center_of_the_earth_by_jules_verne.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/journey_to_the_center_of_the_earth_by_jules_verne.json",
+      "epubFilename": "journey_to_the_center_of_the_earth_by_jules_verne.epub"
+    },
+    {
+      "id": "pg5230",
+      "title": "The Invisible Man",
+      "author": "H.G. Wells",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "the_invisible_man_by_h_g_wells.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_invisible_man_by_h_g_wells.json",
+      "epubFilename": "the_invisible_man_by_h_g_wells.epub"
+    },
+    {
+      "id": "pg159",
+      "title": "The Island of Doctor Moreau",
+      "author": "H.G. Wells",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "the_island_of_doctor_moreau_by_h_g_wells.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_island_of_doctor_moreau_by_h_g_wells.json",
+      "epubFilename": "the_island_of_doctor_moreau_by_h_g_wells.epub"
+    },
+    {
+      "id": "pg43",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "the_strange_case_of_dr_jekyll_and_mr_hyde_by_robert_louis_stevenson.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_strange_case_of_dr_jekyll_and_mr_hyde_by_robert_louis_stevenson.json",
+      "epubFilename": "the_strange_case_of_dr_jekyll_and_mr_hyde_by_robert_louis_stevenson.epub"
+    },
+    {
+      "id": "pg35",
+      "title": "The Time Machine",
+      "author": "H.G. Wells",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "the_time_machine_by_h_g_wells.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_time_machine_by_h_g_wells.json",
+      "epubFilename": "the_time_machine_by_h_g_wells.epub"
+    },
+    {
+      "id": "pg36",
+      "title": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "the_war_of_the_worlds_by_h_g_wells.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/the_war_of_the_worlds_by_h_g_wells.json",
+      "epubFilename": "the_war_of_the_worlds_by_h_g_wells.epub"
+    },
+    {
+      "id": "pg164",
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "language": "en",
+      "category": "scifi",
+      "jsonFilename": "twenty_thousand_leagues_under_the_sea_by_jules_verne.json",
+      "jsonUrl": "https://raw.githubusercontent.com/lexavox/lexavox-public-books/main/json/scifi/twenty_thousand_leagues_under_the_sea_by_jules_verne.json",
+      "epubFilename": "twenty_thousand_leagues_under_the_sea_by_jules_verne.epub"
+    }
   ]
 }

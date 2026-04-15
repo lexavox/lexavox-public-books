@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:07.0712335Z",
+  "generatedAt": "2026-04-07T14:53:01.6559657Z",
   "source": {
     "id": "pg236",
     "title": "The Jungle Book",
@@ -182,6 +182,7 @@
       "order": 10,
       "chapterIndex": 0,
       "text": "THE JUNGLE BOOK",
+      "ttsText": "The Jungle Book",
       "role": "title"
     },
     {
@@ -362,6 +363,7 @@
       "order": 40,
       "chapterIndex": 2,
       "text": "Turn for turn and twist for twist—",
+      "ttsText": "Turn for turn and twist for twist,",
       "role": "paragraph"
     },
     {
@@ -482,6 +484,7 @@
       "order": 60,
       "chapterIndex": 2,
       "text": "He spent all that day roaming over the house. He nearly drowned himself in the bath-tubs, put his nose into the ink on a writing table, and burned it on the end of the big man’s cigar, for he climbed up in the big man’s lap to see how writing was done. At nightfall he ran into Teddy’s nursery to watch how kerosene lamps were lighted, and when Teddy went to bed Rikki-tikki climbed up too. But he was a restless companion, because he had to get up and attend to every noise all through the night, and find out what made it. Teddy’s mother and father came in, the last thing, to look at their boy, and Rikki-tikki was awake on the pillow. “I don’t like that,” said Teddy’s mother. “He may bite the child.” “He’ll do no such thing,” said the father. “Teddy’s safer with that little beast than if he had a bloodhound to watch him. If a snake came into the nursery now—”",
+      "ttsText": "He spent all that day roaming over the house. He nearly drowned himself in the bath-tubs, put his nose into the ink on a writing table, and burned it on the end of the big man’s cigar, for he climbed up in the big man’s lap to see how writing was done. At nightfall he ran into Teddy’s nursery to watch how kerosene lamps were lighted, and when Teddy went to bed Rikki-tikki climbed up too. But he was a restless companion, because he had to get up and attend to every noise all through the night, and find out what made it. Teddy’s mother and father came in, the last thing, to look at their boy, and Rikki-tikki was awake on the pillow. “I don’t like that,” said Teddy’s mother. “He may bite the child.” “He’ll do no such thing,” said the father. “Teddy’s safer with that little beast than if he had a bloodhound to watch him. If a snake came into the nursery now, ”",
       "role": "paragraph"
     },
     {
@@ -542,12 +545,14 @@
       "order": 70,
       "chapterIndex": 2,
       "text": "“H’m!” said Rikki-tikki, “that is very sad—but I am a stranger here. Who is Nag?”",
+      "ttsText": "“H’m!” said Rikki-tikki, “that is very sad, but I am a stranger here. Who is Nag?”",
       "role": "paragraph"
     },
     {
       "order": 71,
       "chapterIndex": 2,
       "text": "Darzee and his wife only cowered down in the nest without answering, for from the thick grass at the foot of the bush there came a low hiss—a horrid cold sound that made Rikki-tikki jump back two clear feet. Then inch by inch out of the grass rose up the head and spread hood of Nag, the big black cobra, and he was five feet long from tongue to tail. When he had lifted one-third of himself clear of the ground, he stayed balancing to and fro exactly as a dandelion tuft balances in the wind, and he looked at Rikki-tikki with the wicked snake’s eyes that never change their expression, whatever the snake may be thinking of.",
+      "ttsText": "Darzee and his wife only cowered down in the nest without answering, for from the thick grass at the foot of the bush there came a low hiss, a horrid cold sound that made Rikki-tikki jump back two clear feet. Then inch by inch out of the grass rose up the head and spread hood of Nag, the big black cobra, and he was five feet long from tongue to tail. When he had lifted one-third of himself clear of the ground, he stayed balancing to and fro exactly as a dandelion tuft balances in the wind, and he looked at Rikki-tikki with the wicked snake’s eyes that never change their expression, whatever the snake may be thinking of.",
       "role": "paragraph"
     },
     {
@@ -626,6 +631,7 @@
       "order": 84,
       "chapterIndex": 2,
       "text": "If you read the old books of natural history, you will find they say that when the mongoose fights the snake and happens to get bitten, he runs off and eats some herb that cures him. That is not true. The victory is only a matter of quickness of eye and quickness of foot—snake’s blow against mongoose’s jump—and as no eye can follow the motion of a snake’s head when it strikes, this makes things much more wonderful than any magic herb. Rikki-tikki knew he was a young mongoose, and it made him all the more pleased to think that he had managed to escape a blow from behind. It gave him confidence in himself, and when Teddy came running down the path, Rikki-tikki was ready to be petted.",
+      "ttsText": "If you read the old books of natural history, you will find they say that when the mongoose fights the snake and happens to get bitten, he runs off and eats some herb that cures him. That is not true. The victory is only a matter of quickness of eye and quickness of foot, snake’s blow against mongoose’s jump, and as no eye can follow the motion of a snake’s head when it strikes, this makes things much more wonderful than any magic herb. Rikki-tikki knew he was a young mongoose, and it made him all the more pleased to think that he had managed to escape a blow from behind. It gave him confidence in himself, and when Teddy came running down the path, Rikki-tikki was ready to be petted.",
       "role": "paragraph"
     },
     {
@@ -698,6 +704,7 @@
       "order": 96,
       "chapterIndex": 2,
       "text": "“My cousin Chua, the rat, told me—” said Chuchundra, and then he stopped.",
+      "ttsText": "“My cousin Chua, the rat, told me, ” said Chuchundra, and then he stopped.",
       "role": "paragraph"
     },
     {
@@ -716,6 +723,7 @@
       "order": 99,
       "chapterIndex": 2,
       "text": "“I didn’t—so you must tell me. Quick, Chuchundra, or I’ll bite you!”",
+      "ttsText": "“I didn’t, so you must tell me. Quick, Chuchundra, or I’ll bite you!”",
       "role": "paragraph"
     },
     {
@@ -728,6 +736,7 @@
       "order": 101,
       "chapterIndex": 2,
       "text": "Rikki-tikki listened. The house was as still as still, but he thought he could just catch the faintest scratch-scratch in the world—a noise as faint as that of a wasp walking on a window-pane—the dry scratch of a snake’s scales on brick-work.",
+      "ttsText": "Rikki-tikki listened. The house was as still as still, but he thought he could just catch the faintest scratch-scratch in the world, a noise as faint as that of a wasp walking on a window-pane, the dry scratch of a snake’s scales on brick-work.",
       "role": "paragraph"
     },
     {
@@ -782,12 +791,14 @@
       "order": 110,
       "chapterIndex": 2,
       "text": "Nag waved to and fro, and then Rikki-tikki heard him drinking from the biggest water-jar that was used to fill the bath. “That is good,” said the snake. “Now, when Karait was killed, the big man had a stick. He may have that stick still, but when he comes in to bathe in the morning he will not have a stick. I shall wait here till he comes. Nagaina—do you hear me?—I shall wait here in the cool till daytime.”",
+      "ttsText": "Nag waved to and fro, and then Rikki-tikki heard him drinking from the biggest water-jar that was used to fill the bath. “That is good,” said the snake. “Now, when Karait was killed, the big man had a stick. He may have that stick still, but when he comes in to bathe in the morning he will not have a stick. I shall wait here till he comes. Nagaina, do you hear me?, I shall wait here in the cool till daytime.”",
       "role": "paragraph"
     },
     {
       "order": 111,
       "chapterIndex": 2,
       "text": "There was no answer from outside, so Rikki-tikki knew Nagaina had gone away. Nag coiled himself down, coil by coil, round the bulge at the bottom of the water jar, and Rikki-tikki stayed still as death. After an hour he began to move, muscle by muscle, toward the jar. Nag was asleep, and Rikki-tikki looked at his big back, wondering which would be the best place for a good hold. “If I don’t break his back at the first jump,” said Rikki, “he can still fight. And if he fights—O Rikki!” He looked at the thickness of the neck below the hood, but that was too much for him; and a bite near the tail would only make Nag savage.",
+      "ttsText": "There was no answer from outside, so Rikki-tikki knew Nagaina had gone away. Nag coiled himself down, coil by coil, round the bulge at the bottom of the water jar, and Rikki-tikki stayed still as death. After an hour he began to move, muscle by muscle, toward the jar. Nag was asleep, and Rikki-tikki looked at his big back, wondering which would be the best place for a good hold. “If I don’t break his back at the first jump,” said Rikki, “he can still fight. And if he fights, O Rikki!” He looked at the thickness of the neck below the hood, but that was too much for him; and a bite near the tail would only make Nag savage.",
       "role": "paragraph"
     },
     {
@@ -806,6 +817,7 @@
       "order": 114,
       "chapterIndex": 2,
       "text": "Then he jumped. The head was lying a little clear of the water jar, under the curve of it; and, as his teeth met, Rikki braced his back against the bulge of the red earthenware to hold down the head. This gave him just one second’s purchase, and he made the most of it. Then he was battered to and fro as a rat is shaken by a dog—to and fro on the floor, up and down, and around in great circles, but his eyes were red and he held on as the body cart-whipped over the floor, upsetting the tin dipper and the soap dish and the flesh brush, and banged against the tin side of the bath. As he held he closed his jaws tighter and tighter, for he made sure he would be banged to death, and, for the honor of his family, he preferred to be found with his teeth locked. He was dizzy, aching, and felt shaken to pieces when something went off like a thunderclap just behind him. A hot wind knocked him senseless and red fire singed his fur. The big man had been wakened by the noise, and had fired both barrels of a shotgun into Nag just behind the hood.",
+      "ttsText": "Then he jumped. The head was lying a little clear of the water jar, under the curve of it; and, as his teeth met, Rikki braced his back against the bulge of the red earthenware to hold down the head. This gave him just one second’s purchase, and he made the most of it. Then he was battered to and fro as a rat is shaken by a dog, to and fro on the floor, up and down, and around in great circles, but his eyes were red and he held on as the body cart-whipped over the floor, upsetting the tin dipper and the soap dish and the flesh brush, and banged against the tin side of the bath. As he held he closed his jaws tighter and tighter, for he made sure he would be banged to death, and, for the honor of his family, he preferred to be found with his teeth locked. He was dizzy, aching, and felt shaken to pieces when something went off like a thunderclap just behind him. A hot wind knocked him senseless and red fire singed his fur. The big man had been wakened by the noise, and had fired both barrels of a shotgun into Nag just behind the hood.",
       "role": "paragraph"
     },
     {
@@ -842,6 +854,7 @@
       "order": 120,
       "chapterIndex": 2,
       "text": "“Nag is dead—is dead—is dead!” sang Darzee. “The valiant Rikki-tikki caught him by the head and held fast. The big man brought the bang-stick, and Nag fell in two pieces! He will never eat my babies again.”",
+      "ttsText": "“Nag is dead, is dead, is dead!” sang Darzee. “The valiant Rikki-tikki caught him by the head and held fast. The big man brought the bang-stick, and Nag fell in two pieces! He will never eat my babies again.”",
       "role": "paragraph"
     },
     {
@@ -854,6 +867,7 @@
       "order": 122,
       "chapterIndex": 2,
       "text": "“Nagaina came to the bathroom sluice and called for Nag,” Darzee went on, “and Nag came out on the end of a stick—the sweeper picked him up on the end of a stick and threw him upon the rubbish heap. Let us sing about the great, the red-eyed Rikki-tikki!” And Darzee filled his throat and sang.",
+      "ttsText": "“Nagaina came to the bathroom sluice and called for Nag,” Darzee went on, “and Nag came out on the end of a stick, the sweeper picked him up on the end of a stick and threw him upon the rubbish heap. Let us sing about the great, the red-eyed Rikki-tikki!” And Darzee filled his throat and sang.",
       "role": "paragraph"
     },
     {
@@ -968,6 +982,7 @@
       "order": 141,
       "chapterIndex": 2,
       "text": "“Rikki-tikki, I led Nagaina toward the house, and she has gone into the veranda, and—oh, come quickly—she means killing!”",
+      "ttsText": "“Rikki-tikki, I led Nagaina toward the house, and she has gone into the veranda, and, oh, come quickly, she means killing!”",
       "role": "paragraph"
     },
     {
@@ -1016,6 +1031,7 @@
       "order": 149,
       "chapterIndex": 2,
       "text": "Rikki-tikki put his paws one on each side of the egg, and his eyes were blood-red. “What price for a snake’s egg? For a young cobra? For a young king cobra? For the last—the very last of the brood? The ants are eating all the others down by the melon bed.”",
+      "ttsText": "Rikki-tikki put his paws one on each side of the egg, and his eyes were blood-red. “What price for a snake’s egg? For a young cobra? For a young king cobra? For the last, the very last of the brood? The ants are eating all the others down by the melon bed.”",
       "role": "paragraph"
     },
     {
@@ -1028,6 +1044,7 @@
       "order": 151,
       "chapterIndex": 2,
       "text": "“Tricked! Tricked! Tricked! Rikk-tck-tck!” chuckled Rikki-tikki. “The boy is safe, and it was I—I—I that caught Nag by the hood last night in the bathroom.” Then he began to jump up and down, all four feet together, his head close to the floor. “He threw me to and fro, but he could not shake me off. He was dead before the big man blew him in two. I did it! Rikki-tikki-tck-tck! Come then, Nagaina. Come and fight with me. You shall not be a widow long.”",
+      "ttsText": "“Tricked! Tricked! Tricked! Rikk-tck-tck!” chuckled Rikki-tikki. “The boy is safe, and it was I, I, I that caught Nag by the hood last night in the bathroom.” Then he began to jump up and down, all four feet together, his head close to the floor. “He threw me to and fro, but he could not shake me off. He was dead before the big man blew him in two. I did it! Rikki-tikki-tck-tck! Come then, Nagaina. Come and fight with me. You shall not be a widow long.”",
       "role": "paragraph"
     },
     {
@@ -1064,6 +1081,7 @@
       "order": 157,
       "chapterIndex": 2,
       "text": "Rikki-tikki knew that he must catch her, or all the trouble would begin again. She headed straight for the long grass by the thorn-bush, and as he was running Rikki-tikki heard Darzee still singing his foolish little song of triumph. But Darzee’s wife was wiser. She flew off her nest as Nagaina came along, and flapped her wings about Nagaina’s head. If Darzee had helped they might have turned her, but Nagaina only lowered her hood and went on. Still, the instant’s delay brought Rikki-tikki up to her, and as she plunged into the rat-hole where she and Nag used to live, his little white teeth were clenched on her tail, and he went down with her—and very few mongooses, however wise and old they may be, care to follow a cobra into its hole. It was dark in the hole; and Rikki-tikki never knew when it might open out and give Nagaina room to turn and strike at him. He held on savagely, and stuck out his feet to act as brakes on the dark slope of the hot, moist earth.",
+      "ttsText": "Rikki-tikki knew that he must catch her, or all the trouble would begin again. She headed straight for the long grass by the thorn-bush, and as he was running Rikki-tikki heard Darzee still singing his foolish little song of triumph. But Darzee’s wife was wiser. She flew off her nest as Nagaina came along, and flapped her wings about Nagaina’s head. If Darzee had helped they might have turned her, but Nagaina only lowered her hood and went on. Still, the instant’s delay brought Rikki-tikki up to her, and as she plunged into the rat-hole where she and Nag used to live, his little white teeth were clenched on her tail, and he went down with her, and very few mongooses, however wise and old they may be, care to follow a cobra into its hole. It was dark in the hole; and Rikki-tikki never knew when it might open out and give Nagaina room to turn and strike at him. He held on savagely, and stuck out his feet to act as brakes on the dark slope of the hot, moist earth.",
       "role": "paragraph"
     },
     {
@@ -1082,6 +1100,7 @@
       "order": 160,
       "chapterIndex": 2,
       "text": "Rikki-tikki curled himself up in the grass and slept where he was—slept and slept till it was late in the afternoon, for he had done a hard day’s work.",
+      "ttsText": "Rikki-tikki curled himself up in the grass and slept where he was, slept and slept till it was late in the afternoon, for he had done a hard day’s work.",
       "role": "paragraph"
     },
     {
@@ -1100,6 +1119,7 @@
       "order": 163,
       "chapterIndex": 2,
       "text": "The Coppersmith is a bird who makes a noise exactly like the beating of a little hammer on a copper pot; and the reason he is always making it is because he is the town crier to every Indian garden, and tells all the news to everybody who cares to listen. As Rikki-tikki went up the path, he heard his “attention” notes like a tiny dinner gong, and then the steady “Ding-dong-tock! Nag is dead—dong! Nagaina is dead! Ding-dong-tock!” That set all the birds in the garden singing, and the frogs croaking, for Nag and Nagaina used to eat frogs as well as little birds.",
+      "ttsText": "The Coppersmith is a bird who makes a noise exactly like the beating of a little hammer on a copper pot; and the reason he is always making it is because he is the town crier to every Indian garden, and tells all the news to everybody who cares to listen. As Rikki-tikki went up the path, he heard his “attention” notes like a tiny dinner gong, and then the steady “Ding-dong-tock! Nag is dead, dong! Nagaina is dead! Ding-dong-tock!” That set all the birds in the garden singing, and the frogs croaking, for Nag and Nagaina used to eat frogs as well as little birds.",
       "role": "paragraph"
     },
     {
@@ -1154,12 +1174,14 @@
       "order": 172,
       "chapterIndex": 3,
       "text": "Singer and tailor am I—",
+      "ttsText": "Singer and tailor am I,",
       "role": "paragraph"
     },
     {
       "order": 173,
       "chapterIndex": 3,
       "text": "Doubled the joys that I know—",
+      "ttsText": "Doubled the joys that I know,",
       "role": "paragraph"
     },
     {
@@ -1172,12 +1194,14 @@
       "order": 175,
       "chapterIndex": 3,
       "text": "Proud of the house that I sew—",
+      "ttsText": "Proud of the house that I sew,",
       "role": "paragraph"
     },
     {
       "order": 176,
       "chapterIndex": 3,
       "text": "Over and under, so weave I my music—so weave I the house that I sew.",
+      "ttsText": "Over and under, so weave I my music, so weave I the house that I sew.",
       "role": "paragraph"
     },
     {
@@ -1208,6 +1232,7 @@
       "order": 181,
       "chapterIndex": 3,
       "text": "Terror that hid in the roses is impotent—flung on the dung-hill and dead!",
+      "ttsText": "Terror that hid in the roses is impotent, flung on the dung-hill and dead!",
       "role": "paragraph"
     },
     {
@@ -1256,6 +1281,7 @@
       "order": 189,
       "chapterIndex": 3,
       "text": "Praise him with nightingale words—",
+      "ttsText": "Praise him with nightingale words,",
       "role": "paragraph"
     },
     {
@@ -1292,6 +1318,7 @@
       "order": 195,
       "chapterIndex": 4,
       "text": "I will remember what I was, I am sick of rope and chain—",
+      "ttsText": "I will remember what I was, I am sick of rope and chain,",
       "role": "paragraph"
     },
     {
@@ -1316,6 +1343,7 @@
       "order": 199,
       "chapterIndex": 4,
       "text": "I will go out until the day, until the morning break—",
+      "ttsText": "I will go out until the day, until the morning break,",
       "role": "paragraph"
     },
     {
@@ -1340,12 +1368,14 @@
       "order": 203,
       "chapterIndex": 4,
       "text": "Kala Nag, which means Black Snake, had served the Indian Government in every way that an elephant could serve it for forty-seven years, and as he was fully twenty years old when he was caught, that makes him nearly seventy—a ripe age for an elephant. He remembered pushing, with a big leather pad on his forehead, at a gun stuck in deep mud, and that was before the Afghan War of 1842, and he had not then come to his full strength.",
+      "ttsText": "Kala Nag, which means Black Snake, had served the Indian Government in every way that an elephant could serve it for forty-seven years, and as he was fully twenty years old when he was caught, that makes him nearly seventy, a ripe age for an elephant. He remembered pushing, with a big leather pad on his forehead, at a gun stuck in deep mud, and that was before the Afghan War of 1842, and he had not then come to his full strength.",
       "role": "paragraph"
     },
     {
       "order": 204,
       "chapterIndex": 4,
       "text": "His mother Radha Pyari,—Radha the darling,—who had been caught in the same drive with Kala Nag, told him, before his little milk tusks had dropped out, that elephants who were afraid always got hurt. Kala Nag knew that that advice was good, for the first time that he saw a shell burst he backed, screaming, into a stand of piled rifles, and the bayonets pricked him in all his softest places. So, before he was twenty-five, he gave up being afraid, and so he was the best-loved and the best-looked-after elephant in the service of the Government of India. He had carried tents, twelve hundred pounds’ weight of tents, on the march in Upper India. He had been hoisted into a ship at the end of a steam crane and taken for days across the water, and made to carry a mortar on his back in a strange and rocky country very far from India, and had seen the Emperor Theodore lying dead in Magdala, and had come back again in the steamer entitled, so the soldiers said, to the Abyssinian War medal. He had seen his fellow elephants die of cold and epilepsy and starvation and sunstroke up at a place called Ali Musjid, ten years later; and afterward he had been sent down thousands of miles south to haul and pile big balks of teak in the timberyards at Moulmein. There he had half killed an insubordinate young elephant who was shirking his fair share of work.",
+      "ttsText": "His mother Radha Pyari,, Radha the darling,, who had been caught in the same drive with Kala Nag, told him, before his little milk tusks had dropped out, that elephants who were afraid always got hurt. Kala Nag knew that that advice was good, for the first time that he saw a shell burst he backed, screaming, into a stand of piled rifles, and the bayonets pricked him in all his softest places. So, before he was twenty-five, he gave up being afraid, and so he was the best-loved and the best-looked-after elephant in the service of the Government of India. He had carried tents, twelve hundred pounds’ weight of tents, on the march in Upper India. He had been hoisted into a ship at the end of a steam crane and taken for days across the water, and made to carry a mortar on his back in a strange and rocky country very far from India, and had seen the Emperor Theodore lying dead in Magdala, and had come back again in the steamer entitled, so the soldiers said, to the Abyssinian War medal. He had seen his fellow elephants die of cold and epilepsy and starvation and sunstroke up at a place called Ali Musjid, ten years later; and afterward he had been sent down thousands of miles south to haul and pile big balks of teak in the timberyards at Moulmein. There he had half killed an insubordinate young elephant who was shirking his fair share of work.",
       "role": "paragraph"
     },
     {
@@ -1430,6 +1460,7 @@
       "order": 218,
       "chapterIndex": 4,
       "text": "Even a little boy could be of use there, and Toomai was as useful as three boys. He would get his torch and wave it, and yell with the best. But the really good time came when the driving out began, and the Keddah—that is, the stockade—looked like a picture of the end of the world, and men had to make signs to one another, because they could not hear themselves speak. Then Little Toomai would climb up to the top of one of the quivering stockade posts, his sun-bleached brown hair flying loose all over his shoulders, and he looking like a goblin in the torch-light. And as soon as there was a lull you could hear his high-pitched yells of encouragement to Kala Nag, above the trumpeting and crashing, and snapping of ropes, and groans of the tethered elephants. “Mael, mael, Kala Nag! (Go on, go on, Black Snake!) Dant do! (Give him the tusk!) Somalo! Somalo! (Careful, careful!) Maro! Mar! (Hit him, hit him!) Mind the post! Arre! Arre! Hai! Yai! Kya-a-ah!” he would shout, and the big fight between Kala Nag and the wild elephant would sway to and fro across the Keddah, and the old elephant catchers would wipe the sweat out of their eyes, and find time to nod to Little Toomai wriggling with joy on the top of the posts.",
+      "ttsText": "Even a little boy could be of use there, and Toomai was as useful as three boys. He would get his torch and wave it, and yell with the best. But the really good time came when the driving out began, and the Keddah, that is, the stockade, looked like a picture of the end of the world, and men had to make signs to one another, because they could not hear themselves speak. Then Little Toomai would climb up to the top of one of the quivering stockade posts, his sun-bleached brown hair flying loose all over his shoulders, and he looking like a goblin in the torch-light. And as soon as there was a lull you could hear his high-pitched yells of encouragement to Kala Nag, above the trumpeting and crashing, and snapping of ropes, and groans of the tethered elephants. “Mael, mael, Kala Nag! (Go on, go on, Black Snake!) Dant do! (Give him the tusk!) Somalo! Somalo! (Careful, careful!) Maro! Mar! (Hit him, hit him!) Mind the post! Arre! Arre! Hai! Yai! Kya-a-ah!” he would shout, and the big fight between Kala Nag and the wild elephant would sway to and fro across the Keddah, and the old elephant catchers would wipe the sweat out of their eyes, and find time to nod to Little Toomai wriggling with joy on the top of the posts.",
       "role": "paragraph"
     },
     {
@@ -1442,24 +1473,28 @@
       "order": 220,
       "chapterIndex": 4,
       "text": "Next morning he gave him a scolding and said, “Are not good brick elephant lines and a little tent carrying enough, that thou must needs go elephant catching on thy own account, little worthless? Now those foolish hunters, whose pay is less than my pay, have spoken to Petersen Sahib of the matter.” Little Toomai was frightened. He did not know much of white men, but Petersen Sahib was the greatest white man in the world to him. He was the head of all the Keddah operations—the man who caught all the elephants for the Government of India, and who knew more about the ways of elephants than any living man.",
+      "ttsText": "Next morning he gave him a scolding and said, “Are not good brick elephant lines and a little tent carrying enough, that thou must needs go elephant catching on thy own account, little worthless? Now those foolish hunters, whose pay is less than my pay, have spoken to Petersen Sahib of the matter.” Little Toomai was frightened. He did not know much of white men, but Petersen Sahib was the greatest white man in the world to him. He was the head of all the Keddah operations, the man who caught all the elephants for the Government of India, and who knew more about the ways of elephants than any living man.",
       "role": "paragraph"
     },
     {
       "order": 221,
       "chapterIndex": 4,
       "text": "“What—what will happen?” said Little Toomai.",
+      "ttsText": "“What, what will happen?” said Little Toomai.",
       "role": "paragraph"
     },
     {
       "order": 222,
       "chapterIndex": 4,
       "text": "“Happen! The worst that can happen. Petersen Sahib is a madman. Else why should he go hunting these wild devils? He may even require thee to be an elephant catcher, to sleep anywhere in these fever-filled jungles, and at last to be trampled to death in the Keddah. It is well that this nonsense ends safely. Next week the catching is over, and we of the plains are sent back to our stations. Then we will march on smooth roads, and forget all this hunting. But, son, I am angry that thou shouldst meddle in the business that belongs to these dirty Assamese jungle folk. Kala Nag will obey none but me, so I must go with him into the Keddah, but he is only a fighting elephant, and he does not help to rope them. So I sit at my ease, as befits a mahout,—not a mere hunter,—a mahout, I say, and a man who gets a pension at the end of his service. Is the family of Toomai of the Elephants to be trodden underfoot in the dirt of a Keddah? Bad one! Wicked one! Worthless son! Go and wash Kala Nag and attend to his ears, and see that there are no thorns in his feet. Or else Petersen Sahib will surely catch thee and make thee a wild hunter—a follower of elephant’s foot tracks, a jungle bear. Bah! Shame! Go!”",
+      "ttsText": "“Happen! The worst that can happen. Petersen Sahib is a madman. Else why should he go hunting these wild devils? He may even require thee to be an elephant catcher, to sleep anywhere in these fever-filled jungles, and at last to be trampled to death in the Keddah. It is well that this nonsense ends safely. Next week the catching is over, and we of the plains are sent back to our stations. Then we will march on smooth roads, and forget all this hunting. But, son, I am angry that thou shouldst meddle in the business that belongs to these dirty Assamese jungle folk. Kala Nag will obey none but me, so I must go with him into the Keddah, but he is only a fighting elephant, and he does not help to rope them. So I sit at my ease, as befits a mahout,, not a mere hunter,, a mahout, I say, and a man who gets a pension at the end of his service. Is the family of Toomai of the Elephants to be trodden underfoot in the dirt of a Keddah? Bad one! Wicked one! Worthless son! Go and wash Kala Nag and attend to his ears, and see that there are no thorns in his feet. Or else Petersen Sahib will surely catch thee and make thee a wild hunter, a follower of elephant’s foot tracks, a jungle bear. Bah! Shame! Go!”",
       "role": "paragraph"
     },
     {
       "order": 223,
       "chapterIndex": 4,
       "text": "Little Toomai went off without saying a word, but he told Kala Nag all his grievances while he was examining his feet. “No matter,” said Little Toomai, turning up the fringe of Kala Nag’s huge right ear. “They have said my name to Petersen Sahib, and perhaps—and perhaps—and perhaps—who knows? Hai! That is a big thorn that I have pulled out!”",
+      "ttsText": "Little Toomai went off without saying a word, but he told Kala Nag all his grievances while he was examining his feet. “No matter,” said Little Toomai, turning up the fringe of Kala Nag’s huge right ear. “They have said my name to Petersen Sahib, and perhaps, and perhaps, and perhaps, who knows? Hai! That is a big thorn that I have pulled out!”",
       "role": "paragraph"
     },
     {
@@ -1484,6 +1519,7 @@
       "order": 227,
       "chapterIndex": 4,
       "text": "Now Petersen Sahib had ears all over him, as a man must have who listens to the most silent of all living things—the wild elephant. He turned where he was lying all along on Pudmini’s back and said, “What is that? I did not know of a man among the plains-drivers who had wit enough to rope even a dead elephant.”",
+      "ttsText": "Now Petersen Sahib had ears all over him, as a man must have who listens to the most silent of all living things, the wild elephant. He turned where he was lying all along on Pudmini’s back and said, “What is that? I did not know of a man among the plains-drivers who had wit enough to rope even a dead elephant.”",
       "role": "paragraph"
     },
     {
@@ -1520,12 +1556,14 @@
       "order": 233,
       "chapterIndex": 4,
       "text": "“Not green corn, Protector of the Poor,—melons,” said Little Toomai.",
+      "ttsText": "“Not green corn, Protector of the Poor,, melons,” said Little Toomai.",
       "role": "paragraph"
     },
     {
       "order": 234,
       "chapterIndex": 4,
       "text": "“Not green corn, Protector of the Poor,—melons,” said Little Toomai, and all the men sitting about broke into a roar of laughter. Most of them had taught their elephants that trick when they were boys. Little Toomai was hanging eight feet up in the air, and he wished very much that he were eight feet underground.",
+      "ttsText": "“Not green corn, Protector of the Poor,, melons,” said Little Toomai, and all the men sitting about broke into a roar of laughter. Most of them had taught their elephants that trick when they were boys. Little Toomai was hanging eight feet up in the air, and he wished very much that he were eight feet underground.",
       "role": "paragraph"
     },
     {
@@ -1592,6 +1630,7 @@
       "order": 245,
       "chapterIndex": 4,
       "text": "“Hear him!” said the other driver. “We have swept the hills! Ho! Ho! You are very wise, you plains people. Anyone but a mud-head who never saw the jungle would know that they know that the drives are ended for the season. Therefore all the wild elephants to-night will—but why should I waste wisdom on a river-turtle?”",
+      "ttsText": "“Hear him!” said the other driver. “We have swept the hills! Ho! Ho! You are very wise, you plains people. Anyone but a mud-head who never saw the jungle would know that they know that the drives are ended for the season. Therefore all the wild elephants to-night will, but why should I waste wisdom on a river-turtle?”",
       "role": "paragraph"
     },
     {
@@ -1616,6 +1655,7 @@
       "order": 249,
       "chapterIndex": 4,
       "text": "“Yes; but a plainsman who lives in a hut knows only the four walls of his hut. Well, leave thy elephants unshackled tonight and see what comes. As for their dancing, I have seen the place where—Bapree-bap! How many windings has the Dihang River? Here is another ford, and we must swim the calves. Stop still, you behind there.”",
+      "ttsText": "“Yes; but a plainsman who lives in a hut knows only the four walls of his hut. Well, leave thy elephants unshackled tonight and see what comes. As for their dancing, I have seen the place where, Bapree-bap! How many windings has the Dihang River? Here is another ford, and we must swim the calves. Stop still, you behind there.”",
       "role": "paragraph"
     },
     {
@@ -1634,6 +1674,7 @@
       "order": 252,
       "chapterIndex": 4,
       "text": "Little Toomai attended to Kala Nag’s supper, and as evening fell, wandered through the camp, unspeakably happy, in search of a tom-tom. When an Indian child’s heart is full, he does not run about and make a noise in an irregular fashion. He sits down to a sort of revel all by himself. And Little Toomai had been spoken to by Petersen Sahib! If he had not found what he wanted, I believe he would have been ill. But the sweetmeat seller in the camp lent him a little tom-tom—a drum beaten with the flat of the hand—and he sat down, cross-legged, before Kala Nag as the stars began to come out, the tom-tom in his lap, and he thumped and he thumped and he thumped, and the more he thought of the great honor that had been done to him, the more he thumped, all alone among the elephant fodder. There was no tune and no words, but the thumping made him happy.",
+      "ttsText": "Little Toomai attended to Kala Nag’s supper, and as evening fell, wandered through the camp, unspeakably happy, in search of a tom-tom. When an Indian child’s heart is full, he does not run about and make a noise in an irregular fashion. He sits down to a sort of revel all by himself. And Little Toomai had been spoken to by Petersen Sahib! If he had not found what he wanted, I believe he would have been ill. But the sweetmeat seller in the camp lent him a little tom-tom, a drum beaten with the flat of the hand, and he sat down, cross-legged, before Kala Nag as the stars began to come out, the tom-tom in his lap, and he thumped and he thumped and he thumped, and the more he thought of the great honor that had been done to him, the more he thumped, all alone among the elephant fodder. There was no tune and no words, but the thumping made him happy.",
       "role": "paragraph"
     },
     {
@@ -1670,12 +1711,14 @@
       "order": 258,
       "chapterIndex": 4,
       "text": "All things made he—Shiva the Preserver.",
+      "ttsText": "All things made he, Shiva the Preserver.",
       "role": "paragraph"
     },
     {
       "order": 259,
       "chapterIndex": 4,
       "text": "Mahadeo! Mahadeo! He made all—",
+      "ttsText": "Mahadeo! Mahadeo! He made all,",
       "role": "paragraph"
     },
     {
@@ -1694,6 +1737,7 @@
       "order": 262,
       "chapterIndex": 4,
       "text": "Little Toomai came in with a joyous tunk-a-tunk at the end of each verse, till he felt sleepy and stretched himself on the fodder at Kala Nag’s side. At last the elephants began to lie down one after another as is their custom, till only Kala Nag at the right of the line was left standing up; and he rocked slowly from side to side, his ears put forward to listen to the night wind as it blew very slowly across the hills. The air was full of all the night noises that, taken together, make one big silence—the click of one bamboo stem against the other, the rustle of something alive in the undergrowth, the scratch and squawk of a half-waked bird (birds are awake in the night much more often than we imagine), and the fall of water ever so far away. Little Toomai slept for some time, and when he waked it was brilliant moonlight, and Kala Nag was still standing up with his ears cocked. Little Toomai turned, rustling in the fodder, and watched the curve of his big back against half the stars in heaven, and while he watched he heard, so far away that it sounded no more than a pinhole of noise pricked through the stillness, the “hoot-toot” of a wild elephant.",
+      "ttsText": "Little Toomai came in with a joyous tunk-a-tunk at the end of each verse, till he felt sleepy and stretched himself on the fodder at Kala Nag’s side. At last the elephants began to lie down one after another as is their custom, till only Kala Nag at the right of the line was left standing up; and he rocked slowly from side to side, his ears put forward to listen to the night wind as it blew very slowly across the hills. The air was full of all the night noises that, taken together, make one big silence, the click of one bamboo stem against the other, the rustle of something alive in the undergrowth, the scratch and squawk of a half-waked bird (birds are awake in the night much more often than we imagine), and the fall of water ever so far away. Little Toomai slept for some time, and when he waked it was brilliant moonlight, and Kala Nag was still standing up with his ears cocked. Little Toomai turned, rustling in the fodder, and watched the curve of his big back against half the stars in heaven, and while he watched he heard, so far away that it sounded no more than a pinhole of noise pricked through the stillness, the “hoot-toot” of a wild elephant.",
       "role": "paragraph"
     },
     {
@@ -1718,18 +1762,21 @@
       "order": 266,
       "chapterIndex": 4,
       "text": "Then Kala Nag reached the crest of the ascent and stopped for a minute, and Little Toomai could see the tops of the trees lying all speckled and furry under the moonlight for miles and miles, and the blue-white mist over the river in the hollow. Toomai leaned forward and looked, and he felt that the forest was awake below him—awake and alive and crowded. A big brown fruit-eating bat brushed past his ear; a porcupine’s quills rattled in the thicket; and in the darkness between the tree stems he heard a hog-bear digging hard in the moist warm earth, and snuffing as it digged.",
+      "ttsText": "Then Kala Nag reached the crest of the ascent and stopped for a minute, and Little Toomai could see the tops of the trees lying all speckled and furry under the moonlight for miles and miles, and the blue-white mist over the river in the hollow. Toomai leaned forward and looked, and he felt that the forest was awake below him, awake and alive and crowded. A big brown fruit-eating bat brushed past his ear; a porcupine’s quills rattled in the thicket; and in the darkness between the tree stems he heard a hog-bear digging hard in the moist warm earth, and snuffing as it digged.",
       "role": "paragraph"
     },
     {
       "order": 267,
       "chapterIndex": 4,
       "text": "Then the branches closed over his head again, and Kala Nag began to go down into the valley—not quietly this time, but as a runaway gun goes down a steep bank—in one rush. The huge limbs moved as steadily as pistons, eight feet to each stride, and the wrinkled skin of the elbow points rustled. The undergrowth on either side of him ripped with a noise like torn canvas, and the saplings that he heaved away right and left with his shoulders sprang back again and banged him on the flank, and great trails of creepers, all matted together, hung from his tusks as he threw his head from side to side and plowed out his pathway. Then Little Toomai laid himself down close to the great neck lest a swinging bough should sweep him to the ground, and he wished that he were back in the lines again.",
+      "ttsText": "Then the branches closed over his head again, and Kala Nag began to go down into the valley, not quietly this time, but as a runaway gun goes down a steep bank, in one rush. The huge limbs moved as steadily as pistons, eight feet to each stride, and the wrinkled skin of the elbow points rustled. The undergrowth on either side of him ripped with a noise like torn canvas, and the saplings that he heaved away right and left with his shoulders sprang back again and banged him on the flank, and great trails of creepers, all matted together, hung from his tusks as he threw his head from side to side and plowed out his pathway. Then Little Toomai laid himself down close to the great neck lest a swinging bough should sweep him to the ground, and he wished that he were back in the lines again.",
       "role": "paragraph"
     },
     {
       "order": 268,
       "chapterIndex": 4,
       "text": "The grass began to get squashy, and Kala Nag’s feet sucked and squelched as he put them down, and the night mist at the bottom of the valley chilled Little Toomai. There was a splash and a trample, and the rush of running water, and Kala Nag strode through the bed of a river, feeling his way at each step. Above the noise of the water, as it swirled round the elephant’s legs, Little Toomai could hear more splashing and some trumpeting both upstream and down—great grunts and angry snortings, and all the mist about him seemed to be full of rolling, wavy shadows.",
+      "ttsText": "The grass began to get squashy, and Kala Nag’s feet sucked and squelched as he put them down, and the night mist at the bottom of the valley chilled Little Toomai. There was a splash and a trample, and the rush of running water, and Kala Nag strode through the bed of a river, feeling his way at each step. Above the noise of the water, as it swirled round the elephant’s legs, Little Toomai could hear more splashing and some trumpeting both upstream and down, great grunts and angry snortings, and all the mist about him seemed to be full of rolling, wavy shadows.",
       "role": "paragraph"
     },
     {
@@ -1754,6 +1801,7 @@
       "order": 272,
       "chapterIndex": 4,
       "text": "At last Kala Nag stood still between two tree-trunks at the very top of the hill. They were part of a circle of trees that grew round an irregular space of some three or four acres, and in all that space, as Little Toomai could see, the ground had been trampled down as hard as a brick floor. Some trees grew in the center of the clearing, but their bark was rubbed away, and the white wood beneath showed all shiny and polished in the patches of moonlight. There were creepers hanging from the upper branches, and the bells of the flowers of the creepers, great waxy white things like convolvuluses, hung down fast asleep. But within the limits of the clearing there was not a single blade of green—nothing but the trampled earth.",
+      "ttsText": "At last Kala Nag stood still between two tree-trunks at the very top of the hill. They were part of a circle of trees that grew round an irregular space of some three or four acres, and in all that space, as Little Toomai could see, the ground had been trampled down as hard as a brick floor. Some trees grew in the center of the clearing, but their bark was rubbed away, and the white wood beneath showed all shiny and polished in the patches of moonlight. There were creepers hanging from the upper branches, and the bells of the flowers of the creepers, great waxy white things like convolvuluses, hung down fast asleep. But within the limits of the clearing there was not a single blade of green, nothing but the trampled earth.",
       "role": "paragraph"
     },
     {
@@ -1772,6 +1820,7 @@
       "order": 275,
       "chapterIndex": 4,
       "text": "They were standing head to head, or walking to and fro across the ground in couples, or rocking and swaying all by themselves—scores and scores of elephants.",
+      "ttsText": "They were standing head to head, or walking to and fro across the ground in couples, or rocking and swaying all by themselves, scores and scores of elephants.",
       "role": "paragraph"
     },
     {
@@ -1802,6 +1851,7 @@
       "order": 280,
       "chapterIndex": 4,
       "text": "Then an elephant trumpeted, and they all took it up for five or ten terrible seconds. The dew from the trees above spattered down like rain on the unseen backs, and a dull booming noise began, not very loud at first, and Little Toomai could not tell what it was. But it grew and grew, and Kala Nag lifted up one forefoot and then the other, and brought them down on the ground—one-two, one-two, as steadily as trip-hammers. The elephants were stamping all together now, and it sounded like a war drum beaten at the mouth of a cave. The dew fell from the trees till there was no more left to fall, and the booming went on, and the ground rocked and shivered, and Little Toomai put his hands up to his ears to shut out the sound. But it was all one gigantic jar that ran through him—this stamp of hundreds of heavy feet on the raw earth. Once or twice he could feel Kala Nag and all the others surge forward a few strides, and the thumping would change to the crushing sound of juicy green things being bruised, but in a minute or two the boom of feet on hard earth began again. A tree was creaking and groaning somewhere near him. He put out his arm and felt the bark, but Kala Nag moved forward, still tramping, and he could not tell where he was in the clearing. There was no sound from the elephants, except once, when two or three little calves squeaked together. Then he heard a thump and a shuffle, and the booming went on. It must have lasted fully two hours, and Little Toomai ached in every nerve, but he knew by the smell of the night air that the dawn was coming.",
+      "ttsText": "Then an elephant trumpeted, and they all took it up for five or ten terrible seconds. The dew from the trees above spattered down like rain on the unseen backs, and a dull booming noise began, not very loud at first, and Little Toomai could not tell what it was. But it grew and grew, and Kala Nag lifted up one forefoot and then the other, and brought them down on the ground, one-two, one-two, as steadily as trip-hammers. The elephants were stamping all together now, and it sounded like a war drum beaten at the mouth of a cave. The dew fell from the trees till there was no more left to fall, and the booming went on, and the ground rocked and shivered, and Little Toomai put his hands up to his ears to shut out the sound. But it was all one gigantic jar that ran through him, this stamp of hundreds of heavy feet on the raw earth. Once or twice he could feel Kala Nag and all the others surge forward a few strides, and the thumping would change to the crushing sound of juicy green things being bruised, but in a minute or two the boom of feet on hard earth began again. A tree was creaking and groaning somewhere near him. He put out his arm and felt the bark, but Kala Nag moved forward, still tramping, and he could not tell where he was in the clearing. There was no sound from the elephants, except once, when two or three little calves squeaked together. Then he heard a thump and a shuffle, and the booming went on. It must have lasted fully two hours, and Little Toomai ached in every nerve, but he knew by the smell of the night air that the dawn was coming.",
       "role": "paragraph"
     },
     {
@@ -1814,6 +1864,7 @@
       "order": 282,
       "chapterIndex": 4,
       "text": "Little Toomai stared again and again. The clearing, as he remembered it, had grown in the night. More trees stood in the middle of it, but the undergrowth and the jungle grass at the sides had been rolled back. Little Toomai stared once more. Now he understood the trampling. The elephants had stamped out more room—had stamped the thick grass and juicy cane to trash, the trash into slivers, the slivers into tiny fibers, and the fibers into hard earth.",
+      "ttsText": "Little Toomai stared again and again. The clearing, as he remembered it, had grown in the night. More trees stood in the middle of it, but the undergrowth and the jungle grass at the sides had been rolled back. Little Toomai stared once more. Now he understood the trampling. The elephants had stamped out more room, had stamped the thick grass and juicy cane to trash, the trash into slivers, the slivers into tiny fibers, and the fibers into hard earth.",
       "role": "paragraph"
     },
     {
@@ -1832,6 +1883,7 @@
       "order": 285,
       "chapterIndex": 4,
       "text": "Two hours later, as Petersen Sahib was eating early breakfast, his elephants, who had been double chained that night, began to trumpet, and Pudmini, mired to the shoulders, with Kala Nag, very footsore, shambled into the camp. Little Toomai’s face was gray and pinched, and his hair was full of leaves and drenched with dew, but he tried to salute Petersen Sahib, and cried faintly: “The dance—the elephant dance! I have seen it, and—I die!” As Kala Nag sat down, he slid off his neck in a dead faint.",
+      "ttsText": "Two hours later, as Petersen Sahib was eating early breakfast, his elephants, who had been double chained that night, began to trumpet, and Pudmini, mired to the shoulders, with Kala Nag, very footsore, shambled into the camp. Little Toomai’s face was gray and pinched, and his hair was full of leaves and drenched with dew, but he tried to salute Petersen Sahib, and cried faintly: “The dance, the elephant dance! I have seen it, and, I die!” As Kala Nag sat down, he slid off his neck in a dead faint.",
       "role": "paragraph"
     },
     {
@@ -1868,6 +1920,7 @@
       "order": 291,
       "chapterIndex": 4,
       "text": "“Forty years and five,” said Machua Appa, “have I followed my lord, the elephant, but never have I heard that any child of man had seen what this child has seen. By all the Gods of the Hills, it is—what can we say?” and he shook his head.",
+      "ttsText": "“Forty years and five,” said Machua Appa, “have I followed my lord, the elephant, but never have I heard that any child of man had seen what this child has seen. By all the Gods of the Hills, it is, what can we say?” and he shook his head.",
       "role": "paragraph"
     },
     {
@@ -1892,6 +1945,7 @@
       "order": 295,
       "chapterIndex": 4,
       "text": "And at last, when the flames died down, and the red light of the logs made the elephants look as though they had been dipped in blood too, Machua Appa, the head of all the drivers of all the Keddahs—Machua Appa, Petersen Sahib’s other self, who had never seen a made road in forty years: Machua Appa, who was so great that he had no other name than Machua Appa,—leaped to his feet, with Little Toomai held high in the air above his head, and shouted: “Listen, my brothers. Listen, too, you my lords in the lines there, for I, Machua Appa, am speaking! This little one shall no more be called Little Toomai, but Toomai of the Elephants, as his great-grandfather was called before him. What never man has seen he has seen through the long night, and the favor of the elephant-folk and of the Gods of the Jungles is with him. He shall become a great tracker. He shall become greater than I, even I, Machua Appa! He shall follow the new trail, and the stale trail, and the mixed trail, with a clear eye! He shall take no harm in the Keddah when he runs under their bellies to rope the wild tuskers; and if he slips before the feet of the charging bull elephant, the bull elephant shall know who he is and shall not crush him. Aihai! my lords in the chains,”—he whirled up the line of pickets—“here is the little one that has seen your dances in your hidden places,—the sight that never man saw! Give him honor, my lords! Salaam karo, my children. Make your salute to Toomai of the Elephants! Gunga Pershad, ahaa! Hira Guj, Birchi Guj, Kuttar Guj, ahaa! Pudmini,—thou hast seen him at the dance, and thou too, Kala Nag, my pearl among elephants!—ahaa! Together! To Toomai of the Elephants. Barrao!”",
+      "ttsText": "And at last, when the flames died down, and the red light of the logs made the elephants look as though they had been dipped in blood too, Machua Appa, the head of all the drivers of all the Keddahs, Machua Appa, Petersen Sahib’s other self, who had never seen a made road in forty years: Machua Appa, who was so great that he had no other name than Machua Appa,, leaped to his feet, with Little Toomai held high in the air above his head, and shouted: “Listen, my brothers. Listen, too, you my lords in the lines there, for I, Machua Appa, am speaking! This little one shall no more be called Little Toomai, but Toomai of the Elephants, as his great-grandfather was called before him. What never man has seen he has seen through the long night, and the favor of the elephant-folk and of the Gods of the Jungles is with him. He shall become a great tracker. He shall become greater than I, even I, Machua Appa! He shall follow the new trail, and the stale trail, and the mixed trail, with a clear eye! He shall take no harm in the Keddah when he runs under their bellies to rope the wild tuskers; and if he slips before the feet of the charging bull elephant, the bull elephant shall know who he is and shall not crush him. Aihai! my lords in the chains,”, he whirled up the line of pickets, “here is the little one that has seen your dances in your hidden places,, the sight that never man saw! Give him honor, my lords! Salaam karo, my children. Make your salute to Toomai of the Elephants! Gunga Pershad, ahaa! Hira Guj, Birchi Guj, Kuttar Guj, ahaa! Pudmini,, thou hast seen him at the dance, and thou too, Kala Nag, my pearl among elephants!, ahaa! Together! To Toomai of the Elephants. Barrao!”",
       "role": "paragraph"
     },
     {
@@ -1904,12 +1958,14 @@
       "order": 297,
       "chapterIndex": 4,
       "text": "And at that last wild yell the whole line flung up their trunks till the tips touched their foreheads, and broke out into the full salute—the crashing trumpet-peal that only the Viceroy of India hears, the Salaamut of the Keddah.",
+      "ttsText": "And at that last wild yell the whole line flung up their trunks till the tips touched their foreheads, and broke out into the full salute, the crashing trumpet-peal that only the Viceroy of India hears, the Salaamut of the Keddah.",
       "role": "paragraph"
     },
     {
       "order": 298,
       "chapterIndex": 4,
       "text": "But it was all for the sake of Little Toomai, who had seen what never man had seen before—the dance of the elephants at night and alone in the heart of the Garo hills!",
+      "ttsText": "But it was all for the sake of Little Toomai, who had seen what never man had seen before, the dance of the elephants at night and alone in the heart of the Garo hills!",
       "role": "paragraph"
     },
     {
@@ -1958,12 +2014,14 @@
       "order": 306,
       "chapterIndex": 5,
       "text": "All things made he—Shiva the Preserver.",
+      "ttsText": "All things made he, Shiva the Preserver.",
       "role": "paragraph"
     },
     {
       "order": 307,
       "chapterIndex": 5,
       "text": "Mahadeo! Mahadeo! He made all,—",
+      "ttsText": "Mahadeo! Mahadeo! He made all,,",
       "role": "paragraph"
     },
     {
@@ -2006,6 +2064,7 @@
       "order": 314,
       "chapterIndex": 5,
       "text": "Naught he found too lofty, none he saw too low—",
+      "ttsText": "Naught he found too lofty, none he saw too low,",
       "role": "paragraph"
     },
     {
@@ -2018,6 +2077,7 @@
       "order": 316,
       "chapterIndex": 5,
       "text": "Thought to cheat her husband, turning Shiv to jest—",
+      "ttsText": "Thought to cheat her husband, turning Shiv to jest,",
       "role": "paragraph"
     },
     {
@@ -2102,12 +2162,14 @@
       "order": 330,
       "chapterIndex": 5,
       "text": "All things made he—Shiva the Preserver.",
+      "ttsText": "All things made he, Shiva the Preserver.",
       "role": "paragraph"
     },
     {
       "order": 331,
       "chapterIndex": 5,
       "text": "Mahadeo! Mahadeo! He made all,—",
+      "ttsText": "Mahadeo! Mahadeo! He made all,,",
       "role": "paragraph"
     },
     {
@@ -2162,6 +2224,7 @@
       "order": 340,
       "chapterIndex": 6,
       "text": "It had been raining heavily for one whole month—raining on a camp of thirty thousand men and thousands of camels, elephants, horses, bullocks, and mules all gathered together at a place called Rawal Pindi, to be reviewed by the Viceroy of India. He was receiving a visit from the Amir of Afghanistan—a wild king of a very wild country. The Amir had brought with him for a bodyguard eight hundred men and horses who had never seen a camp or a locomotive before in their lives—savage men and savage horses from somewhere at the back of Central Asia. Every night a mob of these horses would be sure to break their heel ropes and stampede up and down the camp through the mud in the dark, or the camels would break loose and run about and fall over the ropes of the tents, and you can imagine how pleasant that was for men trying to go to sleep. My tent lay far away from the camel lines, and I thought it was safe. But one night a man popped his head in and shouted, “Get out, quick! They’re coming! My tent’s gone!”",
+      "ttsText": "It had been raining heavily for one whole month, raining on a camp of thirty thousand men and thousands of camels, elephants, horses, bullocks, and mules all gathered together at a place called Rawal Pindi, to be reviewed by the Viceroy of India. He was receiving a visit from the Amir of Afghanistan, a wild king of a very wild country. The Amir had brought with him for a bodyguard eight hundred men and horses who had never seen a camp or a locomotive before in their lives, savage men and savage horses from somewhere at the back of Central Asia. Every night a mob of these horses would be sure to break their heel ropes and stampede up and down the camp through the mud in the dark, or the camels would break loose and run about and fall over the ropes of the tents, and you can imagine how pleasant that was for men trying to go to sleep. My tent lay far away from the camel lines, and I thought it was safe. But one night a man popped his head in and shouted, “Get out, quick! They’re coming! My tent’s gone!”",
       "role": "paragraph"
     },
     {
@@ -2192,6 +2255,7 @@
       "order": 345,
       "chapterIndex": 6,
       "text": "Behind the mule there was a camel, with his big soft feet squelching and slipping in the mud, and his neck bobbing to and fro like a strayed hen’s. Luckily, I knew enough of beast language—not wild-beast language, but camp-beast language, of course—from the natives to know what he was saying.",
+      "ttsText": "Behind the mule there was a camel, with his big soft feet squelching and slipping in the mud, and his neck bobbing to and fro like a strayed hen’s. Luckily, I knew enough of beast language, not wild-beast language, but camp-beast language, of course, from the natives to know what he was saying.",
       "role": "paragraph"
     },
     {
@@ -2222,6 +2286,7 @@
       "order": 350,
       "chapterIndex": 6,
       "text": "“It’s disgraceful,” he said, blowing out his nostrils. “Those camels have racketed through our lines again—the third time this week. How’s a horse to keep his condition if he isn’t allowed to sleep. Who’s here?”",
+      "ttsText": "“It’s disgraceful,” he said, blowing out his nostrils. “Those camels have racketed through our lines again, the third time this week. How’s a horse to keep his condition if he isn’t allowed to sleep. Who’s here?”",
       "role": "paragraph"
     },
     {
@@ -2234,6 +2299,7 @@
       "order": 352,
       "chapterIndex": 6,
       "text": "“Number Fifteen, E troop, Ninth Lancers—Dick Cunliffe’s horse. Stand over a little, there.”",
+      "ttsText": "“Number Fifteen, E troop, Ninth Lancers, Dick Cunliffe’s horse. Stand over a little, there.”",
       "role": "paragraph"
     },
     {
@@ -2318,12 +2384,14 @@
       "order": 366,
       "chapterIndex": 6,
       "text": "“But this wasn’t harness or anything that jingled,” said the young mule. “You know I don’t mind that now, Billy. It was Things like trees, and they fell up and down the lines and bubbled; and my head-rope broke, and I couldn’t find my driver, and I couldn’t find you, Billy, so I ran off with—with these gentlemen.”",
+      "ttsText": "“But this wasn’t harness or anything that jingled,” said the young mule. “You know I don’t mind that now, Billy. It was Things like trees, and they fell up and down the lines and bubbled; and my head-rope broke, and I couldn’t find my driver, and I couldn’t find you, Billy, so I ran off with, with these gentlemen.”",
       "role": "paragraph"
     },
     {
       "order": 367,
       "chapterIndex": 6,
       "text": "“H’m!” said Billy. “As soon as I heard the camels were loose I came away on my own account. When a battery—a screw-gun mule calls gun-bullocks gentlemen, he must be very badly shaken up. Who are you fellows on the ground there?”",
+      "ttsText": "“H’m!” said Billy. “As soon as I heard the camels were loose I came away on my own account. When a battery, a screw-gun mule calls gun-bullocks gentlemen, he must be very badly shaken up. Who are you fellows on the ground there?”",
       "role": "paragraph"
     },
     {
@@ -2396,6 +2464,7 @@
       "order": 379,
       "chapterIndex": 6,
       "text": "“That depends,” said the troop-horse. “Generally I have to go in among a lot of yelling, hairy men with knives—long shiny knives, worse than the farrier’s knives—and I have to take care that Dick’s boot is just touching the next man’s boot without crushing it. I can see Dick’s lance to the right of my right eye, and I know I’m safe. I shouldn’t care to be the man or horse that stood up to Dick and me when we’re in a hurry.”",
+      "ttsText": "“That depends,” said the troop-horse. “Generally I have to go in among a lot of yelling, hairy men with knives, long shiny knives, worse than the farrier’s knives, and I have to take care that Dick’s boot is just touching the next man’s boot without crushing it. I can see Dick’s lance to the right of my right eye, and I know I’m safe. I shouldn’t care to be the man or horse that stood up to Dick and me when we’re in a hurry.”",
       "role": "paragraph"
     },
     {
@@ -2408,6 +2477,7 @@
       "order": 381,
       "chapterIndex": 6,
       "text": "“Well, I got one cut across the chest once, but that wasn’t Dick’s fault—”",
+      "ttsText": "“Well, I got one cut across the chest once, but that wasn’t Dick’s fault, ”",
       "role": "paragraph"
     },
     {
@@ -2420,6 +2490,7 @@
       "order": 383,
       "chapterIndex": 6,
       "text": "“You must,” said the troop horse. “If you don’t trust your man, you may as well run away at once. That’s what some of our horses do, and I don’t blame them. As I was saying, it wasn’t Dick’s fault. The man was lying on the ground, and I stretched myself not to tread on him, and he slashed up at me. Next time I have to go over a man lying down I shall step on him—hard.”",
+      "ttsText": "“You must,” said the troop horse. “If you don’t trust your man, you may as well run away at once. That’s what some of our horses do, and I don’t blame them. As I was saying, it wasn’t Dick’s fault. The man was lying on the ground, and I stretched myself not to tread on him, and he slashed up at me. Next time I have to go over a man lying down I shall step on him, hard.”",
       "role": "paragraph"
     },
     {
@@ -2432,6 +2503,7 @@
       "order": 385,
       "chapterIndex": 6,
       "text": "“H’m!” said Billy. “It sounds very foolish. Knives are dirty things at any time. The proper thing to do is to climb up a mountain with a well-balanced saddle, hang on by all four feet and your ears too, and creep and crawl and wriggle along, till you come out hundreds of feet above anyone else on a ledge where there’s just room enough for your hoofs. Then you stand still and keep quiet—never ask a man to hold your head, young un—keep quiet while the guns are being put together, and then you watch the little poppy shells drop down into the tree-tops ever so far below.”",
+      "ttsText": "“H’m!” said Billy. “It sounds very foolish. Knives are dirty things at any time. The proper thing to do is to climb up a mountain with a well-balanced saddle, hang on by all four feet and your ears too, and creep and crawl and wriggle along, till you come out hundreds of feet above anyone else on a ledge where there’s just room enough for your hoofs. Then you stand still and keep quiet, never ask a man to hold your head, young un, keep quiet while the guns are being put together, and then you watch the little poppy shells drop down into the tree-tops ever so far below.”",
       "role": "paragraph"
     },
     {
@@ -2450,12 +2522,14 @@
       "order": 388,
       "chapterIndex": 6,
       "text": "“Fired at without the chance of running into the people who are firing!” said the troop-horse, thinking hard. “I couldn’t stand that. I should want to charge—with Dick.”",
+      "ttsText": "“Fired at without the chance of running into the people who are firing!” said the troop-horse, thinking hard. “I couldn’t stand that. I should want to charge, with Dick.”",
       "role": "paragraph"
     },
     {
       "order": 389,
       "chapterIndex": 6,
       "text": "“Oh, no, you wouldn’t. You know that as soon as the guns are in position they’ll do all the charging. That’s scientific and neat. But knives—pah!”",
+      "ttsText": "“Oh, no, you wouldn’t. You know that as soon as the guns are in position they’ll do all the charging. That’s scientific and neat. But knives, pah!”",
       "role": "paragraph"
     },
     {
@@ -2468,18 +2542,21 @@
       "order": 391,
       "chapterIndex": 6,
       "text": "“I—I—I have fought a little, but not in that climbing way or that running way.”",
+      "ttsText": "“I, I, I have fought a little, but not in that climbing way or that running way.”",
       "role": "paragraph"
     },
     {
       "order": 392,
       "chapterIndex": 6,
       "text": "“No. Now you mention it,” said Billy, “you don’t look as though you were made for climbing or running—much. Well, how was it, old Hay-bales?”",
+      "ttsText": "“No. Now you mention it,” said Billy, “you don’t look as though you were made for climbing or running, much. Well, how was it, old Hay-bales?”",
       "role": "paragraph"
     },
     {
       "order": 393,
       "chapterIndex": 6,
       "text": "“The proper way,” said the camel. “We all sat down—”",
+      "ttsText": "“The proper way,” said the camel. “We all sat down, ”",
       "role": "paragraph"
     },
     {
@@ -2492,6 +2569,7 @@
       "order": 395,
       "chapterIndex": 6,
       "text": "“We sat down—a hundred of us,” the camel went on, “in a big square, and the men piled our packs and saddles, outside the square, and they fired over our backs, the men did, on all sides of the square.”",
+      "ttsText": "“We sat down, a hundred of us,” the camel went on, “in a big square, and the men piled our packs and saddles, outside the square, and they fired over our backs, the men did, on all sides of the square.”",
       "role": "paragraph"
     },
     {
@@ -2540,6 +2618,7 @@
       "order": 403,
       "chapterIndex": 6,
       "text": "“To show that he is not going any nearer to the smoke on the other side. Two Tails is a great coward. Then we tug the big gun all together—Heya—Hullah! Heeyah! Hullah! We do not climb like cats nor run like calves. We go across the level plain, twenty yoke of us, till we are unyoked again, and we graze while the big guns talk across the plain to some town with mud walls, and pieces of the wall fall out, and the dust goes up as though many cattle were coming home.”",
+      "ttsText": "“To show that he is not going any nearer to the smoke on the other side. Two Tails is a great coward. Then we tug the big gun all together, Heya, Hullah! Heeyah! Hullah! We do not climb like cats nor run like calves. We go across the level plain, twenty yoke of us, till we are unyoked again, and we graze while the big guns talk across the plain to some town with mud walls, and pieces of the wall fall out, and the dust goes up as though many cattle were coming home.”",
       "role": "paragraph"
     },
     {
@@ -2564,6 +2643,7 @@
       "order": 407,
       "chapterIndex": 6,
       "text": "“About as much as we feel inclined to sit down and let men sprawl all over us, or run into people with knives. I never heard such stuff. A mountain ledge, a well-balanced load, a driver you can trust to let you pick your own way, and I’m your mule. But—the other things—no!” said Billy, with a stamp of his foot.",
+      "ttsText": "“About as much as we feel inclined to sit down and let men sprawl all over us, or run into people with knives. I never heard such stuff. A mountain ledge, a well-balanced load, a driver you can trust to let you pick your own way, and I’m your mule. But, the other things, no!” said Billy, with a stamp of his foot.",
       "role": "paragraph"
     },
     {
@@ -2594,6 +2674,7 @@
       "order": 412,
       "chapterIndex": 6,
       "text": "“On your hind legs!” squealed Billy. They both reared up facing each other, and I was expecting a furious fight, when a gurgly, rumbly voice, called out of the darkness to the right—“Children, what are you fighting about there? Be quiet.”",
+      "ttsText": "“On your hind legs!” squealed Billy. They both reared up facing each other, and I was expecting a furious fight, when a gurgly, rumbly voice, called out of the darkness to the right, “Children, what are you fighting about there? Be quiet.”",
       "role": "paragraph"
     },
     {
@@ -2630,6 +2711,7 @@
       "order": 418,
       "chapterIndex": 6,
       "text": "The bullocks and the camel said, half aloud, “Afraid of Two Tails—what nonsense!” And the bullocks went on, “We are sorry that you heard, but it is true. Two Tails, why are you afraid of the guns when they fire?”",
+      "ttsText": "The bullocks and the camel said, half aloud, “Afraid of Two Tails, what nonsense!” And the bullocks went on, “We are sorry that you heard, but it is true. Two Tails, why are you afraid of the guns when they fire?”",
       "role": "paragraph"
     },
     {
@@ -2714,6 +2796,7 @@
       "order": 432,
       "chapterIndex": 6,
       "text": "“Don’t talk of it,” he said. “I can smell it now, just thinking of it. It makes me want to run—when I haven’t Dick on my back.”",
+      "ttsText": "“Don’t talk of it,” he said. “I can smell it now, just thinking of it. It makes me want to run, when I haven’t Dick on my back.”",
       "role": "paragraph"
     },
     {
@@ -2756,6 +2839,7 @@
       "order": 439,
       "chapterIndex": 6,
       "text": "“If I could do that and nothing else, you wouldn’t be needed to pull the big guns at all. If I was like my captain—he can see things inside his head before the firing begins, and he shakes all over, but he knows too much to run away—if I was like him I could pull the guns. But if I were as wise as all that I should never be here. I should be a king in the forest, as I used to be, sleeping half the day and bathing when I liked. I haven’t had a good bath for a month.”",
+      "ttsText": "“If I could do that and nothing else, you wouldn’t be needed to pull the big guns at all. If I was like my captain, he can see things inside his head before the firing begins, and he shakes all over, but he knows too much to run away, if I was like him I could pull the guns. But if I were as wise as all that I should never be here. I should be a king in the forest, as I used to be, sleeping half the day and bathing when I liked. I haven’t had a good bath for a month.”",
       "role": "paragraph"
     },
     {
@@ -2792,6 +2876,7 @@
       "order": 445,
       "chapterIndex": 6,
       "text": "“I shan’t stop,” said Two Tails. “Won’t you explain that, please? Hhrrmph! Rrrt! Rrrmph! Rrrhha!” Then he stopped suddenly, and I heard a little whimper in the dark, and knew that Vixen had found me at last. She knew as well as I did that if there is one thing in the world the elephant is more afraid of than another it is a little barking dog. So she stopped to bully Two Tails in his pickets, and yapped round his big feet. Two Tails shuffled and squeaked. “Go away, little dog!” he said. “Don’t snuff at my ankles, or I’ll kick at you. Good little dog—nice little doggie, then! Go home, you yelping little beast! Oh, why doesn’t someone take her away? She’ll bite me in a minute.”",
+      "ttsText": "“I shan’t stop,” said Two Tails. “Won’t you explain that, please? Hhrrmph! Rrrt! Rrrmph! Rrrhha!” Then he stopped suddenly, and I heard a little whimper in the dark, and knew that Vixen had found me at last. She knew as well as I did that if there is one thing in the world the elephant is more afraid of than another it is a little barking dog. So she stopped to bully Two Tails in his pickets, and yapped round his big feet. Two Tails shuffled and squeaked. “Go away, little dog!” he said. “Don’t snuff at my ankles, or I’ll kick at you. Good little dog, nice little doggie, then! Go home, you yelping little beast! Oh, why doesn’t someone take her away? She’ll bite me in a minute.”",
       "role": "paragraph"
     },
     {
@@ -2846,6 +2931,7 @@
       "order": 454,
       "chapterIndex": 6,
       "text": "“What I want to know,” said the young mule, who had been quiet for a long time—“what I want to know is, why we have to fight at all.”",
+      "ttsText": "“What I want to know,” said the young mule, who had been quiet for a long time, “what I want to know is, why we have to fight at all.”",
       "role": "paragraph"
     },
     {
@@ -2876,6 +2962,7 @@
       "order": 459,
       "chapterIndex": 6,
       "text": "“The man who walks at your head—Or sits on your back—Or holds the nose rope—Or twists your tail,” said Billy and the troop-horse and the camel and the bullocks one after the other.",
+      "ttsText": "“The man who walks at your head, Or sits on your back, Or holds the nose rope, Or twists your tail,” said Billy and the troop-horse and the camel and the bullocks one after the other.",
       "role": "paragraph"
     },
     {
@@ -2960,12 +3047,14 @@
       "order": 473,
       "chapterIndex": 6,
       "text": "“They—eat—us! Pull!” said the near bullock. The yoke snapped with a twang, and they lumbered off together.",
+      "ttsText": "“They, eat, us! Pull!” said the near bullock. The yoke snapped with a twang, and they lumbered off together.",
       "role": "paragraph"
     },
     {
       "order": 474,
       "chapterIndex": 6,
       "text": "I never knew before what made Indian cattle so scared of Englishmen. We eat beef—a thing that no cattle-driver touches—and of course the cattle do not like it.",
+      "ttsText": "I never knew before what made Indian cattle so scared of Englishmen. We eat beef, a thing that no cattle-driver touches, and of course the cattle do not like it.",
       "role": "paragraph"
     },
     {
@@ -2984,6 +3073,7 @@
       "order": 477,
       "chapterIndex": 6,
       "text": "“I’ll leave you, then. I can’t say I’m over-fond of ’em myself. Besides, white men who haven’t a place to sleep in are more than likely to be thieves, and I’ve a good deal of Government property on my back. Come along, young un, and we’ll go back to our lines. Good-night, Australia! See you on parade to-morrow, I suppose. Good-night, old Hay-bale!—try to control your feelings, won’t you? Good-night, Two Tails! If you pass us on the ground tomorrow, don’t trumpet. It spoils our formation.”",
+      "ttsText": "“I’ll leave you, then. I can’t say I’m over-fond of ’em myself. Besides, white men who haven’t a place to sleep in are more than likely to be thieves, and I’ve a good deal of Government property on my back. Come along, young un, and we’ll go back to our lines. Good-night, Australia! See you on parade to-morrow, I suppose. Good-night, old Hay-bale!, try to control your feelings, won’t you? Good-night, Two Tails! If you pass us on the ground tomorrow, don’t trumpet. It spoils our formation.”",
       "role": "paragraph"
     },
     {
@@ -3014,12 +3104,14 @@
       "order": 482,
       "chapterIndex": 6,
       "text": "The rain began to fall again, and for a while it was too misty to see what the troops were doing. They had made a big half circle across the plain, and were spreading out into a line. That line grew and grew and grew till it was three-quarters of a mile long from wing to wing—one solid wall of men, horses, and guns. Then it came on straight toward the Viceroy and the Amir, and as it got nearer the ground began to shake, like the deck of a steamer when the engines are going fast.",
+      "ttsText": "The rain began to fall again, and for a while it was too misty to see what the troops were doing. They had made a big half circle across the plain, and were spreading out into a line. That line grew and grew and grew till it was three-quarters of a mile long from wing to wing, one solid wall of men, horses, and guns. Then it came on straight toward the Viceroy and the Amir, and as it got nearer the ground began to shake, like the deck of a steamer when the engines are going fast.",
       "role": "paragraph"
     },
     {
       "order": 483,
       "chapterIndex": 6,
       "text": "Unless you have been there you cannot imagine what a frightening effect this steady come-down of troops has on the spectators, even when they know it is only a review. I looked at the Amir. Up till then he had not shown the shadow of a sign of astonishment or anything else. But now his eyes began to get bigger and bigger, and he picked up the reins on his horse’s neck and looked behind him. For a minute it seemed as though he were going to draw his sword and slash his way out through the English men and women in the carriages at the back. Then the advance stopped dead, the ground stood still, the whole line saluted, and thirty bands began to play all together. That was the end of the review, and the regiments went off to their camps in the rain, and an infantry band struck up with—",
+      "ttsText": "Unless you have been there you cannot imagine what a frightening effect this steady come-down of troops has on the spectators, even when they know it is only a review. I looked at the Amir. Up till then he had not shown the shadow of a sign of astonishment or anything else. But now his eyes began to get bigger and bigger, and he picked up the reins on his horse’s neck and looked behind him. For a minute it seemed as though he were going to draw his sword and slash his way out through the English men and women in the carriages at the back. Then the advance stopped dead, the ground stood still, the whole line saluted, and thirty bands began to play all together. That was the end of the review, and the regiments went off to their camps in the rain, and an infantry band struck up with,",
       "role": "paragraph"
     },
     {
@@ -3116,6 +3208,7 @@
       "order": 499,
       "chapterIndex": 7,
       "text": "ELEPHANTS OF THE GUN TEAMS",
+      "ttsText": "Elephants of the Gun Teams",
       "role": "title"
     },
     {
@@ -3134,12 +3227,14 @@
       "order": 502,
       "chapterIndex": 7,
       "text": "We bowed our necks to service: they ne’er were loosed again,—",
+      "ttsText": "We bowed our necks to service: they ne’er were loosed again,,",
       "role": "paragraph"
     },
     {
       "order": 503,
       "chapterIndex": 7,
       "text": "Make way there—way for the ten-foot teams",
+      "ttsText": "Make way there, way for the ten-foot teams",
       "role": "paragraph"
     },
     {
@@ -3152,6 +3247,7 @@
       "order": 505,
       "chapterIndex": 7,
       "text": "GUN BULLOCKS",
+      "ttsText": "Gun Bullocks",
       "role": "title"
     },
     {
@@ -3170,12 +3266,14 @@
       "order": 508,
       "chapterIndex": 7,
       "text": "Then we come into action and tug the guns again—",
+      "ttsText": "Then we come into action and tug the guns again,",
       "role": "paragraph"
     },
     {
       "order": 509,
       "chapterIndex": 7,
       "text": "Make way there—way for the twenty yoke",
+      "ttsText": "Make way there, way for the twenty yoke",
       "role": "paragraph"
     },
     {
@@ -3188,6 +3286,7 @@
       "order": 511,
       "chapterIndex": 7,
       "text": "CAVALRY HORSES",
+      "ttsText": "Cavalry Horses",
       "role": "title"
     },
     {
@@ -3206,6 +3305,7 @@
       "order": 514,
       "chapterIndex": 7,
       "text": "And it’s sweeter than “Stables” or “Water” to me—",
+      "ttsText": "And it’s sweeter than “Stables” or “Water” to me,",
       "role": "paragraph"
     },
     {
@@ -3242,6 +3342,7 @@
       "order": 520,
       "chapterIndex": 7,
       "text": "SCREW-GUN MULES",
+      "ttsText": "Screw-Gun Mules",
       "role": "title"
     },
     {
@@ -3296,6 +3397,7 @@
       "order": 529,
       "chapterIndex": 7,
       "text": "COMMISSARIAT CAMELS",
+      "ttsText": "Commissariat Camels",
       "role": "title"
     },
     {
@@ -3356,6 +3458,7 @@
       "order": 539,
       "chapterIndex": 7,
       "text": "Somebody’s load has tipped off in the road—",
+      "ttsText": "Somebody’s load has tipped off in the road,",
       "role": "paragraph"
     },
     {
@@ -3380,6 +3483,7 @@
       "order": 543,
       "chapterIndex": 7,
       "text": "ALL THE BEASTS TOGETHER",
+      "ttsText": "All the Beasts Together",
       "role": "title"
     },
     {

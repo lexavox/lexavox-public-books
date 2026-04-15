@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:56.5356650Z",
+  "generatedAt": "2026-04-07T14:55:09.5526289Z",
   "source": {
     "id": "pg103",
     "title": "Around the World in Eighty Days",
@@ -550,12 +550,14 @@
       "order": 53,
       "chapterIndex": 1,
       "text": "IN WHICH PHILEAS FOGG AND PASSEPARTOUT ACCEPT EACH OTHER, THE ONE AS MASTER, THE OTHER AS MAN",
+      "ttsText": "In Which Phileas Fogg and Passepartout Accept Each Other, The One as Master, The Other as Man",
       "role": "paragraph"
     },
     {
       "order": 54,
       "chapterIndex": 1,
       "text": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. He was one of the most noticeable members of the Reform Club, though he seemed always to avoid attracting attention; an enigmatical personage, about whom little was known, except that he was a polished man of the world. People said that he resembled Byron—at least that his head was Byronic; but he was a bearded, tranquil Byron, who might live on a thousand years without growing old.",
+      "ttsText": "Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. He was one of the most noticeable members of the Reform Club, though he seemed always to avoid attracting attention; an enigmatical personage, about whom little was known, except that he was a polished man of the world. People said that he resembled Byron, at least that his head was Byronic; but he was a bearded, tranquil Byron, who might live on a thousand years without growing old.",
       "role": "paragraph"
     },
     {
@@ -604,6 +606,7 @@
       "order": 62,
       "chapterIndex": 1,
       "text": "Phileas Fogg was not known to have either wife or children, which may happen to the most honest people; either relatives or near friends, which is certainly more unusual. He lived alone in his house in Saville Row, whither none penetrated. A single domestic sufficed to serve him. He breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. He never used the cosy chambers which the Reform provides for its favoured members. He passed ten hours out of the twenty-four in Saville Row, either in sleeping or making his toilet. When he chose to take a walk it was with a regular step in the entrance hall with its mosaic flooring, or in the circular gallery with its dome supported by twenty red porphyry Ionic columns, and illumined by blue painted windows. When he breakfasted or dined all the resources of the club—its kitchens and pantries, its buttery and dairy—aided to crowd his table with their most succulent stores; he was served by the gravest waiters, in dress coats, and shoes with swan-skin soles, who proffered the viands in special porcelain, and on the finest linen; club decanters, of a lost mould, contained his sherry, his port, and his cinnamon-spiced claret; while his beverages were refreshingly cooled with ice, brought at great cost from the American lakes.",
+      "ttsText": "Phileas Fogg was not known to have either wife or children, which may happen to the most honest people; either relatives or near friends, which is certainly more unusual. He lived alone in his house in Saville Row, whither none penetrated. A single domestic sufficed to serve him. He breakfasted and dined at the club, at hours mathematically fixed, in the same room, at the same table, never taking his meals with other members, much less bringing a guest with him; and went home at exactly midnight, only to retire at once to bed. He never used the cosy chambers which the Reform provides for its favoured members. He passed ten hours out of the twenty-four in Saville Row, either in sleeping or making his toilet. When he chose to take a walk it was with a regular step in the entrance hall with its mosaic flooring, or in the circular gallery with its dome supported by twenty red porphyry Ionic columns, and illumined by blue painted windows. When he breakfasted or dined all the resources of the club, its kitchens and pantries, its buttery and dairy, aided to crowd his table with their most succulent stores; he was served by the gravest waiters, in dress coats, and shoes with swan-skin soles, who proffered the viands in special porcelain, and on the finest linen; club decanters, of a lost mould, contained his sherry, his port, and his cinnamon-spiced claret; while his beverages were refreshingly cooled with ice, brought at great cost from the American lakes.",
       "role": "paragraph"
     },
     {
@@ -688,6 +691,7 @@
       "order": 76,
       "chapterIndex": 1,
       "text": "“Pardon me, monsieur, it is impossible—”",
+      "ttsText": "“Pardon me, monsieur, it is impossible, ”",
       "role": "paragraph"
     },
     {
@@ -718,12 +722,14 @@
       "order": 81,
       "chapterIndex": 2,
       "text": "CHAPTER X.",
+      "ttsText": "Chapter X.",
       "role": "heading"
     },
     {
       "order": 82,
       "chapterIndex": 2,
       "text": "IN WHICH PASSEPARTOUT IS ONLY TOO GLAD TO GET OFF WITH THE LOSS OF HIS SHOES",
+      "ttsText": "In Which Passepartout Is Only Too Glad to Get Off with the Loss of His Shoes",
       "role": "paragraph"
     },
     {
@@ -760,6 +766,7 @@
       "order": 88,
       "chapterIndex": 2,
       "text": "Mr. Fogg, after bidding good-bye to his whist partners, left the steamer, gave his servant several errands to do, urged it upon him to be at the station promptly at eight, and, with his regular step, which beat to the second, like an astronomical clock, directed his steps to the passport office. As for the wonders of Bombay—its famous city hall, its splendid library, its forts and docks, its bazaars, mosques, synagogues, its Armenian churches, and the noble pagoda on Malabar Hill, with its two polygonal towers—he cared not a straw to see them. He would not deign to examine even the masterpieces of Elephanta, or the mysterious hypogea, concealed south-east from the docks, or those fine remains of Buddhist architecture, the Kanherian grottoes of the island of Salcette.",
+      "ttsText": "Mr. Fogg, after bidding good-bye to his whist partners, left the steamer, gave his servant several errands to do, urged it upon him to be at the station promptly at eight, and, with his regular step, which beat to the second, like an astronomical clock, directed his steps to the passport office. As for the wonders of Bombay, its famous city hall, its splendid library, its forts and docks, its bazaars, mosques, synagogues, its Armenian churches, and the noble pagoda on Malabar Hill, with its two polygonal towers, he cared not a straw to see them. He would not deign to examine even the masterpieces of Elephanta, or the mysterious hypogea, concealed south-east from the docks, or those fine remains of Buddhist architecture, the Kanherian grottoes of the island of Salcette.",
       "role": "paragraph"
     },
     {
@@ -790,6 +797,7 @@
       "order": 93,
       "chapterIndex": 2,
       "text": "“Mew, my lord! What, a rabbit mew! I swear to you—”",
+      "ttsText": "“Mew, my lord! What, a rabbit mew! I swear to you, ”",
       "role": "paragraph"
     },
     {
@@ -826,6 +834,7 @@
       "order": 99,
       "chapterIndex": 2,
       "text": "Having purchased the usual quota of shirts and shoes, he took a leisurely promenade about the streets, where crowds of people of many nationalities—Europeans, Persians with pointed caps, Banyas with round turbans, Sindes with square bonnets, Parsees with black mitres, and long-robed Armenians—were collected. It happened to be the day of a Parsee festival. These descendants of the sect of Zoroaster—the most thrifty, civilised, intelligent, and austere of the East Indians, among whom are counted the richest native merchants of Bombay—were celebrating a sort of religious carnival, with processions and shows, in the midst of which Indian dancing-girls, clothed in rose-coloured gauze, looped up with gold and silver, danced airily, but with perfect modesty, to the sound of viols and the clanging of tambourines. It is needless to say that Passepartout watched these curious ceremonies with staring eyes and gaping mouth, and that his countenance was that of the greenest booby imaginable.",
+      "ttsText": "Having purchased the usual quota of shirts and shoes, he took a leisurely promenade about the streets, where crowds of people of many nationalities, Europeans, Persians with pointed caps, Banyas with round turbans, Sindes with square bonnets, Parsees with black mitres, and long-robed Armenians, were collected. It happened to be the day of a Parsee festival. These descendants of the sect of Zoroaster, the most thrifty, civilised, intelligent, and austere of the East Indians, among whom are counted the richest native merchants of Bombay, were celebrating a sort of religious carnival, with processions and shows, in the midst of which Indian dancing-girls, clothed in rose-coloured gauze, looped up with gold and silver, danced airily, but with perfect modesty, to the sound of viols and the clanging of tambourines. It is needless to say that Passepartout watched these curious ceremonies with staring eyes and gaping mouth, and that his countenance was that of the greenest booby imaginable.",
       "role": "paragraph"
     },
     {
@@ -880,19 +889,21 @@
       "order": 108,
       "chapterIndex": 3,
       "text": "CHAPTER XI.",
+      "ttsText": "Chapter XI.",
       "role": "heading"
     },
     {
       "order": 109,
       "chapterIndex": 3,
       "text": "IN WHICH PHILEAS FOGG SECURES A CURIOUS MEANS OF CONVEYANCE AT A FABULOUS PRICE",
-      "ttsText": "IN WHICH PHILEAS FOGG SECURES Acurious MEANS OF CONVEYANCE AT Afabulous PRICE",
+      "ttsText": "In Which Phileas Fogg Secures A Curious Means of Conveyance at A Fabulous Price",
       "role": "paragraph"
     },
     {
       "order": 110,
       "chapterIndex": 3,
       "text": "The train had started punctually. Among the passengers were a number of officers, Government officials, and opium and indigo merchants, whose business called them to the eastern coast. Passepartout rode in the same carriage with his master, and a third passenger occupied a seat opposite to them. This was Sir Francis Cromarty, one of Mr. Fogg’s whist partners on the “Mongolia,” now on his way to join his corps at Benares. Sir Francis was a tall, fair man of fifty, who had greatly distinguished himself in the last Sepoy revolt. He made India his home, only paying brief visits to England at rare intervals; and was almost as familiar as a native with the customs, history, and character of India and its people. But Phileas Fogg, who was not travelling, but only describing a circumference, took no pains to inquire into these subjects; he was a solid body, traversing an orbit around the terrestrial globe, according to the laws of rational mechanics. He was at this moment calculating in his mind the number of hours spent since his departure from London, and, had it been in his nature to make a useless demonstration, would have rubbed his hands for satisfaction. Sir Francis Cromarty had observed the oddity of his travelling companion—although the only opportunity he had for studying him had been while he was dealing the cards, and between two rubbers—and questioned himself whether a human heart really beat beneath this cold exterior, and whether Phileas Fogg had any sense of the beauties of nature. The brigadier-general was free to mentally confess that, of all the eccentric persons he had ever met, none was comparable to this product of the exact sciences.",
+      "ttsText": "The train had started punctually. Among the passengers were a number of officers, Government officials, and opium and indigo merchants, whose business called them to the eastern coast. Passepartout rode in the same carriage with his master, and a third passenger occupied a seat opposite to them. This was Sir Francis Cromarty, one of Mr. Fogg’s whist partners on the “Mongolia,” now on his way to join his corps at Benares. Sir Francis was a tall, fair man of fifty, who had greatly distinguished himself in the last Sepoy revolt. He made India his home, only paying brief visits to England at rare intervals; and was almost as familiar as a native with the customs, history, and character of India and its people. But Phileas Fogg, who was not travelling, but only describing a circumference, took no pains to inquire into these subjects; he was a solid body, traversing an orbit around the terrestrial globe, according to the laws of rational mechanics. He was at this moment calculating in his mind the number of hours spent since his departure from London, and, had it been in his nature to make a useless demonstration, would have rubbed his hands for satisfaction. Sir Francis Cromarty had observed the oddity of his travelling companion, although the only opportunity he had for studying him had been while he was dealing the cards, and between two rubbers, and questioned himself whether a human heart really beat beneath this cold exterior, and whether Phileas Fogg had any sense of the beauties of nature. The brigadier-general was free to mentally confess that, of all the eccentric persons he had ever met, none was comparable to this product of the exact sciences.",
       "role": "paragraph"
     },
     {
@@ -929,6 +940,7 @@
       "order": 116,
       "chapterIndex": 3,
       "text": "“But, Mr. Fogg,” pursued Sir Francis, “you run the risk of having some difficulty about this worthy fellow’s adventure at the pagoda.” Passepartout, his feet comfortably wrapped in his travelling-blanket, was sound asleep and did not dream that anybody was talking about him. “The Government is very severe upon that kind of offence. It takes particular care that the religious customs of the Indians should be respected, and if your servant were caught—”",
+      "ttsText": "“But, Mr. Fogg,” pursued Sir Francis, “you run the risk of having some difficulty about this worthy fellow’s adventure at the pagoda.” Passepartout, his feet comfortably wrapped in his travelling-blanket, was sound asleep and did not dream that anybody was talking about him. “The Government is very severe upon that kind of offence. It takes particular care that the religious customs of the Indians should be respected, and if your servant were caught, ”",
       "role": "paragraph"
     },
     {
@@ -1091,6 +1103,7 @@
       "order": 143,
       "chapterIndex": 3,
       "text": "“What! You knew that the way—”",
+      "ttsText": "“What! You knew that the way, ”",
       "role": "paragraph"
     },
     {
@@ -1151,6 +1164,7 @@
       "order": 153,
       "chapterIndex": 3,
       "text": "They soon reached a small hut, near which, enclosed within some high palings, was the animal in question. An Indian came out of the hut, and, at their request, conducted them within the enclosure. The elephant, which its owner had reared, not for a beast of burden, but for warlike purposes, was half domesticated. The Indian had begun already, by often irritating him, and feeding him every three months on sugar and butter, to impart to him a ferocity not in his nature, this method being often employed by those who train the Indian elephants for battle. Happily, however, for Mr. Fogg, the animal’s instruction in this direction had not gone far, and the elephant still preserved his natural gentleness. Kiouni—this was the name of the beast—could doubtless travel rapidly for a long time, and, in default of any other means of conveyance, Mr. Fogg resolved to hire him. But elephants are far from cheap in India, where they are becoming scarce, the males, which alone are suitable for circus shows, are much sought, especially as but few of them are domesticated. When therefore Mr. Fogg proposed to the Indian to hire Kiouni, he refused point-blank. Mr. Fogg persisted, offering the excessive sum of ten pounds an hour for the loan of the beast to Allahabad. Refused. Twenty pounds? Refused also. Forty pounds? Still refused. Passepartout jumped at each advance; but the Indian declined to be tempted. Yet the offer was an alluring one, for, supposing it took the elephant fifteen hours to reach Allahabad, his owner would receive no less than six hundred pounds sterling.",
+      "ttsText": "They soon reached a small hut, near which, enclosed within some high palings, was the animal in question. An Indian came out of the hut, and, at their request, conducted them within the enclosure. The elephant, which its owner had reared, not for a beast of burden, but for warlike purposes, was half domesticated. The Indian had begun already, by often irritating him, and feeding him every three months on sugar and butter, to impart to him a ferocity not in his nature, this method being often employed by those who train the Indian elephants for battle. Happily, however, for Mr. Fogg, the animal’s instruction in this direction had not gone far, and the elephant still preserved his natural gentleness. Kiouni, this was the name of the beast, could doubtless travel rapidly for a long time, and, in default of any other means of conveyance, Mr. Fogg resolved to hire him. But elephants are far from cheap in India, where they are becoming scarce, the males, which alone are suitable for circus shows, are much sought, especially as but few of them are domesticated. When therefore Mr. Fogg proposed to the Indian to hire Kiouni, he refused point-blank. Mr. Fogg persisted, offering the excessive sum of ten pounds an hour for the loan of the beast to Allahabad. Refused. Twenty pounds? Refused also. Forty pounds? Still refused. Passepartout jumped at each advance; but the Indian declined to be tempted. Yet the offer was an alluring one, for, supposing it took the elephant fifteen hours to reach Allahabad, his owner would receive no less than six hundred pounds sterling.",
       "role": "paragraph"
     },
     {
@@ -1193,12 +1207,14 @@
       "order": 160,
       "chapterIndex": 4,
       "text": "CHAPTER XII.",
+      "ttsText": "Chapter XII.",
       "role": "heading"
     },
     {
       "order": 161,
       "chapterIndex": 4,
       "text": "IN WHICH PHILEAS FOGG AND HIS COMPANIONS VENTURE ACROSS THE INDIAN FORESTS, AND WHAT ENSUED",
+      "ttsText": "In Which Phileas Fogg and His Companions Venture Across the Indian Forests, And What Ensued",
       "role": "paragraph"
     },
     {
@@ -1313,6 +1329,7 @@
       "order": 180,
       "chapterIndex": 4,
       "text": "“Of death, perhaps,” muttered back Passepartout, “but of love—that ugly old hag? Never!”",
+      "ttsText": "“Of death, perhaps,” muttered back Passepartout, “but of love, that ugly old hag? Never!”",
       "role": "paragraph"
     },
     {
@@ -1325,6 +1342,7 @@
       "order": 182,
       "chapterIndex": 4,
       "text": "A group of old fakirs were capering and making a wild ado round the statue; these were striped with ochre, and covered with cuts whence their blood issued drop by drop—stupid fanatics, who, in the great Indian ceremonies, still throw themselves under the wheels of Juggernaut. Some Brahmins, clad in all the sumptuousness of Oriental apparel, and leading a woman who faltered at every step, followed. This woman was young, and as fair as a European. Her head and neck, shoulders, ears, arms, hands, and toes were loaded down with jewels and gems with bracelets, earrings, and rings; while a tunic bordered with gold, and covered with a light muslin robe, betrayed the outline of her form.",
+      "ttsText": "A group of old fakirs were capering and making a wild ado round the statue; these were striped with ochre, and covered with cuts whence their blood issued drop by drop, stupid fanatics, who, in the great Indian ceremonies, still throw themselves under the wheels of Juggernaut. Some Brahmins, clad in all the sumptuousness of Oriental apparel, and leading a woman who faltered at every step, followed. This woman was young, and as fair as a European. Her head and neck, shoulders, ears, arms, hands, and toes were loaded down with jewels and gems with bracelets, earrings, and rings; while a tunic bordered with gold, and covered with a light muslin robe, betrayed the outline of her form.",
       "role": "paragraph"
     },
     {
@@ -1445,6 +1463,7 @@
       "order": 202,
       "chapterIndex": 4,
       "text": "“And the sacrifice will take place—”",
+      "ttsText": "“And the sacrifice will take place, ”",
       "role": "paragraph"
     },
     {
@@ -1493,13 +1512,14 @@
       "order": 210,
       "chapterIndex": 5,
       "text": "CHAPTER XIII.",
+      "ttsText": "Chapter XIII.",
       "role": "heading"
     },
     {
       "order": 211,
       "chapterIndex": 5,
       "text": "IN WHICH PASSEPARTOUT RECEIVES A NEW PROOF THAT FORTUNE FAVORS THE BRAVE",
-      "ttsText": "IN WHICH PASSEPARTOUT RECEIVES Anew PROOF THAT FORTUNE FAVORS THE BRAVE",
+      "ttsText": "In Which Passepartout Receives A New Proof That Fortune Favors the Brave",
       "role": "paragraph"
     },
     {
@@ -1698,6 +1718,7 @@
       "order": 244,
       "chapterIndex": 5,
       "text": "“But what can you hope to do?” asked Sir Francis. “In a few hours it will be daylight, and—”",
+      "ttsText": "“But what can you hope to do?” asked Sir Francis. “In a few hours it will be daylight, and, ”",
       "role": "paragraph"
     },
     {
@@ -1728,6 +1749,7 @@
       "order": 249,
       "chapterIndex": 5,
       "text": "He had commenced by saying to himself, “What folly!” and then he repeated, “Why not, after all? It’s a chance,—perhaps the only one; and with such sots!” Thinking thus, he slipped, with the suppleness of a serpent, to the lowest branches, the ends of which bent almost to the ground.",
+      "ttsText": "He had commenced by saying to himself, “What folly!” and then he repeated, “Why not, after all? It’s a chance,, perhaps the only one; and with such sots!” Thinking thus, he slipped, with the suppleness of a serpent, to the lowest branches, the ends of which bent almost to the ground.",
       "role": "paragraph"
     },
     {
@@ -1800,12 +1822,14 @@
       "order": 261,
       "chapterIndex": 6,
       "text": "CHAPTER XIV.",
+      "ttsText": "Chapter XIV.",
       "role": "heading"
     },
     {
       "order": 262,
       "chapterIndex": 6,
       "text": "IN WHICH PHILEAS FOGG DESCENDS THE WHOLE LENGTH OF THE BEAUTIFUL VALLEY OF THE GANGES WITHOUT EVER THINKING OF SEEING IT",
+      "ttsText": "In Which Phileas Fogg Descends the Whole Length of the Beautiful Valley of the Ganges Without Ever Thinking of Seeing It",
       "role": "paragraph"
     },
     {
@@ -1926,6 +1950,7 @@
       "order": 282,
       "chapterIndex": 6,
       "text": "Phileas Fogg understood what was passing in Aouda’s mind, and offered, in order to reassure her, to escort her to Hong Kong, where she might remain safely until the affair was hushed up—an offer which she eagerly and gratefully accepted. She had, it seems, a Parsee relation, who was one of the principal merchants of Hong Kong, which is wholly an English city, though on an island on the Chinese coast.",
+      "ttsText": "Phileas Fogg understood what was passing in Aouda’s mind, and offered, in order to reassure her, to escort her to Hong Kong, where she might remain safely until the affair was hushed up, an offer which she eagerly and gratefully accepted. She had, it seems, a Parsee relation, who was one of the principal merchants of Hong Kong, which is wholly an English city, though on an island on the Chinese coast.",
       "role": "paragraph"
     },
     {
@@ -1980,12 +2005,14 @@
       "order": 291,
       "chapterIndex": 7,
       "text": "CHAPTER XV.",
+      "ttsText": "Chapter XV.",
       "role": "heading"
     },
     {
       "order": 292,
       "chapterIndex": 7,
       "text": "IN WHICH THE BAG OF BANKNOTES DISGORGES SOME THOUSANDS OF POUNDS MORE",
+      "ttsText": "In Which the Bag of Banknotes Disgorges Some Thousands of Pounds More",
       "role": "paragraph"
     },
     {
@@ -2052,6 +2079,7 @@
       "order": 303,
       "chapterIndex": 7,
       "text": "The carriage stopped before a modest-looking house, which, however, did not have the appearance of a private mansion. The policeman having requested his prisoners—for so, truly, they might be called—to descend, conducted them into a room with barred windows, and said: “You will appear before Judge Obadiah at half-past eight.”",
+      "ttsText": "The carriage stopped before a modest-looking house, which, however, did not have the appearance of a private mansion. The policeman having requested his prisoners, for so, truly, they might be called, to descend, conducted them into a room with barred windows, and said: “You will appear before Judge Obadiah at half-past eight.”",
       "role": "paragraph"
     },
     {
@@ -2190,6 +2218,7 @@
       "order": 326,
       "chapterIndex": 7,
       "text": "“I am an English subject, sir,” said Mr. Fogg, “and I have the right—”",
+      "ttsText": "“I am an English subject, sir,” said Mr. Fogg, “and I have the right, ”",
       "role": "paragraph"
     },
     {
@@ -2454,18 +2483,21 @@
       "order": 370,
       "chapterIndex": 8,
       "text": "CHAPTER XVI.",
+      "ttsText": "Chapter XVI.",
       "role": "heading"
     },
     {
       "order": 371,
       "chapterIndex": 8,
       "text": "IN WHICH FIX DOES NOT SEEM TO UNDERSTAND IN THE LEAST WHAT IS SAID TO HIM",
+      "ttsText": "In Which Fix Does Not Seem to Understand in the Least What Is Said to Him",
       "role": "paragraph"
     },
     {
       "order": 372,
       "chapterIndex": 8,
       "text": "The “Rangoon”—one of the Peninsular and Oriental Company’s boats plying in the Chinese and Japanese seas—was a screw steamer, built of iron, weighing about seventeen hundred and seventy tons, and with engines of four hundred horse-power. She was as fast, but not as well fitted up, as the “Mongolia,” and Aouda was not as comfortably provided for on board of her as Phileas Fogg could have wished. However, the trip from Calcutta to Hong Kong only comprised some three thousand five hundred miles, occupying from ten to twelve days, and the young woman was not difficult to please.",
+      "ttsText": "The “Rangoon”, one of the Peninsular and Oriental Company’s boats plying in the Chinese and Japanese seas, was a screw steamer, built of iron, weighing about seventeen hundred and seventy tons, and with engines of four hundred horse-power. She was as fast, but not as well fitted up, as the “Mongolia,” and Aouda was not as comfortably provided for on board of her as Phileas Fogg could have wished. However, the trip from Calcutta to Hong Kong only comprised some three thousand five hundred miles, occupying from ten to twelve days, and the young woman was not difficult to please.",
       "role": "paragraph"
     },
     {
@@ -2478,6 +2510,7 @@
       "order": 374,
       "chapterIndex": 8,
       "text": "Aouda confirmed the Parsee guide’s narrative of her touching history. She did, indeed, belong to the highest of the native races of India. Many of the Parsee merchants have made great fortunes there by dealing in cotton; and one of them, Sir Jametsee Jeejeebhoy, was made a baronet by the English government. Aouda was a relative of this great man, and it was his cousin, Jeejeeh, whom she hoped to join at Hong Kong. Whether she would find a protector in him she could not tell; but Mr. Fogg essayed to calm her anxieties, and to assure her that everything would be mathematically—he used the very word—arranged. Aouda fastened her great eyes, “clear as the sacred lakes of the Himalaya,” upon him; but the intractable Fogg, as reserved as ever, did not seem at all inclined to throw himself into this lake.",
+      "ttsText": "Aouda confirmed the Parsee guide’s narrative of her touching history. She did, indeed, belong to the highest of the native races of India. Many of the Parsee merchants have made great fortunes there by dealing in cotton; and one of them, Sir Jametsee Jeejeebhoy, was made a baronet by the English government. Aouda was a relative of this great man, and it was his cousin, Jeejeeh, whom she hoped to join at Hong Kong. Whether she would find a protector in him she could not tell; but Mr. Fogg essayed to calm her anxieties, and to assure her that everything would be mathematically, he used the very word, arranged. Aouda fastened her great eyes, “clear as the sacred lakes of the Himalaya,” upon him; but the intractable Fogg, as reserved as ever, did not seem at all inclined to throw himself into this lake.",
       "role": "paragraph"
     },
     {
@@ -2556,6 +2589,7 @@
       "order": 387,
       "chapterIndex": 8,
       "text": "“No, no,” replied Fix; “I shall stop at Hong Kong—at least for some days.”",
+      "ttsText": "“No, no,” replied Fix; “I shall stop at Hong Kong, at least for some days.”",
       "role": "paragraph"
     },
     {
@@ -2568,6 +2602,7 @@
       "order": 389,
       "chapterIndex": 8,
       "text": "“Oh, a trifle of sea-sickness—I’ve been staying in my berth. The Gulf of Bengal does not agree with me as well as the Indian Ocean. And how is Mr. Fogg?”",
+      "ttsText": "“Oh, a trifle of sea-sickness, I’ve been staying in my berth. The Gulf of Bengal does not agree with me as well as the Indian Ocean. And how is Mr. Fogg?”",
       "role": "paragraph"
     },
     {
@@ -2622,12 +2657,14 @@
       "order": 398,
       "chapterIndex": 9,
       "text": "CHAPTER XVII.",
+      "ttsText": "Chapter XVII.",
       "role": "heading"
     },
     {
       "order": 399,
       "chapterIndex": 9,
       "text": "SHOWING WHAT HAPPENED ON THE VOYAGE FROM SINGAPORE TO HONG KONG",
+      "ttsText": "Showing What Happened on the Voyage from Singapore to Hong Kong",
       "role": "paragraph"
     },
     {
@@ -2640,6 +2677,7 @@
       "order": 401,
       "chapterIndex": 9,
       "text": "Passepartout began very seriously to conjecture what strange chance kept Fix still on the route that his master was pursuing. It was really worth considering why this certainly very amiable and complacent person, whom he had first met at Suez, had then encountered on board the “Mongolia,” who disembarked at Bombay, which he announced as his destination, and now turned up so unexpectedly on the “Rangoon,” was following Mr. Fogg’s tracks step by step. What was Fix’s object? Passepartout was ready to wager his Indian shoes—which he religiously preserved—that Fix would also leave Hong Kong at the same time with them, and probably on the same steamer.",
+      "ttsText": "Passepartout began very seriously to conjecture what strange chance kept Fix still on the route that his master was pursuing. It was really worth considering why this certainly very amiable and complacent person, whom he had first met at Suez, had then encountered on board the “Mongolia,” who disembarked at Bombay, which he announced as his destination, and now turned up so unexpectedly on the “Rangoon,” was following Mr. Fogg’s tracks step by step. What was Fix’s object? Passepartout was ready to wager his Indian shoes, which he religiously preserved, that Fix would also leave Hong Kong at the same time with them, and probably on the same steamer.",
       "role": "paragraph"
     },
     {
@@ -2688,6 +2726,7 @@
       "order": 409,
       "chapterIndex": 9,
       "text": "Passepartout, who had been purchasing several dozen mangoes—a fruit as large as good-sized apples, of a dark-brown colour outside and a bright red within, and whose white pulp, melting in the mouth, affords gourmands a delicious sensation—was waiting for them on deck. He was only too glad to offer some mangoes to Aouda, who thanked him very gracefully for them.",
+      "ttsText": "Passepartout, who had been purchasing several dozen mangoes, a fruit as large as good-sized apples, of a dark-brown colour outside and a bright red within, and whose white pulp, melting in the mouth, affords gourmands a delicious sensation, was waiting for them on deck. He was only too glad to offer some mangoes to Aouda, who thanked him very gracefully for them.",
       "role": "paragraph"
     },
     {
@@ -2778,6 +2817,7 @@
       "order": 424,
       "chapterIndex": 9,
       "text": "“Why,” responded Fix, a little embarrassed, “I don’t know; perhaps—”",
+      "ttsText": "“Why,” responded Fix, a little embarrassed, “I don’t know; perhaps, ”",
       "role": "paragraph"
     },
     {
@@ -2850,12 +2890,14 @@
       "order": 436,
       "chapterIndex": 10,
       "text": "CHAPTER XVIII.",
+      "ttsText": "Chapter XVIII.",
       "role": "heading"
     },
     {
       "order": 437,
       "chapterIndex": 10,
       "text": "IN WHICH PHILEAS FOGG, PASSEPARTOUT, AND FIX GO EACH ABOUT HIS BUSINESS",
+      "ttsText": "In Which Phileas Fogg, Passepartout, And Fix Go Each About His Business",
       "role": "paragraph"
     },
     {
@@ -2874,6 +2916,7 @@
       "order": 440,
       "chapterIndex": 10,
       "text": "Fix did not look at the state of things in the same light. The storm greatly pleased him. His satisfaction would have been complete had the “Rangoon” been forced to retreat before the violence of wind and waves. Each delay filled him with hope, for it became more and more probable that Fogg would be obliged to remain some days at Hong Kong; and now the heavens themselves became his allies, with the gusts and squalls. It mattered not that they made him sea-sick—he made no account of this inconvenience; and, whilst his body was writhing under their effects, his spirit bounded with hopeful exultation.",
+      "ttsText": "Fix did not look at the state of things in the same light. The storm greatly pleased him. His satisfaction would have been complete had the “Rangoon” been forced to retreat before the violence of wind and waves. Each delay filled him with hope, for it became more and more probable that Fogg would be obliged to remain some days at Hong Kong; and now the heavens themselves became his allies, with the gusts and squalls. It mattered not that they made him sea-sick, he made no account of this inconvenience; and, whilst his body was writhing under their effects, his spirit bounded with hopeful exultation.",
       "role": "paragraph"
     },
     {
@@ -2898,6 +2941,7 @@
       "order": 444,
       "chapterIndex": 10,
       "text": "The pilot went on board at six, and took his place on the bridge, to guide the “Rangoon” through the channels to the port of Hong Kong. Passepartout longed to ask him if the steamer had left for Yokohama; but he dared not, for he wished to preserve the spark of hope, which still remained till the last moment. He had confided his anxiety to Fix who—the sly rascal!—tried to console him by saying that Mr. Fogg would be in time if he took the next boat; but this only put Passepartout in a passion.",
+      "ttsText": "The pilot went on board at six, and took his place on the bridge, to guide the “Rangoon” through the channels to the port of Hong Kong. Passepartout longed to ask him if the steamer had left for Yokohama; but he dared not, for he wished to preserve the spark of hope, which still remained till the last moment. He had confided his anxiety to Fix who, the sly rascal!, tried to console him by saying that Mr. Fogg would be in time if he took the next boat; but this only put Passepartout in a passion.",
       "role": "paragraph"
     },
     {
@@ -3000,6 +3044,7 @@
       "order": 461,
       "chapterIndex": 10,
       "text": "Mr. Fogg repaired to the Exchange, where, he did not doubt, every one would know so wealthy and considerable a personage as the Parsee merchant. Meeting a broker, he made the inquiry, to learn that Jeejeeh had left China two years before, and, retiring from business with an immense fortune, had taken up his residence in Europe—in Holland the broker thought, with the merchants of which country he had principally traded. Phileas Fogg returned to the hotel, begged a moment’s conversation with Aouda, and without more ado, apprised her that Jeejeeh was no longer at Hong Kong, but probably in Holland.",
+      "ttsText": "Mr. Fogg repaired to the Exchange, where, he did not doubt, every one would know so wealthy and considerable a personage as the Parsee merchant. Meeting a broker, he made the inquiry, to learn that Jeejeeh had left China two years before, and, retiring from business with an immense fortune, had taken up his residence in Europe, in Holland the broker thought, with the merchants of which country he had principally traded. Phileas Fogg returned to the hotel, begged a moment’s conversation with Aouda, and without more ado, apprised her that Jeejeeh was no longer at Hong Kong, but probably in Holland.",
       "role": "paragraph"
     },
     {
@@ -3018,6 +3063,7 @@
       "order": 464,
       "chapterIndex": 10,
       "text": "“But I cannot intrude—”",
+      "ttsText": "“But I cannot intrude, ”",
       "role": "paragraph"
     },
     {
@@ -3054,13 +3100,14 @@
       "order": 470,
       "chapterIndex": 11,
       "text": "CHAPTER XIX.",
+      "ttsText": "Chapter XIX.",
       "role": "heading"
     },
     {
       "order": 471,
       "chapterIndex": 11,
       "text": "IN WHICH PASSEPARTOUT TAKES A TOO GREAT INTEREST IN HIS MASTER, AND WHAT COMES OF IT",
-      "ttsText": "IN WHICH PASSEPARTOUT TAKES Atoo GREAT INTEREST IN HIS MASTER, AND WHAT COMES OF IT",
+      "ttsText": "In Which Passepartout Takes A Too Great Interest in His Master, And What Comes of It",
       "role": "paragraph"
     },
     {
@@ -3127,6 +3174,7 @@
       "order": 482,
       "chapterIndex": 11,
       "text": "Fix and Passepartout saw that they were in a smoking-house haunted by those wretched, cadaverous, idiotic creatures to whom the English merchants sell every year the miserable drug called opium, to the amount of one million four hundred thousand pounds—thousands devoted to one of the most despicable vices which afflict humanity! The Chinese government has in vain attempted to deal with the evil by stringent laws. It passed gradually from the rich, to whom it was at first exclusively reserved, to the lower classes, and then its ravages could not be arrested. Opium is smoked everywhere, at all times, by men and women, in the Celestial Empire; and, once accustomed to it, the victims cannot dispense with it, except by suffering horrible bodily contortions and agonies. A great smoker can smoke as many as eight pipes a day; but he dies in five years. It was in one of these dens that Fix and Passepartout, in search of a friendly glass, found themselves. Passepartout had no money, but willingly accepted Fix’s invitation in the hope of returning the obligation at some future time.",
+      "ttsText": "Fix and Passepartout saw that they were in a smoking-house haunted by those wretched, cadaverous, idiotic creatures to whom the English merchants sell every year the miserable drug called opium, to the amount of one million four hundred thousand pounds, thousands devoted to one of the most despicable vices which afflict humanity! The Chinese government has in vain attempted to deal with the evil by stringent laws. It passed gradually from the rich, to whom it was at first exclusively reserved, to the lower classes, and then its ravages could not be arrested. Opium is smoked everywhere, at all times, by men and women, in the Celestial Empire; and, once accustomed to it, the victims cannot dispense with it, except by suffering horrible bodily contortions and agonies. A great smoker can smoke as many as eight pipes a day; but he dies in five years. It was in one of these dens that Fix and Passepartout, in search of a friendly glass, found themselves. Passepartout had no money, but willingly accepted Fix’s invitation in the hope of returning the obligation at some future time.",
       "role": "paragraph"
     },
     {
@@ -3193,6 +3241,7 @@
       "order": 493,
       "chapterIndex": 11,
       "text": "“Then I’m going to tell you everything—”",
+      "ttsText": "“Then I’m going to tell you everything, ”",
       "role": "paragraph"
     },
     {
@@ -3223,6 +3272,7 @@
       "order": 498,
       "chapterIndex": 11,
       "text": "“What!” cried the Frenchman. “Has Monsieur Fogg dared—fifty-five thousand pounds! Well, there’s all the more reason for not losing an instant,” he continued, getting up hastily.",
+      "ttsText": "“What!” cried the Frenchman. “Has Monsieur Fogg dared, fifty-five thousand pounds! Well, there’s all the more reason for not losing an instant,” he continued, getting up hastily.",
       "role": "paragraph"
     },
     {
@@ -3331,6 +3381,7 @@
       "order": 516,
       "chapterIndex": 11,
       "text": "“Listen to me,” said Fix abruptly. “I am not, as you think, an agent of the members of the Reform Club—”",
+      "ttsText": "“Listen to me,” said Fix abruptly. “I am not, as you think, an agent of the members of the Reform Club, ”",
       "role": "paragraph"
     },
     {
@@ -3421,12 +3472,14 @@
       "order": 531,
       "chapterIndex": 11,
       "text": "“See here,” replied Fix; “I have tracked Mr. Fogg to this place, but as yet I have failed to receive the warrant of arrest for which I sent to London. You must help me to keep him here in Hong Kong—”",
+      "ttsText": "“See here,” replied Fix; “I have tracked Mr. Fogg to this place, but as yet I have failed to receive the warrant of arrest for which I sent to London. You must help me to keep him here in Hong Kong, ”",
       "role": "paragraph"
     },
     {
       "order": 532,
       "chapterIndex": 11,
       "text": "“I! But I—”",
+      "ttsText": "“I! But I, ”",
       "role": "paragraph"
     },
     {
@@ -3445,6 +3498,7 @@
       "order": 535,
       "chapterIndex": 11,
       "text": "“Mr. Fix,” he stammered, “even should what you say be true—if my master is really the robber you are seeking for—which I deny—I have been, am, in his service; I have seen his generosity and goodness; and I will never betray him—not for all the gold in the world. I come from a village where they don’t eat that kind of bread!”",
+      "ttsText": "“Mr. Fix,” he stammered, “even should what you say be true, if my master is really the robber you are seeking for, which I deny, I have been, am, in his service; I have seen his generosity and goodness; and I will never betray him, not for all the gold in the world. I come from a village where they don’t eat that kind of bread!”",
       "role": "paragraph"
     },
     {
@@ -3499,12 +3553,14 @@
       "order": 544,
       "chapterIndex": 12,
       "text": "CHAPTER II.",
+      "ttsText": "Chapter II.",
       "role": "heading"
     },
     {
       "order": 545,
       "chapterIndex": 12,
       "text": "IN WHICH PASSEPARTOUT IS CONVINCED THAT HE HAS AT LAST FOUND HIS IDEAL",
+      "ttsText": "In Which Passepartout Is Convinced That He Has at Last Found His Ideal",
       "role": "paragraph"
     },
     {
@@ -3559,6 +3615,7 @@
       "order": 554,
       "chapterIndex": 12,
       "text": "He suddenly observed, hung over the clock, a card which, upon inspection, proved to be a programme of the daily routine of the house. It comprised all that was required of the servant, from eight in the morning, exactly at which hour Phileas Fogg rose, till half-past eleven, when he left the house for the Reform Club—all the details of service, the tea and toast at twenty-three minutes past eight, the shaving-water at thirty-seven minutes past nine, and the toilet at twenty minutes before ten. Everything was regulated and foreseen that was to be done from half-past eleven a.m. till midnight, the hour at which the methodical gentleman retired.",
+      "ttsText": "He suddenly observed, hung over the clock, a card which, upon inspection, proved to be a programme of the daily routine of the house. It comprised all that was required of the servant, from eight in the morning, exactly at which hour Phileas Fogg rose, till half-past eleven, when he left the house for the Reform Club, all the details of service, the tea and toast at twenty-three minutes past eight, the shaving-water at thirty-seven minutes past nine, and the toilet at twenty minutes before ten. Everything was regulated and foreseen that was to be done from half-past eleven a.m.till midnight, the hour at which the methodical gentleman retired.",
       "role": "paragraph"
     },
     {
@@ -3583,12 +3640,14 @@
       "order": 558,
       "chapterIndex": 13,
       "text": "CHAPTER XX.",
+      "ttsText": "Chapter XX.",
       "role": "heading"
     },
     {
       "order": 559,
       "chapterIndex": 13,
       "text": "IN WHICH FIX COMES FACE TO FACE WITH PHILEAS FOGG",
+      "ttsText": "In Which Fix Comes Face to Face with Phileas Fogg",
       "role": "title"
     },
     {
@@ -3601,12 +3660,14 @@
       "order": 561,
       "chapterIndex": 13,
       "text": "“It is in the interest of my journey—a part of my programme.”",
+      "ttsText": "“It is in the interest of my journey, a part of my programme.”",
       "role": "paragraph"
     },
     {
       "order": 562,
       "chapterIndex": 13,
       "text": "The purchases made, they returned to the hotel, where they dined at a sumptuously served table-d’hôte; after which Aouda, shaking hands with her protector after the English fashion, retired to her room for rest. Mr. Fogg absorbed himself throughout the evening in the perusal of the Times and Illustrated London News .",
+      "ttsText": "The purchases made, they returned to the hotel, where they dined at a sumptuously served table-d’hôte; after which Aouda, shaking hands with her protector after the English fashion, retired to her room for rest. Mr. Fogg absorbed himself throughout the evening in the perusal of the Times and Illustrated London News.",
       "role": "paragraph"
     },
     {
@@ -3631,6 +3692,7 @@
       "order": 566,
       "chapterIndex": 13,
       "text": "“I was, sir,” replied Mr. Fogg coldly. “But I have not the honour—”",
+      "ttsText": "“I was, sir,” replied Mr. Fogg coldly. “But I have not the honour, ”",
       "role": "paragraph"
     },
     {
@@ -3709,6 +3771,7 @@
       "order": 579,
       "chapterIndex": 13,
       "text": "“Yes, your honour; a pilot-boat—No. 43—the best in the harbour.”",
+      "ttsText": "“Yes, your honour; a pilot-boat, No. 43, the best in the harbour.”",
       "role": "paragraph"
     },
     {
@@ -3907,6 +3970,7 @@
       "order": 612,
       "chapterIndex": 13,
       "text": "“And you could go—”",
+      "ttsText": "“And you could go, ”",
       "role": "paragraph"
     },
     {
@@ -3937,12 +4001,14 @@
       "order": 617,
       "chapterIndex": 13,
       "text": "“If it would not put your honour out—”",
+      "ttsText": "“If it would not put your honour out, ”",
       "role": "paragraph"
     },
     {
       "order": 618,
       "chapterIndex": 13,
       "text": "“Here are two hundred pounds on account sir,” added Phileas Fogg, turning to Fix, “if you would like to take advantage—”",
+      "ttsText": "“Here are two hundred pounds on account sir,” added Phileas Fogg, turning to Fix, “if you would like to take advantage, ”",
       "role": "paragraph"
     },
     {
@@ -4033,13 +4099,14 @@
       "order": 633,
       "chapterIndex": 14,
       "text": "CHAPTER XXI.",
+      "ttsText": "Chapter XXI.",
       "role": "heading"
     },
     {
       "order": 634,
       "chapterIndex": 14,
       "text": "IN WHICH THE MASTER OF THE “TANKADERE” RUNS GREAT RISK OF LOSING A REWARD OF TWO HUNDRED POUNDS",
-      "ttsText": "IN WHICH THE MASTER OF THE “TANKADERE” RUNS GREAT RISK OF LOSING Areward OF TWO HUNDRED POUNDS",
+      "ttsText": "In Which the Master of the “Tankadere” Runs Great Risk of Losing A Reward of Two Hundred Pounds",
       "role": "paragraph"
     },
     {
@@ -4124,6 +4191,7 @@
       "order": 648,
       "chapterIndex": 14,
       "text": "At sunrise the next day, which was 8th November, the boat had made more than one hundred miles. The log indicated a mean speed of between eight and nine miles. The “Tankadere” still carried all sail, and was accomplishing her greatest capacity of speed. If the wind held as it was, the chances would be in her favour. During the day she kept along the coast, where the currents were favourable; the coast, irregular in profile, and visible sometimes across the clearings, was at most five miles distant. The sea was less boisterous, since the wind came off land—a fortunate circumstance for the boat, which would suffer, owing to its small tonnage, by a heavy surge on the sea.",
+      "ttsText": "At sunrise the next day, which was 8th November, the boat had made more than one hundred miles. The log indicated a mean speed of between eight and nine miles. The “Tankadere” still carried all sail, and was accomplishing her greatest capacity of speed. If the wind held as it was, the chances would be in her favour. During the day she kept along the coast, where the currents were favourable; the coast, irregular in profile, and visible sometimes across the clearings, was at most five miles distant. The sea was less boisterous, since the wind came off land, a fortunate circumstance for the boat, which would suffer, owing to its small tonnage, by a heavy surge on the sea.",
       "role": "paragraph"
     },
     {
@@ -4142,6 +4210,7 @@
       "order": 651,
       "chapterIndex": 14,
       "text": "When the meal was over, he took Mr. Fogg apart, and said, “sir”—this “sir” scorched his lips, and he had to control himself to avoid collaring this “gentleman”—“sir, you have been very kind to give me a passage on this boat. But, though my means will not admit of my expending them as freely as you, I must ask to pay my share—”",
+      "ttsText": "When the meal was over, he took Mr. Fogg apart, and said, “sir”, this “sir” scorched his lips, and he had to control himself to avoid collaring this “gentleman”, “sir, you have been very kind to give me a passage on this boat. But, though my means will not admit of my expending them as freely as you, I must ask to pay my share, ”",
       "role": "paragraph"
     },
     {
@@ -4154,6 +4223,7 @@
       "order": 653,
       "chapterIndex": 14,
       "text": "“But, if I insist—”",
+      "ttsText": "“But, if I insist, ”",
       "role": "paragraph"
     },
     {
@@ -4286,6 +4356,7 @@
       "order": 675,
       "chapterIndex": 14,
       "text": "“And that is—”",
+      "ttsText": "“And that is, ”",
       "role": "paragraph"
     },
     {
@@ -4298,6 +4369,7 @@
       "order": 677,
       "chapterIndex": 14,
       "text": "The pilot, at first, did not seem to comprehend; he could scarcely realise so much determination and tenacity. Then he cried, “Well—yes! Your honour is right. To Shanghai!”",
+      "ttsText": "The pilot, at first, did not seem to comprehend; he could scarcely realise so much determination and tenacity. Then he cried, “Well, yes! Your honour is right. To Shanghai!”",
       "role": "paragraph"
     },
     {
@@ -4334,6 +4406,7 @@
       "order": 683,
       "chapterIndex": 14,
       "text": "The wind grew decidedly calmer, and happily the sea fell with it. All sails were now hoisted, and at noon the “Tankadere” was within forty-five miles of Shanghai. There remained yet six hours in which to accomplish that distance. All on board feared that it could not be done, and every one—Phileas Fogg, no doubt, excepted—felt his heart beat with impatience. The boat must keep up an average of nine miles an hour, and the wind was becoming calmer every moment! It was a capricious breeze, coming from the coast, and after it passed the sea became smooth. Still, the “Tankadere” was so light, and her fine sails caught the fickle zephyrs so well, that, with the aid of the currents John Bunsby found himself at six o’clock not more than ten miles from the mouth of Shanghai River. Shanghai itself is situated at least twelve miles up the stream. At seven they were still three miles from Shanghai. The pilot swore an angry oath; the reward of two hundred pounds was evidently on the point of escaping him. He looked at Mr. Fogg. Mr. Fogg was perfectly tranquil; and yet his whole fortune was at this moment at stake.",
+      "ttsText": "The wind grew decidedly calmer, and happily the sea fell with it. All sails were now hoisted, and at noon the “Tankadere” was within forty-five miles of Shanghai. There remained yet six hours in which to accomplish that distance. All on board feared that it could not be done, and every one, Phileas Fogg, no doubt, excepted, felt his heart beat with impatience. The boat must keep up an average of nine miles an hour, and the wind was becoming calmer every moment! It was a capricious breeze, coming from the coast, and after it passed the sea became smooth. Still, the “Tankadere” was so light, and her fine sails caught the fickle zephyrs so well, that, with the aid of the currents John Bunsby found himself at six o’clock not more than ten miles from the mouth of Shanghai River. Shanghai itself is situated at least twelve miles up the stream. At seven they were still three miles from Shanghai. The pilot swore an angry oath; the reward of two hundred pounds was evidently on the point of escaping him. He looked at Mr. Fogg. Mr. Fogg was perfectly tranquil; and yet his whole fortune was at this moment at stake.",
       "role": "paragraph"
     },
     {
@@ -4382,19 +4455,21 @@
       "order": 691,
       "chapterIndex": 15,
       "text": "CHAPTER XXII.",
+      "ttsText": "Chapter XXII.",
       "role": "heading"
     },
     {
       "order": 692,
       "chapterIndex": 15,
       "text": "IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS CONVENIENT TO HAVE SOME MONEY IN ONE’S POCKET",
-      "ttsText": "IN WHICH PASSEPARTOUT FINDS OUT THAT, EVEN AT THE ANTIPODES, IT IS CONVENIENT TO HAVE SOME MONEY IN ONE’Spocket",
+      "ttsText": "In Which Passepartout Finds Out That, Even at the Antipodes, It Is Convenient to Have Some Money in One’s Pocket",
       "role": "paragraph"
     },
     {
       "order": 693,
       "chapterIndex": 15,
       "text": "The “Carnatic,” setting sail from Hong Kong at half-past six on the 7th of November, directed her course at full steam towards Japan. She carried a large cargo and a well-filled cabin of passengers. Two state-rooms in the rear were, however, unoccupied—those which had been engaged by Phileas Fogg.",
+      "ttsText": "The “Carnatic,” setting sail from Hong Kong at half-past six on the 7th of November, directed her course at full steam towards Japan. She carried a large cargo and a well-filled cabin of passengers. Two state-rooms in the rear were, however, unoccupied, those which had been engaged by Phileas Fogg.",
       "role": "paragraph"
     },
     {
@@ -4449,6 +4524,7 @@
       "order": 702,
       "chapterIndex": 15,
       "text": "“I beg your pardon,” said Passepartout persistently. “He is a tall gentleman, quiet, and not very talkative, and has with him a young lady—”",
+      "ttsText": "“I beg your pardon,” said Passepartout persistently. “He is a tall gentleman, quiet, and not very talkative, and has with him a young lady, ”",
       "role": "paragraph"
     },
     {
@@ -4521,6 +4597,7 @@
       "order": 714,
       "chapterIndex": 15,
       "text": "He had, at least, one resource,—to call on the French and English consuls at Yokohama for assistance. But he shrank from telling the story of his adventures, intimately connected as it was with that of his master; and, before doing so, he determined to exhaust all other means of aid. As chance did not favour him in the European quarter, he penetrated that inhabited by the native Japanese, determined, if necessary, to push on to Yeddo.",
+      "ttsText": "He had, at least, one resource,, to call on the French and English consuls at Yokohama for assistance. But he shrank from telling the story of his adventures, intimately connected as it was with that of his master; and, before doing so, he determined to exhaust all other means of aid. As chance did not favour him in the European quarter, he penetrated that inhabited by the native Japanese, determined, if necessary, to push on to Yeddo.",
       "role": "paragraph"
     },
     {
@@ -4533,6 +4610,7 @@
       "order": 716,
       "chapterIndex": 15,
       "text": "The streets were crowded with people. Priests were passing in processions, beating their dreary tambourines; police and custom-house officers with pointed hats encrusted with lac and carrying two sabres hung to their waists; soldiers, clad in blue cotton with white stripes, and bearing guns; the Mikado’s guards, enveloped in silken doubles, hauberks and coats of mail; and numbers of military folk of all ranks—for the military profession is as much respected in Japan as it is despised in China—went hither and thither in groups and pairs. Passepartout saw, too, begging friars, long-robed pilgrims, and simple civilians, with their warped and jet-black hair, big heads, long busts, slender legs, short stature, and complexions varying from copper-colour to a dead white, but never yellow, like the Chinese, from whom the Japanese widely differ. He did not fail to observe the curious equipages—carriages and palanquins, barrows supplied with sails, and litters made of bamboo; nor the women—whom he thought not especially handsome—who took little steps with their little feet, whereon they wore canvas shoes, straw sandals, and clogs of worked wood, and who displayed tight-looking eyes, flat chests, teeth fashionably blackened, and gowns crossed with silken scarfs, tied in an enormous knot behind an ornament which the modern Parisian ladies seem to have borrowed from the dames of Japan.",
+      "ttsText": "The streets were crowded with people. Priests were passing in processions, beating their dreary tambourines; police and custom-house officers with pointed hats encrusted with lac and carrying two sabres hung to their waists; soldiers, clad in blue cotton with white stripes, and bearing guns; the Mikado’s guards, enveloped in silken doubles, hauberks and coats of mail; and numbers of military folk of all ranks, for the military profession is as much respected in Japan as it is despised in China, went hither and thither in groups and pairs. Passepartout saw, too, begging friars, long-robed pilgrims, and simple civilians, with their warped and jet-black hair, big heads, long busts, slender legs, short stature, and complexions varying from copper-colour to a dead white, but never yellow, like the Chinese, from whom the Japanese widely differ. He did not fail to observe the curious equipages, carriages and palanquins, barrows supplied with sails, and litters made of bamboo; nor the women, whom he thought not especially handsome, who took little steps with their little feet, whereon they wore canvas shoes, straw sandals, and clogs of worked wood, and who displayed tight-looking eyes, flat chests, teeth fashionably blackened, and gowns crossed with silken scarfs, tied in an enormous knot behind an ornament which the modern Parisian ladies seem to have borrowed from the dames of Japan.",
       "role": "paragraph"
     },
     {
@@ -4569,6 +4647,7 @@
       "order": 722,
       "chapterIndex": 15,
       "text": "The worthy fellow had certainly taken good care to eat as hearty a breakfast as possible before leaving the “Carnatic;” but, as he had been walking about all day, the demands of hunger were becoming importunate. He observed that the butchers stalls contained neither mutton, goat, nor pork; and, knowing also that it is a sacrilege to kill cattle, which are preserved solely for farming, he made up his mind that meat was far from plentiful in Yokohama—nor was he mistaken; and, in default of butcher’s meat, he could have wished for a quarter of wild boar or deer, a partridge, or some quails, some game or fish, which, with rice, the Japanese eat almost exclusively. But he found it necessary to keep up a stout heart, and to postpone the meal he craved till the following morning. Night came, and Passepartout re-entered the native quarter, where he wandered through the streets, lit by vari-coloured lanterns, looking on at the dancers, who were executing skilful steps and boundings, and the astrologers who stood in the open air with their telescopes. Then he came to the harbour, which was lit up by the resin torches of the fishermen, who were fishing from their boats.",
+      "ttsText": "The worthy fellow had certainly taken good care to eat as hearty a breakfast as possible before leaving the “Carnatic;” but, as he had been walking about all day, the demands of hunger were becoming importunate. He observed that the butchers stalls contained neither mutton, goat, nor pork; and, knowing also that it is a sacrilege to kill cattle, which are preserved solely for farming, he made up his mind that meat was far from plentiful in Yokohama, nor was he mistaken; and, in default of butcher’s meat, he could have wished for a quarter of wild boar or deer, a partridge, or some quails, some game or fish, which, with rice, the Japanese eat almost exclusively. But he found it necessary to keep up a stout heart, and to postpone the meal he craved till the following morning. Night came, and Passepartout re-entered the native quarter, where he wandered through the streets, lit by vari-coloured lanterns, looking on at the dancers, who were executing skilful steps and boundings, and the astrologers who stood in the open air with their telescopes. Then he came to the harbour, which was lit up by the resin torches of the fishermen, who were fishing from their boats.",
       "role": "paragraph"
     },
     {
@@ -4587,13 +4666,14 @@
       "order": 725,
       "chapterIndex": 16,
       "text": "CHAPTER XXIII.",
+      "ttsText": "Chapter XXIII.",
       "role": "heading"
     },
     {
       "order": 726,
       "chapterIndex": 16,
       "text": "IN WHICH PASSEPARTOUT’S NOSE BECOMES OUTRAGEOUSLY LONG",
-      "ttsText": "IN WHICH PASSEPARTOUT’Snose BECOMES OUTRAGEOUSLY LONG",
+      "ttsText": "In Which Passepartout’s Nose Becomes Outrageously Long",
       "role": "title"
     },
     {
@@ -4654,48 +4734,56 @@
       "order": 736,
       "chapterIndex": 16,
       "text": "ACROBATIC JAPANESE TROUPE,",
+      "ttsText": "Acrobatic Japanese Troupe,",
       "role": "title"
     },
     {
       "order": 737,
       "chapterIndex": 16,
       "text": "HONOURABLE WILLIAM BATULCAR, PROPRIETOR,",
+      "ttsText": "Honourable William Batulcar, Proprietor,",
       "role": "title"
     },
     {
       "order": 738,
       "chapterIndex": 16,
       "text": "LAST REPRESENTATIONS,",
+      "ttsText": "Last Representations,",
       "role": "title"
     },
     {
       "order": 739,
       "chapterIndex": 16,
       "text": "PRIOR TO THEIR DEPARTURE TO THE UNITED STATES,",
+      "ttsText": "Prior to Their Departure to the United States,",
       "role": "title"
     },
     {
       "order": 740,
       "chapterIndex": 16,
       "text": "OF THE",
+      "ttsText": "Of the",
       "role": "title"
     },
     {
       "order": 741,
       "chapterIndex": 16,
       "text": "LONG NOSES! LONG NOSES!",
+      "ttsText": "Long Noses! Long Noses!",
       "role": "title"
     },
     {
       "order": 742,
       "chapterIndex": 16,
       "text": "UNDER THE DIRECT PATRONAGE OF THE GOD TINGOU!",
+      "ttsText": "Under the Direct Patronage of the God Tingou!",
       "role": "title"
     },
     {
       "order": 743,
       "chapterIndex": 16,
       "text": "GREAT ATTRACTION!",
+      "ttsText": "Great Attraction!",
       "role": "title"
     },
     {
@@ -4888,6 +4976,7 @@
       "order": 775,
       "chapterIndex": 16,
       "text": "It is useless to describe the astonishing performances of the acrobats and gymnasts. The turning on ladders, poles, balls, barrels, &c., was executed with wonderful precision.",
+      "ttsText": "It is useless to describe the astonishing performances of the acrobats and gymnasts. The turning on ladders, poles, balls, barrels, and c., was executed with wonderful precision.",
       "role": "paragraph"
     },
     {
@@ -4912,6 +5001,7 @@
       "order": 779,
       "chapterIndex": 16,
       "text": "The poor fellow really felt sad when—melancholy reminiscence of his youth!—he donned his costume, adorned with vari-coloured wings, and fastened to his natural feature a false nose six feet long. But he cheered up when he thought that this nose was winning him something to eat.",
+      "ttsText": "The poor fellow really felt sad when, melancholy reminiscence of his youth!, he donned his costume, adorned with vari-coloured wings, and fastened to his natural feature a false nose six feet long. But he cheered up when he thought that this nose was winning him something to eat.",
       "role": "paragraph"
     },
     {
@@ -4966,12 +5056,14 @@
       "order": 788,
       "chapterIndex": 17,
       "text": "CHAPTER XXIV.",
+      "ttsText": "Chapter XXIV.",
       "role": "heading"
     },
     {
       "order": 789,
       "chapterIndex": 17,
       "text": "DURING WHICH MR. FOGG AND PARTY CROSS THE PACIFIC OCEAN",
+      "ttsText": "During Which Mr. Fogg and Party Cross the Pacific Ocean",
       "role": "title"
     },
     {
@@ -4984,6 +5076,7 @@
       "order": 791,
       "chapterIndex": 17,
       "text": "They reached their destination on the morning of the 14th of November. Phileas Fogg lost no time in going on board the “Carnatic,” where he learned, to Aouda’s great delight—and perhaps to his own, though he betrayed no emotion—that Passepartout, a Frenchman, had really arrived on her the day before.",
+      "ttsText": "They reached their destination on the morning of the 14th of November. Phileas Fogg lost no time in going on board the “Carnatic,” where he learned, to Aouda’s great delight, and perhaps to his own, though he betrayed no emotion, that Passepartout, a Frenchman, had really arrived on her the day before.",
       "role": "paragraph"
     },
     {
@@ -5014,6 +5107,7 @@
       "order": 796,
       "chapterIndex": 17,
       "text": "The steamer which was about to depart from Yokohama to San Francisco belonged to the Pacific Mail Steamship Company, and was named the “General Grant.” She was a large paddle-wheel steamer of two thousand five hundred tons; well equipped and very fast. The massive walking-beam rose and fell above the deck; at one end a piston-rod worked up and down; and at the other was a connecting-rod which, in changing the rectilinear motion to a circular one, was directly connected with the shaft of the paddles. The “General Grant” was rigged with three masts, giving a large capacity for sails, and thus materially aiding the steam power. By making twelve miles an hour, she would cross the ocean in twenty-one days. Phileas Fogg was therefore justified in hoping that he would reach San Francisco by the 2nd of December, New York by the 11th, and London on the 20th—thus gaining several hours on the fatal date of the 21st of December.",
+      "ttsText": "The steamer which was about to depart from Yokohama to San Francisco belonged to the Pacific Mail Steamship Company, and was named the “General Grant.” She was a large paddle-wheel steamer of two thousand five hundred tons; well equipped and very fast. The massive walking-beam rose and fell above the deck; at one end a piston-rod worked up and down; and at the other was a connecting-rod which, in changing the rectilinear motion to a circular one, was directly connected with the shaft of the paddles. The “General Grant” was rigged with three masts, giving a large capacity for sails, and thus materially aiding the steam power. By making twelve miles an hour, she would cross the ocean in twenty-one days. Phileas Fogg was therefore justified in hoping that he would reach San Francisco by the 2nd of December, New York by the 11th, and London on the 20th, thus gaining several hours on the fatal date of the 21st of December.",
       "role": "paragraph"
     },
     {
@@ -5080,6 +5174,7 @@
       "order": 807,
       "chapterIndex": 17,
       "text": "His course decided on, he went on board the “General Grant,” and was there when Mr. Fogg and Aouda arrived. To his utter amazement, he recognised Passepartout, despite his theatrical disguise. He quickly concealed himself in his cabin, to avoid an awkward explanation, and hoped—thanks to the number of passengers—to remain unperceived by Mr. Fogg’s servant.",
+      "ttsText": "His course decided on, he went on board the “General Grant,” and was there when Mr. Fogg and Aouda arrived. To his utter amazement, he recognised Passepartout, despite his theatrical disguise. He quickly concealed himself in his cabin, to avoid an awkward explanation, and hoped, thanks to the number of passengers, to remain unperceived by Mr. Fogg’s servant.",
       "role": "paragraph"
     },
     {
@@ -5098,6 +5193,7 @@
       "order": 810,
       "chapterIndex": 17,
       "text": "“For this time—yes.”",
+      "ttsText": "“For this time, yes.”",
       "role": "paragraph"
     },
     {
@@ -5110,6 +5206,7 @@
       "order": 812,
       "chapterIndex": 17,
       "text": "“But I—”",
+      "ttsText": "“But I, ”",
       "role": "paragraph"
     },
     {
@@ -5170,6 +5267,7 @@
       "order": 822,
       "chapterIndex": 17,
       "text": "“Friends?—no,” replied Passepartout; “but allies, perhaps. At the least sign of treason, however, I’ll twist your neck for you.”",
+      "ttsText": "“Friends?, no,” replied Passepartout; “but allies, perhaps. At the least sign of treason, however, I’ll twist your neck for you.”",
       "role": "paragraph"
     },
     {
@@ -5200,13 +5298,14 @@
       "order": 827,
       "chapterIndex": 18,
       "text": "CHAPTER XXV.",
+      "ttsText": "Chapter XXV.",
       "role": "heading"
     },
     {
       "order": 828,
       "chapterIndex": 18,
       "text": "IN WHICH A SLIGHT GLIMPSE IS HAD OF SAN FRANCISCO",
-      "ttsText": "IN WHICH Aslight GLIMPSE IS HAD OF SAN FRANCISCO",
+      "ttsText": "In Which A Slight Glimpse Is Had of San Francisco",
       "role": "title"
     },
     {
@@ -5231,12 +5330,14 @@
       "order": 832,
       "chapterIndex": 18,
       "text": "From his exalted position Passepartout observed with much curiosity the wide streets, the low, evenly ranged houses, the Anglo-Saxon Gothic churches, the great docks, the palatial wooden and brick warehouses, the numerous conveyances, omnibuses, horse-cars, and upon the side-walks, not only Americans and Europeans, but Chinese and Indians. Passepartout was surprised at all he saw. San Francisco was no longer the legendary city of 1849—a city of banditti, assassins, and incendiaries, who had flocked hither in crowds in pursuit of plunder; a paradise of outlaws, where they gambled with gold-dust, a revolver in one hand and a bowie-knife in the other: it was now a great commercial emporium.",
+      "ttsText": "From his exalted position Passepartout observed with much curiosity the wide streets, the low, evenly ranged houses, the Anglo-Saxon Gothic churches, the great docks, the palatial wooden and brick warehouses, the numerous conveyances, omnibuses, horse-cars, and upon the side-walks, not only Americans and Europeans, but Chinese and Indians. Passepartout was surprised at all he saw. San Francisco was no longer the legendary city of 1849, a city of banditti, assassins, and incendiaries, who had flocked hither in crowds in pursuit of plunder; a paradise of outlaws, where they gambled with gold-dust, a revolver in one hand and a bowie-knife in the other: it was now a great commercial emporium.",
       "role": "paragraph"
     },
     {
       "order": 833,
       "chapterIndex": 18,
       "text": "The lofty tower of its City Hall overlooked the whole panorama of the streets and avenues, which cut each other at right-angles, and in the midst of which appeared pleasant, verdant squares, while beyond appeared the Chinese quarter, seemingly imported from the Celestial Empire in a toy-box. Sombreros and red shirts and plumed Indians were rarely to be seen; but there were silk hats and black coats everywhere worn by a multitude of nervously active, gentlemanly-looking men. Some of the streets—especially Montgomery Street, which is to San Francisco what Regent Street is to London, the Boulevard des Italiens to Paris, and Broadway to New York—were lined with splendid and spacious stores, which exposed in their windows the products of the entire world.",
+      "ttsText": "The lofty tower of its City Hall overlooked the whole panorama of the streets and avenues, which cut each other at right-angles, and in the midst of which appeared pleasant, verdant squares, while beyond appeared the Chinese quarter, seemingly imported from the Celestial Empire in a toy-box. Sombreros and red shirts and plumed Indians were rarely to be seen; but there were silk hats and black coats everywhere worn by a multitude of nervously active, gentlemanly-looking men. Some of the streets, especially Montgomery Street, which is to San Francisco what Regent Street is to London, the Boulevard des Italiens to Paris, and Broadway to New York, were lined with splendid and spacious stores, which exposed in their windows the products of the entire world.",
       "role": "paragraph"
     },
     {
@@ -5255,6 +5356,7 @@
       "order": 836,
       "chapterIndex": 18,
       "text": "After breakfast, Mr. Fogg, accompanied by Aouda, started for the English consulate to have his passport visaed . As he was going out, he met Passepartout, who asked him if it would not be well, before taking the train, to purchase some dozens of Enfield rifles and Colt’s revolvers. He had been listening to stories of attacks upon the trains by the Sioux and Pawnees. Mr. Fogg thought it a useless precaution, but told him to do as he thought best, and went on to the consulate.",
+      "ttsText": "After breakfast, Mr. Fogg, accompanied by Aouda, started for the English consulate to have his passport visaed. As he was going out, he met Passepartout, who asked him if it would not be well, before taking the train, to purchase some dozens of Enfield rifles and Colt’s revolvers. He had been listening to stories of attacks upon the trains by the Sioux and Pawnees. Mr. Fogg thought it a useless precaution, but told him to do as he thought best, and went on to the consulate.",
       "role": "paragraph"
     },
     {
@@ -5267,6 +5369,7 @@
       "order": 838,
       "chapterIndex": 18,
       "text": "Mr. Fogg replied that the honour would be his; and the detective—who was determined not to lose sight of him—begged permission to accompany them in their walk about San Francisco—a request which Mr. Fogg readily granted.",
+      "ttsText": "Mr. Fogg replied that the honour would be his; and the detective, who was determined not to lose sight of him, begged permission to accompany them in their walk about San Francisco, a request which Mr. Fogg readily granted.",
       "role": "paragraph"
     },
     {
@@ -5309,12 +5412,14 @@
       "order": 845,
       "chapterIndex": 18,
       "text": "For what purpose was this meeting? What was the occasion of this excited assemblage? Phileas Fogg could not imagine. Was it to nominate some high official—a governor or member of Congress? It was not improbable, so agitated was the multitude before them.",
+      "ttsText": "For what purpose was this meeting? What was the occasion of this excited assemblage? Phileas Fogg could not imagine. Was it to nominate some high official, a governor or member of Congress? It was not improbable, so agitated was the multitude before them.",
       "role": "paragraph"
     },
     {
       "order": 846,
       "chapterIndex": 18,
       "text": "Just at this moment there was an unusual stir in the human mass. All the hands were raised in the air. Some, tightly closed, seemed to disappear suddenly in the midst of the cries—an energetic way, no doubt, of casting a vote. The crowd swayed back, the banners and flags wavered, disappeared an instant, then reappeared in tatters. The undulations of the human surge reached the steps, while all the heads floundered on the surface like a sea agitated by a squall. Many of the black hats disappeared, and the greater part of the crowd seemed to have diminished in height.",
+      "ttsText": "Just at this moment there was an unusual stir in the human mass. All the hands were raised in the air. Some, tightly closed, seemed to disappear suddenly in the midst of the cries, an energetic way, no doubt, of casting a vote. The crowd swayed back, the banners and flags wavered, disappeared an instant, then reappeared in tatters. The undulations of the human surge reached the steps, while all the heads floundered on the surface like a sea agitated by a squall. Many of the black hats disappeared, and the greater part of the crowd seemed to have diminished in height.",
       "role": "paragraph"
     },
     {
@@ -5351,6 +5456,7 @@
       "order": 852,
       "chapterIndex": 18,
       "text": "“An English subject—” began Mr. Fogg.",
+      "ttsText": "“An English subject, ” began Mr. Fogg.",
       "role": "paragraph"
     },
     {
@@ -5519,18 +5625,21 @@
       "order": 880,
       "chapterIndex": 19,
       "text": "CHAPTER XXVI.",
+      "ttsText": "Chapter XXVI.",
       "role": "heading"
     },
     {
       "order": 881,
       "chapterIndex": 19,
       "text": "IN WHICH PHILEAS FOGG AND PARTY TRAVEL BY THE PACIFIC RAILROAD",
+      "ttsText": "In Which Phileas Fogg and Party Travel by the Pacific Railroad",
       "role": "paragraph"
     },
     {
       "order": 882,
       "chapterIndex": 19,
       "text": "“From ocean to ocean”—so say the Americans; and these four words compose the general designation of the “great trunk line” which crosses the entire width of the United States. The Pacific Railroad is, however, really divided into two distinct lines: the Central Pacific, between San Francisco and Ogden, and the Union Pacific, between Ogden and Omaha. Five main lines connect Omaha with New York.",
+      "ttsText": "“From ocean to ocean”, so say the Americans; and these four words compose the general designation of the “great trunk line” which crosses the entire width of the United States. The Pacific Railroad is, however, really divided into two distinct lines: the Central Pacific, between San Francisco and Ogden, and the Union Pacific, between Ogden and Omaha. Five main lines connect Omaha with New York.",
       "role": "paragraph"
     },
     {
@@ -5555,12 +5664,14 @@
       "order": 886,
       "chapterIndex": 19,
       "text": "The Pacific Railroad is joined by several branches in Iowa, Kansas, Colorado, and Oregon. On leaving Omaha, it passes along the left bank of the Platte River as far as the junction of its northern branch, follows its southern branch, crosses the Laramie territory and the Wahsatch Mountains, turns the Great Salt Lake, and reaches Salt Lake City, the Mormon capital, plunges into the Tuilla Valley, across the American Desert, Cedar and Humboldt Mountains, the Sierra Nevada, and descends, viâ Sacramento, to the Pacific—its grade, even on the Rocky Mountains, never exceeding one hundred and twelve feet to the mile.",
+      "ttsText": "The Pacific Railroad is joined by several branches in Iowa, Kansas, Colorado, and Oregon. On leaving Omaha, it passes along the left bank of the Platte River as far as the junction of its northern branch, follows its southern branch, crosses the Laramie territory and the Wahsatch Mountains, turns the Great Salt Lake, and reaches Salt Lake City, the Mormon capital, plunges into the Tuilla Valley, across the American Desert, Cedar and Humboldt Mountains, the Sierra Nevada, and descends, viâ Sacramento, to the Pacific, its grade, even on the Rocky Mountains, never exceeding one hundred and twelve feet to the mile.",
       "role": "paragraph"
     },
     {
       "order": 887,
       "chapterIndex": 19,
       "text": "Such was the road to be traversed in seven days, which would enable Phileas Fogg—at least, so he hoped—to take the Atlantic steamer at New York on the 11th for Liverpool.",
+      "ttsText": "Such was the road to be traversed in seven days, which would enable Phileas Fogg, at least, so he hoped, to take the Atlantic steamer at New York on the 11th for Liverpool.",
       "role": "paragraph"
     },
     {
@@ -5597,6 +5708,7 @@
       "order": 893,
       "chapterIndex": 19,
       "text": "At eight o’clock a steward entered the car and announced that the time for going to bed had arrived; and in a few minutes the car was transformed into a dormitory. The backs of the seats were thrown back, bedsteads carefully packed were rolled out by an ingenious system, berths were suddenly improvised, and each traveller had soon at his disposition a comfortable bed, protected from curious eyes by thick curtains. The sheets were clean and the pillows soft. It only remained to go to bed and sleep which everybody did—while the train sped on across the State of California.",
+      "ttsText": "At eight o’clock a steward entered the car and announced that the time for going to bed had arrived; and in a few minutes the car was transformed into a dormitory. The backs of the seats were thrown back, bedsteads carefully packed were rolled out by an ingenious system, berths were suddenly improvised, and each traveller had soon at his disposition a comfortable bed, protected from curious eyes by thick curtains. The sheets were clean and the pillows soft. It only remained to go to bed and sleep which everybody did, while the train sped on across the State of California.",
       "role": "paragraph"
     },
     {
@@ -5687,13 +5799,14 @@
       "order": 908,
       "chapterIndex": 20,
       "text": "CHAPTER XXVII.",
+      "ttsText": "Chapter XXVII.",
       "role": "heading"
     },
     {
       "order": 909,
       "chapterIndex": 20,
       "text": "IN WHICH PASSEPARTOUT UNDERGOES, AT A SPEED OF TWENTY MILES AN HOUR, A COURSE OF MORMON HISTORY",
-      "ttsText": "IN WHICH PASSEPARTOUT UNDERGOES, AT Aspeed OF TWENTY MILES AN HOUR, Acourse OF MORMON HISTORY",
+      "ttsText": "In Which Passepartout Undergoes, At A Speed of Twenty Miles an Hour, A Course of Mormon History",
       "role": "paragraph"
     },
     {
@@ -5790,6 +5903,7 @@
       "order": 925,
       "chapterIndex": 20,
       "text": "During the lecture the train had been making good progress, and towards half-past twelve it reached the northwest border of the Great Salt Lake. Thence the passengers could observe the vast extent of this interior sea, which is also called the Dead Sea, and into which flows an American Jordan. It is a picturesque expanse, framed in lofty crags in large strata, encrusted with white salt—a superb sheet of water, which was formerly of larger extent than now, its shores having encroached with the lapse of time, and thus at once reduced its breadth and increased its depth.",
+      "ttsText": "During the lecture the train had been making good progress, and towards half-past twelve it reached the northwest border of the Great Salt Lake. Thence the passengers could observe the vast extent of this interior sea, which is also called the Dead Sea, and into which flows an American Jordan. It is a picturesque expanse, framed in lofty crags in large strata, encrusted with white salt, a superb sheet of water, which was formerly of larger extent than now, its shores having encroached with the lapse of time, and thus at once reduced its breadth and increased its depth.",
       "role": "paragraph"
     },
     {
@@ -5808,18 +5922,21 @@
       "order": 928,
       "chapterIndex": 20,
       "text": "The train reached Ogden at two o’clock, where it rested for six hours, Mr. Fogg and his party had time to pay a visit to Salt Lake City, connected with Ogden by a branch road; and they spent two hours in this strikingly American town, built on the pattern of other cities of the Union, like a checker-board, “with the sombre sadness of right-angles,” as Victor Hugo expresses it. The founder of the City of the Saints could not escape from the taste for symmetry which distinguishes the Anglo-Saxons. In this strange country, where the people are certainly not up to the level of their institutions, everything is done “squarely”—cities, houses, and follies.",
+      "ttsText": "The train reached Ogden at two o’clock, where it rested for six hours, Mr. Fogg and his party had time to pay a visit to Salt Lake City, connected with Ogden by a branch road; and they spent two hours in this strikingly American town, built on the pattern of other cities of the Union, like a checker-board, “with the sombre sadness of right-angles,” as Victor Hugo expresses it. The founder of the City of the Saints could not escape from the taste for symmetry which distinguishes the Anglo-Saxons. In this strange country, where the people are certainly not up to the level of their institutions, everything is done “squarely”, cities, houses, and follies.",
       "role": "paragraph"
     },
     {
       "order": 929,
       "chapterIndex": 20,
       "text": "The travellers, then, were promenading, at three o’clock, about the streets of the town built between the banks of the Jordan and the spurs of the Wahsatch Range. They saw few or no churches, but the prophet’s mansion, the court-house, and the arsenal, blue-brick houses with verandas and porches, surrounded by gardens bordered with acacias, palms, and locusts. A clay and pebble wall, built in 1853, surrounded the town; and in the principal street were the market and several hotels adorned with pavilions. The place did not seem thickly populated. The streets were almost deserted, except in the vicinity of the temple, which they only reached after having traversed several quarters surrounded by palisades. There were many women, which was easily accounted for by the “peculiar institution” of the Mormons; but it must not be supposed that all the Mormons are polygamists. They are free to marry or not, as they please; but it is worth noting that it is mainly the female citizens of Utah who are anxious to marry, as, according to the Mormon religion, maiden ladies are not admitted to the possession of its highest joys. These poor creatures seemed to be neither well off nor happy. Some—the more well-to-do, no doubt—wore short, open, black silk dresses, under a hood or modest shawl; others were habited in Indian fashion.",
+      "ttsText": "The travellers, then, were promenading, at three o’clock, about the streets of the town built between the banks of the Jordan and the spurs of the Wahsatch Range. They saw few or no churches, but the prophet’s mansion, the court-house, and the arsenal, blue-brick houses with verandas and porches, surrounded by gardens bordered with acacias, palms, and locusts. A clay and pebble wall, built in 1853, surrounded the town; and in the principal street were the market and several hotels adorned with pavilions. The place did not seem thickly populated. The streets were almost deserted, except in the vicinity of the temple, which they only reached after having traversed several quarters surrounded by palisades. There were many women, which was easily accounted for by the “peculiar institution” of the Mormons; but it must not be supposed that all the Mormons are polygamists. They are free to marry or not, as they please; but it is worth noting that it is mainly the female citizens of Utah who are anxious to marry, as, according to the Mormon religion, maiden ladies are not admitted to the possession of its highest joys. These poor creatures seemed to be neither well off nor happy. Some, the more well-to-do, no doubt, wore short, open, black silk dresses, under a hood or modest shawl; others were habited in Indian fashion.",
       "role": "paragraph"
     },
     {
       "order": 930,
       "chapterIndex": 20,
       "text": "Passepartout could not behold without a certain fright these women, charged, in groups, with conferring happiness on a single Mormon. His common sense pitied, above all, the husband. It seemed to him a terrible thing to have to guide so many wives at once across the vicissitudes of life, and to conduct them, as it were, in a body to the Mormon paradise with the prospect of seeing them in the company of the glorious Smith, who doubtless was the chief ornament of that delightful place, to all eternity. He felt decidedly repelled from such a vocation, and he imagined—perhaps he was mistaken—that the fair ones of Salt Lake City cast rather alarming glances on his person. Happily, his stay there was but brief. At four the party found themselves again at the station, took their places in the train, and the whistle sounded for starting. Just at the moment, however, that the locomotive wheels began to move, cries of “Stop! stop!” were heard.",
+      "ttsText": "Passepartout could not behold without a certain fright these women, charged, in groups, with conferring happiness on a single Mormon. His common sense pitied, above all, the husband. It seemed to him a terrible thing to have to guide so many wives at once across the vicissitudes of life, and to conduct them, as it were, in a body to the Mormon paradise with the prospect of seeing them in the company of the glorious Smith, who doubtless was the chief ornament of that delightful place, to all eternity. He felt decidedly repelled from such a vocation, and he imagined, perhaps he was mistaken, that the fair ones of Salt Lake City cast rather alarming glances on his person. Happily, his stay there was but brief. At four the party found themselves again at the station, took their places in the train, and the whistle sounded for starting. Just at the moment, however, that the locomotive wheels began to move, cries of “Stop! stop!” were heard.",
       "role": "paragraph"
     },
     {
@@ -5844,6 +5961,7 @@
       "order": 934,
       "chapterIndex": 20,
       "text": "“One, sir,” replied the Mormon, raising his arms heavenward —“one, and that was enough!”",
+      "ttsText": "“One, sir,” replied the Mormon, raising his arms heavenward, “one, and that was enough!”",
       "role": "paragraph"
     },
     {
@@ -5856,12 +5974,14 @@
       "order": 936,
       "chapterIndex": 21,
       "text": "CHAPTER XXVIII.",
+      "ttsText": "Chapter XXVIII.",
       "role": "heading"
     },
     {
       "order": 937,
       "chapterIndex": 21,
       "text": "IN WHICH PASSEPARTOUT DOES NOT SUCCEED IN MAKING ANYBODY LISTEN TO REASON",
+      "ttsText": "In Which Passepartout Does Not Succeed in Making Anybody Listen to Reason",
       "role": "paragraph"
     },
     {
@@ -5934,6 +6054,7 @@
       "order": 949,
       "chapterIndex": 21,
       "text": "“You are right, madam,” replied Fix; “a meeting between them might ruin all. Whether he were victorious or beaten, Mr. Fogg would be delayed, and—”",
+      "ttsText": "“You are right, madam,” replied Fix; “a meeting between them might ruin all. Whether he were victorious or beaten, Mr. Fogg would be delayed, and, ”",
       "role": "paragraph"
     },
     {
@@ -5988,6 +6109,7 @@
       "order": 958,
       "chapterIndex": 21,
       "text": "“Oh, but we can easily buy some cards, for they are sold on all the American trains. And as for partners, if madam plays—”",
+      "ttsText": "“Oh, but we can easily buy some cards, for they are sold on all the American trains. And as for partners, if madam plays, ”",
       "role": "paragraph"
     },
     {
@@ -6000,6 +6122,7 @@
       "order": 960,
       "chapterIndex": 21,
       "text": "“I myself have some pretensions to playing a good game. Well, here are three of us, and a dummy—”",
+      "ttsText": "“I myself have some pretensions to playing a good game. Well, here are three of us, and a dummy, ”",
       "role": "paragraph"
     },
     {
@@ -6222,6 +6345,7 @@
       "order": 997,
       "chapterIndex": 21,
       "text": "Passepartout was astounded, and, though ready to attempt anything to get over Medicine Creek, thought the experiment proposed a little too American. “Besides,” thought he, “there’s a still more simple way, and it does not even occur to any of these people! Sir,” said he aloud to one of the passengers, “the engineer’s plan seems to me a little dangerous, but—”",
+      "ttsText": "Passepartout was astounded, and, though ready to attempt anything to get over Medicine Creek, thought the experiment proposed a little too American. “Besides,” thought he, “there’s a still more simple way, and it does not even occur to any of these people! Sir,” said he aloud to one of the passengers, “the engineer’s plan seems to me a little dangerous, but, ”",
       "role": "paragraph"
     },
     {
@@ -6234,6 +6358,7 @@
       "order": 999,
       "chapterIndex": 21,
       "text": "“I know it,” said Passepartout, turning to another passenger, “but a simple idea—”",
+      "ttsText": "“I know it,” said Passepartout, turning to another passenger, “but a simple idea, ”",
       "role": "paragraph"
     },
     {
@@ -6246,6 +6371,7 @@
       "order": 1001,
       "chapterIndex": 21,
       "text": "“Doubtless,” urged Passepartout, “we can pass, but perhaps it would be more prudent—”",
+      "ttsText": "“Doubtless,” urged Passepartout, “we can pass, but perhaps it would be more prudent, ”",
       "role": "paragraph"
     },
     {
@@ -6258,6 +6384,7 @@
       "order": 1003,
       "chapterIndex": 21,
       "text": "“I know—I see,” repeated Passepartout; “but it would be, if not more prudent, since that word displeases you, at least more natural—”",
+      "ttsText": "“I know, I see,” repeated Passepartout; “but it would be, if not more prudent, since that word displeases you, at least more natural, ”",
       "role": "paragraph"
     },
     {
@@ -6306,6 +6433,7 @@
       "order": 1011,
       "chapterIndex": 21,
       "text": "The locomotive whistled vigorously; the engineer, reversing the steam, backed the train for nearly a mile—retiring, like a jumper, in order to take a longer leap. Then, with another whistle, he began to move forward; the train increased its speed, and soon its rapidity became frightful; a prolonged screech issued from the locomotive; the piston worked up and down twenty strokes to the second. They perceived that the whole train, rushing on at the rate of a hundred miles an hour, hardly bore upon the rails at all.",
+      "ttsText": "The locomotive whistled vigorously; the engineer, reversing the steam, backed the train for nearly a mile, retiring, like a jumper, in order to take a longer leap. Then, with another whistle, he began to move forward; the train increased its speed, and soon its rapidity became frightful; a prolonged screech issued from the locomotive; the piston worked up and down twenty strokes to the second. They perceived that the whole train, rushing on at the rate of a hundred miles an hour, hardly bore upon the rails at all.",
       "role": "paragraph"
     },
     {
@@ -6324,12 +6452,14 @@
       "order": 1014,
       "chapterIndex": 22,
       "text": "CHAPTER XXIX.",
+      "ttsText": "Chapter XXIX.",
       "role": "heading"
     },
     {
       "order": 1015,
       "chapterIndex": 22,
       "text": "IN WHICH CERTAIN INCIDENTS ARE NARRATED WHICH ARE ONLY TO BE MET WITH ON AMERICAN RAILROADS",
+      "ttsText": "In Which Certain Incidents Are Narrated Which Are Only to Be Met with on American Railroads",
       "role": "paragraph"
     },
     {
@@ -6372,6 +6502,7 @@
       "order": 1022,
       "chapterIndex": 22,
       "text": "Mr. Fogg and his partners had resumed their game; no one—not even the dummy—complained of the length of the trip. Fix had begun by winning several guineas, which he seemed likely to lose; but he showed himself a not less eager whist-player than Mr. Fogg. During the morning, chance distinctly favoured that gentleman. Trumps and honours were showered upon his hands.",
+      "ttsText": "Mr. Fogg and his partners had resumed their game; no one, not even the dummy, complained of the length of the trip. Fix had begun by winning several guineas, which he seemed likely to lose; but he showed himself a not less eager whist-player than Mr. Fogg. During the morning, chance distinctly favoured that gentleman. Trumps and honours were showered upon his hands.",
       "role": "paragraph"
     },
     {
@@ -6750,19 +6881,21 @@
       "order": 1085,
       "chapterIndex": 23,
       "text": "CHAPTER III.",
+      "ttsText": "Chapter III.",
       "role": "heading"
     },
     {
       "order": 1086,
       "chapterIndex": 23,
       "text": "IN WHICH A CONVERSATION TAKES PLACE WHICH SEEMS LIKELY TO COST PHILEAS FOGG DEAR",
-      "ttsText": "IN WHICH Aconversation TAKES PLACE WHICH SEEMS LIKELY TO COST PHILEAS FOGG DEAR",
+      "ttsText": "In Which A Conversation Takes Place Which Seems Likely to Cost Phileas Fogg Dear",
       "role": "paragraph"
     },
     {
       "order": 1087,
       "chapterIndex": 23,
       "text": "Phileas Fogg, having shut the door of his house at half-past eleven, and having put his right foot before his left five hundred and seventy-five times, and his left foot before his right five hundred and seventy-six times, reached the Reform Club, an imposing edifice in Pall Mall, which could not have cost less than three millions. He repaired at once to the dining-room, the nine windows of which open upon a tasteful garden, where the trees were already gilded with an autumn colouring; and took his place at the habitual table, the cover of which had already been laid for him. His breakfast consisted of a side-dish, a broiled fish with Reading sauce, a scarlet slice of roast beef garnished with mushrooms, a rhubarb and gooseberry tart, and a morsel of Cheshire cheese, the whole being washed down with several cups of tea, for which the Reform is famous. He rose at thirteen minutes to one, and directed his steps towards the large hall, a sumptuous apartment adorned with lavishly-framed paintings. A flunkey handed him an uncut Times , which he proceeded to cut with a skill which betrayed familiarity with this delicate operation. The perusal of this paper absorbed Phileas Fogg until a quarter before four, whilst the Standard , his next task, occupied him till the dinner hour. Dinner passed as breakfast had done, and Mr. Fogg re-appeared in the reading-room and sat down to the Pall Mall at twenty minutes before six. Half an hour later several members of the Reform came in and drew up to the fireplace, where a coal fire was steadily burning. They were Mr. Fogg’s usual partners at whist: Andrew Stuart, an engineer; John Sullivan and Samuel Fallentin, bankers; Thomas Flanagan, a brewer; and Gauthier Ralph, one of the Directors of the Bank of England—all rich and highly respectable personages, even in a club which comprises the princes of English trade and finance.",
+      "ttsText": "Phileas Fogg, having shut the door of his house at half-past eleven, and having put his right foot before his left five hundred and seventy-five times, and his left foot before his right five hundred and seventy-six times, reached the Reform Club, an imposing edifice in Pall Mall, which could not have cost less than three millions. He repaired at once to the dining-room, the nine windows of which open upon a tasteful garden, where the trees were already gilded with an autumn colouring; and took his place at the habitual table, the cover of which had already been laid for him. His breakfast consisted of a side-dish, a broiled fish with Reading sauce, a scarlet slice of roast beef garnished with mushrooms, a rhubarb and gooseberry tart, and a morsel of Cheshire cheese, the whole being washed down with several cups of tea, for which the Reform is famous. He rose at thirteen minutes to one, and directed his steps towards the large hall, a sumptuous apartment adorned with lavishly-framed paintings. A flunkey handed him an uncut Times, which he proceeded to cut with a skill which betrayed familiarity with this delicate operation. The perusal of this paper absorbed Phileas Fogg until a quarter before four, whilst the Standard, his next task, occupied him till the dinner hour. Dinner passed as breakfast had done, and Mr. Fogg re-appeared in the reading-room and sat down to the Pall Mall at twenty minutes before six. Half an hour later several members of the Reform came in and drew up to the fireplace, where a coal fire was steadily burning. They were Mr. Fogg’s usual partners at whist: Andrew Stuart, an engineer; John Sullivan and Samuel Fallentin, bankers; Thomas Flanagan, a brewer; and Gauthier Ralph, one of the Directors of the Bank of England, all rich and highly respectable personages, even in a club which comprises the princes of English trade and finance.",
       "role": "paragraph"
     },
     {
@@ -6907,6 +7040,7 @@
       "order": 1111,
       "chapterIndex": 23,
       "text": "But the incredulous Stuart was not convinced, and when the hand was finished, said eagerly: “You have a strange way, Ralph, of proving that the world has grown smaller. So, because you can go round it in three months—”",
+      "ttsText": "But the incredulous Stuart was not convinced, and when the hand was finished, said eagerly: “You have a strange way, Ralph, of proving that the world has grown smaller. So, because you can go round it in three months, ”",
       "role": "paragraph"
     },
     {
@@ -6919,66 +7053,77 @@
       "order": 1113,
       "chapterIndex": 23,
       "text": "“That is true, gentlemen,” added John Sullivan. “Only eighty days, now that the section between Rothal and Allahabad, on the Great Indian Peninsula Railway, has been opened. Here is the estimate made by the Daily Telegraph: —",
+      "ttsText": "“That is true, gentlemen,” added John Sullivan. “Only eighty days, now that the section between Rothal and Allahabad, on the Great Indian Peninsula Railway, has been opened. Here is the estimate made by the Daily Telegraph:,",
       "role": "paragraph"
     },
     {
       "order": 1114,
       "chapterIndex": 23,
       "text": "From London to Suez viâ Mont Cenis and Brindisi, by rail and steamboats ................. 7 days",
+      "ttsText": "From London to Suez viâ Mont Cenis and Brindisi, by rail and steamboats … 7 days",
       "role": "paragraph"
     },
     {
       "order": 1115,
       "chapterIndex": 23,
       "text": "From Suez to Bombay, by steamer .................... 13 ”",
+      "ttsText": "From Suez to Bombay, by steamer … 13 ”",
       "role": "paragraph"
     },
     {
       "order": 1116,
       "chapterIndex": 23,
       "text": "From Bombay to Calcutta, by rail ................... 3 ”",
+      "ttsText": "From Bombay to Calcutta, by rail … 3 ”",
       "role": "paragraph"
     },
     {
       "order": 1117,
       "chapterIndex": 23,
       "text": "From Calcutta to Hong Kong, by steamer ............. 13 ”",
+      "ttsText": "From Calcutta to Hong Kong, by steamer … 13 ”",
       "role": "paragraph"
     },
     {
       "order": 1118,
       "chapterIndex": 23,
       "text": "From Hong Kong to Yokohama (Japan), by steamer ..... 6 ”",
+      "ttsText": "From Hong Kong to Yokohama (Japan), by steamer … 6 ”",
       "role": "paragraph"
     },
     {
       "order": 1119,
       "chapterIndex": 23,
       "text": "From Yokohama to San Francisco, by steamer ......... 22 ”",
+      "ttsText": "From Yokohama to San Francisco, by steamer … 22 ”",
       "role": "paragraph"
     },
     {
       "order": 1120,
       "chapterIndex": 23,
       "text": "From San Francisco to New York, by rail ............. 7 ”",
+      "ttsText": "From San Francisco to New York, by rail … 7 ”",
       "role": "paragraph"
     },
     {
       "order": 1121,
       "chapterIndex": 23,
       "text": "From New York to London, by steamer and rail ........ 9 ”",
+      "ttsText": "From New York to London, by steamer and rail … 9 ”",
       "role": "paragraph"
     },
     {
       "order": 1122,
       "chapterIndex": 23,
       "text": "-------",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "-, -"
     },
     {
       "order": 1123,
       "chapterIndex": 23,
       "text": "Total ............................................ 80 days.”",
+      "ttsText": "Total … 80 days.”",
       "role": "paragraph"
     },
     {
@@ -7009,6 +7154,7 @@
       "order": 1128,
       "chapterIndex": 23,
       "text": "Stuart, whose turn it was to deal, gathered them up, and went on: “You are right, theoretically, Mr. Fogg, but practically—”",
+      "ttsText": "Stuart, whose turn it was to deal, gathered them up, and went on: “You are right, theoretically, Mr. Fogg, but practically, ”",
       "role": "paragraph"
     },
     {
@@ -7153,6 +7299,7 @@
       "order": 1152,
       "chapterIndex": 23,
       "text": "“I will jump—mathematically.”",
+      "ttsText": "“I will jump, mathematically.”",
       "role": "paragraph"
     },
     {
@@ -7219,12 +7366,14 @@
       "order": 1163,
       "chapterIndex": 24,
       "text": "CHAPTER XXX.",
+      "ttsText": "Chapter XXX.",
       "role": "heading"
     },
     {
       "order": 1164,
       "chapterIndex": 24,
       "text": "IN WHICH PHILEAS FOGG SIMPLY DOES HIS DUTY",
+      "ttsText": "In Which Phileas Fogg Simply Does His Duty",
       "role": "title"
     },
     {
@@ -7261,6 +7410,7 @@
       "order": 1170,
       "chapterIndex": 24,
       "text": "“Ah, Mr.—Mr. Fogg!” cried she, clasping his hands and covering them with tears.",
+      "ttsText": "“Ah, Mr., Mr. Fogg!” cried she, clasping his hands and covering them with tears.",
       "role": "paragraph"
     },
     {
@@ -7345,6 +7495,7 @@
       "order": 1184,
       "chapterIndex": 24,
       "text": "“Would you have me leave this poor fellow to perish—him to whom every one present owes his life? I shall go.”",
+      "ttsText": "“Would you have me leave this poor fellow to perish, him to whom every one present owes his life? I shall go.”",
       "role": "paragraph"
     },
     {
@@ -7375,6 +7526,7 @@
       "order": 1189,
       "chapterIndex": 24,
       "text": "“Do as you please, sir. But if you wish to do me a favour, you will remain with Aouda. In case anything should happen to me—”",
+      "ttsText": "“Do as you please, sir. But if you wish to do me a favour, you will remain with Aouda. In case anything should happen to me, ”",
       "role": "paragraph"
     },
     {
@@ -7471,6 +7623,7 @@
       "order": 1205,
       "chapterIndex": 24,
       "text": "“But the prisoners, our unfortunate fellow-travellers—”",
+      "ttsText": "“But the prisoners, our unfortunate fellow-travellers, ”",
       "role": "paragraph"
     },
     {
@@ -7495,6 +7648,7 @@
       "order": 1209,
       "chapterIndex": 24,
       "text": "“To-morrow evening! But then it will be too late! We must wait—”",
+      "ttsText": "“To-morrow evening! But then it will be too late! We must wait, ”",
       "role": "paragraph"
     },
     {
@@ -7639,12 +7793,14 @@
       "order": 1233,
       "chapterIndex": 25,
       "text": "CHAPTER XXXI.",
+      "ttsText": "Chapter XXXI.",
       "role": "heading"
     },
     {
       "order": 1234,
       "chapterIndex": 25,
       "text": "IN WHICH FIX, THE DETECTIVE, CONSIDERABLY FURTHERS THE INTERESTS OF PHILEAS FOGG",
+      "ttsText": "In Which Fix, The Detective, Considerably Furthers the Interests of Phileas Fogg",
       "role": "paragraph"
     },
     {
@@ -7783,6 +7939,7 @@
       "order": 1257,
       "chapterIndex": 25,
       "text": "The prairie, across which the sledge was moving in a straight line, was as flat as a sea. It seemed like a vast frozen lake. The railroad which ran through this section ascended from the south-west to the north-west by Great Island, Columbus, an important Nebraska town, Schuyler, and Fremont, to Omaha. It followed throughout the right bank of the Platte River. The sledge, shortening this route, took a chord of the arc described by the railway. Mudge was not afraid of being stopped by the Platte River, because it was frozen. The road, then, was quite clear of obstacles, and Phileas Fogg had but two things to fear—an accident to the sledge, and a change or calm in the wind.",
+      "ttsText": "The prairie, across which the sledge was moving in a straight line, was as flat as a sea. It seemed like a vast frozen lake. The railroad which ran through this section ascended from the south-west to the north-west by Great Island, Columbus, an important Nebraska town, Schuyler, and Fremont, to Omaha. It followed throughout the right bank of the Platte River. The sledge, shortening this route, took a chord of the arc described by the railway. Mudge was not afraid of being stopped by the Platte River, because it was frozen. The road, then, was quite clear of obstacles, and Phileas Fogg had but two things to fear, an accident to the sledge, and a change or calm in the wind.",
       "role": "paragraph"
     },
     {
@@ -7879,13 +8036,14 @@
       "order": 1273,
       "chapterIndex": 26,
       "text": "CHAPTER XXXII.",
+      "ttsText": "Chapter XXXII.",
       "role": "heading"
     },
     {
       "order": 1274,
       "chapterIndex": 26,
       "text": "IN WHICH PHILEAS FOGG ENGAGES IN A DIRECT STRUGGLE WITH BAD FORTUNE",
-      "ttsText": "IN WHICH PHILEAS FOGG ENGAGES IN Adirect STRUGGLE WITH BAD FORTUNE",
+      "ttsText": "In Which Phileas Fogg Engages in A Direct Struggle with Bad Fortune",
       "role": "paragraph"
     },
     {
@@ -7976,6 +8134,7 @@
       "order": 1289,
       "chapterIndex": 26,
       "text": "“You are bound for—”",
+      "ttsText": "“You are bound for, ”",
       "role": "paragraph"
     },
     {
@@ -8078,6 +8237,7 @@
       "order": 1306,
       "chapterIndex": 26,
       "text": "“But the owners of the ‘Henrietta’—” resumed Phileas Fogg.",
+      "ttsText": "“But the owners of the ‘Henrietta’, ” resumed Phileas Fogg.",
       "role": "paragraph"
     },
     {
@@ -8120,6 +8280,7 @@
       "order": 1313,
       "chapterIndex": 26,
       "text": "Still, some means must be found to cross the Atlantic on a boat, unless by balloon—which would have been venturesome, besides not being capable of being put in practice. It seemed that Phileas Fogg had an idea, for he said to the captain, “Well, will you carry me to Bordeaux?”",
+      "ttsText": "Still, some means must be found to cross the Atlantic on a boat, unless by balloon, which would have been venturesome, besides not being capable of being put in practice. It seemed that Phileas Fogg had an idea, for he said to the captain, “Well, will you carry me to Bordeaux?”",
       "role": "paragraph"
     },
     {
@@ -8198,12 +8359,14 @@
       "order": 1326,
       "chapterIndex": 27,
       "text": "CHAPTER XXXIII.",
+      "ttsText": "Chapter XXXIII.",
       "role": "heading"
     },
     {
       "order": 1327,
       "chapterIndex": 27,
       "text": "IN WHICH PHILEAS FOGG SHOWS HIMSELF EQUAL TO THE OCCASION",
+      "ttsText": "In Which Phileas Fogg Shows Himself Equal to the Occasion",
       "role": "title"
     },
     {
@@ -8234,6 +8397,7 @@
       "order": 1332,
       "chapterIndex": 27,
       "text": "If, then—for there were “ifs” still—the sea did not become too boisterous, if the wind did not veer round to the east, if no accident happened to the boat or its machinery, the “Henrietta” might cross the three thousand miles from New York to Liverpool in the nine days, between the 12th and the 21st of December. It is true that, once arrived, the affair on board the “Henrietta,” added to that of the Bank of England, might create more difficulties for Mr. Fogg than he imagined or could desire.",
+      "ttsText": "If, then, for there were “ifs” still, the sea did not become too boisterous, if the wind did not veer round to the east, if no accident happened to the boat or its machinery, the “Henrietta” might cross the three thousand miles from New York to Liverpool in the nine days, between the 12th and the 21st of December. It is true that, once arrived, the affair on board the “Henrietta,” added to that of the Bank of England, might create more difficulties for Mr. Fogg than he imagined or could desire.",
       "role": "paragraph"
     },
     {
@@ -8384,6 +8548,7 @@
       "order": 1357,
       "chapterIndex": 27,
       "text": "“I have sent for you, sir—”",
+      "ttsText": "“I have sent for you, sir, ”",
       "role": "paragraph"
     },
     {
@@ -8396,6 +8561,7 @@
       "order": 1359,
       "chapterIndex": 27,
       "text": "“—sir,” continued Mr. Fogg, “to ask you to sell me your vessel.”",
+      "ttsText": "“, sir,” continued Mr. Fogg, “to ask you to sell me your vessel.”",
       "role": "paragraph"
     },
     {
@@ -8468,12 +8634,14 @@
       "order": 1371,
       "chapterIndex": 27,
       "text": "When Andrew Speedy had pocketed the money, Mr. Fogg said to him, “Don’t let this astonish you, sir. You must know that I shall lose twenty thousand pounds, unless I arrive in London by a quarter before nine on the evening of the 21st of December. I missed the steamer at New York, and as you refused to take me to Liverpool—”",
+      "ttsText": "When Andrew Speedy had pocketed the money, Mr. Fogg said to him, “Don’t let this astonish you, sir. You must know that I shall lose twenty thousand pounds, unless I arrive in London by a quarter before nine on the evening of the 21st of December. I missed the steamer at New York, and as you refused to take me to Liverpool, ”",
       "role": "paragraph"
     },
     {
       "order": 1372,
       "chapterIndex": 27,
       "text": "“And I did well!” cried Andrew Speedy; “for I have gained at least forty thousand dollars by it!” He added, more sedately, “Do you know one thing, Captain—”",
+      "ttsText": "“And I did well!” cried Andrew Speedy; “for I have gained at least forty thousand dollars by it!” He added, more sedately, “Do you know one thing, Captain, ”",
       "role": "paragraph"
     },
     {
@@ -8498,6 +8666,7 @@
       "order": 1376,
       "chapterIndex": 27,
       "text": "“Certainly, from the keel to the truck of the masts—all the wood, that is.”",
+      "ttsText": "“Certainly, from the keel to the truck of the masts, all the wood, that is.”",
       "role": "paragraph"
     },
     {
@@ -8612,12 +8781,14 @@
       "order": 1395,
       "chapterIndex": 28,
       "text": "CHAPTER XXXIV.",
+      "ttsText": "Chapter XXXIV.",
       "role": "heading"
     },
     {
       "order": 1396,
       "chapterIndex": 28,
       "text": "IN WHICH PHILEAS FOGG AT LAST REACHES LONDON",
+      "ttsText": "In Which Phileas Fogg at Last Reaches London",
       "role": "title"
     },
     {
@@ -8660,6 +8831,7 @@
       "order": 1403,
       "chapterIndex": 28,
       "text": "If anyone, at this moment, had entered the Custom House, he would have found Mr. Fogg seated, motionless, calm, and without apparent anger, upon a wooden bench. He was not, it is true, resigned; but this last blow failed to force him into an outward betrayal of any emotion. Was he being devoured by one of those secret rages, all the more terrible because contained, and which only burst forth, with an irresistible force, at the last moment? No one could tell. There he sat, calmly waiting—for what? Did he still cherish hope? Did he still believe, now that the door of this prison was closed upon him, that he would succeed?",
+      "ttsText": "If anyone, at this moment, had entered the Custom House, he would have found Mr. Fogg seated, motionless, calm, and without apparent anger, upon a wooden bench. He was not, it is true, resigned; but this last blow failed to force him into an outward betrayal of any emotion. Was he being devoured by one of those secret rages, all the more terrible because contained, and which only burst forth, with an irresistible force, at the last moment? No one could tell. There he sat, calmly waiting, for what? Did he still cherish hope? Did he still believe, now that the door of this prison was closed upon him, that he would succeed?",
       "role": "paragraph"
     },
     {
@@ -8684,7 +8856,8 @@
       "order": 1407,
       "chapterIndex": 28,
       "text": "Two hours! Admitting that he was at this moment taking an express train, he could reach London and the Reform Club by a quarter before nine, p.m. His forehead slightly wrinkled.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Two hours! Admitting that he was at this moment taking an express train, he could reach London and the Reform Club by a quarter before nine, p.m.His forehead slightly wrinkled."
     },
     {
       "order": 1408,
@@ -8702,6 +8875,7 @@
       "order": 1410,
       "chapterIndex": 28,
       "text": "Fix was out of breath, and his hair was in disorder. He could not speak. “Sir,” he stammered, “sir—forgive me—most—unfortunate resemblance—robber arrested three days ago—you are free!”",
+      "ttsText": "Fix was out of breath, and his hair was in disorder. He could not speak. “Sir,” he stammered, “sir, forgive me, most, unfortunate resemblance, robber arrested three days ago, you are free!”",
       "role": "paragraph"
     },
     {
@@ -8756,7 +8930,7 @@
       "order": 1419,
       "chapterIndex": 28,
       "text": "[1] A somewhat remarkable eccentricity on the part of the London clocks!—T RANSLATOR .",
-      "ttsText": "[1] A somewhat remarkable eccentricity on the part of the London clocks!—Translator .",
+      "ttsText": "[1] A somewhat remarkable eccentricity on the part of the London clocks!, Translator.",
       "role": "paragraph"
     },
     {
@@ -8769,12 +8943,14 @@
       "order": 1421,
       "chapterIndex": 29,
       "text": "CHAPTER XXXV.",
+      "ttsText": "Chapter XXXV.",
       "role": "heading"
     },
     {
       "order": 1422,
       "chapterIndex": 29,
       "text": "IN WHICH PHILEAS FOGG DOES NOT HAVE TO REPEAT HIS ORDERS TO PASSEPARTOUT TWICE",
+      "ttsText": "In Which Phileas Fogg Does Not Have to Repeat His Orders to Passepartout Twice",
       "role": "paragraph"
     },
     {
@@ -8835,6 +9011,7 @@
       "order": 1432,
       "chapterIndex": 29,
       "text": "Passepartout, having received his orders, had nothing to do but obey them. He looked at his imperturbable master, and could scarcely bring his mind to leave him. His heart was full, and his conscience tortured by remorse; for he accused himself more bitterly than ever of being the cause of the irretrievable disaster. Yes! if he had warned Mr. Fogg, and had betrayed Fix’s projects to him, his master would certainly not have given the detective passage to Liverpool, and then—",
+      "ttsText": "Passepartout, having received his orders, had nothing to do but obey them. He looked at his imperturbable master, and could scarcely bring his mind to leave him. His heart was full, and his conscience tortured by remorse; for he accused himself more bitterly than ever of being the cause of the irretrievable disaster. Yes! if he had warned Mr. Fogg, and had betrayed Fix’s projects to him, his master would certainly not have given the detective passage to Liverpool, and then,",
       "role": "paragraph"
     },
     {
@@ -8847,6 +9024,7 @@
       "order": 1434,
       "chapterIndex": 29,
       "text": "“My master! Mr. Fogg!” he cried, “why do you not curse me? It was my fault that—”",
+      "ttsText": "“My master! Mr. Fogg!” he cried, “why do you not curse me? It was my fault that, ”",
       "role": "paragraph"
     },
     {
@@ -8865,6 +9043,7 @@
       "order": 1437,
       "chapterIndex": 29,
       "text": "“Madam,” he added, “I can do nothing myself—nothing! I have no influence over my master; but you, perhaps—”",
+      "ttsText": "“Madam,” he added, “I can do nothing myself, nothing! I have no influence over my master; but you, perhaps, ”",
       "role": "paragraph"
     },
     {
@@ -8901,6 +9080,7 @@
       "order": 1443,
       "chapterIndex": 29,
       "text": "Mr. Fogg, therefore, had no reason for going out, and so he remained at home. He shut himself up in his room, and busied himself putting his affairs in order. Passepartout continually ascended and descended the stairs. The hours were long for him. He listened at his master’s door, and looked through the keyhole, as if he had a perfect right so to do, and as if he feared that something terrible might happen at any moment. Sometimes he thought of Fix, but no longer in anger. Fix, like all the world, had been mistaken in Phileas Fogg, and had only done his duty in tracking and arresting him; while he, Passepartout. . . . This thought haunted him, and he never ceased cursing his miserable folly.",
+      "ttsText": "Mr. Fogg, therefore, had no reason for going out, and so he remained at home. He shut himself up in his room, and busied himself putting his affairs in order. Passepartout continually ascended and descended the stairs. The hours were long for him. He listened at his master’s door, and looked through the keyhole, as if he had a perfect right so to do, and as if he feared that something terrible might happen at any moment. Sometimes he thought of Fix, but no longer in anger. Fix, like all the world, had been mistaken in Phileas Fogg, and had only done his duty in tracking and arresting him; while he, Passepartout … This thought haunted him, and he never ceased cursing his miserable folly.",
       "role": "paragraph"
     },
     {
@@ -8943,6 +9123,7 @@
       "order": 1450,
       "chapterIndex": 29,
       "text": "“I know it, Mr. Fogg,” replied Aouda; “and I ask you in my turn, will you forgive me for having followed you, and—who knows?—for having, perhaps, delayed you, and thus contributed to your ruin?”",
+      "ttsText": "“I know it, Mr. Fogg,” replied Aouda; “and I ask you in my turn, will you forgive me for having followed you, and, who knows?, for having, perhaps, delayed you, and thus contributed to your ruin?”",
       "role": "paragraph"
     },
     {
@@ -8991,6 +9172,7 @@
       "order": 1458,
       "chapterIndex": 29,
       "text": "“At least,” said Aouda, “want should not overtake a man like you. Your friends—”",
+      "ttsText": "“At least,” said Aouda, “want should not overtake a man like you. Your friends, ”",
       "role": "paragraph"
     },
     {
@@ -9003,6 +9185,7 @@
       "order": 1460,
       "chapterIndex": 29,
       "text": "“Your relatives—”",
+      "ttsText": "“Your relatives, ”",
       "role": "paragraph"
     },
     {
@@ -9099,13 +9282,14 @@
       "order": 1476,
       "chapterIndex": 30,
       "text": "CHAPTER XXXVI.",
+      "ttsText": "Chapter XXXVI.",
       "role": "heading"
     },
     {
       "order": 1477,
       "chapterIndex": 30,
       "text": "IN WHICH PHILEAS FOGG’S NAME IS ONCE MORE AT A PREMIUM ON ’CHANGE",
-      "ttsText": "IN WHICH PHILEAS FOGG’Sname IS ONCE MORE AT Apremium ON ’CHANGE",
+      "ttsText": "In Which Phileas Fogg’s Name Is Once More at A Premium on ’Change",
       "role": "paragraph"
     },
     {
@@ -9196,6 +9380,7 @@
       "order": 1492,
       "chapterIndex": 30,
       "text": "“He has lost, gentleman,” said Andrew Stuart, “he has a hundred times lost! You know, besides, that the ‘China’—the only steamer he could have taken from New York to get here in time arrived yesterday. I have seen a list of the passengers, and the name of Phileas Fogg is not among them. Even if we admit that fortune has favoured him, he can scarcely have reached America. I think he will be at least twenty days behind-hand, and that Lord Albemarle will lose a cool five thousand.”",
+      "ttsText": "“He has lost, gentleman,” said Andrew Stuart, “he has a hundred times lost! You know, besides, that the ‘China’, the only steamer he could have taken from New York to get here in time arrived yesterday. I have seen a list of the passengers, and the name of Phileas Fogg is not among them. Even if we admit that fortune has favoured him, he can scarcely have reached America. I think he will be at least twenty days behind-hand, and that Lord Albemarle will lose a cool five thousand.”",
       "role": "paragraph"
     },
     {
@@ -9298,12 +9483,14 @@
       "order": 1509,
       "chapterIndex": 31,
       "text": "CHAPTER XXXVII.",
+      "ttsText": "Chapter XXXVII.",
       "role": "heading"
     },
     {
       "order": 1510,
       "chapterIndex": 31,
       "text": "IN WHICH IT IS SHOWN THAT PHILEAS FOGG GAINED NOTHING BY HIS TOUR AROUND THE WORLD, UNLESS IT WERE HAPPINESS",
+      "ttsText": "In Which It Is Shown That Phileas Fogg Gained Nothing by His Tour Around the World, Unless It Were Happiness",
       "role": "paragraph"
     },
     {
@@ -9316,6 +9503,7 @@
       "order": 1512,
       "chapterIndex": 31,
       "text": "The reader will remember that at five minutes past eight in the evening—about five and twenty hours after the arrival of the travellers in London—Passepartout had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day.",
+      "ttsText": "The reader will remember that at five minutes past eight in the evening, about five and twenty hours after the arrival of the travellers in London, Passepartout had been sent by his master to engage the services of the Reverend Samuel Wilson in a certain marriage ceremony, which was to take place the next day.",
       "role": "paragraph"
     },
     {
@@ -9346,6 +9534,7 @@
       "order": 1517,
       "chapterIndex": 31,
       "text": "“My master!” gasped Passepartout—“marriage—impossible—”",
+      "ttsText": "“My master!” gasped Passepartout, “marriage, impossible, ”",
       "role": "paragraph"
     },
     {
@@ -9358,6 +9547,7 @@
       "order": 1519,
       "chapterIndex": 31,
       "text": "“Impossible—for to-morrow.”",
+      "ttsText": "“Impossible, for to-morrow.”",
       "role": "paragraph"
     },
     {
@@ -9370,6 +9560,7 @@
       "order": 1521,
       "chapterIndex": 31,
       "text": "“Because to-morrow—is Sunday!”",
+      "ttsText": "“Because to-morrow, is Sunday!”",
       "role": "paragraph"
     },
     {
@@ -9382,6 +9573,7 @@
       "order": 1523,
       "chapterIndex": 31,
       "text": "“No—to-day is Saturday.”",
+      "ttsText": "“No, to-day is Saturday.”",
       "role": "paragraph"
     },
     {
@@ -9442,12 +9634,14 @@
       "order": 1533,
       "chapterIndex": 31,
       "text": "Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly eastward; he would, on the contrary, have lost a day had he gone in the opposite direction, that is, westward .",
+      "ttsText": "Phileas Fogg had, without suspecting it, gained one day on his journey, and this merely because he had travelled constantly eastward; he would, on the contrary, have lost a day had he gone in the opposite direction, that is, westward.",
       "role": "paragraph"
     },
     {
       "order": 1534,
       "chapterIndex": 31,
       "text": "In journeying eastward he had gone towards the sun, and the days therefore diminished for him as many times four minutes as he crossed degrees in this direction. There are three hundred and sixty degrees on the circumference of the earth; and these three hundred and sixty degrees, multiplied by four minutes, gives precisely twenty-four hours—that is, the day unconsciously gained. In other words, while Phileas Fogg, going eastward, saw the sun pass the meridian eighty times, his friends in London only saw it pass the meridian seventy-nine times. This is why they awaited him at the Reform Club on Saturday, and not Sunday, as Mr. Fogg thought.",
+      "ttsText": "In journeying eastward he had gone towards the sun, and the days therefore diminished for him as many times four minutes as he crossed degrees in this direction. There are three hundred and sixty degrees on the circumference of the earth; and these three hundred and sixty degrees, multiplied by four minutes, gives precisely twenty-four hours, that is, the day unconsciously gained. In other words, while Phileas Fogg, going eastward, saw the sun pass the meridian eighty times, his friends in London only saw it pass the meridian seventy-nine times. This is why they awaited him at the Reform Club on Saturday, and not Sunday, as Mr. Fogg thought.",
       "role": "paragraph"
     },
     {
@@ -9478,6 +9672,7 @@
       "order": 1539,
       "chapterIndex": 31,
       "text": "“Pardon me, madam; my fortune belongs to you. If you had not suggested our marriage, my servant would not have gone to the Reverend Samuel Wilson’s, I should not have been apprised of my error, and—”",
+      "ttsText": "“Pardon me, madam; my fortune belongs to you. If you had not suggested our marriage, my servant would not have gone to the Reverend Samuel Wilson’s, I should not have been apprised of my error, and, ”",
       "role": "paragraph"
     },
     {
@@ -9508,6 +9703,7 @@
       "order": 1544,
       "chapterIndex": 31,
       "text": "“What is it, sir? Why, I’ve just this instant found out—”",
+      "ttsText": "“What is it, sir? Why, I’ve just this instant found out, ”",
       "role": "paragraph"
     },
     {
@@ -9526,6 +9722,7 @@
       "order": 1547,
       "chapterIndex": 31,
       "text": "“No doubt,” returned Mr. Fogg, “by not crossing India. But if I had not crossed India, I should not have saved Aouda; she would not have been my wife, and—”",
+      "ttsText": "“No doubt,” returned Mr. Fogg, “by not crossing India. But if I had not crossed India, I should not have saved Aouda; she would not have been my wife, and, ”",
       "role": "paragraph"
     },
     {
@@ -9538,6 +9735,7 @@
       "order": 1549,
       "chapterIndex": 31,
       "text": "Phileas Fogg had won his wager, and had made his journey around the world in eighty days. To do this he had employed every means of conveyance—steamers, railways, carriages, yachts, trading-vessels, sledges, elephants. The eccentric gentleman had throughout displayed all his marvellous qualities of coolness and exactitude. But what then? What had he really gained by all this trouble? What had he brought back from this long and weary journey?",
+      "ttsText": "Phileas Fogg had won his wager, and had made his journey around the world in eighty days. To do this he had employed every means of conveyance, steamers, railways, carriages, yachts, trading-vessels, sledges, elephants. The eccentric gentleman had throughout displayed all his marvellous qualities of coolness and exactitude. But what then? What had he really gained by all this trouble? What had he brought back from this long and weary journey?",
       "role": "paragraph"
     },
     {

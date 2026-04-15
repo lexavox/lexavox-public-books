@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:15.8656981Z",
+  "generatedAt": "2026-04-07T14:53:12.0531384Z",
   "source": {
     "id": "pg22400",
     "title": "Foxe's Book of Martyrs",
@@ -157,85 +157,98 @@
       "order": 10,
       "chapterIndex": 0,
       "text": "FOX'S",
+      "ttsText": "Fox's",
       "role": "title"
     },
     {
       "order": 11,
       "chapterIndex": 0,
       "text": "BOOK OF MARTYRS",
+      "ttsText": "Book of Martyrs",
       "role": "heading"
     },
     {
       "order": 12,
       "chapterIndex": 0,
       "text": "OR",
+      "ttsText": "Or",
       "role": "title"
     },
     {
       "order": 13,
       "chapterIndex": 0,
       "text": "A HISTORY OF THE",
-      "ttsText": "Ahistory OF THE",
+      "ttsText": "A History of the",
       "role": "title"
     },
     {
       "order": 14,
       "chapterIndex": 0,
       "text": "LIVES, SUFFERINGS, AND TRIUMPHANT DEATHS",
+      "ttsText": "Lives, Sufferings, And Triumphant Deaths",
       "role": "title"
     },
     {
       "order": 15,
       "chapterIndex": 0,
       "text": "OF THE",
+      "ttsText": "Of the",
       "role": "title"
     },
     {
       "order": 16,
       "chapterIndex": 0,
       "text": "PRIMITIVE PROTESTANT MARTYRS",
+      "ttsText": "Primitive Protestant Martyrs",
       "role": "title"
     },
     {
       "order": 17,
       "chapterIndex": 0,
       "text": "FROM THE",
+      "ttsText": "From the",
       "role": "title"
     },
     {
       "order": 18,
       "chapterIndex": 0,
       "text": "INTRODUCTION OF CHRISTIANITY",
+      "ttsText": "Introduction of Christianity",
       "role": "heading"
     },
     {
       "order": 19,
       "chapterIndex": 0,
       "text": "TO THE",
+      "ttsText": "To the",
       "role": "title"
     },
     {
       "order": 20,
       "chapterIndex": 0,
       "text": "LATEST PERIODS OF PAGAN, POPISH, AND INFIDEL",
+      "ttsText": "Latest Periods of Pagan, Popish, And Infidel",
       "role": "title"
     },
     {
       "order": 21,
       "chapterIndex": 0,
       "text": "PERSECUTIONS",
+      "ttsText": "Persecutions",
       "role": "title"
     },
     {
       "order": 22,
       "chapterIndex": 0,
       "text": "EMBRACING, TOGETHER WITH THE USUAL SUBJECTS CONTAINED",
+      "ttsText": "Embracing, Together with the Usual Subjects Contained",
       "role": "title"
     },
     {
       "order": 23,
       "chapterIndex": 0,
       "text": "IN SIMILAR WORKS",
+      "ttsText": "In Similar Works",
       "role": "title"
     },
     {
@@ -272,62 +285,70 @@
       "order": 29,
       "chapterIndex": 0,
       "text": "LIKEWISE",
+      "ttsText": "Likewise",
       "role": "title"
     },
     {
       "order": 30,
       "chapterIndex": 0,
       "text": "A SKETCH OF THE FRENCH REVOLUTION",
-      "ttsText": "Asketch OF THE FRENCH REVOLUTION",
+      "ttsText": "A Sketch of the French Revolution",
       "role": "title"
     },
     {
       "order": 31,
       "chapterIndex": 0,
       "text": "AS CONNECTED WITH PERSECUTION",
+      "ttsText": "As Connected with Persecution",
       "role": "title"
     },
     {
       "order": 32,
       "chapterIndex": 0,
       "text": "COMPILED FROM FOX'S BOOK OF MARTYRS, AND OTHER AUTHENTIC SOURCES",
-      "ttsText": "COMPILED FROM FOX'Sbook OF MARTYRS, AND OTHER AUTHENTIC SOURCES",
+      "ttsText": "Compiled from Fox's Book of Martyrs, And Other Authentic Sources",
       "role": "paragraph"
     },
     {
       "order": 33,
       "chapterIndex": 0,
       "text": "THE JOHN C. WINSTON CO.",
+      "ttsText": "The John C. Winston Co.",
       "role": "title"
     },
     {
       "order": 34,
       "chapterIndex": 0,
       "text": "CHICAGO PHILADELPHIA TORONTO",
+      "ttsText": "Chicago Philadelphia Toronto",
       "role": "title"
     },
     {
       "order": 35,
       "chapterIndex": 0,
       "text": "PREFACE.",
+      "ttsText": "Preface.",
       "role": "heading"
     },
     {
       "order": 36,
       "chapterIndex": 0,
       "text": "This work is strictly what its title page imports, a compilation . Fox's \"Book of Martyrs\" has been made the basis of this volume. Liberty, however, has been taken to abridge wherever it was thought necessary;—to alter the antiquated form of the phraseology; to introduce additional information; and to correct any inaccuracy respecting matters of fact, which had escaped the author of the original work, or which has been found erroneous by the investigation of modern research.",
+      "ttsText": "This work is strictly what its title page imports, a compilation. Fox's \"Book of Martyrs\" has been made the basis of this volume. Liberty, however, has been taken to abridge wherever it was thought necessary;, to alter the antiquated form of the phraseology; to introduce additional information; and to correct any inaccuracy respecting matters of fact, which had escaped the author of the original work, or which has been found erroneous by the investigation of modern research.",
       "role": "paragraph"
     },
     {
       "order": 37,
       "chapterIndex": 0,
       "text": "The object of this work, is to give a brief history of persecution since the first introduction of christianity, till the present time. In doing this, we have commenced with the martyrdom of Stephen, and following the course of events, have brought the History of persecution down to the year 1830. In all ages, we find that a disposition to persecute for opinion's sake, has been manifested by wicked men, whatever may have been their opinions or sentiments on religious subjects. The intolerant jew, and the bigoted pagan, have exhibited no more of a persecuting spirit, than the nominal professor of christianity, and the infidel and the avowed atheist . Indeed, it seems to be an \"inherent vice,\" in unsanctified nature to endeavour by the pressure of physical force, to restrain obnoxious sentiments, and to propagate favourite opinions. It is only when the heart has been renewed and sanctified by divine grace, that men have rightly understood and practised the true principles of toleration. We do not say that none but real christians have adopted correct views respecting civil and religious liberty;—but we affirm that these views owe their origin entirely to christianity and its genuine disciples.",
+      "ttsText": "The object of this work, is to give a brief history of persecution since the first introduction of christianity, till the present time. In doing this, we have commenced with the martyrdom of Stephen, and following the course of events, have brought the History of persecution down to the year 1830. In all ages, we find that a disposition to persecute for opinion's sake, has been manifested by wicked men, whatever may have been their opinions or sentiments on religious subjects. The intolerant jew, and the bigoted pagan, have exhibited no more of a persecuting spirit, than the nominal professor of christianity, and the infidel and the avowed atheist. Indeed, it seems to be an \"inherent vice,\" in unsanctified nature to endeavour by the pressure of physical force, to restrain obnoxious sentiments, and to propagate favourite opinions. It is only when the heart has been renewed and sanctified by divine grace, that men have rightly understood and practised the true principles of toleration. We do not say that none but real christians have adopted correct views respecting civil and religious liberty;, but we affirm that these views owe their origin entirely to christianity and its genuine disciples.",
       "role": "paragraph"
     },
     {
       "order": 38,
       "chapterIndex": 0,
       "text": "Though nearly all sects have persecuted their opponents, during a brief season, when men's passions were highly excited, and true religion had mournfully declined, yet no denomination except the papal hierarchy, has adopted as an article of religious belief, and a principle of practical observance, the right to destroy heretics for opinion's sake. The decrees of councils, and the bulls of popes, issued in conformity with those decrees, place this matter beyond a doubt. Persecution, therefore, and popery, are inseparably connected; because claiming infallibility, what she has once done is right for her to do again; yea, must be done under similar circumstances, or the claims of infallibility given up. There is no escaping this conclusion. It is right, therefore, to charge upon popery, all the persecutions and horrid cruelties which have stained the annals of the papal church during her long and bloody career of darkness and crime. Every sigh which has been heaved in the dungeons of the Inquisition—every groan which has been extorted by the racks and instruments of torture, which the malice of her bigoted votaries, stimulated by infernal wisdom, ever invented, has witnessed in the ear of God, against the \"Mother of Harlots;\" and those kings of the earth, who giving their power to the \"Beast\" have aided her in the cruel work of desolation and death. The valleys of Piedmont, the mountains of Switzerland, the vine crowned hills of Italy and France—and all parts of Germany and the low countries, have by turns, been lighted by the fires of burning victims, or crimsoned with the blood of those who have suffered death at the hands of the cruel emissaries of popery. England too, has drunken deep of the \"wine of the fierceness of her wrath,\" as the blood of Cobham, and the ashes of the Smithfield martyrs can testify. Ireland and Scotland, likewise, have each been made the theatre of her atrocities. But no where has the system been exhibited in its native unalleviated deformity, as in Spain, Portugal and their South American dependencies. For centuries, such a system of police was established by the Holy Inquisitors , that these countries resembled a vast whispering gallery, where the slightest murmur of discontent could be heard and punished. Such has been the effect of superstition and the terror of the Holy Office, upon the mind, as completely to break the pride of the Castillian noble, and make him the unresisting victim of every mendicant friar and \"hemp-sandaled monk.\"",
+      "ttsText": "Though nearly all sects have persecuted their opponents, during a brief season, when men's passions were highly excited, and true religion had mournfully declined, yet no denomination except the papal hierarchy, has adopted as an article of religious belief, and a principle of practical observance, the right to destroy heretics for opinion's sake. The decrees of councils, and the bulls of popes, issued in conformity with those decrees, place this matter beyond a doubt. Persecution, therefore, and popery, are inseparably connected; because claiming infallibility, what she has once done is right for her to do again; yea, must be done under similar circumstances, or the claims of infallibility given up. There is no escaping this conclusion. It is right, therefore, to charge upon popery, all the persecutions and horrid cruelties which have stained the annals of the papal church during her long and bloody career of darkness and crime. Every sigh which has been heaved in the dungeons of the Inquisition, every groan which has been extorted by the racks and instruments of torture, which the malice of her bigoted votaries, stimulated by infernal wisdom, ever invented, has witnessed in the ear of God, against the \"Mother of Harlots;\" and those kings of the earth, who giving their power to the \"Beast\" have aided her in the cruel work of desolation and death. The valleys of Piedmont, the mountains of Switzerland, the vine crowned hills of Italy and France, and all parts of Germany and the low countries, have by turns, been lighted by the fires of burning victims, or crimsoned with the blood of those who have suffered death at the hands of the cruel emissaries of popery. England too, has drunken deep of the \"wine of the fierceness of her wrath,\" as the blood of Cobham, and the ashes of the Smithfield martyrs can testify. Ireland and Scotland, likewise, have each been made the theatre of her atrocities. But no where has the system been exhibited in its native unalleviated deformity, as in Spain, Portugal and their South American dependencies. For centuries, such a system of police was established by the Holy Inquisitors, that these countries resembled a vast whispering gallery, where the slightest murmur of discontent could be heard and punished. Such has been the effect of superstition and the terror of the Holy Office, upon the mind, as completely to break the pride of the Castillian noble, and make him the unresisting victim of every mendicant friar and \"hemp-sandaled monk.\"",
       "role": "paragraph"
     },
     {
@@ -340,12 +361,14 @@
       "order": 40,
       "chapterIndex": 0,
       "text": "But it may be asked, is popery the same system now as in the days of Cardinal Bonner and the \"Bloody Mary.\" We answer yes. It is the boast of all catholics that their church never varies, either in spirit or in practice. For evidence of this, look at the demonstrations of her spirit in the persecutions in the south of France, for several years after the restoration of the Bourbons, in 1814. All have witnessed with feelings of detestation, the recent efforts of the apostolicals in Spain and Portugal, to crush the friends of civil and religious liberty in those ill-fated countries. The narrative of Asaad Shidiak, clearly indicates that the spirit of popery, has lost none of its ferocity and bloodthirstiness since the Piedmontese war, and the Bartholomew massacre. Where it has power, its victims are still crushed by the same means which filled the dungeons of the inquisition, and fed the fires of the auto de fe .",
+      "ttsText": "But it may be asked, is popery the same system now as in the days of Cardinal Bonner and the \"Bloody Mary.\" We answer yes. It is the boast of all catholics that their church never varies, either in spirit or in practice. For evidence of this, look at the demonstrations of her spirit in the persecutions in the south of France, for several years after the restoration of the Bourbons, in 1814. All have witnessed with feelings of detestation, the recent efforts of the apostolicals in Spain and Portugal, to crush the friends of civil and religious liberty in those ill-fated countries. The narrative of Asaad Shidiak, clearly indicates that the spirit of popery, has lost none of its ferocity and bloodthirstiness since the Piedmontese war, and the Bartholomew massacre. Where it has power, its victims are still crushed by the same means which filled the dungeons of the inquisition, and fed the fires of the auto de fe.",
       "role": "paragraph"
     },
     {
       "order": 41,
       "chapterIndex": 0,
       "text": "This is the religion, to diffuse which, strenuous efforts are now making in this country. Already the papal church numbers more than half a million of communicants. This number is rapidly augmenting by emigration from catholic countries, and by the conversion of protestant children who are placed in their schools for instruction. The recent events in Europe, will, no doubt, send to our shores hundreds of jesuit priests, with a portion of that immense revenue which the papal church has hitherto enjoyed. Another thing, which will, no doubt, favour their views, is the disposition manifested among some who style themselves liberalists , to aid catholics in the erection of mass houses, colleges, convents and theological seminaries. This has been done in numerous instances; and when a note of warning is raised by the true friends of civil and religious liberty, they are treated as bigots by those very men who are contributing of their substance to diffuse and foster the most intolerant system of bigotry, and cruel, unrelenting despotism, the world has ever seen. Other sects have persecuted during some periods of their history; but all now deny the right, and reprobate the practice except catholics. The right to destroy heretics, is a fundamental article in the creed of the papal church. And wherever her power is not cramped, she still exercises that power to the destruction of all who oppose her unrighteous usurpation. All the blood shed by all other christian sects, is no more in comparison to that shed by the papacy, than the short lived flow of a feeble rill, raised by the passing tempest, to the deep overwhelming tide of a mighty river, which receives as tributaries, the waters of a thousand streams.",
+      "ttsText": "This is the religion, to diffuse which, strenuous efforts are now making in this country. Already the papal church numbers more than half a million of communicants. This number is rapidly augmenting by emigration from catholic countries, and by the conversion of protestant children who are placed in their schools for instruction. The recent events in Europe, will, no doubt, send to our shores hundreds of jesuit priests, with a portion of that immense revenue which the papal church has hitherto enjoyed. Another thing, which will, no doubt, favour their views, is the disposition manifested among some who style themselves liberalists, to aid catholics in the erection of mass houses, colleges, convents and theological seminaries. This has been done in numerous instances; and when a note of warning is raised by the true friends of civil and religious liberty, they are treated as bigots by those very men who are contributing of their substance to diffuse and foster the most intolerant system of bigotry, and cruel, unrelenting despotism, the world has ever seen. Other sects have persecuted during some periods of their history; but all now deny the right, and reprobate the practice except catholics. The right to destroy heretics, is a fundamental article in the creed of the papal church. And wherever her power is not cramped, she still exercises that power to the destruction of all who oppose her unrighteous usurpation. All the blood shed by all other christian sects, is no more in comparison to that shed by the papacy, than the short lived flow of a feeble rill, raised by the passing tempest, to the deep overwhelming tide of a mighty river, which receives as tributaries, the waters of a thousand streams.",
       "role": "paragraph"
     },
     {
@@ -418,84 +441,98 @@
       "order": 53,
       "chapterIndex": 0,
       "text": "CHAPTER II.",
+      "ttsText": "Chapter II.",
       "role": "heading"
     },
     {
       "order": 54,
       "chapterIndex": 0,
       "text": "THE TEN PRIMITIVE PERSECUTIONS.",
+      "ttsText": "The Ten Primitive Persecutions.",
       "role": "title"
     },
     {
       "order": 55,
       "chapterIndex": 0,
       "text": "The first persecution under Nero, A. D. 67 19",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The first persecution under Nero, A.D.67 19"
     },
     {
       "order": 56,
       "chapterIndex": 0,
       "text": "The second persecution under Domitian, A. D. 81 19",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The second persecution under Domitian, A.D.81 19"
     },
     {
       "order": 57,
       "chapterIndex": 0,
       "text": "The third persecution under Trajan, A. D. 108 20",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The third persecution under Trajan, A.D.108 20"
     },
     {
       "order": 58,
       "chapterIndex": 0,
       "text": "The fourth persecution under Marcus Aurelius Antoninus, A. D. 162 22",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The fourth persecution under Marcus Aurelius Antoninus, A.D.162 22"
     },
     {
       "order": 59,
       "chapterIndex": 0,
       "text": "The fifth persecution commencing with Severus, A. D. 192 25",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The fifth persecution commencing with Severus, A.D.192 25"
     },
     {
       "order": 60,
       "chapterIndex": 0,
       "text": "The sixth persecution under Maximinus, A. D. 235 27",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The sixth persecution under Maximinus, A.D.235 27"
     },
     {
       "order": 61,
       "chapterIndex": 0,
       "text": "The seventh persecution under Decius, A. D. 249 27",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The seventh persecution under Decius, A.D.249 27"
     },
     {
       "order": 62,
       "chapterIndex": 0,
       "text": "The eighth persecution under Valerian, A. D. 257 31",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The eighth persecution under Valerian, A.D.257 31"
     },
     {
       "order": 63,
       "chapterIndex": 0,
       "text": "The ninth persecution under Aurelian, A. D. 274 34",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The ninth persecution under Aurelian, A.D.274 34"
     },
     {
       "order": 64,
       "chapterIndex": 0,
       "text": "The tenth persecution under Diocletian, A. D. 303 36",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The tenth persecution under Diocletian, A.D.303 36"
     },
     {
       "order": 65,
       "chapterIndex": 0,
       "text": "CHAPTER III.",
+      "ttsText": "Chapter III.",
       "role": "heading"
     },
     {
       "order": 66,
       "chapterIndex": 0,
       "text": "PERSECUTIONS OF THE CHRISTIANS IN PERSIA.",
+      "ttsText": "Persecutions of the Christians in Persia.",
       "role": "title"
     },
     {
@@ -538,12 +575,14 @@
       "order": 73,
       "chapterIndex": 0,
       "text": "CHAPTER IV.",
+      "ttsText": "Chapter IV.",
       "role": "heading"
     },
     {
       "order": 74,
       "chapterIndex": 0,
       "text": "PAPAL PERSECUTIONS.",
+      "ttsText": "Papal Persecutions.",
       "role": "title"
     },
     {
@@ -562,6 +601,7 @@
       "order": 77,
       "chapterIndex": 0,
       "text": "The Bartholomew massacre at Paris, &c. 57",
+      "ttsText": "The Bartholomew massacre at Paris, and c. 57",
       "role": "paragraph"
     },
     {
@@ -580,12 +620,14 @@
       "order": 80,
       "chapterIndex": 0,
       "text": "CHAPTER V.",
+      "ttsText": "Chapter V.",
       "role": "heading"
     },
     {
       "order": 81,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE INQUISITION.",
+      "ttsText": "An Account of the Inquisition.",
       "role": "title"
     },
     {
@@ -634,12 +676,14 @@
       "order": 89,
       "chapterIndex": 0,
       "text": "CHAPTER VI.",
+      "ttsText": "Chapter VI.",
       "role": "heading"
     },
     {
       "order": 90,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE PERSECUTIONS IN ITALY, UNDER THE PAPACY.",
+      "ttsText": "An Account of the Persecutions in Italy, Under the Papacy.",
       "role": "title"
     },
     {
@@ -700,12 +744,14 @@
       "order": 100,
       "chapterIndex": 0,
       "text": "CHAPTER VII.",
+      "ttsText": "Chapter VII.",
       "role": "heading"
     },
     {
       "order": 101,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE PERSECUTIONS IN BOHEMIA UNDER THE PAPACY.",
+      "ttsText": "An Account of the Persecutions in Bohemia Under the Papacy.",
       "role": "title"
     },
     {
@@ -730,12 +776,14 @@
       "order": 105,
       "chapterIndex": 0,
       "text": "CHAPTER VIII.",
+      "ttsText": "Chapter VIII.",
       "role": "heading"
     },
     {
       "order": 106,
       "chapterIndex": 0,
       "text": "GENERAL PERSECUTIONS IN GERMANY.",
+      "ttsText": "General Persecutions in Germany.",
       "role": "title"
     },
     {
@@ -748,24 +796,28 @@
       "order": 108,
       "chapterIndex": 0,
       "text": "CHAPTER IX.",
+      "ttsText": "Chapter IX.",
       "role": "heading"
     },
     {
       "order": 109,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE PERSECUTIONS IN LITHUANIA AND POLAND. 178",
+      "ttsText": "An Account of the Persecutions in Lithuania and Poland. 178",
       "role": "title"
     },
     {
       "order": 110,
       "chapterIndex": 0,
       "text": "CHAPTER X.",
+      "ttsText": "Chapter X.",
       "role": "heading"
     },
     {
       "order": 111,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE PERSECUTIONS IN CHINA AND SEVERAL OTHER COUNTRIES.",
+      "ttsText": "An Account of the Persecutions in China and Several Other Countries.",
       "role": "paragraph"
     },
     {
@@ -808,42 +860,49 @@
       "order": 118,
       "chapterIndex": 0,
       "text": "CHAPTER XI.",
+      "ttsText": "Chapter XI.",
       "role": "heading"
     },
     {
       "order": 119,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE PERSECUTIONS IN GREAT BRITAIN AND IRELAND PRIOR TO THE REIGN OF QUEEN MARY I. 186",
+      "ttsText": "An Account of the Persecutions in Great Britain and Ireland Prior to the Reign of Queen Mary I. 186",
       "role": "paragraph"
     },
     {
       "order": 120,
       "chapterIndex": 0,
       "text": "CHAPTER XII.",
+      "ttsText": "Chapter XII.",
       "role": "heading"
     },
     {
       "order": 121,
       "chapterIndex": 0,
       "text": "AN ACCOUNT OF THE PERSECUTIONS IN SCOTLAND, DURING THE REIGN OF KING HENRY VIII. 194",
+      "ttsText": "An Account of the Persecutions in Scotland, During the Reign of King Henry VIII. 194",
       "role": "paragraph"
     },
     {
       "order": 122,
       "chapterIndex": 0,
       "text": "An account of the Life, Suffering and Death of George Wishart, &c. 197",
+      "ttsText": "An account of the Life, Suffering and Death of George Wishart, and c. 197",
       "role": "paragraph"
     },
     {
       "order": 123,
       "chapterIndex": 0,
       "text": "CHAPTER XIII.",
+      "ttsText": "Chapter XIII.",
       "role": "heading"
     },
     {
       "order": 124,
       "chapterIndex": 0,
       "text": "PERSECUTIONS IN ENGLAND DURING THE REIGN OF QUEEN MARY.",
+      "ttsText": "Persecutions in England During the Reign of Queen Mary.",
       "role": "title"
     },
     {
@@ -856,6 +915,7 @@
       "order": 126,
       "chapterIndex": 0,
       "text": "John Rogers, Vicar of St. Sepulchre's, &c. 205",
+      "ttsText": "John Rogers, Vicar of St. Sepulchre's, and c. 205",
       "role": "paragraph"
     },
     {
@@ -916,6 +976,7 @@
       "order": 136,
       "chapterIndex": 0,
       "text": "Martyrdom of Simpson, Ardeley, Haukes , and others 222",
+      "ttsText": "Martyrdom of Simpson, Ardeley, Haukes, and others 222",
       "role": "paragraph"
     },
     {
@@ -1168,12 +1229,14 @@
       "order": 178,
       "chapterIndex": 0,
       "text": "CHAPTER XIV.",
+      "ttsText": "Chapter XIV.",
       "role": "heading"
     },
     {
       "order": 179,
       "chapterIndex": 0,
       "text": "THE SPANISH ARMADA.",
+      "ttsText": "The Spanish Armada.",
       "role": "title"
     },
     {
@@ -1192,24 +1255,28 @@
       "order": 182,
       "chapterIndex": 0,
       "text": "CHAPTER XV.",
+      "ttsText": "Chapter XV.",
       "role": "heading"
     },
     {
       "order": 183,
       "chapterIndex": 0,
       "text": "RISE AND PROGRESS OF THE PROTESTANT RELIGION IN IRELAND WITH AN ACCOUNT OF THE BARBAROUS MASSACRE OF 1641. 315",
+      "ttsText": "Rise and Progress of the Protestant Religion in Ireland with an Account of the Barbarous Massacre of 1641. 315",
       "role": "paragraph"
     },
     {
       "order": 184,
       "chapterIndex": 0,
       "text": "CHAPTER XVI.",
+      "ttsText": "Chapter XVI.",
       "role": "heading"
     },
     {
       "order": 185,
       "chapterIndex": 0,
       "text": "THE RISE, PROGRESS, PERSECUTIONS AND SUFFERINGS OF THE QUAKERS.",
+      "ttsText": "The Rise, Progress, Persecutions and Sufferings of the Quakers.",
       "role": "paragraph"
     },
     {
@@ -1240,12 +1307,14 @@
       "order": 190,
       "chapterIndex": 0,
       "text": "CHAPTER XVII.",
+      "ttsText": "Chapter XVII.",
       "role": "heading"
     },
     {
       "order": 191,
       "chapterIndex": 0,
       "text": "PERSECUTIONS OF THE FRENCH PROTESTANTS IN THE SOUTH OF FRANCE, DURING THE YEARS 1814 AND 1820.",
+      "ttsText": "Persecutions of the French Protestants in the South of France, During the Years 1814 and 1820.",
       "role": "paragraph"
     },
     {
@@ -1318,6 +1387,7 @@
       "order": 203,
       "chapterIndex": 0,
       "text": "Outrages committed in the Villages, &c. 357",
+      "ttsText": "Outrages committed in the Villages, and c. 357",
       "role": "paragraph"
     },
     {
@@ -1348,6 +1418,7 @@
       "order": 208,
       "chapterIndex": 0,
       "text": "Perjury in the case of General Gilly, &c. 365",
+      "ttsText": "Perjury in the case of General Gilly, and c. 365",
       "role": "paragraph"
     },
     {
@@ -1360,12 +1431,14 @@
       "order": 210,
       "chapterIndex": 0,
       "text": "CHAPTER XVIII.",
+      "ttsText": "Chapter XVIII.",
       "role": "heading"
     },
     {
       "order": 211,
       "chapterIndex": 0,
       "text": "ASAAD SHIDIAK.",
+      "ttsText": "Asaad Shidiak.",
       "role": "title"
     },
     {
@@ -1390,30 +1463,35 @@
       "order": 215,
       "chapterIndex": 0,
       "text": "CHAPTER XIX.",
+      "ttsText": "Chapter XIX.",
       "role": "heading"
     },
     {
       "order": 216,
       "chapterIndex": 0,
       "text": "PERSECUTIONS OF THE BAPTIST MISSIONARIES IN INDIA, DURING THE YEAR 1824.",
+      "ttsText": "Persecutions of the Baptist Missionaries in India, During the Year 1824.",
       "role": "paragraph"
     },
     {
       "order": 217,
       "chapterIndex": 0,
       "text": "Removal of the prisoners to Oung-pen-la—Mrs. Judson follows them 430",
+      "ttsText": "Removal of the prisoners to Oung-pen-la, Mrs. Judson follows them 430",
       "role": "paragraph"
     },
     {
       "order": 218,
       "chapterIndex": 0,
       "text": "CHAPTER XX.",
+      "ttsText": "Chapter XX.",
       "role": "heading"
     },
     {
       "order": 219,
       "chapterIndex": 0,
       "text": "PERSECUTIONS OF THE WESLEYAN MISSIONARIES IN THE WEST INDIES.",
+      "ttsText": "Persecutions of the Wesleyan Missionaries in the West Indies.",
       "role": "paragraph"
     },
     {
@@ -1438,12 +1516,14 @@
       "order": 223,
       "chapterIndex": 0,
       "text": "CHAPTER XXI.",
+      "ttsText": "Chapter XXI.",
       "role": "heading"
     },
     {
       "order": 224,
       "chapterIndex": 0,
       "text": "PERSECUTIONS IN SWITZERLAND FROM 1813 TO 1830.",
+      "ttsText": "Persecutions in Switzerland from 1813 to 1830.",
       "role": "title"
     },
     {
@@ -1456,12 +1536,14 @@
       "order": 226,
       "chapterIndex": 0,
       "text": "CHAPTER XXII.",
+      "ttsText": "Chapter XXII.",
       "role": "heading"
     },
     {
       "order": 227,
       "chapterIndex": 0,
       "text": "SKETCHES OF THE LIVES OF SOME OF THE MOST EMINENT REFORMERS.",
+      "ttsText": "Sketches of the Lives of Some of the Most Eminent Reformers.",
       "role": "title"
     },
     {
@@ -1510,12 +1592,14 @@
       "order": 235,
       "chapterIndex": 0,
       "text": "CHAPTER XXIII.",
+      "ttsText": "Chapter XXIII.",
       "role": "heading"
     },
     {
       "order": 236,
       "chapterIndex": 0,
       "text": "SKETCH OF THE FRENCH REVOLUTION OF 1789, AS CONNECTED WITH THE HISTORY OF PERSECUTIONS. 489",
+      "ttsText": "Sketch of the French Revolution of 1789, As Connected with the History of Persecutions. 489",
       "role": "paragraph"
     },
     {
@@ -1558,24 +1642,28 @@
       "order": 243,
       "chapterIndex": 0,
       "text": "BOOK OF MARTYRS",
+      "ttsText": "Book of Martyrs",
       "role": "heading"
     },
     {
       "order": 244,
       "chapterIndex": 0,
       "text": "CHAPTER I.",
+      "ttsText": "Chapter I.",
       "role": "heading"
     },
     {
       "order": 245,
       "chapterIndex": 0,
       "text": "HISTORY OF CHRISTIAN MARTYRS TO THE FIRST GENERAL PERSECUTION UNDER NERO.",
+      "ttsText": "History of Christian Martyrs to the First General Persecution Under Nero.",
       "role": "paragraph"
     },
     {
       "order": 246,
       "chapterIndex": 0,
       "text": "The history of the church may almost be said to be a history of the trials and sufferings of its members, as experienced at the hands of wicked men. At one time, persecution, as waged against the friends of Christ, was confined to those without; at another, schisms and divisions have arrayed brethren of the same name against each other, and scenes of cruelty and woe have been exhibited within the sanctuary, rivalling in horror the direst cruelties ever inflicted by pagan or barbarian fanaticism. This, however, instead of implying any defect in the gospel system, which breathes peace and love; only pourtrays in darker colours the deep and universal depravity of the human heart. Pure and unsophisticated morality, especially when attempted to be inculcated on mankind, as essential to their preserving an interest with their Creator, have constantly met with opposition. It was this which produced the premature death of John the Baptist. It was the cutting charge of adultery and incest, which excited the resentment of Herodias, who never ceased to persecute him, until she had accomplished his destruction. The same observation is equally applicable to the Jewish doctors, in their treatment of our blessed Lord and Saviour Jesus Christ . In the sudden martyrdom of John the Baptist, and the crucifixion of our Lord, the history of christian martyrdom must be admitted to commence; and from these, as a basis for the subsequent occurrences, we may fairly trace the origin of that hostility, which produced so lavish an effusion of christian blood, and led to so much slaughter in the progressive state of christianity.",
+      "ttsText": "The history of the church may almost be said to be a history of the trials and sufferings of its members, as experienced at the hands of wicked men. At one time, persecution, as waged against the friends of Christ, was confined to those without; at another, schisms and divisions have arrayed brethren of the same name against each other, and scenes of cruelty and woe have been exhibited within the sanctuary, rivalling in horror the direst cruelties ever inflicted by pagan or barbarian fanaticism. This, however, instead of implying any defect in the gospel system, which breathes peace and love; only pourtrays in darker colours the deep and universal depravity of the human heart. Pure and unsophisticated morality, especially when attempted to be inculcated on mankind, as essential to their preserving an interest with their Creator, have constantly met with opposition. It was this which produced the premature death of John the Baptist. It was the cutting charge of adultery and incest, which excited the resentment of Herodias, who never ceased to persecute him, until she had accomplished his destruction. The same observation is equally applicable to the Jewish doctors, in their treatment of our blessed Lord and Saviour Jesus Christ. In the sudden martyrdom of John the Baptist, and the crucifixion of our Lord, the history of christian martyrdom must be admitted to commence; and from these, as a basis for the subsequent occurrences, we may fairly trace the origin of that hostility, which produced so lavish an effusion of christian blood, and led to so much slaughter in the progressive state of christianity.",
       "role": "paragraph"
     },
     {
@@ -1618,7 +1706,8 @@
       "order": 253,
       "chapterIndex": 0,
       "text": "The next martyr we meet with, according to St. Luke, in the History of the Apostles' Acts, was James the son of Zebedee, the elder brother of John, and a relative of our Lord; for his mother Salome was cousin-german to the Virgin Mary. It was not until ten years after the death of Stephen, that the second martyrdom took place; for no sooner had Herod Agrippa been appointed governor of Judea, than, with a view to ingratiate himself with them, he raised a sharp persecution against the christians, and determined to make an effectual blow, by striking at their leaders. The account given us by an eminent primitive writer, Clemens Alexandrinus, ought not to be overlooked; that, as James was led to the place of martyrdom, his accuser was brought to repent of his conduct by the apostle's extraordinary courage and undauntedness, and fell down at his feet to request his pardon, professing himself a christian, and resolving that James should not receive the crown of martyrdom alone. Hence they were both beheaded at the same time. Thus did the first apostolic martyr cheerfully and resolutely receive that cup, which he had told our Saviour he was ready to drink. Timon and Parmenas suffered martyrdom about the same time; the one at Phillippi, and the other in Macedonia. These events took place A. D. 44.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The next martyr we meet with, according to St. Luke, in the History of the Apostles' Acts, was James the son of Zebedee, the elder brother of John, and a relative of our Lord; for his mother Salome was cousin-german to the Virgin Mary. It was not until ten years after the death of Stephen, that the second martyrdom took place; for no sooner had Herod Agrippa been appointed governor of Judea, than, with a view to ingratiate himself with them, he raised a sharp persecution against the christians, and determined to make an effectual blow, by striking at their leaders. The account given us by an eminent primitive writer, Clemens Alexandrinus, ought not to be overlooked; that, as James was led to the place of martyrdom, his accuser was brought to repent of his conduct by the apostle's extraordinary courage and undauntedness, and fell down at his feet to request his pardon, professing himself a christian, and resolving that James should not receive the crown of martyrdom alone. Hence they were both beheaded at the same time. Thus did the first apostolic martyr cheerfully and resolutely receive that cup, which he had told our Saviour he was ready to drink. Timon and Parmenas suffered martyrdom about the same time; the one at Phillippi, and the other in Macedonia. These events took place A.D.44."
     },
     {
       "order": 254,
@@ -1630,24 +1719,28 @@
       "order": 255,
       "chapterIndex": 0,
       "text": "Was born at Bethsaida, in Galilee, and was the first called by the name of \"Disciple.\" He laboured diligently in Upper Asia, and suffered martyrdom at Heliopolis, in Phrygia. He was scourged, thrown into prison, and afterwards crucified, A. D. 54.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Was born at Bethsaida, in Galilee, and was the first called by the name of \"Disciple.\" He laboured diligently in Upper Asia, and suffered martyrdom at Heliopolis, in Phrygia. He was scourged, thrown into prison, and afterwards crucified, A.D.54."
     },
     {
       "order": 256,
       "chapterIndex": 0,
       "text": "IV. Matthew ,",
+      "ttsText": "IV. Matthew,",
       "role": "heading"
     },
     {
       "order": 257,
       "chapterIndex": 0,
       "text": "Whose occupation was that of a toll-gatherer, was born at Nazareth. He wrote his gospel in Hebrew, which was afterwards translated into Greek by James the Less. The scene of his labors was Parthia, and Ethiopia, in which latter country he suffered martyrdom, being slain with a halberd in the city of Nadabah, A. D. 60.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Whose occupation was that of a toll-gatherer, was born at Nazareth. He wrote his gospel in Hebrew, which was afterwards translated into Greek by James the Less. The scene of his labors was Parthia, and Ethiopia, in which latter country he suffered martyrdom, being slain with a halberd in the city of Nadabah, A.D.60."
     },
     {
       "order": 258,
       "chapterIndex": 0,
       "text": "V. James the Less ,",
+      "ttsText": "V. James the Less,",
       "role": "heading"
     },
     {
@@ -1660,6 +1753,7 @@
       "order": 260,
       "chapterIndex": 0,
       "text": "VI. Matthias ,",
+      "ttsText": "VI. Matthias,",
       "role": "heading"
     },
     {
@@ -1672,6 +1766,7 @@
       "order": 262,
       "chapterIndex": 0,
       "text": "VII. Andrew ,",
+      "ttsText": "VII. Andrew,",
       "role": "heading"
     },
     {
@@ -1684,6 +1779,7 @@
       "order": 264,
       "chapterIndex": 0,
       "text": "VIII. St. Mark ,",
+      "ttsText": "VIII. St. Mark,",
       "role": "heading"
     },
     {
@@ -1696,6 +1792,7 @@
       "order": 266,
       "chapterIndex": 0,
       "text": "IX. Peter ,",
+      "ttsText": "IX. Peter,",
       "role": "heading"
     },
     {
@@ -1708,36 +1805,42 @@
       "order": 268,
       "chapterIndex": 0,
       "text": "[It is, however, very uncertain, whether Peter ever visited Rome at all. The evidence rather favouring the supposition that he ended his days in some other country.— Ed. ]",
+      "ttsText": "[It is, however, very uncertain, whether Peter ever visited Rome at all. The evidence rather favouring the supposition that he ended his days in some other country., Ed. ]",
       "role": "paragraph"
     },
     {
       "order": 269,
       "chapterIndex": 0,
       "text": "X. Paul ,",
+      "ttsText": "X. Paul,",
       "role": "heading"
     },
     {
       "order": 270,
       "chapterIndex": 0,
       "text": "The great apostle of the Gentiles, was a Jew of the tribe of Benjamin, a native of Tarsus in Cilicia, and before his conversion was called Saul. After suffering various persecutions at Jerusalem, Iconium , Lystra, Phillippi and Thessalonica, he was carried prisoner to Rome, where he continued for two years, and was then released. He afterwards visited the churches of Greece and Rome, and preached the gospel in Spain and France, but returning to Rome, he was apprehended by order of Nero, and beheaded.",
+      "ttsText": "The great apostle of the Gentiles, was a Jew of the tribe of Benjamin, a native of Tarsus in Cilicia, and before his conversion was called Saul. After suffering various persecutions at Jerusalem, Iconium, Lystra, Phillippi and Thessalonica, he was carried prisoner to Rome, where he continued for two years, and was then released. He afterwards visited the churches of Greece and Rome, and preached the gospel in Spain and France, but returning to Rome, he was apprehended by order of Nero, and beheaded.",
       "role": "paragraph"
     },
     {
       "order": 271,
       "chapterIndex": 0,
       "text": "XI. Jude ,",
+      "ttsText": "XI. Jude,",
       "role": "heading"
     },
     {
       "order": 272,
       "chapterIndex": 0,
       "text": "The brother of James, was commonly called Thaddeus. He was crucified at Edessa, A. D. 72.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The brother of James, was commonly called Thaddeus. He was crucified at Edessa, A.D.72."
     },
     {
       "order": 273,
       "chapterIndex": 0,
       "text": "XII. Bartholomew ,",
+      "ttsText": "XII. Bartholomew,",
       "role": "heading"
     },
     {
@@ -1750,6 +1853,7 @@
       "order": 275,
       "chapterIndex": 0,
       "text": "XIII. Thomas ,",
+      "ttsText": "XIII. Thomas,",
       "role": "heading"
     },
     {
@@ -1762,6 +1866,7 @@
       "order": 277,
       "chapterIndex": 0,
       "text": "XIV. Luke ,",
+      "ttsText": "XIV. Luke,",
       "role": "heading"
     },
     {
@@ -1774,18 +1879,21 @@
       "order": 279,
       "chapterIndex": 0,
       "text": "XV. Simon ,",
+      "ttsText": "XV. Simon,",
       "role": "heading"
     },
     {
       "order": 280,
       "chapterIndex": 0,
       "text": "Surnamed Zelotes, preached the gospel in Mauritania, Africa, and even in Britain, which latter country he was crucified, A. D. 74.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Surnamed Zelotes, preached the gospel in Mauritania, Africa, and even in Britain, which latter country he was crucified, A.D.74."
     },
     {
       "order": 281,
       "chapterIndex": 0,
       "text": "XVI. John ,",
+      "ttsText": "XVI. John,",
       "role": "heading"
     },
     {
@@ -1798,31 +1906,36 @@
       "order": 283,
       "chapterIndex": 0,
       "text": "XVII. Barnabas ,",
+      "ttsText": "XVII. Barnabas,",
       "role": "heading"
     },
     {
       "order": 284,
       "chapterIndex": 0,
       "text": "Was of Cyprus, but of Jewish descent, his death is supposed to have taken place about A. D. 73.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Was of Cyprus, but of Jewish descent, his death is supposed to have taken place about A.D.73."
     },
     {
       "order": 285,
       "chapterIndex": 0,
       "text": "CHAPTER II.",
+      "ttsText": "Chapter II.",
       "role": "heading"
     },
     {
       "order": 286,
       "chapterIndex": 0,
       "text": "THE TEN PRIMITIVE PERSECUTIONS.",
+      "ttsText": "The Ten Primitive Persecutions.",
       "role": "title"
     },
     {
       "order": 287,
       "chapterIndex": 0,
       "text": "The First Persecution under Nero, A. D. 67.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The First Persecution under Nero, A.D.67."
     },
     {
       "order": 288,
@@ -1846,7 +1959,8 @@
       "order": 291,
       "chapterIndex": 0,
       "text": "The Second Persecution, under Domitian, A. D. 81.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Second Persecution, under Domitian, A.D.81."
     },
     {
       "order": 292,
@@ -1906,19 +2020,22 @@
       "order": 301,
       "chapterIndex": 0,
       "text": "Timothy was the celebrated disciple of St. Paul, and bishop of Ephesus, where he zealously governed the church till A. D. 97. At this period, as the pagans were about to celebrate a feast called Catagogion, Timothy, meeting the procession, severely reproved them for their ridiculous idolatry, which so exasperated the people, that they fell upon him with their clubs, and beat him in so dreadful a manner, that he expired of the bruises two days after.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Timothy was the celebrated disciple of St. Paul, and bishop of Ephesus, where he zealously governed the church till A.D.97. At this period, as the pagans were about to celebrate a feast called Catagogion, Timothy, meeting the procession, severely reproved them for their ridiculous idolatry, which so exasperated the people, that they fell upon him with their clubs, and beat him in so dreadful a manner, that he expired of the bruises two days after."
     },
     {
       "order": 302,
       "chapterIndex": 0,
       "text": "The Third Persecution, under Trajan, A. D. 108.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Third Persecution, under Trajan, A.D.108."
     },
     {
       "order": 303,
       "chapterIndex": 0,
       "text": "Nerva, succeeding Domitian, gave a respite to the sufferings of the christians; but reigning only thirteen months, his successor Trajan, in the tenth year of his reign A. D. 108, began the third persecution against the christians. While the persecution raged, Pliny 2d, a heathen philosopher wrote to the emperor in favor of the Christians; to whose epistle Trajan returned this indecisive answer: \"The christians ought not to be sought after, but when brought before the magistracy, they should be punished.\" Trajan, however, soon after wrote to Jerusalem, and gave orders to his officers to exterminate the stock of David; in consequence of which, all that could be found of that race were put to death.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Nerva, succeeding Domitian, gave a respite to the sufferings of the christians; but reigning only thirteen months, his successor Trajan, in the tenth year of his reign A.D.108, began the third persecution against the christians. While the persecution raged, Pliny 2d, a heathen philosopher wrote to the emperor in favor of the Christians; to whose epistle Trajan returned this indecisive answer: \"The christians ought not to be sought after, but when brought before the magistracy, they should be punished.\" Trajan, however, soon after wrote to Jerusalem, and gave orders to his officers to exterminate the stock of David; in consequence of which, all that could be found of that race were put to death."
     },
     {
       "order": 304,
@@ -1966,24 +2083,28 @@
       "order": 311,
       "chapterIndex": 0,
       "text": "Adrian dying A. D. 138, was succeeded by Antoninus Pius, one of the most amiable monarchs that ever reigned, and who stayed the persecution against the Christians.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Adrian dying A.D.138, was succeeded by Antoninus Pius, one of the most amiable monarchs that ever reigned, and who stayed the persecution against the Christians."
     },
     {
       "order": 312,
       "chapterIndex": 0,
       "text": "The fourth persecution, under Marcus Aurelius Antoninus, A. D. 162.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The fourth persecution, under Marcus Aurelius Antoninus, A.D.162."
     },
     {
       "order": 313,
       "chapterIndex": 0,
       "text": "This commenced A. D. 162, under Marcus Aurelius Antoninus Philosophus, a strong pagan.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "This commenced A.D.162, under Marcus Aurelius Antoninus Philosophus, a strong pagan."
     },
     {
       "order": 314,
       "chapterIndex": 0,
       "text": "The cruelties used in this persecution were such, that many of the spectators shuddered with horror at the sight, and were astonished at the intrepidity of the sufferers. Some of the martyrs were obliged to pass, with their already wounded feet, over thorns, nails, sharp shells, &c. upon their points, others were scourged till their sinews and veins lay bare, and after suffering the most excruciating tortures that could be devised, they were destroyed by the most terrible deaths.",
+      "ttsText": "The cruelties used in this persecution were such, that many of the spectators shuddered with horror at the sight, and were astonished at the intrepidity of the sufferers. Some of the martyrs were obliged to pass, with their already wounded feet, over thorns, nails, sharp shells, and c. upon their points, others were scourged till their sinews and veins lay bare, and after suffering the most excruciating tortures that could be devised, they were destroyed by the most terrible deaths.",
       "role": "paragraph"
     },
     {
@@ -2026,7 +2147,8 @@
       "order": 321,
       "chapterIndex": 0,
       "text": "Justin, the celebrated philosopher, fell a martyr in this persecution. He was a native of Neapolis, in Samaria, and was born A. D. 103. Justin was a great lover of truth, and a universal scholar; he investigated the Stoic and Peripatetic philosophy, and attempted the Pythagorean; but the behaviour of one of its professors disgusting him, he applied himself to the Platonic, in which he took great delight. About the year 133, when he was thirty years of age, he became a convert to christianity, and then, for the first time, perceived the real nature of truth.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Justin, the celebrated philosopher, fell a martyr in this persecution. He was a native of Neapolis, in Samaria, and was born A.D.103. Justin was a great lover of truth, and a universal scholar; he investigated the Stoic and Peripatetic philosophy, and attempted the Pythagorean; but the behaviour of one of its professors disgusting him, he applied himself to the Platonic, in which he took great delight. About the year 133, when he was thirty years of age, he became a convert to christianity, and then, for the first time, perceived the real nature of truth."
     },
     {
       "order": 322,
@@ -2104,7 +2226,8 @@
       "order": 334,
       "chapterIndex": 0,
       "text": "Valerian and Marcellus, who were nearly related to each other, were imprisoned at Lyons, in the year 177, for being christians. The father was fixed up to the waist in the ground; in which position, after remaining three days, he expired, A. D. 179. Valerian was beheaded.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Valerian and Marcellus, who were nearly related to each other, were imprisoned at Lyons, in the year 177, for being christians. The father was fixed up to the waist in the ground; in which position, after remaining three days, he expired, A.D.179. Valerian was beheaded."
     },
     {
       "order": 335,
@@ -2122,13 +2245,15 @@
       "order": 337,
       "chapterIndex": 0,
       "text": "The Fifth Persecution, commencing with Severus, A. D. 192.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Fifth Persecution, commencing with Severus, A.D.192."
     },
     {
       "order": 338,
       "chapterIndex": 0,
       "text": "Severus, having been recovered from a severe fit of sickness by a christian, became a great favourer of the christians in general; but the prejudice and fury of the ignorant multitude prevailing, obsolete laws were put in execution against the christians. The progress of christianity alarmed the pagans, and they revived the stale calumny of placing accidental misfortunes to the account of its professors, A. D. 192.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Severus, having been recovered from a severe fit of sickness by a christian, became a great favourer of the christians in general; but the prejudice and fury of the ignorant multitude prevailing, obsolete laws were put in execution against the christians. The progress of christianity alarmed the pagans, and they revived the stale calumny of placing accidental misfortunes to the account of its professors, A.D.192."
     },
     {
       "order": 339,
@@ -2140,7 +2265,8 @@
       "order": 340,
       "chapterIndex": 0,
       "text": "Victor, bishop of Rome, suffered martyrdom in the first year of the third century, A. D. 201. Leonidus, the father of the celebrated Origen, was beheaded for being a christian. Many of Origen's hearers likewise suffered martyrdom; particularly two brothers, named Plutarchus and Serenus; another Serenus, Heron, and Heraclides, were beheaded. Rhais had boiled pitch poured upon her head, and was then burnt, as was Marcella her mother. Potamiena, the sister of Rhais, was executed in the same manner as Rhais had been; but Basilides, an officer belonging to the army, and ordered to attend her execution, became her convert.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Victor, bishop of Rome, suffered martyrdom in the first year of the third century, A.D.201. Leonidus, the father of the celebrated Origen, was beheaded for being a christian. Many of Origen's hearers likewise suffered martyrdom; particularly two brothers, named Plutarchus and Serenus; another Serenus, Heron, and Heraclides, were beheaded. Rhais had boiled pitch poured upon her head, and was then burnt, as was Marcella her mother. Potamiena, the sister of Rhais, was executed in the same manner as Rhais had been; but Basilides, an officer belonging to the army, and ordered to attend her execution, became her convert."
     },
     {
       "order": 341,
@@ -2152,7 +2278,8 @@
       "order": 342,
       "chapterIndex": 0,
       "text": "Irenæus, bishop of Lyons, was born in Greece, and received both a polite and a christian education. It is generally supposed, that the account of the persecutions at Lyons was written by himself. He succeeded the martyr Pothinus as bishop of Lyons, and ruled his diocese with great propriety; he was a zealous opposer of heresies in general, and, about A. D. 187, he wrote a celebrated tract against heresy. Victor, the bishop of Rome, wanting to impose the keeping of Easter there, in preference to other places, it occasioned some disorders among the christians. In particular, Irenæus wrote him a synodical epistle, in the name of the Gallic churches. This zeal, in favour of christianity, pointed him out as an object of resentment to the emperor; and in A. D. 202, he was beheaded.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Irenæus, bishop of Lyons, was born in Greece, and received both a polite and a christian education. It is generally supposed, that the account of the persecutions at Lyons was written by himself. He succeeded the martyr Pothinus as bishop of Lyons, and ruled his diocese with great propriety; he was a zealous opposer of heresies in general, and, about A.D.187, he wrote a celebrated tract against heresy. Victor, the bishop of Rome, wanting to impose the keeping of Easter there, in preference to other places, it occasioned some disorders among the christians. In particular, Irenæus wrote him a synodical epistle, in the name of the Gallic churches. This zeal, in favour of christianity, pointed him out as an object of resentment to the emperor; and in A.D.202, he was beheaded."
     },
     {
       "order": 343,
@@ -2176,25 +2303,29 @@
       "order": 346,
       "chapterIndex": 0,
       "text": "Cecilia, a young lady of good family in Rome, was married to a gentleman named Valerian. She converted her husband and brother, who were beheaded; and the maximus, or officer, who led them to execution, becoming their convert, suffered the same fate. The lady was placed naked in a scalding bath, and having continued there a considerable time, her head was struck off with a sword, A. D. 222.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Cecilia, a young lady of good family in Rome, was married to a gentleman named Valerian. She converted her husband and brother, who were beheaded; and the maximus, or officer, who led them to execution, becoming their convert, suffered the same fate. The lady was placed naked in a scalding bath, and having continued there a considerable time, her head was struck off with a sword, A.D.222."
     },
     {
       "order": 347,
       "chapterIndex": 0,
       "text": "Calistus, bishop of Rome, was martyred, A. D. 224; but the manner of his death is not recorded; and Urban, bishop of Rome, met the same fate A. D. 232.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Calistus, bishop of Rome, was martyred, A.D.224; but the manner of his death is not recorded; and Urban, bishop of Rome, met the same fate A.D.232."
     },
     {
       "order": 348,
       "chapterIndex": 0,
       "text": "The Sixth Persecution, under Maximinus, A. D. 235.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Sixth Persecution, under Maximinus, A.D.235."
     },
     {
       "order": 349,
       "chapterIndex": 0,
       "text": "A. D. 235, was in the time of Maximinus. In Cappadocia, the president, Seremianus, did all he could to exterminate the christians from that province.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "A.D.235, was in the time of Maximinus. In Cappadocia, the president, Seremianus, did all he could to exterminate the christians from that province."
     },
     {
       "order": 350,
@@ -2212,13 +2343,15 @@
       "order": 352,
       "chapterIndex": 0,
       "text": "The tyrant Maximinus dying, A. D. 238, was succeeded by Gordian, during whose reign, and that of his successor Philip, the church was free from persecution for the space of more than ten years; but A. D. 249, a violent persecution broke out in Alexandria, at the instigation of a pagan priest, without the knowledge of the emperor.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The tyrant Maximinus dying, A.D.238, was succeeded by Gordian, during whose reign, and that of his successor Philip, the church was free from persecution for the space of more than ten years; but A.D.249, a violent persecution broke out in Alexandria, at the instigation of a pagan priest, without the knowledge of the emperor."
     },
     {
       "order": 353,
       "chapterIndex": 0,
       "text": "The Seventh Persecution, under Decius A. D. 249.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Seventh Persecution, under Decius A.D.249."
     },
     {
       "order": 354,
@@ -2242,7 +2375,8 @@
       "order": 357,
       "chapterIndex": 0,
       "text": "Fabian, the bishop of Rome, was the first person of eminence who felt the severity of this persecution. The deceased emperor, Philip, had, on account of his integrity, committed his treasure to the care of this good man. But Decius, not finding as much as his avarice made him expect, determined to wreak his vengeance on the good prelate. He was accordingly seized; and on the 20th of January, A. D. 250, he suffered decapitation.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Fabian, the bishop of Rome, was the first person of eminence who felt the severity of this persecution. The deceased emperor, Philip, had, on account of his integrity, committed his treasure to the care of this good man. But Decius, not finding as much as his avarice made him expect, determined to wreak his vengeance on the good prelate. He was accordingly seized; and on the 20th of January, A.D.250, he suffered decapitation."
     },
     {
       "order": 358,
@@ -2254,6 +2388,7 @@
       "order": 359,
       "chapterIndex": 0,
       "text": "Peter, a young man, amiable for the superior qualities of his body and mind, was beheaded for refusing to sacrifice to Venus. He said, \"I am astonished you should sacrifice to an infamous woman, whose debaucheries even your own historians record, and whose life consisted of such actions as your laws would punish.—No, I shall offer the true God the acceptable sacrifice of praises and prayers.\" Optimus, the proconsul of Asia, on hearing this, ordered the prisoner to be stretched upon a wheel, by which all his bones were broken, and then he was sent to be beheaded.",
+      "ttsText": "Peter, a young man, amiable for the superior qualities of his body and mind, was beheaded for refusing to sacrifice to Venus. He said, \"I am astonished you should sacrifice to an infamous woman, whose debaucheries even your own historians record, and whose life consisted of such actions as your laws would punish., No, I shall offer the true God the acceptable sacrifice of praises and prayers.\" Optimus, the proconsul of Asia, on hearing this, ordered the prisoner to be stretched upon a wheel, by which all his bones were broken, and then he was sent to be beheaded.",
       "role": "paragraph"
     },
     {
@@ -2272,7 +2407,8 @@
       "order": 362,
       "chapterIndex": 0,
       "text": "Andrew and Paul, two companions of Nichomachus the martyr, A. D. 251, suffered martyrdom by stoning, and expired, calling on their blessed Redeemer.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Andrew and Paul, two companions of Nichomachus the martyr, A.D.251, suffered martyrdom by stoning, and expired, calling on their blessed Redeemer."
     },
     {
       "order": 363,
@@ -2302,7 +2438,8 @@
       "order": 367,
       "chapterIndex": 0,
       "text": "Trypho and Respicius, two eminent men, were seized as Christians, and imprisoned at Nice. Their feet were pierced with nails; they were dragged through the streets, scourged, torn with iron hooks, scorched with lighted torches, and at length beheaded, February 1, A. D. 251.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Trypho and Respicius, two eminent men, were seized as Christians, and imprisoned at Nice. Their feet were pierced with nails; they were dragged through the streets, scourged, torn with iron hooks, scorched with lighted torches, and at length beheaded, February 1, A.D.251."
     },
     {
       "order": 368,
@@ -2332,7 +2469,8 @@
       "order": 372,
       "chapterIndex": 0,
       "text": "Babylas, a christian of a liberal education, became bishop of Antioch, A. D. 237, on the demise of Zebinus. He acted with inimitable zeal, and governed the church with admirable prudence during the most tempestuous times.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Babylas, a christian of a liberal education, became bishop of Antioch, A.D.237, on the demise of Zebinus. He acted with inimitable zeal, and governed the church with admirable prudence during the most tempestuous times."
     },
     {
       "order": 373,
@@ -2344,7 +2482,8 @@
       "order": 374,
       "chapterIndex": 0,
       "text": "After Gordian's death, in the reign of Decius, that emperor came to Antioch, where, having a desire to visit an assembly of christians, Babylas opposed him, and absolutely refused to let him come in. The emperor dissembled his anger at that time; but soon sending for the bishop, he sharply reproved him for his insolence, and then ordered him to sacrifice to the pagan deities as an expiation for his offence. This being refused, he was committed to prison, loaded with chains, treated with great severities, and then beheaded, together with three young men who had been his pupils. A. D. 251.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "After Gordian's death, in the reign of Decius, that emperor came to Antioch, where, having a desire to visit an assembly of christians, Babylas opposed him, and absolutely refused to let him come in. The emperor dissembled his anger at that time; but soon sending for the bishop, he sharply reproved him for his insolence, and then ordered him to sacrifice to the pagan deities as an expiation for his offence. This being refused, he was committed to prison, loaded with chains, treated with great severities, and then beheaded, together with three young men who had been his pupils. A.D.251."
     },
     {
       "order": 375,
@@ -2398,6 +2537,7 @@
       "order": 383,
       "chapterIndex": 0,
       "text": "The Eighth Persecution, under Valerian, A. D. 257 ,",
+      "ttsText": "The Eighth Persecution, under Valerian, A.D.257,",
       "role": "paragraph"
     },
     {
@@ -2410,7 +2550,8 @@
       "order": 385,
       "chapterIndex": 0,
       "text": "Rufina and Secunda, two beautiful and accomplished ladies, daughters of Asterius, a gentleman of eminence in Rome. Rufina, the elder, was designed in marriage for Armentarius, a young nobleman; Secunda, the younger, for Verinus a person of rank and opulence. The suitors, at the time of the persecution's commencing, were both christians; but when danger appeared, to save their fortunes, they renounced their faith. They took great pains to persuade the ladies to do the same, but, disappointed in their purpose, the lovers were base enough to inform against the ladies, who, being apprehended as christians, were brought before Junius Donatus, governor of Rome, where, A. D. 257, they sealed their martyrdom with their blood.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Rufina and Secunda, two beautiful and accomplished ladies, daughters of Asterius, a gentleman of eminence in Rome. Rufina, the elder, was designed in marriage for Armentarius, a young nobleman; Secunda, the younger, for Verinus a person of rank and opulence. The suitors, at the time of the persecution's commencing, were both christians; but when danger appeared, to save their fortunes, they renounced their faith. They took great pains to persuade the ladies to do the same, but, disappointed in their purpose, the lovers were base enough to inform against the ladies, who, being apprehended as christians, were brought before Junius Donatus, governor of Rome, where, A.D.257, they sealed their martyrdom with their blood."
     },
     {
       "order": 386,
@@ -2452,13 +2593,15 @@
       "order": 392,
       "chapterIndex": 0,
       "text": "Cyprian, bishop of Carthage, an eminent prelate, and a pious ornament of the church. The brightness of his genius was tempered by the solidity of his judgment; and with all the accomplishments of the gentleman, he blended the virtues of a christian. His doctrines were orthodox and pure; his language easy and elegant; and his manners graceful and winning: in fine , he was both the pious and polite preacher. In his youth he was educated in the principles of Gentilism, and having a considerable fortune, he lived in the very extravagance of splendour, and all the dignity of pomp.",
+      "ttsText": "Cyprian, bishop of Carthage, an eminent prelate, and a pious ornament of the church. The brightness of his genius was tempered by the solidity of his judgment; and with all the accomplishments of the gentleman, he blended the virtues of a christian. His doctrines were orthodox and pure; his language easy and elegant; and his manners graceful and winning: in fine, he was both the pious and polite preacher. In his youth he was educated in the principles of Gentilism, and having a considerable fortune, he lived in the very extravagance of splendour, and all the dignity of pomp.",
       "role": "paragraph"
     },
     {
       "order": 393,
       "chapterIndex": 0,
       "text": "About the year 246, Cœcilius, a christian minister of Carthage became the happy instrument of Cyprian's conversion: on which account, and for the great love that he always afterward bore for the author of his conversion, he was termed Cœcilius Cyprian. Previous to his baptism, he studied the scriptures with care, and being struck with the beauties of the truths they contained, he determined to practise the virtues therein recommended. Subsequent to his baptism, he sold his estate, distributed the money among the poor, dressed himself in plain attire, and commenced a life of austerity. He was soon after made a presbyter; and, being greatly admired for his virtues and works, on the death of Donatus, in A. D. 248, he was almost unanimously elected bishop of Carthage.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "About the year 246, Cœcilius, a christian minister of Carthage became the happy instrument of Cyprian's conversion: on which account, and for the great love that he always afterward bore for the author of his conversion, he was termed Cœcilius Cyprian. Previous to his baptism, he studied the scriptures with care, and being struck with the beauties of the truths they contained, he determined to practise the virtues therein recommended. Subsequent to his baptism, he sold his estate, distributed the money among the poor, dressed himself in plain attire, and commenced a life of austerity. He was soon after made a presbyter; and, being greatly admired for his virtues and works, on the death of Donatus, in A.D.248, he was almost unanimously elected bishop of Carthage."
     },
     {
       "order": 394,
@@ -2470,7 +2613,8 @@
       "order": 395,
       "chapterIndex": 0,
       "text": "A. D. 250, Cyprian was publicly proscribed by the emperor Decius, under the appellation of Cœcilius Cyprian, bishop of the christians; and the universal cry of the pagans was, \"Cyprian to the lions, Cyprian to the beasts.\" The bishop, however, withdrew from the rage of the populace, and his effects were immediately confiscated. During his retirement, he wrote thirty pious and elegant letters to his flock; but several schisms that then crept into the church, gave him great uneasiness. The rigour of the persecution abating, he returned to Carthage, and did every thing in his power to expunge erroneous opinions. A terrible plague breaking out in Carthage, it was as usual, laid to the charge of the christians; and the magistrates began to persecute accordingly, which occasioned an epistle from them to Cyprian, in answer to which he vindicates the cause of christianity. A. D. 257, Cyprian was brought before the proconsul Aspasius Paturnus, who exiled him to a little city on the Lybian sea. On the death of this proconsul, he returned to Carthage, but was soon after seized, and carried before the now governor, who condemned him to be beheaded; which sentence was executed on the 14th of September, A. D. 258.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "A.D.250, Cyprian was publicly proscribed by the emperor Decius, under the appellation of Cœcilius Cyprian, bishop of the christians; and the universal cry of the pagans was, \"Cyprian to the lions, Cyprian to the beasts.\" The bishop, however, withdrew from the rage of the populace, and his effects were immediately confiscated. During his retirement, he wrote thirty pious and elegant letters to his flock; but several schisms that then crept into the church, gave him great uneasiness. The rigour of the persecution abating, he returned to Carthage, and did every thing in his power to expunge erroneous opinions. A terrible plague breaking out in Carthage, it was as usual, laid to the charge of the christians; and the magistrates began to persecute accordingly, which occasioned an epistle from them to Cyprian, in answer to which he vindicates the cause of christianity. A.D.257, Cyprian was brought before the proconsul Aspasius Paturnus, who exiled him to a little city on the Lybian sea. On the death of this proconsul, he returned to Carthage, but was soon after seized, and carried before the now governor, who condemned him to be beheaded; which sentence was executed on the 14th of September, A.D.258."
     },
     {
       "order": 396,
@@ -2524,13 +2668,15 @@
       "order": 404,
       "chapterIndex": 0,
       "text": "A. D. 260, Gallienus, the son of Valerian, succeeded him, and during his reign (a few martyrs excepted) the church enjoyed peace for some years.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "A.D.260, Gallienus, the son of Valerian, succeeded him, and during his reign (a few martyrs excepted) the church enjoyed peace for some years."
     },
     {
       "order": 405,
       "chapterIndex": 0,
       "text": "The Ninth Persecution under Aurelian, A. D. 274.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Ninth Persecution under Aurelian, A.D.274."
     },
     {
       "order": 406,
@@ -2560,7 +2706,8 @@
       "order": 410,
       "chapterIndex": 0,
       "text": "Diocletian mounted the imperial throne, A. D. 284; at first he showed great favour to the christians. In the year 286, he associated Maximian with him in the empire; and some christians were put to death before any general persecution broke out. Among these were Felician and Primus, two brothers.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Diocletian mounted the imperial throne, A.D.284; at first he showed great favour to the christians. In the year 286, he associated Maximian with him in the empire; and some christians were put to death before any general persecution broke out. Among these were Felician and Primus, two brothers."
     },
     {
       "order": 411,
@@ -2608,19 +2755,22 @@
       "order": 418,
       "chapterIndex": 0,
       "text": "Alban, from whom St. Alban's, in Hertfordshire, received its name, was the first British martyr. Great Britain had received the gospel of Christ from Lucius, the first christian king, but did not suffer from the rage of persecution for many years after. He was originally a pagan, but converted by a christian ecclesiastic, named Amphibalus, whom he sheltered on account of his religion. The enemies of Amphibalus, having intelligence of the place where he was secreted, came to the house of Alban; in order to facilitate his escape, when the soldiers came, he offered himself up as the person they were seeking for. The deceit being detected, the governor ordered him to be scourged, and then he was sentenced to be beheaded, June 22, A. D. 287.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Alban, from whom St. Alban's, in Hertfordshire, received its name, was the first British martyr. Great Britain had received the gospel of Christ from Lucius, the first christian king, but did not suffer from the rage of persecution for many years after. He was originally a pagan, but converted by a christian ecclesiastic, named Amphibalus, whom he sheltered on account of his religion. The enemies of Amphibalus, having intelligence of the place where he was secreted, came to the house of Alban; in order to facilitate his escape, when the soldiers came, he offered himself up as the person they were seeking for. The deceit being detected, the governor ordered him to be scourged, and then he was sentenced to be beheaded, June 22, A.D.287."
     },
     {
       "order": 419,
       "chapterIndex": 0,
       "text": "The venerable Bede assures us, that, upon this occasion, the executioner suddenly became a convert to christianity, and entreated permission to die for Alban, or with him. Obtaining the latter request, they were beheaded by a soldier, who voluntarily undertook the task of executioner. This happened on the 22d of June, A. D. 287, at Verulam, now St. Albans, in Hertfordshire, where a magnificent church was erected to his memory about the time of Constantine the Great. This edifice, being destroyed in the Saxon wars, was rebuilt by Offa, king of Mercia, and a monastery erected adjoining to it, some remains of which are still visible, and the church is a noble Gothic structure.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The venerable Bede assures us, that, upon this occasion, the executioner suddenly became a convert to christianity, and entreated permission to die for Alban, or with him. Obtaining the latter request, they were beheaded by a soldier, who voluntarily undertook the task of executioner. This happened on the 22d of June, A.D.287, at Verulam, now St. Albans, in Hertfordshire, where a magnificent church was erected to his memory about the time of Constantine the Great. This edifice, being destroyed in the Saxon wars, was rebuilt by Offa, king of Mercia, and a monastery erected adjoining to it, some remains of which are still visible, and the church is a noble Gothic structure."
     },
     {
       "order": 420,
       "chapterIndex": 0,
       "text": "Faith, a christian female, of Acquitain, in France, was ordered to be broiled upon a gridiron, and then beheaded; A. D. 287.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Faith, a christian female, of Acquitain, in France, was ordered to be broiled upon a gridiron, and then beheaded; A.D.287."
     },
     {
       "order": 421,
@@ -2632,12 +2782,14 @@
       "order": 422,
       "chapterIndex": 0,
       "text": "Being seized upon as a christian, he was stretched with pullies till his joints were dislocated: his body was then torn with wire scourges, and boiling oil and pitch poured on his naked flesh; lighted torches were applied to his sides and armpits; and after he had been thus tortured, he was remanded back to prison, and died of the barbarities he had suffered, October 31, A. D. 287. His body was sunk in the Somme.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Being seized upon as a christian, he was stretched with pullies till his joints were dislocated: his body was then torn with wire scourges, and boiling oil and pitch poured on his naked flesh; lighted torches were applied to his sides and armpits; and after he had been thus tortured, he was remanded back to prison, and died of the barbarities he had suffered, October 31, A.D.287. His body was sunk in the Somme."
     },
     {
       "order": 423,
       "chapterIndex": 0,
       "text": "The Tenth Persecution under Diocletian, A. D. 303 ,",
+      "ttsText": "The Tenth Persecution under Diocletian, A.D.303,",
       "role": "paragraph"
     },
     {
@@ -2650,7 +2802,8 @@
       "order": 425,
       "chapterIndex": 0,
       "text": "The fatal day fixed upon to commence the bloody work, was the 23d of February, A. D. 303, that being the day in which the Terminalia were celebrated, and on which, as the cruel pagans boasted, they hoped to put a termination to christianity. On the appointed day, the persecution began in Nicomedia, on the morning of which the prefect of that city repaired, with a great number of officers and assistants, to the church of the christians, where, having forced open the doors, they seized upon all the sacred books, and committed them to the flames.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The fatal day fixed upon to commence the bloody work, was the 23d of February, A.D.303, that being the day in which the Terminalia were celebrated, and on which, as the cruel pagans boasted, they hoped to put a termination to christianity. On the appointed day, the persecution began in Nicomedia, on the morning of which the prefect of that city repaired, with a great number of officers and assistants, to the church of the christians, where, having forced open the doors, they seized upon all the sacred books, and committed them to the flames."
     },
     {
       "order": 426,
@@ -2716,7 +2869,8 @@
       "order": 436,
       "chapterIndex": 0,
       "text": "Vitus, a Sicilian of considerable family, was brought up a christian; when his virtues increased with his years, his constancy supported him under all afflictions, and his faith was superior to the most dangerous perils. His father, Hylas, who was a pagan, finding that he had been instructed in the principles of christianity by the nurse who brought him up, used all his endeavours to bring him back to paganism and at length sacrificed his son to the idols, June 14, A. D. 303.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Vitus, a Sicilian of considerable family, was brought up a christian; when his virtues increased with his years, his constancy supported him under all afflictions, and his faith was superior to the most dangerous perils. His father, Hylas, who was a pagan, finding that he had been instructed in the principles of christianity by the nurse who brought him up, used all his endeavours to bring him back to paganism and at length sacrificed his son to the idols, June 14, A.D.303."
     },
     {
       "order": 437,
@@ -2734,13 +2888,15 @@
       "order": 439,
       "chapterIndex": 0,
       "text": "Being by order stretched upon the rack, he turned his eyes towards heaven, and prayed to God to endue him with patience, after which he underwent the tortures with most admirable fortitude. After the executioners were tired with inflicting torments on him, he was conveyed to a dungeon. In his confinement, he converted his jailers, named Alexander, Felician, and Longinus. This affair coming to the ears of the emperor, he ordered them immediately to be put to death, and the jailers were accordingly beheaded. Victor was then again put to the rack, unmercifully beaten with batons , and again sent to prison.",
+      "ttsText": "Being by order stretched upon the rack, he turned his eyes towards heaven, and prayed to God to endue him with patience, after which he underwent the tortures with most admirable fortitude. After the executioners were tired with inflicting torments on him, he was conveyed to a dungeon. In his confinement, he converted his jailers, named Alexander, Felician, and Longinus. This affair coming to the ears of the emperor, he ordered them immediately to be put to death, and the jailers were accordingly beheaded. Victor was then again put to the rack, unmercifully beaten with batons, and again sent to prison.",
       "role": "paragraph"
     },
     {
       "order": 440,
       "chapterIndex": 0,
       "text": "Being a third time examined concerning his religion, he persevered in his principles; a small altar was then brought, and he was commanded to offer incense upon it immediately. Fired with indignation at the request, he boldly stepped forward, and with his foot overthrew both altar and idol. This so enraged the emperor Maximian, who was present, that he ordered the foot with which he had kicked the altar to be immediately cut off; and Victor was thrown into a mill, and crushed to pieces with the stones, A. D. 303.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Being a third time examined concerning his religion, he persevered in his principles; a small altar was then brought, and he was commanded to offer incense upon it immediately. Fired with indignation at the request, he boldly stepped forward, and with his foot overthrew both altar and idol. This so enraged the emperor Maximian, who was present, that he ordered the foot with which he had kicked the altar to be immediately cut off; and Victor was thrown into a mill, and crushed to pieces with the stones, A.D.303."
     },
     {
       "order": 441,
@@ -2752,13 +2908,15 @@
       "order": 442,
       "chapterIndex": 0,
       "text": "Being brought to the amphitheatre, several beasts were let loose upon them; but none of the animals, though hungry, would touch them. The keeper then brought out a large bear, that had that very day destroyed three men; but this voracious creature and a fierce lioness both refused to touch the prisoners. Finding the design of destroying them by the means of wild beasts ineffectual, Maximus ordered them to be slain by the sword, on the 11th of October, A. D. 303.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Being brought to the amphitheatre, several beasts were let loose upon them; but none of the animals, though hungry, would touch them. The keeper then brought out a large bear, that had that very day destroyed three men; but this voracious creature and a fierce lioness both refused to touch the prisoners. Finding the design of destroying them by the means of wild beasts ineffectual, Maximus ordered them to be slain by the sword, on the 11th of October, A.D.303."
     },
     {
       "order": 443,
       "chapterIndex": 0,
       "text": "Romanus, a native of Palestine, was deacon of the church of Cæsarea, at the time of the commencement of Diocletian's persecution. Being condemned for his faith at Antioch, he was scourged, put to the rack, his body torn with hooks, his flesh cut with knives, his face scarified, his teeth beaten from their sockets, and his hair plucked up by the roots. Soon after he was ordered to be strangled, Nov. 17, A. D. 303.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Romanus, a native of Palestine, was deacon of the church of Cæsarea, at the time of the commencement of Diocletian's persecution. Being condemned for his faith at Antioch, he was scourged, put to the rack, his body torn with hooks, his flesh cut with knives, his face scarified, his teeth beaten from their sockets, and his hair plucked up by the roots. Soon after he was ordered to be strangled, Nov. 17, A.D.303."
     },
     {
       "order": 444,
@@ -2782,6 +2940,7 @@
       "order": 447,
       "chapterIndex": 0,
       "text": "Cyprian, known by the title of the magician, to distinguish him from Cyprian, bishop of Carthage, was a native of Antioch. He received a liberal education in his youth, and particularly applied himself to astrology; after which he travelled for improvement through Greece, Egypt, India, &c. In the course of time he became acquainted with Justina, a young lady of Antioch, whose birth, beauty, and accomplishments, rendered her the admiration of all who knew her.",
+      "ttsText": "Cyprian, known by the title of the magician, to distinguish him from Cyprian, bishop of Carthage, was a native of Antioch. He received a liberal education in his youth, and particularly applied himself to astrology; after which he travelled for improvement through Greece, Egypt, India, and c. In the course of time he became acquainted with Justina, a young lady of Antioch, whose birth, beauty, and accomplishments, rendered her the admiration of all who knew her.",
       "role": "paragraph"
     },
     {
@@ -2794,19 +2953,22 @@
       "order": 449,
       "chapterIndex": 0,
       "text": "Eulalia, a Spanish lady of a christian family, was remarkable in her youth for sweetness of temper, and solidity of understanding seldom found in the capriciousness of juvenile years. Being apprehended as a christian, the magistrate attempted by the mildest means, to bring her over to paganism, but she ridiculed the pagan deities with such asperity, that the judge, incensed at her behaviour, ordered her to be tortured. Her sides were accordingly torn by hooks, and her breasts burnt in the most shocking manner, till she expired by the violence of the flames, Dec. A. D. 303.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Eulalia, a Spanish lady of a christian family, was remarkable in her youth for sweetness of temper, and solidity of understanding seldom found in the capriciousness of juvenile years. Being apprehended as a christian, the magistrate attempted by the mildest means, to bring her over to paganism, but she ridiculed the pagan deities with such asperity, that the judge, incensed at her behaviour, ordered her to be tortured. Her sides were accordingly torn by hooks, and her breasts burnt in the most shocking manner, till she expired by the violence of the flames, Dec. A.D.303."
     },
     {
       "order": 450,
       "chapterIndex": 0,
       "text": "In the year 304, when the persecution reached Spain, Dacian, the governor of Terragona ordered Valerius the bishop, and Vincent the deacon, to be seized, loaded with irons, and imprisoned. The prisoners being firm in their resolution, Valerius was banished, and Vincent was racked, and his limbs dislocated, his flesh torn with hooks, and was laid on a gridiron, which had not only a fire placed under it, but spikes at the top, which ran into his flesh. These torments neither destroying him, nor changing his resolutions, he was remanded to prison, and confined in a small, loathsome, dark dungeon, strewed with sharp flints, and pieces of broken glass, where he died, Jan. 22, 304.—His body was thrown into the river.",
+      "ttsText": "In the year 304, when the persecution reached Spain, Dacian, the governor of Terragona ordered Valerius the bishop, and Vincent the deacon, to be seized, loaded with irons, and imprisoned. The prisoners being firm in their resolution, Valerius was banished, and Vincent was racked, and his limbs dislocated, his flesh torn with hooks, and was laid on a gridiron, which had not only a fire placed under it, but spikes at the top, which ran into his flesh. These torments neither destroying him, nor changing his resolutions, he was remanded to prison, and confined in a small, loathsome, dark dungeon, strewed with sharp flints, and pieces of broken glass, where he died, Jan. 22, 304., His body was thrown into the river.",
       "role": "paragraph"
     },
     {
       "order": 451,
       "chapterIndex": 0,
       "text": "The persecution of Diocletian began particularly to rage in A. D. 304, when many christians were put to cruel tortures, and the most painful and ignominious deaths; the most eminent and particular of whom we shall enumerate.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The persecution of Diocletian began particularly to rage in A.D.304, when many christians were put to cruel tortures, and the most painful and ignominious deaths; the most eminent and particular of whom we shall enumerate."
     },
     {
       "order": 452,
@@ -2824,7 +2986,8 @@
       "order": 454,
       "chapterIndex": 0,
       "text": "Agrape, Chioma, and Irene, three sisters, were seized upon at Thessalonica, when Diocletian's persecution reached Greece. They were burnt, and received the crown of martyrdom in the flames, March 25, A. D. 304. The governor, finding that he could make no impression on Irene, ordered her to be exposed naked in the streets, which shameful order having been executed, she was burnt, April 1, A. D. 304, at the same place where her sisters suffered.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Agrape, Chioma, and Irene, three sisters, were seized upon at Thessalonica, when Diocletian's persecution reached Greece. They were burnt, and received the crown of martyrdom in the flames, March 25, A.D.304. The governor, finding that he could make no impression on Irene, ordered her to be exposed naked in the streets, which shameful order having been executed, she was burnt, April 1, A.D.304, at the same place where her sisters suffered."
     },
     {
       "order": 455,
@@ -2848,13 +3011,15 @@
       "order": 458,
       "chapterIndex": 0,
       "text": "Timothy, a deacon of Mauritania, and Maura his wife, had not been united together by the bands of wedlock above three weeks, when they were separated from each other by the persecution.—Timothy, being apprehended as a christian, was carried before Arrianus, the governor of Thebais, who, knowing that he had the keeping of the Holy Scriptures, commanded him to deliver them up to be burnt; to which he answered, \"Had I children, I would sooner deliver them up to be sacrificed, than part with the word of God.\" The governor being much incensed at this reply, ordered his eyes to be put out with red-hot irons, saying \"The books shall at least be useless to you, for you shall not see to read them.\" His patience under the operation was so great, that the governor grew more exasperated; he, therefore, in order, if possible, to overcome his fortitude, ordered him to be hung up by the feet, with a weight tied about his neck, and a gag in his mouth. In this state, Maura, his wife, tenderly urged him for her sake to recant; but, when the gag was taken out of his mouth, instead of consenting to his wife's entreaties, he greatly blamed her mistaken love, and declared his resolution of dying for the faith. The consequence was, that Maura resolved to imitate his courage and fidelity and either to accompany or follow him to glory. The governor, after trying in vain to alter her resolution, ordered her to be tortured which was executed with great severity. After this, Timothy and Maura were crucified near each other, A. D. 304.",
+      "ttsText": "Timothy, a deacon of Mauritania, and Maura his wife, had not been united together by the bands of wedlock above three weeks, when they were separated from each other by the persecution., Timothy, being apprehended as a christian, was carried before Arrianus, the governor of Thebais, who, knowing that he had the keeping of the Holy Scriptures, commanded him to deliver them up to be burnt; to which he answered, \"Had I children, I would sooner deliver them up to be sacrificed, than part with the word of God.\" The governor being much incensed at this reply, ordered his eyes to be put out with red-hot irons, saying \"The books shall at least be useless to you, for you shall not see to read them.\" His patience under the operation was so great, that the governor grew more exasperated; he, therefore, in order, if possible, to overcome his fortitude, ordered him to be hung up by the feet, with a weight tied about his neck, and a gag in his mouth. In this state, Maura, his wife, tenderly urged him for her sake to recant; but, when the gag was taken out of his mouth, instead of consenting to his wife's entreaties, he greatly blamed her mistaken love, and declared his resolution of dying for the faith. The consequence was, that Maura resolved to imitate his courage and fidelity and either to accompany or follow him to glory. The governor, after trying in vain to alter her resolution, ordered her to be tortured which was executed with great severity. After this, Timothy and Maura were crucified near each other, A.D.304.",
       "role": "paragraph"
     },
     {
       "order": 459,
       "chapterIndex": 0,
       "text": "Sabinus, bishop of Assisium, refusing to sacrifice to Jupiter, and pushing the idol from him, had his hand cut off by the order of the governor of Tuscany. While in prison, he converted the governor and his family, all of whom suffered martyrdom for the faith. Soon after their execution, Sabinus himself was scourged to death. Dec.. A. D. 304.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Sabinus, bishop of Assisium, refusing to sacrifice to Jupiter, and pushing the idol from him, had his hand cut off by the order of the governor of Tuscany. While in prison, he converted the governor and his family, all of whom suffered martyrdom for the faith. Soon after their execution, Sabinus himself was scourged to death. Dec.. A.D.304."
     },
     {
       "order": 460,
@@ -2872,6 +3037,7 @@
       "order": 462,
       "chapterIndex": 0,
       "text": "Amphianus was a gentleman of eminence in Lucia, and a scholar of Eusebius; Julitta, a Lycaonian of royal descent, but more celebrated for her virtues than noble blood. While on the rack, her child was killed before her face. Julitta, of Cappadocia, was a lady of distinguished capacity, great virtue, and uncommon courage.—To complete the execution, Julitta had boiling pitch poured on her feet, her sides torn with hooks, and received the conclusion of her martyrdom , by being beheaded, April 16, A. D. 305.",
+      "ttsText": "Amphianus was a gentleman of eminence in Lucia, and a scholar of Eusebius; Julitta, a Lycaonian of royal descent, but more celebrated for her virtues than noble blood. While on the rack, her child was killed before her face. Julitta, of Cappadocia, was a lady of distinguished capacity, great virtue, and uncommon courage., To complete the execution, Julitta had boiling pitch poured on her feet, her sides torn with hooks, and received the conclusion of her martyrdom, by being beheaded, April 16, A.D.305.",
       "role": "paragraph"
     },
     {
@@ -2902,7 +3068,8 @@
       "order": 467,
       "chapterIndex": 0,
       "text": "Quirinus, bishop of Siscia, being carried before Matenius, the governor, was ordered to sacrifice to the pagan deities, agreeably to the edicts of various Roman emperors. The governor, perceiving his constancy, sent him to jail, and ordered him to be heavily ironed; flattering himself, that the hardships of a jail, some occasional tortures and the weight of chains, might overcome his resolution. Being decided in his principles, he was sent to Amantius, the principal governor of Pannonia, now Hungary, who loaded him with chains, and carried him through the principal towns of the Danube, exposing him to ridicule wherever he went. Arriving at length at Sabaria, and finding that Quirinus would not renounce his faith, he ordered him to be cast into a river, with a stone fastened about his neck. This sentence being put into execution, Quirinus floated about for some time, and, exhorting the people in the most pious terms, concluded his admonitions with this prayer: \"It is no new thing, O all-powerful Jesus, for thee to stop the course of rivers, or to cause a man to walk upon the water as thou didst thy servant Peter; the people have already seen the proof of thy power in me; grant me now to lay down my life for thy sake, O my God.\" On pronouncing the last words he immediately sank, and died, June 4, A. D. 308; his body was afterwards taken up, and buried by some pious christians.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Quirinus, bishop of Siscia, being carried before Matenius, the governor, was ordered to sacrifice to the pagan deities, agreeably to the edicts of various Roman emperors. The governor, perceiving his constancy, sent him to jail, and ordered him to be heavily ironed; flattering himself, that the hardships of a jail, some occasional tortures and the weight of chains, might overcome his resolution. Being decided in his principles, he was sent to Amantius, the principal governor of Pannonia, now Hungary, who loaded him with chains, and carried him through the principal towns of the Danube, exposing him to ridicule wherever he went. Arriving at length at Sabaria, and finding that Quirinus would not renounce his faith, he ordered him to be cast into a river, with a stone fastened about his neck. This sentence being put into execution, Quirinus floated about for some time, and, exhorting the people in the most pious terms, concluded his admonitions with this prayer: \"It is no new thing, O all-powerful Jesus, for thee to stop the course of rivers, or to cause a man to walk upon the water as thou didst thy servant Peter; the people have already seen the proof of thy power in me; grant me now to lay down my life for thy sake, O my God.\" On pronouncing the last words he immediately sank, and died, June 4, A.D.308; his body was afterwards taken up, and buried by some pious christians."
     },
     {
       "order": 468,
@@ -2914,13 +3081,15 @@
       "order": 469,
       "chapterIndex": 0,
       "text": "Marcellus, bishop of Rome, being banished on account of his faith, fell a martyr to the miseries he suffered in exile, 16th Jan. A. D. 310.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Marcellus, bishop of Rome, being banished on account of his faith, fell a martyr to the miseries he suffered in exile, 16th Jan. A.D.310."
     },
     {
       "order": 470,
       "chapterIndex": 0,
       "text": "Peter, the sixteenth bishop of Alexandria, was martyred Nov. 25, A. D. 311, by order of Maximus Cæsar, who reigned in the east.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Peter, the sixteenth bishop of Alexandria, was martyred Nov. 25, A.D.311, by order of Maximus Cæsar, who reigned in the east."
     },
     {
       "order": 471,
@@ -2956,12 +3125,14 @@
       "order": 476,
       "chapterIndex": 0,
       "text": "CHAPTER III.",
+      "ttsText": "Chapter III.",
       "role": "heading"
     },
     {
       "order": 477,
       "chapterIndex": 0,
       "text": "PERSECUTIONS OF THE CHRISTIANS IN PERSIA.",
+      "ttsText": "Persecutions of the Christians in Persia.",
       "role": "title"
     },
     {
@@ -2998,13 +3169,15 @@
       "order": 483,
       "chapterIndex": 1,
       "text": "The author of the Arian heresy was Arius, a native of Lybia, and a priest of Alexandria, who, in A. D. 318, began to publish his errors. He was condemned by a council of Lybian and Egyptian bishops, and that sentence was confirmed by the council of Nice, A. D. 325. After the death of Constantine the Great, the Arians found means to ingratiate themselves into the favour of the emperor Constantinus, his son and successor in the east; and hence a persecution was raised against the orthodox bishops and clergy. The celebrated Athanasius, and other bishops, were banished, and their sees filled with Arians.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The author of the Arian heresy was Arius, a native of Lybia, and a priest of Alexandria, who, in A.D.318, began to publish his errors. He was condemned by a council of Lybian and Egyptian bishops, and that sentence was confirmed by the council of Nice, A.D.325. After the death of Constantine the Great, the Arians found means to ingratiate themselves into the favour of the emperor Constantinus, his son and successor in the east; and hence a persecution was raised against the orthodox bishops and clergy. The celebrated Athanasius, and other bishops, were banished, and their sees filled with Arians."
     },
     {
       "order": 484,
       "chapterIndex": 1,
       "text": "In Egypt and Lybia, thirty bishops were martyred, and many other christians cruelly tormented; and, A. D. 386, George, the Arian bishop of Alexandria, under the authority of the emperor, began a persecution in that city and its environs, and carried it on with the most infernal severity. He was assisted in his diabolical malice by Catophonius, governor of Egypt; Sebastian, general of the Egyptian forces; Faustinus the treasurer; and Herachus, a Roman officer.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "In Egypt and Lybia, thirty bishops were martyred, and many other christians cruelly tormented; and, A.D.386, George, the Arian bishop of Alexandria, under the authority of the emperor, began a persecution in that city and its environs, and carried it on with the most infernal severity. He was assisted in his diabolical malice by Catophonius, governor of Egypt; Sebastian, general of the Egyptian forces; Faustinus the treasurer; and Herachus, a Roman officer."
     },
     {
       "order": 485,
@@ -3034,7 +3207,8 @@
       "order": 489,
       "chapterIndex": 1,
       "text": "Bishop Basil made himself first famous by his opposition to Arianism, which brought upon him the vengeance of the Arian bishop of Constantinople; he equally opposed paganism. The emperor's agents in vain tampered with Basil by means of promises, threats, and racks, he was firm in the faith, and remained in prison to undergo some other sufferings, when the emperor came accidentally to Ancyra. Julian determined to examine Basil himself, when that holy man being brought before him, the emperor did every thing in his power to dissuade him from persevering in the faith. Basil not only continued as firm as ever, but, with a prophetic spirit foretold the death of the emperor, and that he should be tormented in the other life. Enraged at what he heard, Julian commanded that the body of Basil should be torn every day in seven different parts, till his skin and flesh were entirely mangled. This inhuman sentence was executed with rigour, and the martyr expired under its severities, on the 28th day of June, A. D. 362.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Bishop Basil made himself first famous by his opposition to Arianism, which brought upon him the vengeance of the Arian bishop of Constantinople; he equally opposed paganism. The emperor's agents in vain tampered with Basil by means of promises, threats, and racks, he was firm in the faith, and remained in prison to undergo some other sufferings, when the emperor came accidentally to Ancyra. Julian determined to examine Basil himself, when that holy man being brought before him, the emperor did every thing in his power to dissuade him from persevering in the faith. Basil not only continued as firm as ever, but, with a prophetic spirit foretold the death of the emperor, and that he should be tormented in the other life. Enraged at what he heard, Julian commanded that the body of Basil should be torn every day in seven different parts, till his skin and flesh were entirely mangled. This inhuman sentence was executed with rigour, and the martyr expired under its severities, on the 28th day of June, A.D.362."
     },
     {
       "order": 490,
@@ -3052,7 +3226,8 @@
       "order": 492,
       "chapterIndex": 1,
       "text": "The emperor, Julian the apostate, died of a wound which he received in his Persian expedition, A. D. 363, and even while expiring, uttered the most horrid blasphemies. He was succeeded by Jovian, who restored peace to the church.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The emperor, Julian the apostate, died of a wound which he received in his Persian expedition, A.D.363, and even while expiring, uttered the most horrid blasphemies. He was succeeded by Jovian, who restored peace to the church."
     },
     {
       "order": 493,
@@ -3100,7 +3275,8 @@
       "order": 500,
       "chapterIndex": 1,
       "text": "After the decease of Huneric, his successor recalled him, and the rest of the orthodox clergy; the Arians, taking the alarm, persuaded him to banish them again, which he complied with, when Eugenius, exiled to Languedoc in France, died there of the hardships he underwent on the 6th of September, A. D. 305.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "After the decease of Huneric, his successor recalled him, and the rest of the orthodox clergy; the Arians, taking the alarm, persuaded him to banish them again, which he complied with, when Eugenius, exiled to Languedoc in France, died there of the hardships he underwent on the 6th of September, A.D.305."
     },
     {
       "order": 501,
@@ -3112,31 +3288,36 @@
       "order": 502,
       "chapterIndex": 1,
       "text": "Proterius was made a priest by Cyril, bishop of Alexandria, who was well acquainted with his virtues, before he appointed him to preach. On the death of Cyril, the see of Alexandria was filled by Discorus, an inveterate enemy to the memory and family of his predecessor. Being condemned by the council of Chalcedon for having embraced the errors of Eutyches, he was deposed, and Proterius chosen to fill the vacant see, who was approved of by the emperor. This occasioned a dangerous insurrection, for the city of Alexandria was divided into two factions; the one to espouse the cause of the old, and the other of the new prelate. In one of the commotions, the Eutychians determined to wreak their vengeance on Proterius, who fled to the church for sanctuary: but on Good Friday, A. D. 457, a large body of them rushed into the church, and barbarously murdered the prelate; after which they dragged the body through the streets, insulted it, cut it to pieces, burnt it, and scattered the ashes in the air.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Proterius was made a priest by Cyril, bishop of Alexandria, who was well acquainted with his virtues, before he appointed him to preach. On the death of Cyril, the see of Alexandria was filled by Discorus, an inveterate enemy to the memory and family of his predecessor. Being condemned by the council of Chalcedon for having embraced the errors of Eutyches, he was deposed, and Proterius chosen to fill the vacant see, who was approved of by the emperor. This occasioned a dangerous insurrection, for the city of Alexandria was divided into two factions; the one to espouse the cause of the old, and the other of the new prelate. In one of the commotions, the Eutychians determined to wreak their vengeance on Proterius, who fled to the church for sanctuary: but on Good Friday, A.D.457, a large body of them rushed into the church, and barbarously murdered the prelate; after which they dragged the body through the streets, insulted it, cut it to pieces, burnt it, and scattered the ashes in the air."
     },
     {
       "order": 503,
       "chapterIndex": 1,
       "text": "Hermenigildus, a Gothic prince, was the eldest son of Leovigildus, a king of the Goths, in Spain. This prince, who was originally an Arian, became a convert to the orthodox faith, by means of his wife Ingonda. When the king heard that his son had changed his religious sentiments, he stripped him of the command at Seville, where he was governor, and threatened to put him to death unless he renounced the faith he had newly embraced. The prince, in order to prevent the execution of his father's menaces, began to put himself into a posture of defence; and many of the orthodox persuasion in Spain declared for him. The king, exasperated at this act of rebellion, began to punish all the orthodox christians who could be seized by his troops; and thus a very severe persecution commenced: he likewise marched against his son at the head of a very powerful army. The prince took refuge in Seville, from which he fled, and was at length besieged and taken at Asieta. Loaded with chains, he was sent to Seville, and at the feast of Easter refusing to receive the Eucharist from an Arian bishop, the enraged king ordered his guards to cut the prince to pieces, which they punctually performed, April 13, A. D. 586.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Hermenigildus, a Gothic prince, was the eldest son of Leovigildus, a king of the Goths, in Spain. This prince, who was originally an Arian, became a convert to the orthodox faith, by means of his wife Ingonda. When the king heard that his son had changed his religious sentiments, he stripped him of the command at Seville, where he was governor, and threatened to put him to death unless he renounced the faith he had newly embraced. The prince, in order to prevent the execution of his father's menaces, began to put himself into a posture of defence; and many of the orthodox persuasion in Spain declared for him. The king, exasperated at this act of rebellion, began to punish all the orthodox christians who could be seized by his troops; and thus a very severe persecution commenced: he likewise marched against his son at the head of a very powerful army. The prince took refuge in Seville, from which he fled, and was at length besieged and taken at Asieta. Loaded with chains, he was sent to Seville, and at the feast of Easter refusing to receive the Eucharist from an Arian bishop, the enraged king ordered his guards to cut the prince to pieces, which they punctually performed, April 13, A.D.586."
     },
     {
       "order": 504,
       "chapterIndex": 1,
       "text": "Martin, bishop of Rome, was born at Todi, in Italy. He was naturally inclined to virtue, and his parents bestowed on him an admirable education. He opposed the heretics called Monothothelites, who were patronized by the emperor Heraclius. Martin was condemned at Constantinople, where he was exposed in the most public places to the ridicule of the people, divested of all episcopal marks of distinction, and treated with the greatest scorn and severity. After lying some months in prison, Martin was sent to an island at some distance, and there cut to pieces, A. D. 655.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Martin, bishop of Rome, was born at Todi, in Italy. He was naturally inclined to virtue, and his parents bestowed on him an admirable education. He opposed the heretics called Monothothelites, who were patronized by the emperor Heraclius. Martin was condemned at Constantinople, where he was exposed in the most public places to the ridicule of the people, divested of all episcopal marks of distinction, and treated with the greatest scorn and severity. After lying some months in prison, Martin was sent to an island at some distance, and there cut to pieces, A.D.655."
     },
     {
       "order": 505,
       "chapterIndex": 1,
       "text": "John, bishop of Bergamo, in Lombardy, was a learned man, and a good christian. He did his utmost endeavours to clear the church from the errors of Arianism, and joining in this holy work with John, bishop of Milan, he was very successful against the heretics, on which account he was assassinated on July 11, A. D. 683.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "John, bishop of Bergamo, in Lombardy, was a learned man, and a good christian. He did his utmost endeavours to clear the church from the errors of Arianism, and joining in this holy work with John, bishop of Milan, he was very successful against the heretics, on which account he was assassinated on July 11, A.D.683."
     },
     {
       "order": 506,
       "chapterIndex": 1,
       "text": "Killien was born in Ireland, and received from his parents a pious and christian education. He obtained the Roman pontiff's license to preach to the pagans in Franconia, in Germany. At Wurtzburg he converted Gozbert, the governor, whose example was followed by the greater part of the people in two years after. Persuading Gozbert that his marriage with his brother's widow was sinful, the latter had him beheaded, A. D. 689.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Killien was born in Ireland, and received from his parents a pious and christian education. He obtained the Roman pontiff's license to preach to the pagans in Franconia, in Germany. At Wurtzburg he converted Gozbert, the governor, whose example was followed by the greater part of the people in two years after. Persuading Gozbert that his marriage with his brother's widow was sinful, the latter had him beheaded, A.D.689."
     },
     {
       "order": 507,
@@ -3160,13 +3341,15 @@
       "order": 510,
       "chapterIndex": 1,
       "text": "During the ministry of this meek prelate, Pepin was declared king of France. It was that prince's ambition to be crowned by the most holy prelate he could find, and Boniface was pitched on to perform that ceremony, which he did at Soissons, in 752. The next year, his great age and many infirmities lay so heavy on him, that, with the consent of the new king, the bishops, &c. of his diocese, he consecrated Lullus, his countryman, and faithful disciple, and placed him in the see of Mentz. When he had thus eased himself of his charge, he recommended the church of Mentz to the care of the new bishop in very strong terms, desired he would finish the church at Fuld, and see him buried in it, for his end was near. Having left these orders, he took boat to the Rhine, and went to Friesland, where he converted and baptized several thousands of barbarous natives, demolished the temples, and raised churches on the ruins of those superstitious structures. A day being appointed for confirming a great number of new converts, he ordered them to assemble in a new open plain, near the river Bourde. Thither he repaired the day before; and, pitching a tent, determined to remain on the spot all night, in order to be ready early in the morning.",
+      "ttsText": "During the ministry of this meek prelate, Pepin was declared king of France. It was that prince's ambition to be crowned by the most holy prelate he could find, and Boniface was pitched on to perform that ceremony, which he did at Soissons, in 752. The next year, his great age and many infirmities lay so heavy on him, that, with the consent of the new king, the bishops, and c. of his diocese, he consecrated Lullus, his countryman, and faithful disciple, and placed him in the see of Mentz. When he had thus eased himself of his charge, he recommended the church of Mentz to the care of the new bishop in very strong terms, desired he would finish the church at Fuld, and see him buried in it, for his end was near. Having left these orders, he took boat to the Rhine, and went to Friesland, where he converted and baptized several thousands of barbarous natives, demolished the temples, and raised churches on the ruins of those superstitious structures. A day being appointed for confirming a great number of new converts, he ordered them to assemble in a new open plain, near the river Bourde. Thither he repaired the day before; and, pitching a tent, determined to remain on the spot all night, in order to be ready early in the morning.",
       "role": "paragraph"
     },
     {
       "order": 511,
       "chapterIndex": 1,
       "text": "Some pagans, who were his inveterate enemies, having intelligence of this, poured down upon him and the companions of his mission in the night, and killed him and fifty-two of his companions and attendants on June 5, A. D. 755. Thus fell the great father of the Germanic church, the honour of England, and the glory of the age in which he lived.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Some pagans, who were his inveterate enemies, having intelligence of this, poured down upon him and the companions of his mission in the night, and killed him and fifty-two of his companions and attendants on June 5, A.D.755. Thus fell the great father of the Germanic church, the honour of England, and the glory of the age in which he lived."
     },
     {
       "order": 512,
@@ -3190,13 +3373,15 @@
       "order": 515,
       "chapterIndex": 1,
       "text": "Perfectus was born at Corduba, in Spain, and brought up in the christian faith. Having a quick genius, he made himself master of all the useful and polite literature of that age; and at the same time was not more celebrated for his abilities than admired for his piety. At length he took priest's orders, and performed the duties of his office with great assiduity and punctuality. Publicly declaring Mahomet an impostor, he was sentenced to be beheaded, and was accordingly executed, A. D. 850; after which his body was honourably interred by the christians.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Perfectus was born at Corduba, in Spain, and brought up in the christian faith. Having a quick genius, he made himself master of all the useful and polite literature of that age; and at the same time was not more celebrated for his abilities than admired for his piety. At length he took priest's orders, and performed the duties of his office with great assiduity and punctuality. Publicly declaring Mahomet an impostor, he was sentenced to be beheaded, and was accordingly executed, A.D.850; after which his body was honourably interred by the christians."
     },
     {
       "order": 516,
       "chapterIndex": 1,
       "text": "Adalbert, bishop of Prague, a Bohemian by birth, after being involved in many troubles, began to direct his thoughts to the conversion of the infidels, to which end he repaired to Dantzic, where he converted and baptised many, which so enraged the pagan priests, that they fell upon him, and despatched him with darts, on the 23d of April, A. D. 997.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Adalbert, bishop of Prague, a Bohemian by birth, after being involved in many troubles, began to direct his thoughts to the conversion of the infidels, to which end he repaired to Dantzic, where he converted and baptised many, which so enraged the pagan priests, that they fell upon him, and despatched him with darts, on the 23d of April, A.D.997."
     },
     {
       "order": 517,
@@ -3208,6 +3393,7 @@
       "order": 518,
       "chapterIndex": 1,
       "text": "Alphage, archbishop of Canterbury , was descended from a considerable family in Gloucestershire, and received an education suitable to his illustrious birth. His parents were worthy christians, and Alphage seemed to inherit their virtues.",
+      "ttsText": "Alphage, archbishop of Canterbury, was descended from a considerable family in Gloucestershire, and received an education suitable to his illustrious birth. His parents were worthy christians, and Alphage seemed to inherit their virtues.",
       "role": "paragraph"
     },
     {
@@ -3232,7 +3418,8 @@
       "order": 522,
       "chapterIndex": 1,
       "text": "During his confinement they proposed to him to redeem his liberty with the sum of £3000, and to persuade the king to purchase their departure out of the kingdom, with a further sum of £10,000. As Alphage's circumstances would not allow him to satisfy the exorbitant demand, they bound him, and put him to severe torments, to oblige him to discover the treasure of the church; upon which they assured him of his life and liberty, but the prelate piously persisted in refusing to give the pagans any account of it. They remanded him to prison again, confined him six days longer, and then, taking him prisoner with them to Greenwich, brought him to trial there. He still remained inflexible with respect to the church treasure; but exhorted them to forsake their idolatry, and embrace christianity. This so greatly incensed the Danes, that the soldiers dragged him out of the camp, and beat him unmercifully. One of the soldiers, who had been converted by him, knowing that his pains would be lingering, as his death was determined on, actuated by a kind of barbarous compassion, cut off his head, and thus put the finishing stroke to his martyrdom, April 19, A. D. 1012. This transaction happened on the very spot where the church at Greenwich, which is dedicated to him, now stands. After his death his body was thrown into the Thames, but being found the next day, it was buried in the cathedral of St. Paul's by the bishops of London and Lincoln; from whence it was, in 1023, removed to Canterbury by Ethelmoth, the archbishop of that province.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "During his confinement they proposed to him to redeem his liberty with the sum of £3000, and to persuade the king to purchase their departure out of the kingdom, with a further sum of £10,000. As Alphage's circumstances would not allow him to satisfy the exorbitant demand, they bound him, and put him to severe torments, to oblige him to discover the treasure of the church; upon which they assured him of his life and liberty, but the prelate piously persisted in refusing to give the pagans any account of it. They remanded him to prison again, confined him six days longer, and then, taking him prisoner with them to Greenwich, brought him to trial there. He still remained inflexible with respect to the church treasure; but exhorted them to forsake their idolatry, and embrace christianity. This so greatly incensed the Danes, that the soldiers dragged him out of the camp, and beat him unmercifully. One of the soldiers, who had been converted by him, knowing that his pains would be lingering, as his death was determined on, actuated by a kind of barbarous compassion, cut off his head, and thus put the finishing stroke to his martyrdom, April 19, A.D.1012. This transaction happened on the very spot where the church at Greenwich, which is dedicated to him, now stands. After his death his body was thrown into the Thames, but being found the next day, it was buried in the cathedral of St. Paul's by the bishops of London and Lincoln; from whence it was, in 1023, removed to Canterbury by Ethelmoth, the archbishop of that province."
     },
     {
       "order": 523,
@@ -3256,18 +3443,21 @@
       "order": 526,
       "chapterIndex": 1,
       "text": "Bolislaus, the second king of Poland, had, by nature, many good qualities, but giving away to his passions he ran into many enormities, and at length had the appellation of Cruel bestowed upon him. Stanislaus alone had the courage to tell him of his faults, when, taking a private opportunity, he freely displayed to him the enormities of his crimes. The king, greatly exasperated at his repeated freedoms, at length determined, at any rate, to get the better of a prelate who was so extremely faithful. Hearing one day that the bishop was by himself, in the chapel of St. Michael, at a small distance from the town, he despatched some soldiers to murder him. The soldiers readily undertook the bloody task; but, when they came into the presence of Stanislaus, the venerable aspect of the prelate struck them with such awe, that they could not perform what they had promised. On their return, the king, finding that they had not obeyed his orders, stormed at them violently, snatched a dagger from one of them, and ran furiously to the chapel, where, finding Stanislaus at the altar, he plunged the weapon into his heart. The prelate immediately expired on the 8th of May, A. D. 1079.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Bolislaus, the second king of Poland, had, by nature, many good qualities, but giving away to his passions he ran into many enormities, and at length had the appellation of Cruel bestowed upon him. Stanislaus alone had the courage to tell him of his faults, when, taking a private opportunity, he freely displayed to him the enormities of his crimes. The king, greatly exasperated at his repeated freedoms, at length determined, at any rate, to get the better of a prelate who was so extremely faithful. Hearing one day that the bishop was by himself, in the chapel of St. Michael, at a small distance from the town, he despatched some soldiers to murder him. The soldiers readily undertook the bloody task; but, when they came into the presence of Stanislaus, the venerable aspect of the prelate struck them with such awe, that they could not perform what they had promised. On their return, the king, finding that they had not obeyed his orders, stormed at them violently, snatched a dagger from one of them, and ran furiously to the chapel, where, finding Stanislaus at the altar, he plunged the weapon into his heart. The prelate immediately expired on the 8th of May, A.D.1079."
     },
     {
       "order": 527,
       "chapterIndex": 1,
       "text": "CHAPTER IV.",
+      "ttsText": "Chapter IV.",
       "role": "heading"
     },
     {
       "order": 528,
       "chapterIndex": 1,
       "text": "PAPAL PERSECUTIONS.",
+      "ttsText": "Papal Persecutions.",
       "role": "title"
     },
     {
@@ -3292,6 +3482,7 @@
       "order": 532,
       "chapterIndex": 1,
       "text": "The principal among these was Berengarius, who, about the year 1000, boldly preached gospel truths, according to their primitive purity. Many, from conviction, assented to his doctrine, and were, on that account, called Berengarians. To Berengarius succeeded Peter Bruis, who preached at Thoulouse, under the protection of an earl, named Hildephonsus; and the whole tenets of the reformers, with the reasons of their separation from the church of Rome, were published in a book written by Bruis, under the title of Anti-Christ .",
+      "ttsText": "The principal among these was Berengarius, who, about the year 1000, boldly preached gospel truths, according to their primitive purity. Many, from conviction, assented to his doctrine, and were, on that account, called Berengarians. To Berengarius succeeded Peter Bruis, who preached at Thoulouse, under the protection of an earl, named Hildephonsus; and the whole tenets of the reformers, with the reasons of their separation from the church of Rome, were published in a book written by Bruis, under the title of Anti-Christ.",
       "role": "paragraph"
     },
     {
@@ -3304,7 +3495,8 @@
       "order": 534,
       "chapterIndex": 1,
       "text": "A. D. 1147, Henry of Thoulouse, being deemed their most eminent preacher, they were called Henericians; and as they would not admit of any proofs relative to religion, but what could be deduced from the scriptures themselves, the popish party gave them the name of apostolics. At length, Peter Waldo, or Valdo, a native of Lyons, eminent for his piety and learning, became a strenuous opposer of popery; and from him the reformed, at that time, received the appellation of Waldenses or Waldoys.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "A.D.1147, Henry of Thoulouse, being deemed their most eminent preacher, they were called Henericians; and as they would not admit of any proofs relative to religion, but what could be deduced from the scriptures themselves, the popish party gave them the name of apostolics. At length, Peter Waldo, or Valdo, a native of Lyons, eminent for his piety and learning, became a strenuous opposer of popery; and from him the reformed, at that time, received the appellation of Waldenses or Waldoys."
     },
     {
       "order": 535,
@@ -3334,6 +3526,7 @@
       "order": 539,
       "chapterIndex": 1,
       "text": "The Albigenses were a people of the reformed religion, who inhabited the country of Albi. They were condemned on the score of religion, in the council of Lateran, by order of Pope Alexander III. Nevertheless, they increased so prodigiously, that many cities were inhabited by persons only of their persuasion, and several eminent noblemen embraced their doctrines. Among the latter were Raymond earl of Thoulouse, Raymond earl of Foix, the earl of Beziers, &c.",
+      "ttsText": "The Albigenses were a people of the reformed religion, who inhabited the country of Albi. They were condemned on the score of religion, in the council of Lateran, by order of Pope Alexander III. Nevertheless, they increased so prodigiously, that many cities were inhabited by persons only of their persuasion, and several eminent noblemen embraced their doctrines. Among the latter were Raymond earl of Thoulouse, Raymond earl of Foix, the earl of Beziers, and c.",
       "role": "paragraph"
     },
     {
@@ -3376,19 +3569,22 @@
       "order": 546,
       "chapterIndex": 1,
       "text": "Francis Bribard, secretary to cardinal de Pellay, for speaking in favour of the reformed, had his tongue cut out, and was then burnt, A. D. 1545. James Cobard, a schoolmaster in the city of St. Michael, was burnt, A. D. 1545, for saying \"That mass was useless and absurd;\" and about the same time, fourteen men were burnt at Malda, their wives being compelled to stand by and behold the execution.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Francis Bribard, secretary to cardinal de Pellay, for speaking in favour of the reformed, had his tongue cut out, and was then burnt, A.D.1545. James Cobard, a schoolmaster in the city of St. Michael, was burnt, A.D.1545, for saying \"That mass was useless and absurd;\" and about the same time, fourteen men were burnt at Malda, their wives being compelled to stand by and behold the execution."
     },
     {
       "order": 547,
       "chapterIndex": 1,
       "text": "A. D. 1546, Peter Chapot brought a number of bibles in the French tongue to France, and publicly sold them there; for which he was brought to trial, sentenced, and executed a few days afterward. Soon after, a cripple of Meaux, a schoolmaster of Fera, named Stephen Polliot, and a man named John English, were burnt for the faith.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "A.D.1546, Peter Chapot brought a number of bibles in the French tongue to France, and publicly sold them there; for which he was brought to trial, sentenced, and executed a few days afterward. Soon after, a cripple of Meaux, a schoolmaster of Fera, named Stephen Polliot, and a man named John English, were burnt for the faith."
     },
     {
       "order": 548,
       "chapterIndex": 1,
       "text": "Monsieur Blondel, a rich jeweller, was, A. D. 1548, apprehended at Lyons, and sent to Paris; where he was burnt for the faith, by order of the court, A. D. 1549. Herbert, a youth of nineteen years of age, was committed to the flames at Dijon; as was Florent Venote, in the same year.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Monsieur Blondel, a rich jeweller, was, A.D.1548, apprehended at Lyons, and sent to Paris; where he was burnt for the faith, by order of the court, A.D.1549. Herbert, a youth of nineteen years of age, was committed to the flames at Dijon; as was Florent Venote, in the same year."
     },
     {
       "order": 549,
@@ -3400,12 +3596,14 @@
       "order": 550,
       "chapterIndex": 1,
       "text": "The Bartholomew Massacre at Paris, &c.",
+      "ttsText": "The Bartholomew Massacre at Paris, and c.",
       "role": "paragraph"
     },
     {
       "order": 551,
       "chapterIndex": 1,
       "text": "On the 22d of August, 1572, commenced this diabolical act of sanguinary brutality. It was intended to destroy at one stroke the root of the protestant tree, which had only before partially suffered in its branches. The king of France had artfully proposed a marriage between his sister and the prince of Navarre, the captain and prince of the protestants. This imprudent marriage was publicly celebrated at Paris, August 18, by the cardinal of Bourbon, upon a high stage erected for the purpose. They dined in great pomp with the bishop, and supped with the king at Paris. Four days after this, the prince, as he was coming from the council, was shot in both arms; he then said to Maure, his deceased mother's minister, \"O my brother, I do now perceive that I am indeed beloved of my God, since for his most holy sake I am wounded.\" Although the Vidam advised him to fly, yet he abode in Paris, and was soon after slain by Bemjus; who afterward declared he never saw a man meet death more valiantly than the admiral. The soldiers were appointed at a certain signal to burst out instantly to the slaughter in all parts of the city. When they had killed the admiral, they threw him out at a window into the street, where his head was cut off, and sent to the pope. The savage papists, still raging against him, cut off his arms and private members, and, after dragging him three days through the streets, hung him up by the heels without the city. After him they slew many great and honourable persons who were protestants; as count Rochfoucault, Telinius, the admiral's son-in-law, Antonius, Clarimontus, marquis of Ravely, Lewes Bussius, Bandineus, Pluvialius, Burneius, &c. &c. and falling upon the common people, they continued the slaughter for many days; in the three first, they slew of all ranks and conditions to the number of 10,000. The bodies were thrown into the rivers, and blood ran through the streets with a strong current, and the river appeared presently like a stream of blood. So furious was their hellish rage, that they slew all papists whom they suspected to be not very staunch to their diabolical religion. From Paris the destruction spread to all quarters of the realm.",
+      "ttsText": "On the 22d of August, 1572, commenced this diabolical act of sanguinary brutality. It was intended to destroy at one stroke the root of the protestant tree, which had only before partially suffered in its branches. The king of France had artfully proposed a marriage between his sister and the prince of Navarre, the captain and prince of the protestants. This imprudent marriage was publicly celebrated at Paris, August 18, by the cardinal of Bourbon, upon a high stage erected for the purpose. They dined in great pomp with the bishop, and supped with the king at Paris. Four days after this, the prince, as he was coming from the council, was shot in both arms; he then said to Maure, his deceased mother's minister, \"O my brother, I do now perceive that I am indeed beloved of my God, since for his most holy sake I am wounded.\" Although the Vidam advised him to fly, yet he abode in Paris, and was soon after slain by Bemjus; who afterward declared he never saw a man meet death more valiantly than the admiral. The soldiers were appointed at a certain signal to burst out instantly to the slaughter in all parts of the city. When they had killed the admiral, they threw him out at a window into the street, where his head was cut off, and sent to the pope. The savage papists, still raging against him, cut off his arms and private members, and, after dragging him three days through the streets, hung him up by the heels without the city. After him they slew many great and honourable persons who were protestants; as count Rochfoucault, Telinius, the admiral's son-in-law, Antonius, Clarimontus, marquis of Ravely, Lewes Bussius, Bandineus, Pluvialius, Burneius, and c. and c. and falling upon the common people, they continued the slaughter for many days; in the three first, they slew of all ranks and conditions to the number of 10,000. The bodies were thrown into the rivers, and blood ran through the streets with a strong current, and the river appeared presently like a stream of blood. So furious was their hellish rage, that they slew all papists whom they suspected to be not very staunch to their diabolical religion. From Paris the destruction spread to all quarters of the realm.",
       "role": "paragraph"
     },
     {
@@ -3490,6 +3688,7 @@
       "order": 565,
       "chapterIndex": 1,
       "text": "\"Some days after this horrid transaction, the French court endeavoured to palliate it by forms of law. They pretended to justify the massacre by a calumny, and accused the admiral of a conspiracy, which no one believed. The parliament was commanded to proceed against the memory of Coligni; and his dead body was hung in chains on Montfaucon gallows. The king himself went to view this shocking spectacle; when one of his courtiers advising him to retire, and complaining of the stench of the corpse, he replied, 'A dead enemy smells well.'—The massacres on St. Bartholomew's day are painted in the royal saloon of the Vatican at Rome, with the following inscription: Pontifex Coligni necem probat , i. e. 'The pope approves of Coligni's death.'",
+      "ttsText": "\"Some days after this horrid transaction, the French court endeavoured to palliate it by forms of law. They pretended to justify the massacre by a calumny, and accused the admiral of a conspiracy, which no one believed. The parliament was commanded to proceed against the memory of Coligni; and his dead body was hung in chains on Montfaucon gallows. The king himself went to view this shocking spectacle; when one of his courtiers advising him to retire, and complaining of the stench of the corpse, he replied, 'A dead enemy smells well.', The massacres on St. Bartholomew's day are painted in the royal saloon of the Vatican at Rome, with the following inscription: Pontifex Coligni necem probat, I.E.'The pope approves of Coligni's death.'",
       "role": "paragraph"
     },
     {
@@ -3508,6 +3707,7 @@
       "order": 568,
       "chapterIndex": 1,
       "text": "\" Sire —I have received an order, under your majesty's seal, to put to death all the protestants in my province. I have too much respect for your majesty, not to believe the letter a forgery; but if (which God forbid) the order should be genuine, I have too much respect for your majesty to obey it.\"",
+      "ttsText": "\" Sire, I have received an order, under your majesty's seal, to put to death all the protestants in my province. I have too much respect for your majesty, not to believe the letter a forgery; but if (which God forbid) the order should be genuine, I have too much respect for your majesty to obey it.\"",
       "role": "paragraph"
     },
     {
@@ -3532,6 +3732,7 @@
       "order": 572,
       "chapterIndex": 1,
       "text": "The duke of Guise, entering into Bloise, suffered his soldiers to fly upon the spoil, and slay or drown all the protestants they could find. In this they spared neither age nor sex; defiling the women, and then murdering them; from whence he went to Mere, and committed the same outrages for many days together. Here they found a minister named Cassebonius, and threw him into the river .",
+      "ttsText": "The duke of Guise, entering into Bloise, suffered his soldiers to fly upon the spoil, and slay or drown all the protestants they could find. In this they spared neither age nor sex; defiling the women, and then murdering them; from whence he went to Mere, and committed the same outrages for many days together. Here they found a minister named Cassebonius, and threw him into the river.",
       "role": "paragraph"
     },
     {
@@ -3760,12 +3961,14 @@
       "order": 610,
       "chapterIndex": 1,
       "text": "CHAPTER V.",
+      "ttsText": "Chapter V.",
       "role": "heading"
     },
     {
       "order": 611,
       "chapterIndex": 1,
       "text": "AN ACCOUNT OF THE INQUISITION.",
+      "ttsText": "An Account of the Inquisition.",
       "role": "title"
     },
     {
@@ -3838,6 +4041,7 @@
       "order": 623,
       "chapterIndex": 1,
       "text": "When the person impeached is condemned, he is either severely whipped, violently tortured, sent to the galleys, or sentenced to death; and in either case the effects are confiscated. After judgment, a procession is performed to the place of execution, which ceremony is called an auto de fe , or act of faith.",
+      "ttsText": "When the person impeached is condemned, he is either severely whipped, violently tortured, sent to the galleys, or sentenced to death; and in either case the effects are confiscated. After judgment, a procession is performed to the place of execution, which ceremony is called an auto de fe, or act of faith.",
       "role": "paragraph"
     },
     {
@@ -4072,6 +4276,7 @@
       "order": 662,
       "chapterIndex": 1,
       "text": "He accordingly made a breach in the walls with his cannon, and then entered the city through it, together with his whole army.—When he had made every necessary regulation here, he departed to subdue other places, leaving a strong garrison at once to overawe and defend, under the command of his lieutenant-general M. de Legal. This gentleman, though brought up a Roman catholic, was totally free from superstition: he united great talents with great bravery: and was, at once, the skilful officer, and accomplished gentleman.",
+      "ttsText": "He accordingly made a breach in the walls with his cannon, and then entered the city through it, together with his whole army., When he had made every necessary regulation here, he departed to subdue other places, leaving a strong garrison at once to overawe and defend, under the command of his lieutenant-general M. de Legal. This gentleman, though brought up a Roman catholic, was totally free from superstition: he united great talents with great bravery: and was, at once, the skilful officer, and accomplished gentleman.",
       "role": "paragraph"
     },
     {
@@ -4264,6 +4469,7 @@
       "order": 694,
       "chapterIndex": 1,
       "text": "The maid, who laid in the same room with me, went to the window, and inquired who was there. The answer was, The Holy Inquisition . On hearing this I screamed out, Father! father! dear father, I am ruined forever! My father got up, and came to me to know the occasion of my crying out; I told him the inquisitors were at the door. On hearing this, instead of protecting me, he hurried down stairs as fast as possible; and, lest the maid should be too slow, opened the street door himself; under such abject and slavish fears, are bigoted minds! as soon as he knew they came for me, he fetched me with great solemnity, and delivered me to the officers with much submission.",
+      "ttsText": "The maid, who laid in the same room with me, went to the window, and inquired who was there. The answer was, The Holy Inquisition. On hearing this I screamed out, Father! father! dear father, I am ruined forever! My father got up, and came to me to know the occasion of my crying out; I told him the inquisitors were at the door. On hearing this, instead of protecting me, he hurried down stairs as fast as possible; and, lest the maid should be too slow, opened the street door himself; under such abject and slavish fears, are bigoted minds! as soon as he knew they came for me, he fetched me with great solemnity, and delivered me to the officers with much submission.",
       "role": "paragraph"
     },
     {
@@ -4294,6 +4500,7 @@
       "order": 699,
       "chapterIndex": 1,
       "text": "This greatly surprised me, so that without replying to her question, I asked her name;—she said, my name is Mary. Mary, then, said I, for heaven's sake, tell me whether I am brought here to die or not?—I have told you already, replied she, that you came here to be one of the happiest ladies in the world.",
+      "ttsText": "This greatly surprised me, so that without replying to her question, I asked her name;, she said, my name is Mary. Mary, then, said I, for heaven's sake, tell me whether I am brought here to die or not?, I have told you already, replied she, that you came here to be one of the happiest ladies in the world.",
       "role": "paragraph"
     },
     {
@@ -4516,6 +4723,7 @@
       "order": 736,
       "chapterIndex": 1,
       "text": "This was that amiable prince Don Carlos, son of Philip the Second, king of Spain, and grandson of the celebrated emperor Charles V. Don Carlos, possessed all the good qualities of his grandfather without any of the bad ones of his father; and was a prince of great vivacity, admirable learning, and the most amiable disposition.—He had sense enough to see into the errors of popery, and abhorred the very name of the inquisition. He inveighed publicly against the institution, ridiculed the affected piety of the inquisitors, did all he could to expose their atrocious deeds, end even declared, that if he ever came to the crown, he would abolish the inquisition, and exterminate its agents.",
+      "ttsText": "This was that amiable prince Don Carlos, son of Philip the Second, king of Spain, and grandson of the celebrated emperor Charles V. Don Carlos, possessed all the good qualities of his grandfather without any of the bad ones of his father; and was a prince of great vivacity, admirable learning, and the most amiable disposition., He had sense enough to see into the errors of popery, and abhorred the very name of the inquisition. He inveighed publicly against the institution, ridiculed the affected piety of the inquisitors, did all he could to expose their atrocious deeds, end even declared, that if he ever came to the crown, he would abolish the inquisition, and exterminate its agents.",
       "role": "paragraph"
     },
     {
@@ -4798,18 +5006,21 @@
       "order": 783,
       "chapterIndex": 2,
       "text": "On the 21st of January, 1793, Louis XVI. was publicly beheaded in the midst of his own metropolis, in the Place Louis Quinze , erected to the memory of his grandfather. It is possible, for the critical eye of the historian, to discover much weakness in the conduct of this unhappy monarch; for he had neither the determination to fight for his rights, nor the power of submitting with apparent indifference to circumstances where resistance inferred danger. He submitted, indeed, but with so bad a grace, that he only made himself suspected of cowardice, without getting credit for voluntary concession. But yet his behaviour on many trying occasions effectually vindicate him from the charge of timidity, and showed that the unwillingness to shed blood, by which he was peculiarly distinguished, arose from benevolence, not from pusillanimity.",
+      "ttsText": "On the 21st of January, 1793, Louis XVI. was publicly beheaded in the midst of his own metropolis, in the Place Louis Quinze, erected to the memory of his grandfather. It is possible, for the critical eye of the historian, to discover much weakness in the conduct of this unhappy monarch; for he had neither the determination to fight for his rights, nor the power of submitting with apparent indifference to circumstances where resistance inferred danger. He submitted, indeed, but with so bad a grace, that he only made himself suspected of cowardice, without getting credit for voluntary concession. But yet his behaviour on many trying occasions effectually vindicate him from the charge of timidity, and showed that the unwillingness to shed blood, by which he was peculiarly distinguished, arose from benevolence, not from pusillanimity.",
       "role": "paragraph"
     },
     {
       "order": 784,
       "chapterIndex": 2,
       "text": "Upon the scaffold, he behaved with the firmness which became a noble spirit, and the patience beseeming one who was reconciled to heaven. As one of the few marks of sympathy with which his sufferings were softened, the attendance of a confessor, who had not taken the constitutional oath, was permitted to the dethroned monarch. He who undertook the honourable but dangerous office, was a gentleman of gifted family of Edgeworth of Edgeworthstown; and the devoted zeal with which he rendered the last duties to Louis, had like in the issue to have proved fatal to himself. As the instrument of death descended, the confessor pronounced the impressive words,—\"Son of Saint Louis, ascend to heaven!\"",
+      "ttsText": "Upon the scaffold, he behaved with the firmness which became a noble spirit, and the patience beseeming one who was reconciled to heaven. As one of the few marks of sympathy with which his sufferings were softened, the attendance of a confessor, who had not taken the constitutional oath, was permitted to the dethroned monarch. He who undertook the honourable but dangerous office, was a gentleman of gifted family of Edgeworth of Edgeworthstown; and the devoted zeal with which he rendered the last duties to Louis, had like in the issue to have proved fatal to himself. As the instrument of death descended, the confessor pronounced the impressive words,, \"Son of Saint Louis, ascend to heaven!\"",
       "role": "paragraph"
     },
     {
       "order": 785,
       "chapterIndex": 2,
       "text": "There was a last will of Louis XVI. circulated upon good authority, bearing this remarkable passage:—\"I recommend to my son, should you have the misfortune to become king, to recollect that his whole faculties are due to the service of the public; that he ought to consult the happiness of his people, by governing according to the laws, forgetting all injuries and misfortunes, and in particular those which I may have sustained. But while I exhort him to govern under the authority of the laws, I cannot but add, that this will be only in his power, in so far as he shall be endowed with authority to cause right to be respected, and wrong punished; and that without such authority, his situation in the government must be more hurtful than advantageous to the state.\"",
+      "ttsText": "There was a last will of Louis XVI. circulated upon good authority, bearing this remarkable passage:, \"I recommend to my son, should you have the misfortune to become king, to recollect that his whole faculties are due to the service of the public; that he ought to consult the happiness of his people, by governing according to the laws, forgetting all injuries and misfortunes, and in particular those which I may have sustained. But while I exhort him to govern under the authority of the laws, I cannot but add, that this will be only in his power, in so far as he shall be endowed with authority to cause right to be respected, and wrong punished; and that without such authority, his situation in the government must be more hurtful than advantageous to the state.\"",
       "role": "paragraph"
     },
     {
@@ -4846,6 +5057,7 @@
       "order": 791,
       "chapterIndex": 2,
       "text": "The unhappy boy was put in charge of the most hard-hearted villain whom the community of Paris, well acquainted where such agents were to be found, were able to select from their band of Jacobins. This wretch, a shoemaker called Simon, asked his employers, \"what was to be done with the young wolf-whelp; Was he to be slain?\"—\"No?\"—\"Poisoned?\"—\"No.\"—\"Starved to death?\"—\"No.\" \"What then?\"—\"He was to be got rid of.\" Accordingly, by a continuance of the most severe treatment—by beating, cold, vigils, fasts, and ill usage of every kind, so frail a blossom was soon blighted. He died on the 8th June, 1795.",
+      "ttsText": "The unhappy boy was put in charge of the most hard-hearted villain whom the community of Paris, well acquainted where such agents were to be found, were able to select from their band of Jacobins. This wretch, a shoemaker called Simon, asked his employers, \"what was to be done with the young wolf-whelp; Was he to be slain?\", \"No?\", \"Poisoned?\", \"No.\", \"Starved to death?\", \"No.\" \"What then?\", \"He was to be got rid of.\" Accordingly, by a continuance of the most severe treatment, by beating, cold, vigils, fasts, and ill usage of every kind, so frail a blossom was soon blighted. He died on the 8th June, 1795.",
       "role": "paragraph"
     },
     {
@@ -4858,12 +5070,14 @@
       "order": 793,
       "chapterIndex": 2,
       "text": "Dreadful scenes in La Vendée .",
+      "ttsText": "Dreadful scenes in La Vendée.",
       "role": "paragraph"
     },
     {
       "order": 794,
       "chapterIndex": 2,
       "text": "In La Vendée , one of the departments of France, an insurrection broke out against the Jacobinical government, in 1793.",
+      "ttsText": "In La Vendée, one of the departments of France, an insurrection broke out against the Jacobinical government, in 1793.",
       "role": "paragraph"
     },
     {
@@ -4876,6 +5090,7 @@
       "order": 796,
       "chapterIndex": 2,
       "text": "\"I did not see a single male being at the towns of St. Hermand, Chantonnay, or Herbiers. A few women alone had escaped the sword. Country-seats, cottages, habitations of whichever kind, were burnt. The herds and flocks were wandering in terror around their usual places of shelter, now smoking in ruins. I was surprised by night, but the wavering and dismal blaze of conflagration afforded light over the country. To the bleating of the terrified flocks, and bellowing of the terrified cattle, was joined the deep hoarse notes of carrion crows, and the yells of wild animals coming from the recesses of the woods to prey upon the carcasses of the slain. At length a distant colume of fire, widening and increasing as I approached, served me as a beacon. It was the town of Mortagne in flames. When I arrived there, no living creatures were to be seen, save a few wretched women who were striving to save some remnants of their property from the general conflagration.\"— Les Memoires d'un Ancien Administrateur des Armees Republicaines.",
+      "ttsText": "\"I did not see a single male being at the towns of St. Hermand, Chantonnay, or Herbiers. A few women alone had escaped the sword. Country-seats, cottages, habitations of whichever kind, were burnt. The herds and flocks were wandering in terror around their usual places of shelter, now smoking in ruins. I was surprised by night, but the wavering and dismal blaze of conflagration afforded light over the country. To the bleating of the terrified flocks, and bellowing of the terrified cattle, was joined the deep hoarse notes of carrion crows, and the yells of wild animals coming from the recesses of the woods to prey upon the carcasses of the slain. At length a distant colume of fire, widening and increasing as I approached, served me as a beacon. It was the town of Mortagne in flames. When I arrived there, no living creatures were to be seen, save a few wretched women who were striving to save some remnants of their property from the general conflagration.\", Les Memoires d'un Ancien Administrateur des Armees Republicaines.",
       "role": "paragraph"
     },
     {
@@ -4948,12 +5163,14 @@
       "order": 808,
       "chapterIndex": 2,
       "text": "The parylitic Couthon, with Collot D'Herbois, and other deputies were sent to Lyons by the committee of public safety, to execute the vengeance which the Jacobins demanded; while Dubois Crance was recalled, for having put, it was thought, less energy to his proceedings than the prosecution of the siege required. Collot D'Herbois had a personal motive of a singular nature for delighting in the task intrusted to him and his colleagues. In his capacity of a play-actor, he had been hissed from the stage at Lyons, and the door to revenge was now open. The instructions of this committee enjoined them to take the most satisfactory revenge for the death of Chalier and the insurrection of Lyons, not merely on the citizens, but on the town itself. The principal streets and buildings were to be levelled with the ground, and a monument erected where they stood, was to record the cause:—\" Lyons rebelled against the Republic—Lyons is no more. \" Such fragments of the town as might be permitted to remain, were to bear the name of Ville Affranchie. It will scarce be believed that a doom like that which might have passed the lips of some eastern despot, in all the frantic madness of arbitrary power and utter ignorance, could have been seriously pronounced, and as seriously enforced, in one of the most civilized nations in Europe; and that to the present enlightened age, men who pretended to wisdom and philosophy, should have considered the labours of the architect as a proper subject of punishment. So it was, however; and to give the demolition more effect, the impotent Couthon was carried from house to house, devoting each to ruin, by striking the door with a silver hammer, and pronouncing these words—\"House of a rebel. I condemn thee in the name of the law.\" Workmen followed in great multitudes, who executed the sentence by pulling the house down to the foundations. This wanton demolition continued for six months, and is said to have been carried on at an expense equal to that which the superb military hospital, the Hotel des Invalides, cost its founder, Louis XIV. But republican vengeance did not waste itself exclusively upon senseless lime and stone—it sought out sentient victims.",
+      "ttsText": "The parylitic Couthon, with Collot D'Herbois, and other deputies were sent to Lyons by the committee of public safety, to execute the vengeance which the Jacobins demanded; while Dubois Crance was recalled, for having put, it was thought, less energy to his proceedings than the prosecution of the siege required. Collot D'Herbois had a personal motive of a singular nature for delighting in the task intrusted to him and his colleagues. In his capacity of a play-actor, he had been hissed from the stage at Lyons, and the door to revenge was now open. The instructions of this committee enjoined them to take the most satisfactory revenge for the death of Chalier and the insurrection of Lyons, not merely on the citizens, but on the town itself. The principal streets and buildings were to be levelled with the ground, and a monument erected where they stood, was to record the cause:, \" Lyons rebelled against the Republic, Lyons is no more. \" Such fragments of the town as might be permitted to remain, were to bear the name of Ville Affranchie. It will scarce be believed that a doom like that which might have passed the lips of some eastern despot, in all the frantic madness of arbitrary power and utter ignorance, could have been seriously pronounced, and as seriously enforced, in one of the most civilized nations in Europe; and that to the present enlightened age, men who pretended to wisdom and philosophy, should have considered the labours of the architect as a proper subject of punishment. So it was, however; and to give the demolition more effect, the impotent Couthon was carried from house to house, devoting each to ruin, by striking the door with a silver hammer, and pronouncing these words, \"House of a rebel. I condemn thee in the name of the law.\" Workmen followed in great multitudes, who executed the sentence by pulling the house down to the foundations. This wanton demolition continued for six months, and is said to have been carried on at an expense equal to that which the superb military hospital, the Hotel des Invalides, cost its founder, Louis XIV. But republican vengeance did not waste itself exclusively upon senseless lime and stone, it sought out sentient victims.",
       "role": "paragraph"
     },
     {
       "order": 809,
       "chapterIndex": 2,
       "text": "The deserved death of Chalier had been atoned by an apotheosis executed after Lyons had surrendered; but Collot D'Herbois declared that every drop of that patriotic blood fell as if scalding his own heart, and that the murder demanded atonement. All ordinary process, and every usual mode of execution, was thought too tardy to avenge the death of a Jacobin proconsul. The judges of the revolutionary commission were worn out with fatigue—the arm of the executioner was weary—the very steel of the guillotine was blunted. Collot D'Herbois devised a more summary mode of slaughter. A number of from two to three hundred victims at once were dragged from prison to the place de Baotteaux, one of the largest squares in Lyons, and there subjected to a fire of grape-shot. Efficacious as this mode of execution may seem, it was neither speedy nor merciful. The sufferers fell to the ground like singed flies, mutilated but not slain, and imploring their executioners to despatch them speedily. This was done with sabres and bayonets, and with such haste and zeal, that some of the jailers and assistants were slain along with those whom they had assisted in dragging to death; and the mistake was not discerned, until, upon counting the dead bodies, the military murderers found them to amount to more than the destined tale. The bodies of the dead were thrown into the Rhone, to carry news of the republican vengeance, as Collot D'Herbois expressed himself, to Toulon, then also in a state of revolt. But the sullen stream rejected the office imposed on it, and headed back the dead in heaps upon the banks; and the committee of Representatives was compelled at length to allow the relics of their cruelty to be interred, to prevent the risk of contagion.",
+      "ttsText": "The deserved death of Chalier had been atoned by an apotheosis executed after Lyons had surrendered; but Collot D'Herbois declared that every drop of that patriotic blood fell as if scalding his own heart, and that the murder demanded atonement. All ordinary process, and every usual mode of execution, was thought too tardy to avenge the death of a Jacobin proconsul. The judges of the revolutionary commission were worn out with fatigue, the arm of the executioner was weary, the very steel of the guillotine was blunted. Collot D'Herbois devised a more summary mode of slaughter. A number of from two to three hundred victims at once were dragged from prison to the place de Baotteaux, one of the largest squares in Lyons, and there subjected to a fire of grape-shot. Efficacious as this mode of execution may seem, it was neither speedy nor merciful. The sufferers fell to the ground like singed flies, mutilated but not slain, and imploring their executioners to despatch them speedily. This was done with sabres and bayonets, and with such haste and zeal, that some of the jailers and assistants were slain along with those whom they had assisted in dragging to death; and the mistake was not discerned, until, upon counting the dead bodies, the military murderers found them to amount to more than the destined tale. The bodies of the dead were thrown into the Rhone, to carry news of the republican vengeance, as Collot D'Herbois expressed himself, to Toulon, then also in a state of revolt. But the sullen stream rejected the office imposed on it, and headed back the dead in heaps upon the banks; and the committee of Representatives was compelled at length to allow the relics of their cruelty to be interred, to prevent the risk of contagion.",
       "role": "paragraph"
     },
     {
@@ -4966,6 +5183,7 @@
       "order": 811,
       "chapterIndex": 2,
       "text": "At length the zeal of the infuriated Atheists in France hurried them to the perpetration of one of the most ridiculous, and at the same time impious transactions which ever disgraced the annals of any nation. It was no less than a formal renunciation of the existence of a Supreme Being, and the installation of the Goddess of Reason , in 1793.",
+      "ttsText": "At length the zeal of the infuriated Atheists in France hurried them to the perpetration of one of the most ridiculous, and at the same time impious transactions which ever disgraced the annals of any nation. It was no less than a formal renunciation of the existence of a Supreme Being, and the installation of the Goddess of Reason, in 1793.",
       "role": "paragraph"
     },
     {
@@ -5002,6 +5220,7 @@
       "order": 817,
       "chapterIndex": 2,
       "text": "This impious and ridiculous mummery had a certain fashion; and the installation of the Goddess of reason was renewed and imitated throughout the nation, in such places where the inhabitants desired to show themselves equal to all the heights of the revolution. The churches were, in most districts of France, closed against priests and worshippers—the bells were broken and cast into cannon—the whole ecclesiastical establishment destroyed—and the republican inscription over the cemeteries, declaring death to be perpetual sleep, announced to those who lived under that dominion, that they were to hope no redress even in the next world.",
+      "ttsText": "This impious and ridiculous mummery had a certain fashion; and the installation of the Goddess of reason was renewed and imitated throughout the nation, in such places where the inhabitants desired to show themselves equal to all the heights of the revolution. The churches were, in most districts of France, closed against priests and worshippers, the bells were broken and cast into cannon, the whole ecclesiastical establishment destroyed, and the republican inscription over the cemeteries, declaring death to be perpetual sleep, announced to those who lived under that dominion, that they were to hope no redress even in the next world.",
       "role": "paragraph"
     },
     {
@@ -5044,6 +5263,7 @@
       "order": 824,
       "chapterIndex": 2,
       "text": "He carried his complaints to the Jacobin Club, to repose, as he expressed it, his patriotic sorrows in their virtuous bosoms, where alone he hoped to find succour and sympathy. To this partial audience he renewed, in a tone of yet greater audacity, the complaints with which he had loaded every branch of the government, and the representative body itself. He reminded those around him of various heroic eras, when their presence and their pikes had decided the votes of the trembling deputies. He reminded them of their pristine actions of revolutionary vigour—asked them if they had forgot the road to the convention, and concluded by pathetically assuring them, that if they forsook him, \"he stood resigned to his fate; and they should behold with what courage he would drink the fatal hemlock.\" The artist David, caught him by the hand as he closed, exclaiming, in rapture at his elocution, \"I will drink it with thee.\"",
+      "ttsText": "He carried his complaints to the Jacobin Club, to repose, as he expressed it, his patriotic sorrows in their virtuous bosoms, where alone he hoped to find succour and sympathy. To this partial audience he renewed, in a tone of yet greater audacity, the complaints with which he had loaded every branch of the government, and the representative body itself. He reminded those around him of various heroic eras, when their presence and their pikes had decided the votes of the trembling deputies. He reminded them of their pristine actions of revolutionary vigour, asked them if they had forgot the road to the convention, and concluded by pathetically assuring them, that if they forsook him, \"he stood resigned to his fate; and they should behold with what courage he would drink the fatal hemlock.\" The artist David, caught him by the hand as he closed, exclaiming, in rapture at his elocution, \"I will drink it with thee.\"",
       "role": "paragraph"
     },
     {
@@ -5080,6 +5300,7 @@
       "order": 830,
       "chapterIndex": 2,
       "text": "Saint Just arose, in the name of the committee of public safety, to make, after his own manner, not theirs, a report on the discourse of Robespierre on the previous evening. He had begun a harangue in the tone of his patron, declaring that, were the tribune which he occupied the Tarpeian rock itself, he would not the less, placed as he stood there, discharge the duties of a patriot. \"I am about,\" he said, \"to lift the veil.\"—\"I tear it asunder,\" said Tallien, interrupting him. \"The public interest is sacrificed by individuals, who come hither exclusively in their own name, and conduct themselves as superior to the whole convention.\" He forced Saint Just from the tribune, and a violent debate ensued.",
+      "ttsText": "Saint Just arose, in the name of the committee of public safety, to make, after his own manner, not theirs, a report on the discourse of Robespierre on the previous evening. He had begun a harangue in the tone of his patron, declaring that, were the tribune which he occupied the Tarpeian rock itself, he would not the less, placed as he stood there, discharge the duties of a patriot. \"I am about,\" he said, \"to lift the veil.\", \"I tear it asunder,\" said Tallien, interrupting him. \"The public interest is sacrificed by individuals, who come hither exclusively in their own name, and conduct themselves as superior to the whole convention.\" He forced Saint Just from the tribune, and a violent debate ensued.",
       "role": "paragraph"
     },
     {
@@ -5098,6 +5319,7 @@
       "order": 833,
       "chapterIndex": 2,
       "text": "This scene was dreadful; yet not without its use to those who may be disposed to look at it as an extraordinary crisis, in which human passions were brought so singularly into collision. While the vaults of the hall echoed with exclamations from those who had hitherto been the accomplices, the flatterers, the followers, at least the timid and overawed assentors to the dethroned demagogue—he himself, breathless, foaming, exhausted, like the hunter of classical antiquity when on the point of being overpowered and torn to pieces by his own hounds, tried in vain to raise those screech-owl notes, by which the convention had formerly been terrified and put to silence. He appealed for a hearing from the president of the assembly, to the various parties of which it was composed. Rejected by the mountaineers, his former associates, who now headed the clamour against him, he applied to the Girondists, few and feeble as they were, and to the more numerous but equally helpless deputies of the plain, with whom they sheltered. The former shook him from them with disgust, the last with horror. It was in vain he reminded individuals that he had spared their lives, while at his mercy. This might have been applied to every member in the house; to every man in France; for who was it during two years that had lived on other terms than under Robespierre's permission? and deeply must he internally have regretted the clemency, as he might term it, which had left so many with ungashed throats to bay at him. But his agitated and repeated appeals were repulsed by some with indignation, by others with sullen, or embarrassed and timid silence.",
+      "ttsText": "This scene was dreadful; yet not without its use to those who may be disposed to look at it as an extraordinary crisis, in which human passions were brought so singularly into collision. While the vaults of the hall echoed with exclamations from those who had hitherto been the accomplices, the flatterers, the followers, at least the timid and overawed assentors to the dethroned demagogue, he himself, breathless, foaming, exhausted, like the hunter of classical antiquity when on the point of being overpowered and torn to pieces by his own hounds, tried in vain to raise those screech-owl notes, by which the convention had formerly been terrified and put to silence. He appealed for a hearing from the president of the assembly, to the various parties of which it was composed. Rejected by the mountaineers, his former associates, who now headed the clamour against him, he applied to the Girondists, few and feeble as they were, and to the more numerous but equally helpless deputies of the plain, with whom they sheltered. The former shook him from them with disgust, the last with horror. It was in vain he reminded individuals that he had spared their lives, while at his mercy. This might have been applied to every member in the house; to every man in France; for who was it during two years that had lived on other terms than under Robespierre's permission? and deeply must he internally have regretted the clemency, as he might term it, which had left so many with ungashed throats to bay at him. But his agitated and repeated appeals were repulsed by some with indignation, by others with sullen, or embarrassed and timid silence.",
       "role": "paragraph"
     },
     {
@@ -5110,6 +5332,7 @@
       "order": 835,
       "chapterIndex": 2,
       "text": "Haste was, however, necessary, and must have appeared more so at such a crisis, than perhaps it really was. Much must be pardoned to the terrors of the moment, the horrid character of the culprit, and the necessity of hurrying to a decisive conclusion. We have been told that his last audible words, contending against the exclamations of hundreds, and the bell which the president was ringing incessantly, had uttered in the highest tones which despair could give to a voice naturally shrill and discordant, dwelt long on the memory, and haunted the dreams of many who heard him:—\"President of assassins,\" he screamed, \"for the last time I demand privilege of speech!\" After this exertion, his breath became short and faint; and while he still uttered broken murmurs and hoarse ejaculations, the members of the mountain called out, that the blood of Danton choked his voice.",
+      "ttsText": "Haste was, however, necessary, and must have appeared more so at such a crisis, than perhaps it really was. Much must be pardoned to the terrors of the moment, the horrid character of the culprit, and the necessity of hurrying to a decisive conclusion. We have been told that his last audible words, contending against the exclamations of hundreds, and the bell which the president was ringing incessantly, had uttered in the highest tones which despair could give to a voice naturally shrill and discordant, dwelt long on the memory, and haunted the dreams of many who heard him:, \"President of assassins,\" he screamed, \"for the last time I demand privilege of speech!\" After this exertion, his breath became short and faint; and while he still uttered broken murmurs and hoarse ejaculations, the members of the mountain called out, that the blood of Danton choked his voice.",
       "role": "paragraph"
     },
     {
@@ -5182,12 +5405,14 @@
       "order": 847,
       "chapterIndex": 2,
       "text": "To compensate all these deficiencies, Robespierre had but an insatiable ambition, founded on a vanity which made him think himself capable of filling the highest situation; and therefore gave him daring, when to dare is frequently to achieve. He mixed a false and overstrained, but rather fluent species of bombastic composition, with the grossest flattery to the lowest classes of the people; in consideration of which, they could not but receive as genuine the praises which he always bestowed on himself. His prudent resolution to be satisfied with possessing the essence of power, without seeming to desire its rank and trappings, formed another art of cajoling the multitude. His watchful envy, his long-protracted but sure revenge, his craft, which to vulgar minds supplies the place of wisdom, were his only means of competing with his distinguished antagonists. And it seems to have been a merited punishment of the extravagances and abuses of the French revolution, that it engaged the country in a state of anarchy which permitted a wretch such as we have described, to be for a long period master of her destiny. Blood was his element, like that of the other terrorists and he never fastened with so much pleasure on a new victim; as when he was at the same time an ancient associate. In an epitaph, of which the following couplet may serve as a translation, his life was represented as incompatible with the existence of the human race:—",
+      "ttsText": "To compensate all these deficiencies, Robespierre had but an insatiable ambition, founded on a vanity which made him think himself capable of filling the highest situation; and therefore gave him daring, when to dare is frequently to achieve. He mixed a false and overstrained, but rather fluent species of bombastic composition, with the grossest flattery to the lowest classes of the people; in consideration of which, they could not but receive as genuine the praises which he always bestowed on himself. His prudent resolution to be satisfied with possessing the essence of power, without seeming to desire its rank and trappings, formed another art of cajoling the multitude. His watchful envy, his long-protracted but sure revenge, his craft, which to vulgar minds supplies the place of wisdom, were his only means of competing with his distinguished antagonists. And it seems to have been a merited punishment of the extravagances and abuses of the French revolution, that it engaged the country in a state of anarchy which permitted a wretch such as we have described, to be for a long period master of her destiny. Blood was his element, like that of the other terrorists and he never fastened with so much pleasure on a new victim; as when he was at the same time an ancient associate. In an epitaph, of which the following couplet may serve as a translation, his life was represented as incompatible with the existence of the human race:,",
       "role": "paragraph"
     },
     {
       "order": 848,
       "chapterIndex": 2,
       "text": "\"Here lies Robespierre—let no tear be shed:",
+      "ttsText": "\"Here lies Robespierre, let no tear be shed:",
       "role": "paragraph"
     },
     {
@@ -5200,12 +5425,14 @@
       "order": 850,
       "chapterIndex": 2,
       "text": "The fall of Robespierre ended the \" Reign of Terror .\" Most of the leaders who had acted a conspicuous part in these horrid scenes, met a doom similar to that of their leaders. It is impossible to convey to the reader any adequate conception of the atrocities committed in France during this gloomy period, in the name of liberty. Men, women, and children were involved in the massacres which took place at the instigation of the Jacobin chiefs. Hundreds of both sexes were thrown into the Loire, and this was called republican marriage and republican baptism. And it should never be forgotten, that it was not till France as a nation, had denied the existence of a Deity, and the validity of his institutions, that she was visited by such terrible calamities. Let it be \"burnt in on the memory\" of every generation, that such is the legitimate tendency of infidel opinions. They first destroy the conscience—blunt the moral sense—harden the heart, and wither up all the social and kindly affections, and then their votaries are ripe for any deed of wickedness within the possibility of accomplishment by human agency.",
+      "ttsText": "The fall of Robespierre ended the \" Reign of Terror.\" Most of the leaders who had acted a conspicuous part in these horrid scenes, met a doom similar to that of their leaders. It is impossible to convey to the reader any adequate conception of the atrocities committed in France during this gloomy period, in the name of liberty. Men, women, and children were involved in the massacres which took place at the instigation of the Jacobin chiefs. Hundreds of both sexes were thrown into the Loire, and this was called republican marriage and republican baptism. And it should never be forgotten, that it was not till France as a nation, had denied the existence of a Deity, and the validity of his institutions, that she was visited by such terrible calamities. Let it be \"burnt in on the memory\" of every generation, that such is the legitimate tendency of infidel opinions. They first destroy the conscience, blunt the moral sense, harden the heart, and wither up all the social and kindly affections, and then their votaries are ripe for any deed of wickedness within the possibility of accomplishment by human agency.",
       "role": "paragraph"
     },
     {
       "order": 851,
       "chapterIndex": 2,
       "text": "Says an eloquent writer—\"When the Sabbath was abolished in France, the Mighty God whose being they had denied, and whose worship they abolished, stood aloof and gave them up,—and a scene of proscription, and assassination, and desolation, ensued, unparalleled in the annals of the civilized world. In the city of Paris, there were in 1803, eight hundred and seven suicides and murders. Among the criminals executed, there were seven fathers who had poisoned their children, ten husbands who had murdered their wives, six wives who had poisoned their husbands, and fifteen children who had destroyed their parents.\"",
+      "ttsText": "Says an eloquent writer, \"When the Sabbath was abolished in France, the Mighty God whose being they had denied, and whose worship they abolished, stood aloof and gave them up,, and a scene of proscription, and assassination, and desolation, ensued, unparalleled in the annals of the civilized world. In the city of Paris, there were in 1803, eight hundred and seven suicides and murders. Among the criminals executed, there were seven fathers who had poisoned their children, ten husbands who had murdered their wives, six wives who had poisoned their husbands, and fifteen children who had destroyed their parents.\"",
       "role": "paragraph"
     },
     {
@@ -5224,18 +5451,21 @@
       "order": 854,
       "chapterIndex": 2,
       "text": "Encouraged by the success of this decisive measure, the government proceeded against some of the terrorists whom they had hitherto spared, but whose fate was now determined, in order to strike dismay into their party. Six Jacobins, accounted among the most ferocious of the class, were arrested and delivered up to be tried by a military commission. They were all deputies of the mountain gang. Certain of their doom, they adopted a desperate resolution. Among the whole party, they possessed but one knife, but they resolved it should serve them all for the purpose of suicide. The instant their sentence was pronounced, one stabbed himself with this weapon; another snatched the knife from his companion's dying hand, plunged it in his own bosom, and handed it to the third, who imitated the dreadful example. Such was the consternation of the attendants, that no one arrested the fatal progress of the weapon—all fell either dead or desperately wounded—the last were despatched by the guillotine.",
+      "ttsText": "Encouraged by the success of this decisive measure, the government proceeded against some of the terrorists whom they had hitherto spared, but whose fate was now determined, in order to strike dismay into their party. Six Jacobins, accounted among the most ferocious of the class, were arrested and delivered up to be tried by a military commission. They were all deputies of the mountain gang. Certain of their doom, they adopted a desperate resolution. Among the whole party, they possessed but one knife, but they resolved it should serve them all for the purpose of suicide. The instant their sentence was pronounced, one stabbed himself with this weapon; another snatched the knife from his companion's dying hand, plunged it in his own bosom, and handed it to the third, who imitated the dreadful example. Such was the consternation of the attendants, that no one arrested the fatal progress of the weapon, all fell either dead or desperately wounded, the last were despatched by the guillotine.",
       "role": "paragraph"
     },
     {
       "order": 855,
       "chapterIndex": 2,
       "text": "After this decisive victory, and last dreadful catastrophe, Jacobinism, considered as a pure and unmixed party, can scarce be said to have again raised its head in France, although its leaven has gone to qualify and characterize, in some degree, more than one of the different parties which have succeeded them. As a political sect, the Jacobins can be compared to none that ever existed, for none but themselves ever thought of an organized, regular, and continued system of murdering and plundering the rich, that they might debauch the poor by the distribution of their spoils. They bear, however, some resemblance to the frantic followers of John of Leyden and Knipperdoling, who occupied Munster in the seventeenth century, and committed, in the name of religion, the same frantic horrors which the French Jacobins did in that of freedom. In both cases, the courses adopted by these parties were most foreign to, and inconsistent with, the alleged motives of their conduct. The Anabaptists practised every species of vice and cruelty, by the dictates, they said, of inspiration—the Jacobins imprisoned three hundred thousand of their countrymen in the name of liberty, and put to death more than half the number, under the sanction of fraternity.",
+      "ttsText": "After this decisive victory, and last dreadful catastrophe, Jacobinism, considered as a pure and unmixed party, can scarce be said to have again raised its head in France, although its leaven has gone to qualify and characterize, in some degree, more than one of the different parties which have succeeded them. As a political sect, the Jacobins can be compared to none that ever existed, for none but themselves ever thought of an organized, regular, and continued system of murdering and plundering the rich, that they might debauch the poor by the distribution of their spoils. They bear, however, some resemblance to the frantic followers of John of Leyden and Knipperdoling, who occupied Munster in the seventeenth century, and committed, in the name of religion, the same frantic horrors which the French Jacobins did in that of freedom. In both cases, the courses adopted by these parties were most foreign to, and inconsistent with, the alleged motives of their conduct. The Anabaptists practised every species of vice and cruelty, by the dictates, they said, of inspiration, the Jacobins imprisoned three hundred thousand of their countrymen in the name of liberty, and put to death more than half the number, under the sanction of fraternity.",
       "role": "paragraph"
     },
     {
       "order": 856,
       "chapterIndex": 2,
       "text": "FOOTNOTES:",
+      "ttsText": "Footnotes:",
       "role": "title"
     },
     {
@@ -5248,6 +5478,7 @@
       "order": 858,
       "chapterIndex": 2,
       "text": "\"My loving people, we have been persuaded by some, that are careful of our safety, to take heed how we commit ourselves to armed multitudes, for fear of treachery, but I assure you, I do not desire to live to distrust my faithful and loving people.—Let tyrants fear: I have always so behaved myself, that under God, I have placed my chiefest strength and safeguard in the loyal hearts and good will of my subjects. And therefore I am come among you at this time, not as for my recreation or sport, but being resolved, in the midst and heat of the battle, to live or die among you all, to lay down, for my God, and for my kingdom, and for my people, my honour and my blood, even in the dust. I know I have but the body of a weak and feeble woman, but I have the heart of a king, and of a king of England too; and think foul scorn that Parma or Spain, or any prince of Europe, should dare to invade the borders of my realms: To which rather than any dishonour should grow by me, I myself will take up arms; I myself will be your general, judge, and rewarder of every one of your virtues in the field. I know already, by your forwardness, that you have deserved rewards and crowns; and I do assure you, on the word of a prince, they shall be duly paid you. In the mean time my lieutenant-general shall be in my stead, than whom never prince commanded a more noble and worthy subject; not doubting by your obedience to my general, by your concord in the camp, and your valour in the field, we shall shortly have a famous victory over those enemies of my God, of my kingdom, and of my people.\"",
+      "ttsText": "\"My loving people, we have been persuaded by some, that are careful of our safety, to take heed how we commit ourselves to armed multitudes, for fear of treachery, but I assure you, I do not desire to live to distrust my faithful and loving people., Let tyrants fear: I have always so behaved myself, that under God, I have placed my chiefest strength and safeguard in the loyal hearts and good will of my subjects. And therefore I am come among you at this time, not as for my recreation or sport, but being resolved, in the midst and heat of the battle, to live or die among you all, to lay down, for my God, and for my kingdom, and for my people, my honour and my blood, even in the dust. I know I have but the body of a weak and feeble woman, but I have the heart of a king, and of a king of England too; and think foul scorn that Parma or Spain, or any prince of Europe, should dare to invade the borders of my realms: To which rather than any dishonour should grow by me, I myself will take up arms; I myself will be your general, judge, and rewarder of every one of your virtues in the field. I know already, by your forwardness, that you have deserved rewards and crowns; and I do assure you, on the word of a prince, they shall be duly paid you. In the mean time my lieutenant-general shall be in my stead, than whom never prince commanded a more noble and worthy subject; not doubting by your obedience to my general, by your concord in the camp, and your valour in the field, we shall shortly have a famous victory over those enemies of my God, of my kingdom, and of my people.\"",
       "role": "paragraph"
     },
     {
@@ -5266,12 +5497,14 @@
       "order": 861,
       "chapterIndex": 2,
       "text": "[D] The king of England was at that time called highness , not majesty , as at present.",
+      "ttsText": "[D] The king of England was at that time called highness, not majesty, as at present.",
       "role": "paragraph"
     },
     {
       "order": 862,
       "chapterIndex": 2,
       "text": "[E] The Papists receive these books as of equal divine authority with the books of the Old Testament.— Ed.",
+      "ttsText": "[E] The Papists receive these books as of equal divine authority with the books of the Old Testament., Ed.",
       "role": "paragraph"
     },
     {
@@ -5284,6 +5517,7 @@
       "order": 864,
       "chapterIndex": 2,
       "text": "[G] \"He causeth all—to receive a mark,\" &c. \"and no man might buy or sell save he that had the mark or the name of the beast.\" The patriarch was also clothed in scarlet, like the woman on the scarlet coloured beast.",
+      "ttsText": "[G] \"He causeth all, to receive a mark,\" and c. \"and no man might buy or sell save he that had the mark or the name of the beast.\" The patriarch was also clothed in scarlet, like the woman on the scarlet coloured beast.",
       "role": "paragraph"
     },
     {
@@ -5362,6 +5596,7 @@
       "order": 877,
       "chapterIndex": 2,
       "text": "The remaining corrections made are indicated by dotted lines under the corrections. Scroll the mouse over the word and the original text will appear .",
+      "ttsText": "The remaining corrections made are indicated by dotted lines under the corrections. Scroll the mouse over the word and the original text will appear.",
       "role": "paragraph"
     },
     {

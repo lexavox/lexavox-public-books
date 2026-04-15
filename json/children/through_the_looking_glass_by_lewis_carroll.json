@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:13.9178958Z",
+  "generatedAt": "2026-04-07T14:53:09.6293599Z",
   "source": {
     "id": "pg12",
     "title": "Through the Looking-Glass",
@@ -173,6 +173,7 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "THROUGH THE LOOKING-GLASS",
+      "ttsText": "Through the Looking-Glass",
       "role": "title"
     },
     {
@@ -197,6 +198,7 @@
       "order": 15,
       "chapterIndex": 0,
       "text": "DRAMATIS PERSONÆ.",
+      "ttsText": "Dramatis Personæ.",
       "role": "title"
     },
     {
@@ -209,12 +211,14 @@
       "order": 17,
       "chapterIndex": 0,
       "text": "WHITE RED.",
+      "ttsText": "White Red.",
       "role": "title"
     },
     {
       "order": 18,
       "chapterIndex": 0,
       "text": "PIECES. PAWNS. PAWNS. PIECES.",
+      "ttsText": "Pieces. Pawns. Pawns. Pieces.",
       "role": "title"
     },
     {
@@ -269,13 +273,14 @@
       "order": 27,
       "chapterIndex": 0,
       "text": "RED .",
+      "ttsText": "Red.",
       "role": "title"
     },
     {
       "order": 28,
       "chapterIndex": 0,
       "text": "[Illustration: chessboard] WHITE .",
-      "role": "paragraph"
+      "skip": true
     },
     {
       "order": 29,
@@ -287,13 +292,15 @@
       "order": 30,
       "chapterIndex": 0,
       "text": "1. Alice meets R. Q.",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "1. Alice meets R.Q."
     },
     {
       "order": 31,
       "chapterIndex": 0,
       "text": "1. R. Q. to K. R.’s 4th",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "1. R.Q.to K.R.’s 4th"
     },
     {
       "order": 32,
@@ -305,19 +312,22 @@
       "order": 33,
       "chapterIndex": 0,
       "text": "2. W. Q. to Q. B.’s 4th ( after shawl )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "2. W.Q.to Q.B.’s 4th ( after shawl )"
     },
     {
       "order": 34,
       "chapterIndex": 0,
       "text": "3. Alice meets W. Q. ( with shawl )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "3. Alice meets W.Q.( with shawl )"
     },
     {
       "order": 35,
       "chapterIndex": 0,
       "text": "3. W. Q. to Q.B.’s 5th ( becomes sheep )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "3. W.Q.to Q.B.’s 5th ( becomes sheep )"
     },
     {
       "order": 36,
@@ -329,7 +339,8 @@
       "order": 37,
       "chapterIndex": 0,
       "text": "4. W. Q. to K. B.’s 8th ( leaves egg on shelf )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "4. W.Q.to K.B.’s 8th ( leaves egg on shelf )"
     },
     {
       "order": 38,
@@ -341,7 +352,8 @@
       "order": 39,
       "chapterIndex": 0,
       "text": "5. W. Q. to Q. B.’s 8th ( flying from R. Kt. )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "5. W.Q.to Q.B.’s 8th ( flying from R. Kt. )"
     },
     {
       "order": 40,
@@ -377,7 +389,8 @@
       "order": 45,
       "chapterIndex": 0,
       "text": "8. R. Q. to K.’s sq. ( examination )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "8. R.Q.to K.’s sq. ( examination )"
     },
     {
       "order": 46,
@@ -401,12 +414,14 @@
       "order": 49,
       "chapterIndex": 0,
       "text": "10. W.Q. to Q.R.’s 6th ( soup )",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "10. W.Q.to Q.R.’s 6th ( soup )"
     },
     {
       "order": 50,
       "chapterIndex": 0,
       "text": "11. Alice takes R.Q. & wins",
+      "ttsText": "11. Alice takes R.Q. and wins",
       "role": "heading"
     },
     {
@@ -473,6 +488,7 @@
       "order": 61,
       "chapterIndex": 1,
       "text": "In thy young life’s hereafter—",
+      "ttsText": "In thy young life’s hereafter,",
       "role": "paragraph"
     },
     {
@@ -497,6 +513,7 @@
       "order": 65,
       "chapterIndex": 1,
       "text": "When summer suns were glowing—",
+      "ttsText": "When summer suns were glowing,",
       "role": "paragraph"
     },
     {
@@ -509,6 +526,7 @@
       "order": 67,
       "chapterIndex": 1,
       "text": "The rhythm of oar rowing—",
+      "ttsText": "The rhythm of oar rowing,",
       "role": "paragraph"
     },
     {
@@ -569,6 +587,7 @@
       "order": 77,
       "chapterIndex": 1,
       "text": "The storm-wind’s moody madness—",
+      "ttsText": "The storm-wind’s moody madness,",
       "role": "paragraph"
     },
     {
@@ -617,6 +636,7 @@
       "order": 85,
       "chapterIndex": 1,
       "text": "And vanish’d summer glory—",
+      "ttsText": "And vanish’d summer glory,",
       "role": "paragraph"
     },
     {
@@ -641,6 +661,7 @@
       "order": 89,
       "chapterIndex": 2,
       "text": "CHAPTER VIII.",
+      "ttsText": "Chapter VIII.",
       "role": "heading"
     },
     {
@@ -653,6 +674,7 @@
       "order": 91,
       "chapterIndex": 2,
       "text": "After a while the noise seemed gradually to die away, till all was dead silence, and Alice lifted up her head in some alarm. There was no one to be seen, and her first thought was that she must have been dreaming about the Lion and the Unicorn and those queer Anglo-Saxon Messengers. However, there was the great dish still lying at her feet, on which she had tried to cut the plum-cake, “So I wasn’t dreaming, after all,” she said to herself, “unless—unless we’re all part of the same dream. Only I do hope it’s my dream, and not the Red King’s! I don’t like belonging to another person’s dream,” she went on in a rather complaining tone: “I’ve a great mind to go and wake him, and see what happens!”",
+      "ttsText": "After a while the noise seemed gradually to die away, till all was dead silence, and Alice lifted up her head in some alarm. There was no one to be seen, and her first thought was that she must have been dreaming about the Lion and the Unicorn and those queer Anglo-Saxon Messengers. However, there was the great dish still lying at her feet, on which she had tried to cut the plum-cake, “So I wasn’t dreaming, after all,” she said to herself, “unless, unless we’re all part of the same dream. Only I do hope it’s my dream, and not the Red King’s! I don’t like belonging to another person’s dream,” she went on in a rather complaining tone: “I’ve a great mind to go and wake him, and see what happens!”",
       "role": "paragraph"
     },
     {
@@ -665,6 +687,7 @@
       "order": 93,
       "chapterIndex": 2,
       "text": "Startled as she was, Alice was more frightened for him than for herself at the moment, and watched him with some anxiety as he mounted again. As soon as he was comfortably in the saddle, he began once more “You’re my—” but here another voice broke in “Ahoy! Ahoy! Check!” and Alice looked round in some surprise for the new enemy.",
+      "ttsText": "Startled as she was, Alice was more frightened for him than for herself at the moment, and watched him with some anxiety as he mounted again. As soon as he was comfortably in the saddle, he began once more “You’re my, ” but here another voice broke in “Ahoy! Ahoy! Check!” and Alice looked round in some surprise for the new enemy.",
       "role": "paragraph"
     },
     {
@@ -707,6 +730,7 @@
       "order": 100,
       "chapterIndex": 2,
       "text": "“I wonder, now, what the Rules of Battle are,” she said to herself, as she watched the fight, timidly peeping out from her hiding-place: “one Rule seems to be, that if one Knight hits the other, he knocks him off his horse, and if he misses, he tumbles off himself—and another Rule seems to be that they hold their clubs with their arms, as if they were Punch and Judy—What a noise they make when they tumble! Just like a whole set of fire-irons falling into the fender! And how quiet the horses are! They let them get on and off them just as if they were tables!”",
+      "ttsText": "“I wonder, now, what the Rules of Battle are,” she said to herself, as she watched the fight, timidly peeping out from her hiding-place: “one Rule seems to be, that if one Knight hits the other, he knocks him off his horse, and if he misses, he tumbles off himself, and another Rule seems to be that they hold their clubs with their arms, as if they were Punch and Judy, What a noise they make when they tumble! Just like a whole set of fire-irons falling into the fender! And how quiet the horses are! They let them get on and off them just as if they were tables!”",
       "role": "paragraph"
     },
     {
@@ -731,6 +755,7 @@
       "order": 104,
       "chapterIndex": 2,
       "text": "“So you will, when you’ve crossed the next brook,” said the White Knight. “I’ll see you safe to the end of the wood—and then I must go back, you know. That’s the end of my move.”",
+      "ttsText": "“So you will, when you’ve crossed the next brook,” said the White Knight. “I’ll see you safe to the end of the wood, and then I must go back, you know. That’s the end of my move.”",
       "role": "paragraph"
     },
     {
@@ -755,12 +780,14 @@
       "order": 108,
       "chapterIndex": 2,
       "text": "“I see you’re admiring my little box.” the Knight said in a friendly tone. “It’s my own invention—to keep clothes and sandwiches in. You see I carry it upside-down, so that the rain can’t get in.”",
+      "ttsText": "“I see you’re admiring my little box.” the Knight said in a friendly tone. “It’s my own invention, to keep clothes and sandwiches in. You see I carry it upside-down, so that the rain can’t get in.”",
       "role": "paragraph"
     },
     {
       "order": 109,
       "chapterIndex": 2,
       "text": "“But the things can get out ,” Alice gently remarked. “Do you know the lid’s open?”",
+      "ttsText": "“But the things can get out,” Alice gently remarked. “Do you know the lid’s open?”",
       "role": "paragraph"
     },
     {
@@ -779,18 +806,21 @@
       "order": 112,
       "chapterIndex": 2,
       "text": "“In hopes some bees may make a nest in it—then I should get the honey.”",
+      "ttsText": "“In hopes some bees may make a nest in it, then I should get the honey.”",
       "role": "paragraph"
     },
     {
       "order": 113,
       "chapterIndex": 2,
       "text": "“But you’ve got a bee-hive—or something like one—fastened to the saddle,” said Alice.",
+      "ttsText": "“But you’ve got a bee-hive, or something like one, fastened to the saddle,” said Alice.",
       "role": "paragraph"
     },
     {
       "order": 114,
       "chapterIndex": 2,
       "text": "“Yes, it’s a very good bee-hive,” the Knight said in a discontented tone, “one of the best kind. But not a single bee has come near it yet. And the other thing is a mouse-trap. I suppose the mice keep the bees out—or the bees keep the mice out, I don’t know which.”",
+      "ttsText": "“Yes, it’s a very good bee-hive,” the Knight said in a discontented tone, “one of the best kind. But not a single bee has come near it yet. And the other thing is a mouse-trap. I suppose the mice keep the bees out, or the bees keep the mice out, I don’t know which.”",
       "role": "paragraph"
     },
     {
@@ -809,6 +839,7 @@
       "order": 117,
       "chapterIndex": 2,
       "text": "“You see,” he went on after a pause, “it’s as well to be provided for everything . That’s the reason the horse has all those anklets round his feet.”",
+      "ttsText": "“You see,” he went on after a pause, “it’s as well to be provided for everything. That’s the reason the horse has all those anklets round his feet.”",
       "role": "paragraph"
     },
     {
@@ -821,6 +852,7 @@
       "order": 119,
       "chapterIndex": 2,
       "text": "“To guard against the bites of sharks,” the Knight replied. “It’s an invention of my own. And now help me on. I’ll go with you to the end of the wood—What’s the dish for?”",
+      "ttsText": "“To guard against the bites of sharks,” the Knight replied. “It’s an invention of my own. And now help me on. I’ll go with you to the end of the wood, What’s the dish for?”",
       "role": "paragraph"
     },
     {
@@ -881,6 +913,7 @@
       "order": 129,
       "chapterIndex": 2,
       "text": "“First you take an upright stick,” said the Knight. “Then you make your hair creep up it, like a fruit-tree. Now the reason hair falls off is because it hangs down —things never fall upwards , you know. It’s a plan of my own invention. You may try it if you like.”",
+      "ttsText": "“First you take an upright stick,” said the Knight. “Then you make your hair creep up it, like a fruit-tree. Now the reason hair falls off is because it hangs down, things never fall upwards, you know. It’s a plan of my own invention. You may try it if you like.”",
       "role": "paragraph"
     },
     {
@@ -929,12 +962,14 @@
       "order": 137,
       "chapterIndex": 2,
       "text": "“The great art of riding,” the Knight suddenly began in a loud voice, waving his right arm as he spoke, “is to keep—” Here the sentence ended as suddenly as it had begun, as the Knight fell heavily on the top of his head exactly in the path where Alice was walking. She was quite frightened this time, and said in an anxious tone, as she picked him up, “I hope no bones are broken?”",
+      "ttsText": "“The great art of riding,” the Knight suddenly began in a loud voice, waving his right arm as he spoke, “is to keep, ” Here the sentence ended as suddenly as it had begun, as the Knight fell heavily on the top of his head exactly in the path where Alice was walking. She was quite frightened this time, and said in an anxious tone, as she picked him up, “I hope no bones are broken?”",
       "role": "paragraph"
     },
     {
       "order": 138,
       "chapterIndex": 2,
       "text": "“None to speak of,” the Knight said, as if he didn’t mind breaking two or three of them. “The great art of riding, as I was saying, is—to keep your balance properly. Like this, you know—”",
+      "ttsText": "“None to speak of,” the Knight said, as if he didn’t mind breaking two or three of them. “The great art of riding, as I was saying, is, to keep your balance properly. Like this, you know, ”",
       "role": "paragraph"
     },
     {
@@ -971,6 +1006,7 @@
       "order": 144,
       "chapterIndex": 2,
       "text": "“I’ll get one,” the Knight said thoughtfully to himself. “One or two—several.”",
+      "ttsText": "“I’ll get one,” the Knight said thoughtfully to himself. “One or two, several.”",
       "role": "paragraph"
     },
     {
@@ -989,6 +1025,7 @@
       "order": 147,
       "chapterIndex": 2,
       "text": "“Well, just then I was inventing a new way of getting over a gate—would you like to hear it?”",
+      "ttsText": "“Well, just then I was inventing a new way of getting over a gate, would you like to hear it?”",
       "role": "paragraph"
     },
     {
@@ -1001,6 +1038,7 @@
       "order": 149,
       "chapterIndex": 2,
       "text": "“I’ll tell you how I came to think of it,” said the Knight. “You see, I said to myself, ‘The only difficulty is with the feet: the head is high enough already.’ Now, first I put my head on the top of the gate—then I stand on my head—then the feet are high enough, you see—then I’m over, you see.”",
+      "ttsText": "“I’ll tell you how I came to think of it,” said the Knight. “You see, I said to myself, ‘The only difficulty is with the feet: the head is high enough already.’ Now, first I put my head on the top of the gate, then I stand on my head, then the feet are high enough, you see, then I’m over, you see.”",
       "role": "paragraph"
     },
     {
@@ -1013,6 +1051,7 @@
       "order": 151,
       "chapterIndex": 2,
       "text": "“I haven’t tried it yet,” the Knight said, gravely: “so I can’t tell for certain—but I’m afraid it would be a little hard.”",
+      "ttsText": "“I haven’t tried it yet,” the Knight said, gravely: “so I can’t tell for certain, but I’m afraid it would be a little hard.”",
       "role": "paragraph"
     },
     {
@@ -1025,6 +1064,7 @@
       "order": 153,
       "chapterIndex": 2,
       "text": "The Knight looked down proudly at his helmet, which hung from the saddle. “Yes,” he said, “but I’ve invented a better one than that—like a sugar loaf. When I used to wear it, if I fell off the horse, it always touched the ground directly. So I had a very little way to fall, you see—But there was the danger of falling into it, to be sure. That happened to me once—and the worst of it was, before I could get out again, the other White Knight came and put it on. He thought it was his own helmet.”",
+      "ttsText": "The Knight looked down proudly at his helmet, which hung from the saddle. “Yes,” he said, “but I’ve invented a better one than that, like a sugar loaf. When I used to wear it, if I fell off the horse, it always touched the ground directly. So I had a very little way to fall, you see, But there was the danger of falling into it, to be sure. That happened to me once, and the worst of it was, before I could get out again, the other White Knight came and put it on. He thought it was his own helmet.”",
       "role": "paragraph"
     },
     {
@@ -1037,6 +1077,7 @@
       "order": 155,
       "chapterIndex": 2,
       "text": "“I had to kick him, of course,” the Knight said, very seriously. “And then he took the helmet off again—but it took hours and hours to get me out. I was as fast as—as lightning, you know.”",
+      "ttsText": "“I had to kick him, of course,” the Knight said, very seriously. “And then he took the helmet off again, but it took hours and hours to get me out. I was as fast as, as lightning, you know.”",
       "role": "paragraph"
     },
     {
@@ -1055,6 +1096,7 @@
       "order": 158,
       "chapterIndex": 2,
       "text": "Alice ran to the side of the ditch to look for him. She was rather startled by the fall, as for some time he had kept on very well, and she was afraid that he really was hurt this time. However, though she could see nothing but the soles of his feet, she was much relieved to hear that he was talking on in his usual tone. “All kinds of fastness,” he repeated: “but it was careless of him to put another man’s helmet on—with the man in it, too.”",
+      "ttsText": "Alice ran to the side of the ditch to look for him. She was rather startled by the fall, as for some time he had kept on very well, and she was afraid that he really was hurt this time. However, though she could see nothing but the soles of his feet, she was much relieved to hear that he was talking on in his usual tone. “All kinds of fastness,” he repeated: “but it was careless of him to put another man’s helmet on, with the man in it, too.”",
       "role": "paragraph"
     },
     {
@@ -1079,6 +1121,7 @@
       "order": 162,
       "chapterIndex": 2,
       "text": "“In time to have it cooked for the next course?” said Alice. “Well, not the next course,” the Knight said in a slow thoughtful tone: “no, certainly not the next course .”",
+      "ttsText": "“In time to have it cooked for the next course?” said Alice. “Well, not the next course,” the Knight said in a slow thoughtful tone: “no, certainly not the next course.”",
       "role": "paragraph"
     },
     {
@@ -1091,6 +1134,7 @@
       "order": 164,
       "chapterIndex": 2,
       "text": "“Well, not the next day,” the Knight repeated as before: “not the next day . In fact,” he went on, holding his head down, and his voice getting lower and lower, “I don’t believe that pudding ever was cooked! In fact, I don’t believe that pudding ever will be cooked! And yet it was a very clever pudding to invent.”",
+      "ttsText": "“Well, not the next day,” the Knight repeated as before: “not the next day. In fact,” he went on, holding his head down, and his voice getting lower and lower, “I don’t believe that pudding ever was cooked! In fact, I don’t believe that pudding ever will be cooked! And yet it was a very clever pudding to invent.”",
       "role": "paragraph"
     },
     {
@@ -1109,12 +1153,14 @@
       "order": 167,
       "chapterIndex": 2,
       "text": "“That wouldn’t be very nice, I’m afraid—”",
+      "ttsText": "“That wouldn’t be very nice, I’m afraid, ”",
       "role": "paragraph"
     },
     {
       "order": 168,
       "chapterIndex": 2,
       "text": "“Not very nice alone ,” he interrupted, quite eagerly: “but you’ve no idea what a difference it makes mixing it with other things—such as gunpowder and sealing-wax. And here I must leave you.” They had just come to the end of the wood.",
+      "ttsText": "“Not very nice alone,” he interrupted, quite eagerly: “but you’ve no idea what a difference it makes mixing it with other things, such as gunpowder and sealing-wax. And here I must leave you.” They had just come to the end of the wood.",
       "role": "paragraph"
     },
     {
@@ -1139,6 +1185,7 @@
       "order": 172,
       "chapterIndex": 2,
       "text": "“It’s long,” said the Knight, “but very, very beautiful. Everybody that hears me sing it—either it brings the tears into their eyes, or else—”",
+      "ttsText": "“It’s long,” said the Knight, “but very, very beautiful. Everybody that hears me sing it, either it brings the tears into their eyes, or else, ”",
       "role": "paragraph"
     },
     {
@@ -1151,6 +1198,7 @@
       "order": 174,
       "chapterIndex": 2,
       "text": "“Or else it doesn’t, you know. The name of the song is called ‘ Haddocks’ Eyes .’”",
+      "ttsText": "“Or else it doesn’t, you know. The name of the song is called ‘ Haddocks’ Eyes.’”",
       "role": "paragraph"
     },
     {
@@ -1163,6 +1211,7 @@
       "order": 176,
       "chapterIndex": 2,
       "text": "“No, you don’t understand,” the Knight said, looking a little vexed. “That’s what the name is called . The name really is ‘ The Aged Aged Man .’”",
+      "ttsText": "“No, you don’t understand,” the Knight said, looking a little vexed. “That’s what the name is called. The name really is ‘ The Aged Aged Man.’”",
       "role": "paragraph"
     },
     {
@@ -1175,6 +1224,7 @@
       "order": 178,
       "chapterIndex": 2,
       "text": "“No, you oughtn’t: that’s quite another thing! The song is called ‘ Ways and Means ’: but that’s only what it’s called , you know!”",
+      "ttsText": "“No, you oughtn’t: that’s quite another thing! The song is called ‘ Ways and Means ’: but that’s only what it’s called, you know!”",
       "role": "paragraph"
     },
     {
@@ -1199,12 +1249,14 @@
       "order": 182,
       "chapterIndex": 2,
       "text": "Of all the strange things that Alice saw in her journey Through The Looking-Glass, this was the one that she always remembered most clearly. Years afterwards she could bring the whole scene back again, as if it had been only yesterday—the mild blue eyes and kindly smile of the Knight—the setting sun gleaming through his hair, and shining on his armour in a blaze of light that quite dazzled her—the horse quietly moving about, with the reins hanging loose on his neck, cropping the grass at her feet—and the black shadows of the forest behind—all this she took in like a picture, as, with one hand shading her eyes, she leant against a tree, watching the strange pair, and listening, in a half dream, to the melancholy music of the song.",
+      "ttsText": "Of all the strange things that Alice saw in her journey Through The Looking-Glass, this was the one that she always remembered most clearly. Years afterwards she could bring the whole scene back again, as if it had been only yesterday, the mild blue eyes and kindly smile of the Knight, the setting sun gleaming through his hair, and shining on his armour in a blaze of light that quite dazzled her, the horse quietly moving about, with the reins hanging loose on his neck, cropping the grass at her feet, and the black shadows of the forest behind, all this she took in like a picture, as, with one hand shading her eyes, she leant against a tree, watching the strange pair, and listening, in a half dream, to the melancholy music of the song.",
       "role": "paragraph"
     },
     {
       "order": 183,
       "chapterIndex": 2,
       "text": "“But the tune isn’t his own invention,” she said to herself: “it’s ‘ I give thee all, I can no more .’” She stood and listened very attentively, but no tears came into her eyes.",
+      "ttsText": "“But the tune isn’t his own invention,” she said to herself: “it’s ‘ I give thee all, I can no more.’” She stood and listened very attentively, but no tears came into her eyes.",
       "role": "paragraph"
     },
     {
@@ -1295,6 +1347,7 @@
       "order": 198,
       "chapterIndex": 2,
       "text": "And that’s the way I get my bread—",
+      "ttsText": "And that’s the way I get my bread,",
       "role": "paragraph"
     },
     {
@@ -1385,6 +1438,7 @@
       "order": 213,
       "chapterIndex": 2,
       "text": "Rolands’ Macassar Oil—",
+      "ttsText": "Rolands’ Macassar Oil,",
       "role": "paragraph"
     },
     {
@@ -1529,6 +1583,7 @@
       "order": 237,
       "chapterIndex": 2,
       "text": "‘By which I get my wealth—",
+      "ttsText": "‘By which I get my wealth,",
       "role": "paragraph"
     },
     {
@@ -1637,6 +1692,7 @@
       "order": 255,
       "chapterIndex": 2,
       "text": "Of that old man I used to know—",
+      "ttsText": "Of that old man I used to know,",
       "role": "paragraph"
     },
     {
@@ -1691,6 +1747,7 @@
       "order": 264,
       "chapterIndex": 2,
       "text": "Who snorted like a buffalo—",
+      "ttsText": "Who snorted like a buffalo,",
       "role": "paragraph"
     },
     {
@@ -1709,12 +1766,14 @@
       "order": 267,
       "chapterIndex": 2,
       "text": "As the Knight sang the last words of the ballad, he gathered up the reins, and turned his horse’s head along the road by which they had come. “You’ve only a few yards to go,” he said, “down the hill and over that little brook, and then you’ll be a Queen—But you’ll stay and see me off first?” he added as Alice turned with an eager look in the direction to which he pointed. “I shan’t be long. You’ll wait and wave your handkerchief when I get to that turn in the road? I think it’ll encourage me, you see.”",
+      "ttsText": "As the Knight sang the last words of the ballad, he gathered up the reins, and turned his horse’s head along the road by which they had come. “You’ve only a few yards to go,” he said, “down the hill and over that little brook, and then you’ll be a Queen, But you’ll stay and see me off first?” he added as Alice turned with an eager look in the direction to which he pointed. “I shan’t be long. You’ll wait and wave your handkerchief when I get to that turn in the road? I think it’ll encourage me, you see.”",
       "role": "paragraph"
     },
     {
       "order": 268,
       "chapterIndex": 2,
       "text": "“Of course I’ll wait,” said Alice: “and thank you very much for coming so far—and for the song—I liked it very much.”",
+      "ttsText": "“Of course I’ll wait,” said Alice: “and thank you very much for coming so far, and for the song, I liked it very much.”",
       "role": "paragraph"
     },
     {
@@ -1727,6 +1786,7 @@
       "order": 270,
       "chapterIndex": 2,
       "text": "So they shook hands, and then the Knight rode slowly away into the forest. “It won’t take long to see him off , I expect,” Alice said to herself, as she stood watching him. “There he goes! Right on his head as usual! However, he gets on again pretty easily—that comes of having so many things hung round the horse—” So she went on talking to herself, as she watched the horse walking leisurely along the road, and the Knight tumbling off, first on one side and then on the other. After the fourth or fifth tumble he reached the turn, and then she waved her handkerchief to him, and waited till he was out of sight.",
+      "ttsText": "So they shook hands, and then the Knight rode slowly away into the forest. “It won’t take long to see him off, I expect,” Alice said to herself, as she stood watching him. “There he goes! Right on his head as usual! However, he gets on again pretty easily, that comes of having so many things hung round the horse, ” So she went on talking to herself, as she watched the horse walking leisurely along the road, and the Knight tumbling off, first on one side and then on the other. After the fourth or fifth tumble he reached the turn, and then she waved her handkerchief to him, and waited till he was out of sight.",
       "role": "paragraph"
     },
     {
@@ -1781,6 +1841,7 @@
       "order": 279,
       "chapterIndex": 3,
       "text": "CHAPTER IX.",
+      "ttsText": "Chapter IX.",
       "role": "heading"
     },
     {
@@ -1793,18 +1854,21 @@
       "order": 281,
       "chapterIndex": 3,
       "text": "“Well, this is grand!” said Alice. “I never expected I should be a Queen so soon—and I’ll tell you what it is, your majesty,” she went on in a severe tone (she was always rather fond of scolding herself), “it’ll never do for you to be lolling about on the grass like that! Queens have to be dignified, you know!”",
+      "ttsText": "“Well, this is grand!” said Alice. “I never expected I should be a Queen so soon, and I’ll tell you what it is, your majesty,” she went on in a severe tone (she was always rather fond of scolding herself), “it’ll never do for you to be lolling about on the grass like that! Queens have to be dignified, you know!”",
       "role": "paragraph"
     },
     {
       "order": 282,
       "chapterIndex": 3,
       "text": "So she got up and walked about—rather stiffly just at first, as she was afraid that the crown might come off: but she comforted herself with the thought that there was nobody to see her, “and if I really am a Queen,” she said as she sat down again, “I shall be able to manage it quite well in time.”",
+      "ttsText": "So she got up and walked about, rather stiffly just at first, as she was afraid that the crown might come off: but she comforted herself with the thought that there was nobody to see her, “and if I really am a Queen,” she said as she sat down again, “I shall be able to manage it quite well in time.”",
       "role": "paragraph"
     },
     {
       "order": 283,
       "chapterIndex": 3,
       "text": "Everything was happening so oddly that she didn’t feel a bit surprised at finding the Red Queen and the White Queen sitting close to her, one on each side: she would have liked very much to ask them how they came there, but she feared it would not be quite civil. However, there would be no harm, she thought, in asking if the game was over. “Please, would you tell me—” she began, looking timidly at the Red Queen.",
+      "ttsText": "Everything was happening so oddly that she didn’t feel a bit surprised at finding the Red Queen and the White Queen sitting close to her, one on each side: she would have liked very much to ask them how they came there, but she feared it would not be quite civil. However, there would be no harm, she thought, in asking if the game was over. “Please, would you tell me, ” she began, looking timidly at the Red Queen.",
       "role": "paragraph"
     },
     {
@@ -1817,12 +1881,14 @@
       "order": 285,
       "chapterIndex": 3,
       "text": "“But if everybody obeyed that rule,” said Alice, who was always ready for a little argument, “and if you only spoke when you were spoken to, and the other person always waited for you to begin, you see nobody would ever say anything, so that—”",
+      "ttsText": "“But if everybody obeyed that rule,” said Alice, who was always ready for a little argument, “and if you only spoke when you were spoken to, and the other person always waited for you to begin, you see nobody would ever say anything, so that, ”",
       "role": "paragraph"
     },
     {
       "order": 286,
       "chapterIndex": 3,
       "text": "“Ridiculous!” cried the Queen. “Why, don’t you see, child—” here she broke off with a frown, and, after thinking for a minute, suddenly changed the subject of the conversation. “What do you mean by ‘If you really are a Queen’? What right have you to call yourself so? You can’t be a Queen, you know, till you’ve passed the proper examination. And the sooner we begin it, the better.”",
+      "ttsText": "“Ridiculous!” cried the Queen. “Why, don’t you see, child, ” here she broke off with a frown, and, after thinking for a minute, suddenly changed the subject of the conversation. “What do you mean by ‘If you really are a Queen’? What right have you to call yourself so? You can’t be a Queen, you know, till you’ve passed the proper examination. And the sooner we begin it, the better.”",
       "role": "paragraph"
     },
     {
@@ -1835,6 +1901,7 @@
       "order": 288,
       "chapterIndex": 3,
       "text": "The two Queens looked at each other, and the Red Queen remarked, with a little shudder, “She says she only said ‘if’—”",
+      "ttsText": "The two Queens looked at each other, and the Red Queen remarked, with a little shudder, “She says she only said ‘if’, ”",
       "role": "paragraph"
     },
     {
@@ -1847,24 +1914,28 @@
       "order": 290,
       "chapterIndex": 3,
       "text": "“So you did, you know,” the Red Queen said to Alice. “Always speak the truth—think before you speak—and write it down afterwards.”",
+      "ttsText": "“So you did, you know,” the Red Queen said to Alice. “Always speak the truth, think before you speak, and write it down afterwards.”",
       "role": "paragraph"
     },
     {
       "order": 291,
       "chapterIndex": 3,
       "text": "“I’m sure I didn’t mean—” Alice was beginning, but the Red Queen interrupted her impatiently.",
+      "ttsText": "“I’m sure I didn’t mean, ” Alice was beginning, but the Red Queen interrupted her impatiently.",
       "role": "paragraph"
     },
     {
       "order": 292,
       "chapterIndex": 3,
       "text": "“That’s just what I complain of! You should have meant! What do you suppose is the use of child without any meaning? Even a joke should have some meaning—and a child’s more important than a joke, I hope. You couldn’t deny that, even if you tried with both hands.”",
+      "ttsText": "“That’s just what I complain of! You should have meant! What do you suppose is the use of child without any meaning? Even a joke should have some meaning, and a child’s more important than a joke, I hope. You couldn’t deny that, even if you tried with both hands.”",
       "role": "paragraph"
     },
     {
       "order": 293,
       "chapterIndex": 3,
       "text": "“I don’t deny things with my hands ,” Alice objected.",
+      "ttsText": "“I don’t deny things with my hands,” Alice objected.",
       "role": "paragraph"
     },
     {
@@ -1877,6 +1948,7 @@
       "order": 295,
       "chapterIndex": 3,
       "text": "“She’s in that state of mind,” said the White Queen, “that she wants to deny something —only she doesn’t know what to deny!”",
+      "ttsText": "“She’s in that state of mind,” said the White Queen, “that she wants to deny something, only she doesn’t know what to deny!”",
       "role": "paragraph"
     },
     {
@@ -1895,6 +1967,7 @@
       "order": 298,
       "chapterIndex": 3,
       "text": "The White Queen smiled feebly, and said “And I invite you .”",
+      "ttsText": "The White Queen smiled feebly, and said “And I invite you.”",
       "role": "paragraph"
     },
     {
@@ -1937,24 +2010,28 @@
       "order": 305,
       "chapterIndex": 3,
       "text": "“Nine from eight I can’t, you know,” Alice replied very readily: “but—”",
+      "ttsText": "“Nine from eight I can’t, you know,” Alice replied very readily: “but, ”",
       "role": "paragraph"
     },
     {
       "order": 306,
       "chapterIndex": 3,
       "text": "“She can’t do Subtraction,” said the White Queen. “Can you do Division? Divide a loaf by a knife—what’s the answer to that?”",
+      "ttsText": "“She can’t do Subtraction,” said the White Queen. “Can you do Division? Divide a loaf by a knife, what’s the answer to that?”",
       "role": "paragraph"
     },
     {
       "order": 307,
       "chapterIndex": 3,
       "text": "“I suppose—” Alice was beginning, but the Red Queen answered for her. “Bread-and-butter, of course. Try another Subtraction sum. Take a bone from a dog: what remains?”",
+      "ttsText": "“I suppose, ” Alice was beginning, but the Red Queen answered for her. “Bread-and-butter, of course. Try another Subtraction sum. Take a bone from a dog: what remains?”",
       "role": "paragraph"
     },
     {
       "order": 308,
       "chapterIndex": 3,
       "text": "Alice considered. “The bone wouldn’t remain, of course, if I took it—and the dog wouldn’t remain; it would come to bite me—and I’m sure I shouldn’t remain!”",
+      "ttsText": "Alice considered. “The bone wouldn’t remain, of course, if I took it, and the dog wouldn’t remain; it would come to bite me, and I’m sure I shouldn’t remain!”",
       "role": "paragraph"
     },
     {
@@ -1979,6 +2056,7 @@
       "order": 312,
       "chapterIndex": 3,
       "text": "“But I don’t see how—”",
+      "ttsText": "“But I don’t see how, ”",
       "role": "paragraph"
     },
     {
@@ -2009,6 +2087,7 @@
       "order": 317,
       "chapterIndex": 3,
       "text": "“She can’t do sums a bit !” the Queens said together, with great emphasis.",
+      "ttsText": "“She can’t do sums a bit!” the Queens said together, with great emphasis.",
       "role": "paragraph"
     },
     {
@@ -2021,6 +2100,7 @@
       "order": 319,
       "chapterIndex": 3,
       "text": "The Queen gasped and shut her eyes. “I can do Addition, if you give me time—but I can’t do Subtraction, under any circumstances!”",
+      "ttsText": "The Queen gasped and shut her eyes. “I can do Addition, if you give me time, but I can’t do Subtraction, under any circumstances!”",
       "role": "paragraph"
     },
     {
@@ -2039,6 +2119,7 @@
       "order": 322,
       "chapterIndex": 3,
       "text": "“So do I,” the White Queen whispered: “we’ll often say it over together, dear. And I’ll tell you a secret—I can read words of one letter! Isn’t that grand! However, don’t be discouraged. You’ll come to it in time.”",
+      "ttsText": "“So do I,” the White Queen whispered: “we’ll often say it over together, dear. And I’ll tell you a secret, I can read words of one letter! Isn’t that grand! However, don’t be discouraged. You’ll come to it in time.”",
       "role": "paragraph"
     },
     {
@@ -2051,6 +2132,7 @@
       "order": 324,
       "chapterIndex": 3,
       "text": "“I know that !” Alice cried eagerly. “You take some flour—”",
+      "ttsText": "“I know that!” Alice cried eagerly. “You take some flour, ”",
       "role": "paragraph"
     },
     {
@@ -2063,6 +2145,7 @@
       "order": 326,
       "chapterIndex": 3,
       "text": "“Well, it isn’t picked at all,” Alice explained: “it’s ground —”",
+      "ttsText": "“Well, it isn’t picked at all,” Alice explained: “it’s ground, ”",
       "role": "paragraph"
     },
     {
@@ -2123,6 +2206,7 @@
       "order": 336,
       "chapterIndex": 3,
       "text": "“The cause of lightning,” Alice said very decidedly, for she felt quite certain about this, “is the thunder—no, no!” she hastily corrected herself. “I meant the other way.”",
+      "ttsText": "“The cause of lightning,” Alice said very decidedly, for she felt quite certain about this, “is the thunder, no, no!” she hastily corrected herself. “I meant the other way.”",
       "role": "paragraph"
     },
     {
@@ -2135,6 +2219,7 @@
       "order": 338,
       "chapterIndex": 3,
       "text": "“Which reminds me—” the White Queen said, looking down and nervously clasping and unclasping her hands, “we had such a thunderstorm last Tuesday—I mean one of the last set of Tuesdays, you know.”",
+      "ttsText": "“Which reminds me, ” the White Queen said, looking down and nervously clasping and unclasping her hands, “we had such a thunderstorm last Tuesday, I mean one of the last set of Tuesdays, you know.”",
       "role": "paragraph"
     },
     {
@@ -2147,6 +2232,7 @@
       "order": 340,
       "chapterIndex": 3,
       "text": "The Red Queen said, “That’s a poor thin way of doing things. Now here , we mostly have days and nights two or three at a time, and sometimes in the winter we take as many as five nights together—for warmth, you know.”",
+      "ttsText": "The Red Queen said, “That’s a poor thin way of doing things. Now here, we mostly have days and nights two or three at a time, and sometimes in the winter we take as many as five nights together, for warmth, you know.”",
       "role": "paragraph"
     },
     {
@@ -2165,12 +2251,14 @@
       "order": 343,
       "chapterIndex": 3,
       "text": "“But they should be five times as cold , by the same rule—”",
+      "ttsText": "“But they should be five times as cold, by the same rule, ”",
       "role": "paragraph"
     },
     {
       "order": 344,
       "chapterIndex": 3,
       "text": "“Just so!” cried the Red Queen. “Five times as warm, and five times as cold—just as I’m five times as rich as you are, and five times as clever!”",
+      "ttsText": "“Just so!” cried the Red Queen. “Five times as warm, and five times as cold, just as I’m five times as rich as you are, and five times as clever!”",
       "role": "paragraph"
     },
     {
@@ -2183,6 +2271,7 @@
       "order": 346,
       "chapterIndex": 3,
       "text": "“Humpty Dumpty saw it too,” the White Queen went on in a low voice, more as if she were talking to herself. “He came to the door with a corkscrew in his hand—”",
+      "ttsText": "“Humpty Dumpty saw it too,” the White Queen went on in a low voice, more as if she were talking to herself. “He came to the door with a corkscrew in his hand, ”",
       "role": "paragraph"
     },
     {
@@ -2213,12 +2302,14 @@
       "order": 351,
       "chapterIndex": 3,
       "text": "“I know what he came for,” said Alice: “he wanted to punish the fish, because—”",
+      "ttsText": "“I know what he came for,” said Alice: “he wanted to punish the fish, because, ”",
       "role": "paragraph"
     },
     {
       "order": 352,
       "chapterIndex": 3,
       "text": "Here the White Queen began again. “It was such a thunderstorm, you can’t think!” (“She never could, you know,” said the Red Queen.) “And part of the roof came off, and ever so much thunder got in—and it went rolling round the room in great lumps—and knocking over the tables and things—till I was so frightened, I couldn’t remember my own name!”",
+      "ttsText": "Here the White Queen began again. “It was such a thunderstorm, you can’t think!” (“She never could, you know,” said the Red Queen.) “And part of the roof came off, and ever so much thunder got in, and it went rolling round the room in great lumps, and knocking over the tables and things, till I was so frightened, I couldn’t remember my own name!”",
       "role": "paragraph"
     },
     {
@@ -2249,6 +2340,7 @@
       "order": 357,
       "chapterIndex": 3,
       "text": "“A little kindness—and putting her hair in papers—would do wonders with her—”",
+      "ttsText": "“A little kindness, and putting her hair in papers, would do wonders with her, ”",
       "role": "paragraph"
     },
     {
@@ -2261,6 +2353,7 @@
       "order": 359,
       "chapterIndex": 3,
       "text": "“She’s tired, poor thing!” said the Red Queen. “Smooth her hair—lend her your nightcap—and sing her a soothing lullaby.”",
+      "ttsText": "“She’s tired, poor thing!” said the Red Queen. “Smooth her hair, lend her your nightcap, and sing her a soothing lullaby.”",
       "role": "paragraph"
     },
     {
@@ -2291,6 +2384,7 @@
       "order": 364,
       "chapterIndex": 3,
       "text": "When the feast’s over, we’ll go to the ball—",
+      "ttsText": "When the feast’s over, we’ll go to the ball,",
       "role": "paragraph"
     },
     {
@@ -2303,12 +2397,14 @@
       "order": 366,
       "chapterIndex": 3,
       "text": "“And now you know the words,” she added, as she put her head down on Alice’s other shoulder, “just sing it through to me . I’m getting sleepy, too.” In another moment both Queens were fast asleep, and snoring loud.",
+      "ttsText": "“And now you know the words,” she added, as she put her head down on Alice’s other shoulder, “just sing it through to me. I’m getting sleepy, too.” In another moment both Queens were fast asleep, and snoring loud.",
       "role": "paragraph"
     },
     {
       "order": 367,
       "chapterIndex": 3,
       "text": "“What am I to do?” exclaimed Alice, looking about in great perplexity, as first one round head, and then the other, rolled down from her shoulder, and lay like a heavy lump in her lap. “I don’t think it ever happened before, that any one had to take care of two Queens asleep at once! No, not in all the History of England—it couldn’t, you know, because there never was more than one Queen at a time. Do wake up, you heavy things!” she went on in an impatient tone; but there was no answer but a gentle snoring.",
+      "ttsText": "“What am I to do?” exclaimed Alice, looking about in great perplexity, as first one round head, and then the other, rolled down from her shoulder, and lay like a heavy lump in her lap. “I don’t think it ever happened before, that any one had to take care of two Queens asleep at once! No, not in all the History of England, it couldn’t, you know, because there never was more than one Queen at a time. Do wake up, you heavy things!” she went on in an impatient tone; but there was no answer but a gentle snoring.",
       "role": "paragraph"
     },
     {
@@ -2321,12 +2417,14 @@
       "order": 369,
       "chapterIndex": 3,
       "text": "She was standing before an arched doorway over which were the words QUEEN ALICE in large letters, and on each side of the arch there was a bell-handle; one was marked “Visitors’ Bell,” and the other “Servants’ Bell.”",
+      "ttsText": "She was standing before an arched doorway over which were the words Queen Alice in large letters, and on each side of the arch there was a bell-handle; one was marked “Visitors’ Bell,” and the other “Servants’ Bell.”",
       "role": "paragraph"
     },
     {
       "order": 370,
       "chapterIndex": 3,
       "text": "“I’ll wait till the song’s over,” thought Alice, “and then I’ll ring—the— which bell must I ring?” she went on, very much puzzled by the names. “I’m not a visitor, and I’m not a servant. There ought to be one marked ‘Queen,’ you know—”",
+      "ttsText": "“I’ll wait till the song’s over,” thought Alice, “and then I’ll ring, the, which bell must I ring?” she went on, very much puzzled by the names. “I’m not a visitor, and I’m not a servant. There ought to be one marked ‘Queen,’ you know, ”",
       "role": "paragraph"
     },
     {
@@ -2399,6 +2497,7 @@
       "order": 382,
       "chapterIndex": 3,
       "text": "“Shouldn’t do that—shouldn’t do that—” the Frog muttered. “Vexes it, you know.” Then he went up and gave the door a kick with one of his great feet. “You let it alone,” he panted out, as he hobbled back to his tree, “and it’ll let you alone, you know.”",
+      "ttsText": "“Shouldn’t do that, shouldn’t do that, ” the Frog muttered. “Vexes it, you know.” Then he went up and gave the door a kick with one of his great feet. “You let it alone,” he panted out, as he hobbled back to his tree, “and it’ll let you alone, you know.”",
       "role": "paragraph"
     },
     {
@@ -2453,6 +2552,7 @@
       "order": 391,
       "chapterIndex": 3,
       "text": "Put cats in the coffee, and mice in the tea—",
+      "ttsText": "Put cats in the coffee, and mice in the tea,",
       "role": "paragraph"
     },
     {
@@ -2495,6 +2595,7 @@
       "order": 398,
       "chapterIndex": 3,
       "text": "Then came the chorus again:—",
+      "ttsText": "Then came the chorus again:,",
       "role": "paragraph"
     },
     {
@@ -2513,6 +2614,7 @@
       "order": 401,
       "chapterIndex": 3,
       "text": "Mix sand with the cider, and wool with the wine—",
+      "ttsText": "Mix sand with the cider, and wool with the wine,",
       "role": "paragraph"
     },
     {
@@ -2525,6 +2627,7 @@
       "order": 403,
       "chapterIndex": 3,
       "text": "“Ninety times nine!” Alice repeated in despair, “Oh, that’ll never be done! I’d better go in at once—” and there was a dead silence the moment she appeared.",
+      "ttsText": "“Ninety times nine!” Alice repeated in despair, “Oh, that’ll never be done! I’d better go in at once, ” and there was a dead silence the moment she appeared.",
       "role": "paragraph"
     },
     {
@@ -2549,6 +2652,7 @@
       "order": 407,
       "chapterIndex": 3,
       "text": "“You look a little shy; let me introduce you to that leg of mutton,” said the Red Queen. “Alice—Mutton; Mutton—Alice.” The leg of mutton got up in the dish and made a little bow to Alice; and Alice returned the bow, not knowing whether to be frightened or amused.",
+      "ttsText": "“You look a little shy; let me introduce you to that leg of mutton,” said the Red Queen. “Alice, Mutton; Mutton, Alice.” The leg of mutton got up in the dish and made a little bow to Alice; and Alice returned the bow, not knowing whether to be frightened or amused.",
       "role": "paragraph"
     },
     {
@@ -2573,6 +2677,7 @@
       "order": 411,
       "chapterIndex": 3,
       "text": "But the Red Queen looked sulky, and growled “Pudding—Alice; Alice—Pudding. Remove the pudding!” and the waiters took it away so quickly that Alice couldn’t return its bow.",
+      "ttsText": "But the Red Queen looked sulky, and growled “Pudding, Alice; Alice, Pudding. Remove the pudding!” and the waiters took it away so quickly that Alice couldn’t return its bow.",
       "role": "paragraph"
     },
     {
@@ -2585,6 +2690,7 @@
       "order": 413,
       "chapterIndex": 3,
       "text": "“What impertinence!” said the Pudding. “I wonder how you’d like it, if I were to cut a slice out of you , you creature!”",
+      "ttsText": "“What impertinence!” said the Pudding. “I wonder how you’d like it, if I were to cut a slice out of you, you creature!”",
       "role": "paragraph"
     },
     {
@@ -2603,12 +2709,14 @@
       "order": 416,
       "chapterIndex": 3,
       "text": "“Do you know, I’ve had such a quantity of poetry repeated to me to-day,” Alice began, a little frightened at finding that, the moment she opened her lips, there was dead silence, and all eyes were fixed upon her; “and it’s a very curious thing, I think—every poem was about fishes in some way. Do you know why they’re so fond of fishes, all about here?”",
+      "ttsText": "“Do you know, I’ve had such a quantity of poetry repeated to me to-day,” Alice began, a little frightened at finding that, the moment she opened her lips, there was dead silence, and all eyes were fixed upon her; “and it’s a very curious thing, I think, every poem was about fishes in some way. Do you know why they’re so fond of fishes, all about here?”",
       "role": "paragraph"
     },
     {
       "order": 417,
       "chapterIndex": 3,
       "text": "She spoke to the Red Queen, whose answer was a little wide of the mark. “As to fishes,” she said, very slowly and solemnly, putting her mouth close to Alice’s ear, “her White Majesty knows a lovely riddle—all in poetry—all about fishes. Shall she repeat it?”",
+      "ttsText": "She spoke to the Red Queen, whose answer was a little wide of the mark. “As to fishes,” she said, very slowly and solemnly, putting her mouth close to Alice’s ear, “her White Majesty knows a lovely riddle, all in poetry, all about fishes. Shall she repeat it?”",
       "role": "paragraph"
     },
     {
@@ -2705,6 +2813,7 @@
       "order": 433,
       "chapterIndex": 3,
       "text": "For it holds it like glue—",
+      "ttsText": "For it holds it like glue,",
       "role": "paragraph"
     },
     {
@@ -2729,6 +2838,7 @@
       "order": 437,
       "chapterIndex": 3,
       "text": "“Take a minute to think about it, and then guess,” said the Red Queen. “Meanwhile, we’ll drink your health—Queen Alice’s health!” she screamed at the top of her voice, and all the guests began drinking it directly, and very queerly they managed it: some of them put their glasses upon their heads like extinguishers, and drank all that trickled down their faces—others upset the decanters, and drank the wine as it ran off the edges of the table—and three of them (who looked like kangaroos) scrambled into the dish of roast mutton, and began eagerly lapping up the gravy, “just like pigs in a trough!” thought Alice.",
+      "ttsText": "“Take a minute to think about it, and then guess,” said the Red Queen. “Meanwhile, we’ll drink your health, Queen Alice’s health!” she screamed at the top of her voice, and all the guests began drinking it directly, and very queerly they managed it: some of them put their glasses upon their heads like extinguishers, and drank all that trickled down their faces, others upset the decanters, and drank the wine as it ran off the edges of the table, and three of them (who looked like kangaroos) scrambled into the dish of roast mutton, and began eagerly lapping up the gravy, “just like pigs in a trough!” thought Alice.",
       "role": "paragraph"
     },
     {
@@ -2765,6 +2875,7 @@
       "order": 443,
       "chapterIndex": 3,
       "text": "In fact it was rather difficult for her to keep in her place while she made her speech: the two Queens pushed her so, one on each side, that they nearly lifted her up into the air: “I rise to return thanks—” Alice began: and she really did rise as she spoke, several inches; but she got hold of the edge of the table, and managed to pull herself down again.",
+      "ttsText": "In fact it was rather difficult for her to keep in her place while she made her speech: the two Queens pushed her so, one on each side, that they nearly lifted her up into the air: “I rise to return thanks, ” Alice began: and she really did rise as she spoke, several inches; but she got hold of the edge of the table, and managed to pull herself down again.",
       "role": "paragraph"
     },
     {
@@ -2801,12 +2912,14 @@
       "order": 449,
       "chapterIndex": 3,
       "text": "“And as for you ,” she went on, turning fiercely upon the Red Queen, whom she considered as the cause of all the mischief—but the Queen was no longer at her side—she had suddenly dwindled down to the size of a little doll, and was now on the table, merrily running round and round after her own shawl, which was trailing behind her.",
+      "ttsText": "“And as for you,” she went on, turning fiercely upon the Red Queen, whom she considered as the cause of all the mischief, but the Queen was no longer at her side, she had suddenly dwindled down to the size of a little doll, and was now on the table, merrily running round and round after her own shawl, which was trailing behind her.",
       "role": "paragraph"
     },
     {
       "order": 450,
       "chapterIndex": 3,
       "text": "At any other time, Alice would have felt surprised at this, but she was far too much excited to be surprised at anything now . “As for you ,” she repeated, catching hold of the little creature in the very act of jumping over a bottle which had just lighted upon the table, “I’ll shake you into a kitten, that I will!”",
+      "ttsText": "At any other time, Alice would have felt surprised at this, but she was far too much excited to be surprised at anything now. “As for you,” she repeated, catching hold of the little creature in the very act of jumping over a bottle which had just lighted upon the table, “I’ll shake you into a kitten, that I will!”",
       "role": "paragraph"
     },
     {
@@ -2819,6 +2932,7 @@
       "order": 452,
       "chapterIndex": 4,
       "text": "CHAPTER X.",
+      "ttsText": "Chapter X.",
       "role": "heading"
     },
     {
@@ -2837,6 +2951,7 @@
       "order": 455,
       "chapterIndex": 4,
       "text": "The Red Queen made no resistance whatever; only her face grew very small, and her eyes got large and green: and still, as Alice went on shaking her, she kept on growing shorter—and fatter—and softer—and rounder—and—",
+      "ttsText": "The Red Queen made no resistance whatever; only her face grew very small, and her eyes got large and green: and still, as Alice went on shaking her, she kept on growing shorter, and fatter, and softer, and rounder, and,",
       "role": "paragraph"
     },
     {
@@ -2849,6 +2964,7 @@
       "order": 457,
       "chapterIndex": 5,
       "text": "CHAPTER XI.",
+      "ttsText": "Chapter XI.",
       "role": "heading"
     },
     {
@@ -2861,12 +2977,14 @@
       "order": 459,
       "chapterIndex": 5,
       "text": "—and it really was a kitten, after all.",
+      "ttsText": ", and it really was a kitten, after all.",
       "role": "paragraph"
     },
     {
       "order": 460,
       "chapterIndex": 5,
       "text": "CHAPTER XII.",
+      "ttsText": "Chapter XII.",
       "role": "heading"
     },
     {
@@ -2879,6 +2997,7 @@
       "order": 462,
       "chapterIndex": 5,
       "text": "“Your majesty shouldn’t purr so loud,” Alice said, rubbing her eyes, and addressing the kitten, respectfully, yet with some severity. “You woke me out of oh! such a nice dream! And you’ve been along with me, Kitty—all through the Looking-Glass world. Did you know it, dear?”",
+      "ttsText": "“Your majesty shouldn’t purr so loud,” Alice said, rubbing her eyes, and addressing the kitten, respectfully, yet with some severity. “You woke me out of oh! such a nice dream! And you’ve been along with me, Kitty, all through the Looking-Glass world. Did you know it, dear?”",
       "role": "paragraph"
     },
     {
@@ -2909,30 +3028,35 @@
       "order": 467,
       "chapterIndex": 5,
       "text": "“Sit up a little more stiffly, dear!” Alice cried with a merry laugh. “And curtsey while you’re thinking what to—what to purr. It saves time, remember!” And she caught it up and gave it one little kiss, “just in honour of having been a Red Queen.”",
+      "ttsText": "“Sit up a little more stiffly, dear!” Alice cried with a merry laugh. “And curtsey while you’re thinking what to, what to purr. It saves time, remember!” And she caught it up and gave it one little kiss, “just in honour of having been a Red Queen.”",
       "role": "paragraph"
     },
     {
       "order": 468,
       "chapterIndex": 5,
       "text": "“Snowdrop, my pet!” she went on, looking over her shoulder at the White Kitten, which was still patiently undergoing its toilet, “when will Dinah have finished with your White Majesty, I wonder? That must be the reason you were so untidy in my dream—Dinah! do you know that you’re scrubbing a White Queen? Really, it’s most disrespectful of you!",
+      "ttsText": "“Snowdrop, my pet!” she went on, looking over her shoulder at the White Kitten, which was still patiently undergoing its toilet, “when will Dinah have finished with your White Majesty, I wonder? That must be the reason you were so untidy in my dream, Dinah! do you know that you’re scrubbing a White Queen? Really, it’s most disrespectful of you!",
       "role": "paragraph"
     },
     {
       "order": 469,
       "chapterIndex": 5,
       "text": "“And what did Dinah turn to, I wonder?” she prattled on, as she settled comfortably down, with one elbow in the rug, and her chin in her hand, to watch the kittens. “Tell me, Dinah, did you turn to Humpty Dumpty? I think you did—however, you’d better not mention it to your friends just yet, for I’m not sure.",
+      "ttsText": "“And what did Dinah turn to, I wonder?” she prattled on, as she settled comfortably down, with one elbow in the rug, and her chin in her hand, to watch the kittens. “Tell me, Dinah, did you turn to Humpty Dumpty? I think you did, however, you’d better not mention it to your friends just yet, for I’m not sure.",
       "role": "paragraph"
     },
     {
       "order": 470,
       "chapterIndex": 5,
       "text": "“By the way, Kitty, if only you’d been really with me in my dream, there was one thing you would have enjoyed—I had such a quantity of poetry said to me, all about fishes! To-morrow morning you shall have a real treat. All the time you’re eating your breakfast, I’ll repeat ‘The Walrus and the Carpenter’ to you; and then you can make believe it’s oysters, dear!",
+      "ttsText": "“By the way, Kitty, if only you’d been really with me in my dream, there was one thing you would have enjoyed, I had such a quantity of poetry said to me, all about fishes! To-morrow morning you shall have a real treat. All the time you’re eating your breakfast, I’ll repeat ‘The Walrus and the Carpenter’ to you; and then you can make believe it’s oysters, dear!",
       "role": "paragraph"
     },
     {
       "order": 471,
       "chapterIndex": 5,
       "text": "“Now, Kitty, let’s consider who it was that dreamed it all. This is a serious question, my dear, and you should not go on licking your paw like that—as if Dinah hadn’t washed you this morning! You see, Kitty, it must have been either me or the Red King. He was part of my dream, of course—but then I was part of his dream, too! Was it the Red King, Kitty? You were his wife, my dear, so you ought to know—Oh, Kitty, do help to settle it! I’m sure your paw can wait!” But the provoking kitten only began on the other paw, and pretended it hadn’t heard the question.",
+      "ttsText": "“Now, Kitty, let’s consider who it was that dreamed it all. This is a serious question, my dear, and you should not go on licking your paw like that, as if Dinah hadn’t washed you this morning! You see, Kitty, it must have been either me or the Red King. He was part of my dream, of course, but then I was part of his dream, too! Was it the Red King, Kitty? You were his wife, my dear, so you ought to know, Oh, Kitty, do help to settle it! I’m sure your paw can wait!” But the provoking kitten only began on the other paw, and pretended it hadn’t heard the question.",
       "role": "paragraph"
     },
     {
@@ -2957,6 +3081,7 @@
       "order": 475,
       "chapterIndex": 5,
       "text": "In an evening of July—",
+      "ttsText": "In an evening of July,",
       "role": "paragraph"
     },
     {
@@ -2975,6 +3100,7 @@
       "order": 478,
       "chapterIndex": 5,
       "text": "Pleased a simple tale to hear—",
+      "ttsText": "Pleased a simple tale to hear,",
       "role": "paragraph"
     },
     {
@@ -3053,12 +3179,14 @@
       "order": 491,
       "chapterIndex": 5,
       "text": "Ever drifting down the stream—",
+      "ttsText": "Ever drifting down the stream,",
       "role": "paragraph"
     },
     {
       "order": 492,
       "chapterIndex": 5,
       "text": "Lingering in the golden gleam—",
+      "ttsText": "Lingering in the golden gleam,",
       "role": "paragraph"
     },
     {
@@ -3071,6 +3199,7 @@
       "order": 494,
       "chapterIndex": 5,
       "text": "THE END",
+      "ttsText": "The End",
       "role": "title"
     },
     {

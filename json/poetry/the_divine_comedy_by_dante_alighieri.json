@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:55.1177045Z",
+  "generatedAt": "2026-04-07T14:55:07.7990702Z",
   "source": {
     "id": "pg8800",
     "title": "The Divine Comedy",
@@ -1320,12 +1320,14 @@
       "order": 13,
       "chapterIndex": 0,
       "text": "THE DIVINE COMEDY",
+      "ttsText": "The Divine Comedy",
       "role": "title"
     },
     {
       "order": 14,
       "chapterIndex": 0,
       "text": "THE VISION",
+      "ttsText": "The Vision",
       "role": "title"
     },
     {
@@ -1338,24 +1340,28 @@
       "order": 16,
       "chapterIndex": 0,
       "text": "HELL, PURGATORY, AND PARADISE",
+      "ttsText": "Hell, Purgatory, And Paradise",
       "role": "title"
     },
     {
       "order": 17,
       "chapterIndex": 0,
       "text": "BY DANTE ALIGHIERI",
+      "ttsText": "By Dante Alighieri",
       "role": "title"
     },
     {
       "order": 18,
       "chapterIndex": 0,
       "text": "TRANSLATED BY",
+      "ttsText": "Translated by",
       "role": "title"
     },
     {
       "order": 19,
       "chapterIndex": 0,
       "text": "THE REV. H. F. CARY, M.A.",
+      "ttsText": "The Rev. H.F.Cary, M.A.",
       "role": "title"
     },
     {
@@ -1380,6 +1386,7 @@
       "order": 23,
       "chapterIndex": 2,
       "text": "CANTO VIII",
+      "ttsText": "Canto VIII",
       "role": "heading"
     },
     {
@@ -1488,6 +1495,7 @@
       "order": 41,
       "chapterIndex": 2,
       "text": "“Art thou arriv’d, fell spirit?”—“Phlegyas, Phlegyas,",
+      "ttsText": "“Art thou arriv’d, fell spirit?”, “Phlegyas, Phlegyas,",
       "role": "paragraph"
     },
     {
@@ -2160,6 +2168,7 @@
       "order": 153,
       "chapterIndex": 3,
       "text": "CANTO XXXI",
+      "ttsText": "Canto XXXI",
       "role": "heading"
     },
     {
@@ -2964,6 +2973,7 @@
       "order": 287,
       "chapterIndex": 4,
       "text": "CANTO XXXII",
+      "ttsText": "Canto XXXII",
       "role": "heading"
     },
     {
@@ -3282,6 +3292,7 @@
       "order": 340,
       "chapterIndex": 4,
       "text": "Our Sovran Lord—that settleth this estate",
+      "ttsText": "Our Sovran Lord, that settleth this estate",
       "role": "paragraph"
     },
     {
@@ -3294,6 +3305,7 @@
       "order": 342,
       "chapterIndex": 4,
       "text": "That wish can dare no further—every soul,",
+      "ttsText": "That wish can dare no further, every soul,",
       "role": "paragraph"
     },
     {
@@ -3792,6 +3804,7 @@
       "order": 425,
       "chapterIndex": 5,
       "text": "CANTO XXXIII",
+      "ttsText": "Canto XXXIII",
       "role": "heading"
     },
     {

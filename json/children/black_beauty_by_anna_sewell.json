@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:11.3130325Z",
+  "generatedAt": "2026-04-07T14:53:06.5344106Z",
   "source": {
     "id": "pg271",
     "title": "Black Beauty",
@@ -123,6 +123,7 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "BLACK BEAUTY",
+      "ttsText": "Black Beauty",
       "role": "title"
     },
     {
@@ -135,6 +136,7 @@
       "order": 13,
       "chapterIndex": 0,
       "text": "by Anna Sewell [English Quaker — 1820-1878.]",
+      "ttsText": "by Anna Sewell [English Quaker, 1820-1878.]",
       "role": "paragraph"
     },
     {
@@ -561,6 +563,7 @@
       "order": 84,
       "chapterIndex": 0,
       "text": "“Bad boy!” he said, “bad boy! to chase the colts. This is not the first time, nor the second, but it shall be the last. There—take your money and go home; I shall not want you on my farm again.” So we never saw Dick any more. Old Daniel, the man who looked after the horses, was just as gentle as our master, so we were well off.",
+      "ttsText": "“Bad boy!” he said, “bad boy! to chase the colts. This is not the first time, nor the second, but it shall be the last. There, take your money and go home; I shall not want you on my farm again.” So we never saw Dick any more. Old Daniel, the man who looked after the horses, was just as gentle as our master, so we were well off.",
       "role": "paragraph"
     },
     {
@@ -723,6 +726,7 @@
       "order": 111,
       "chapterIndex": 0,
       "text": "I shall never forget the first train that ran by. I was feeding quietly near the pales which separated the meadow from the railway, when I heard a strange sound at a distance, and before I knew whence it came—with a rush and a clatter, and a puffing out of smoke—a long black train of something flew by, and was gone almost before I could draw my breath. I turned and galloped to the further side of the meadow as fast as I could go, and there I stood snorting with astonishment and fear. In the course of the day many other trains went by, some more slowly; these drew up at the station close by, and sometimes made an awful shriek and groan before they stopped. I thought it very dreadful, but the cows went on eating very quietly, and hardly raised their heads as the black frightful thing came puffing and grinding past.",
+      "ttsText": "I shall never forget the first train that ran by. I was feeding quietly near the pales which separated the meadow from the railway, when I heard a strange sound at a distance, and before I knew whence it came, with a rush and a clatter, and a puffing out of smoke, a long black train of something flew by, and was gone almost before I could draw my breath. I turned and galloped to the further side of the meadow as fast as I could go, and there I stood snorting with astonishment and fear. In the course of the day many other trains went by, some more slowly; these drew up at the station close by, and sometimes made an awful shriek and groan before they stopped. I thought it very dreadful, but the cows went on eating very quietly, and hardly raised their heads as the black frightful thing came puffing and grinding past.",
       "role": "paragraph"
     },
     {
@@ -963,12 +967,14 @@
       "order": 151,
       "chapterIndex": 0,
       "text": "“Yes,” she said, “he is really quite a beauty, and he has such a sweet, good-tempered face, and such a fine, intelligent eye—what do you say to calling him Black Beauty?”",
+      "ttsText": "“Yes,” she said, “he is really quite a beauty, and he has such a sweet, good-tempered face, and such a fine, intelligent eye, what do you say to calling him Black Beauty?”",
       "role": "paragraph"
     },
     {
       "order": 152,
       "chapterIndex": 0,
       "text": "“Black Beauty—why, yes, I think that is a very good name. If you like it shall be his name;” and so it was.",
+      "ttsText": "“Black Beauty, why, yes, I think that is a very good name. If you like it shall be his name;” and so it was.",
       "role": "paragraph"
     },
     {
@@ -1029,6 +1035,7 @@
       "order": 162,
       "chapterIndex": 0,
       "text": "I was quite happy in my new place, and if there was one thing that I missed it must not be thought I was discontented; all who had to do with me were good and I had a light airy stable and the best of food. What more could I want? Why, liberty! For three years and a half of my life I had had all the liberty I could wish for; but now, week after week, month after month, and no doubt year after year, I must stand up in a stable night and day except when I am wanted, and then I must be just as steady and quiet as any old horse who has worked twenty years. Straps here and straps there, a bit in my mouth, and blinkers over my eyes. Now, I am not complaining, for I know it must be so. I only mean to say that for a young horse full of strength and spirits, who has been used to some large field or plain where he can fling up his head and toss up his tail and gallop away at full speed, then round and back again with a snort to his companions—I say it is hard never to have a bit more liberty to do as you like. Sometimes, when I have had less exercise than usual, I have felt so full of life and spring that when John has taken me out to exercise I really could not keep quiet; do what I would, it seemed as if I must jump, or dance, or prance, and many a good shake I know I must have given him, especially at the first; but he was always good and patient.",
+      "ttsText": "I was quite happy in my new place, and if there was one thing that I missed it must not be thought I was discontented; all who had to do with me were good and I had a light airy stable and the best of food. What more could I want? Why, liberty! For three years and a half of my life I had had all the liberty I could wish for; but now, week after week, month after month, and no doubt year after year, I must stand up in a stable night and day except when I am wanted, and then I must be just as steady and quiet as any old horse who has worked twenty years. Straps here and straps there, a bit in my mouth, and blinkers over my eyes. Now, I am not complaining, for I know it must be so. I only mean to say that for a young horse full of strength and spirits, who has been used to some large field or plain where he can fling up his head and toss up his tail and gallop away at full speed, then round and back again with a snort to his companions, I say it is hard never to have a bit more liberty to do as you like. Sometimes, when I have had less exercise than usual, I have felt so full of life and spring that when John has taken me out to exercise I really could not keep quiet; do what I would, it seemed as if I must jump, or dance, or prance, and many a good shake I know I must have given him, especially at the first; but he was always good and patient.",
       "role": "paragraph"
     },
     {
@@ -1047,6 +1054,7 @@
       "order": 165,
       "chapterIndex": 0,
       "text": "It was a great treat to us to be turned out into the home paddock or the old orchard; the grass was so cool and soft to our feet, the air so sweet, and the freedom to do as we liked was so pleasant—to gallop, to lie down, and roll over on our backs, or to nibble the sweet grass. Then it was a very good time for talking, as we stood together under the shade of the large chestnut tree.",
+      "ttsText": "It was a great treat to us to be turned out into the home paddock or the old orchard; the grass was so cool and soft to our feet, the air so sweet, and the freedom to do as we liked was so pleasant, to gallop, to lie down, and roll over on our backs, or to nibble the sweet grass. Then it was a very good time for talking, as we stood together under the shade of the large chestnut tree.",
       "role": "paragraph"
     },
     {
@@ -1083,6 +1091,7 @@
       "order": 171,
       "chapterIndex": 0,
       "text": "“There was one—the old master, Mr. Ryder—who, I think, could soon have brought me round, and could have done anything with me; but he had given up all the hard part of the trade to his son and to another experienced man, and he only came at times to oversee. His son was a strong, tall, bold man; they called him Samson, and he used to boast that he had never found a horse that could throw him. There was no gentleness in him, as there was in his father, but only hardness, a hard voice, a hard eye, a hard hand; and I felt from the first that what he wanted was to wear all the spirit out of me, and just make me into a quiet, humble, obedient piece of horseflesh. 'Horseflesh'! Yes, that is all that he thought about,” and Ginger stamped her foot as if the very thought of him made her angry. Then she went on:",
+      "ttsText": "“There was one, the old master, Mr. Ryder, who, I think, could soon have brought me round, and could have done anything with me; but he had given up all the hard part of the trade to his son and to another experienced man, and he only came at times to oversee. His son was a strong, tall, bold man; they called him Samson, and he used to boast that he had never found a horse that could throw him. There was no gentleness in him, as there was in his father, but only hardness, a hard voice, a hard eye, a hard hand; and I felt from the first that what he wanted was to wear all the spirit out of me, and just make me into a quiet, humble, obedient piece of horseflesh. 'Horseflesh'! Yes, that is all that he thought about,” and Ginger stamped her foot as if the very thought of him made her angry. Then she went on:",
       "role": "paragraph"
     },
     {
@@ -1125,6 +1134,7 @@
       "order": 178,
       "chapterIndex": 0,
       "text": "“I like to toss my head about and hold it as high as any horse; but fancy now yourself, if you tossed your head up high and were obliged to hold it there, and that for hours together, not able to move it at all, except with a jerk still higher, your neck aching till you did not know how to bear it. Besides that, to have two bits instead of one—and mine was a sharp one, it hurt my tongue and my jaw, and the blood from my tongue colored the froth that kept flying from my lips as I chafed and fretted at the bits and rein. It was worst when we had to stand by the hour waiting for our mistress at some grand party or entertainment, and if I fretted or stamped with impatience the whip was laid on. It was enough to drive one mad.”",
+      "ttsText": "“I like to toss my head about and hold it as high as any horse; but fancy now yourself, if you tossed your head up high and were obliged to hold it there, and that for hours together, not able to move it at all, except with a jerk still higher, your neck aching till you did not know how to bear it. Besides that, to have two bits instead of one, and mine was a sharp one, it hurt my tongue and my jaw, and the blood from my tongue colored the froth that kept flying from my lips as I chafed and fretted at the bits and rein. It was worst when we had to stand by the hour waiting for our mistress at some grand party or entertainment, and if I fretted or stamped with impatience the whip was laid on. It was enough to drive one mad.”",
       "role": "paragraph"
     },
     {
@@ -1251,6 +1261,7 @@
       "order": 199,
       "chapterIndex": 0,
       "text": "“Of course not; I would not do such a thing for the best oats that ever came into the stable; why, I am as careful of our young ladies as the master could be, and as for the little ones it is I who teach them to ride. When they seem frightened or a little unsteady on my back I go as smooth and as quiet as old pussy when she is after a bird; and when they are all right I go on again faster, you see, just to use them to it; so don't you trouble yourself preaching to me; I am the best friend and the best riding-master those children have. It is not them, it is the boys; boys,” said he, shaking his mane, “are quite different; they must be broken in as we were broken in when we were colts, and just be taught what's what. The other children had ridden me about for nearly two hours, and then the boys thought it was their turn, and so it was, and I was quite agreeable. They rode me by turns, and I galloped them about, up and down the fields and all about the orchard, for a good hour. They had each cut a great hazel stick for a riding-whip, and laid it on a little too hard; but I took it in good part, till at last I thought we had had enough, so I stopped two or three times by way of a hint. Boys, you see, think a horse or pony is like a steam-engine or a thrashing-machine, and can go on as long and as fast as they please; they never think that a pony can get tired, or have any feelings; so as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind—that was all. He mounted me again, and I did the same. Then the other boy got up, and as soon as he began to use his stick I laid him on the grass, and so on, till they were able to understand—that was all. They are not bad boys; they don't wish to be cruel. I like them very well; but you see I had to give them a lesson. When they brought me to James and told him I think he was very angry to see such big sticks. He said they were only fit for drovers or gypsies, and not for young gentlemen.”",
+      "ttsText": "“Of course not; I would not do such a thing for the best oats that ever came into the stable; why, I am as careful of our young ladies as the master could be, and as for the little ones it is I who teach them to ride. When they seem frightened or a little unsteady on my back I go as smooth and as quiet as old pussy when she is after a bird; and when they are all right I go on again faster, you see, just to use them to it; so don't you trouble yourself preaching to me; I am the best friend and the best riding-master those children have. It is not them, it is the boys; boys,” said he, shaking his mane, “are quite different; they must be broken in as we were broken in when we were colts, and just be taught what's what. The other children had ridden me about for nearly two hours, and then the boys thought it was their turn, and so it was, and I was quite agreeable. They rode me by turns, and I galloped them about, up and down the fields and all about the orchard, for a good hour. They had each cut a great hazel stick for a riding-whip, and laid it on a little too hard; but I took it in good part, till at last I thought we had had enough, so I stopped two or three times by way of a hint. Boys, you see, think a horse or pony is like a steam-engine or a thrashing-machine, and can go on as long and as fast as they please; they never think that a pony can get tired, or have any feelings; so as the one who was whipping me could not understand I just rose up on my hind legs and let him slip off behind, that was all. He mounted me again, and I did the same. Then the other boy got up, and as soon as he began to use his stick I laid him on the grass, and so on, till they were able to understand, that was all. They are not bad boys; they don't wish to be cruel. I like them very well; but you see I had to give them a lesson. When they brought me to James and told him I think he was very angry to see such big sticks. He said they were only fit for drovers or gypsies, and not for young gentlemen.”",
       "role": "paragraph"
     },
     {
@@ -1497,6 +1508,7 @@
       "order": 240,
       "chapterIndex": 0,
       "text": "“I believe you are right in theory,” said the other, “and that's rather a hard hit about the soldiers; but—well—I'll think about it,” and so they parted.",
+      "ttsText": "“I believe you are right in theory,” said the other, “and that's rather a hard hit about the soldiers; but, well, I'll think about it,” and so they parted.",
       "role": "paragraph"
     },
     {
@@ -1683,6 +1695,7 @@
       "order": 271,
       "chapterIndex": 0,
       "text": "“Your master never taught you a truer thing,” said John; “there is no religion without love, and people may talk as much as they like about their religion, but if it does not teach them to be good and kind to man and beast it is all a sham—all a sham, James, and it won't stand when things come to be turned inside out.”",
+      "ttsText": "“Your master never taught you a truer thing,” said John; “there is no religion without love, and people may talk as much as they like about their religion, but if it does not teach them to be good and kind to man and beast it is all a sham, all a sham, James, and it won't stand when things come to be turned inside out.”",
       "role": "paragraph"
     },
     {
@@ -2001,6 +2014,7 @@
       "order": 324,
       "chapterIndex": 0,
       "text": "“'Tis the fire-engine! the fire-engine!” shouted two or three voices, “stand back, make way!” and clattering and thundering over the stones two horses dashed into the yard with a heavy engine behind them. The firemen leaped to the ground; there was no need to ask where the fire was—it was rolling up in a great blaze from the roof.",
+      "ttsText": "“'Tis the fire-engine! the fire-engine!” shouted two or three voices, “stand back, make way!” and clattering and thundering over the stones two horses dashed into the yard with a heavy engine behind them. The firemen leaped to the ground; there was no need to ask where the fire was, it was rolling up in a great blaze from the roof.",
       "role": "paragraph"
     },
     {
@@ -2013,6 +2027,7 @@
       "order": 326,
       "chapterIndex": 0,
       "text": "There was a dreadful sound before we got into our stalls—the shrieks of those poor horses that were left burning to death in the stable—it was very terrible! and made both Ginger and me feel very bad. We, however, were taken in and well done by.",
+      "ttsText": "There was a dreadful sound before we got into our stalls, the shrieks of those poor horses that were left burning to death in the stable, it was very terrible! and made both Ginger and me feel very bad. We, however, were taken in and well done by.",
       "role": "paragraph"
     },
     {
@@ -2043,6 +2058,7 @@
       "order": 331,
       "chapterIndex": 0,
       "text": "“There is one thing quite clear, young man,” he said, “your horses know who they can trust; it is one of the hardest things in the world to get horses out of a stable when there is either fire or flood. I don't know why they won't come out, but they won't—not one in twenty.”",
+      "ttsText": "“There is one thing quite clear, young man,” he said, “your horses know who they can trust; it is one of the hardest things in the world to get horses out of a stable when there is either fire or flood. I don't know why they won't come out, but they won't, not one in twenty.”",
       "role": "paragraph"
     },
     {
@@ -2193,6 +2209,7 @@
       "order": 356,
       "chapterIndex": 0,
       "text": "“Now, John,” he said, “ride for your life—that is, for your mistress' life; there is not a moment to lose. Give this note to Dr. White; give your horse a rest at the inn, and be back as soon as you can.”",
+      "ttsText": "“Now, John,” he said, “ride for your life, that is, for your mistress' life; there is not a moment to lose. Give this note to Dr. White; give your horse a rest at the inn, and be back as soon as you can.”",
       "role": "paragraph"
     },
     {
@@ -2211,6 +2228,7 @@
       "order": 359,
       "chapterIndex": 0,
       "text": "There was before us a long piece of level road by the river side; John said to me, “Now, Beauty, do your best,” and so I did; I wanted no whip nor spur, and for two miles I galloped as fast as I could lay my feet to the ground; I don't believe that my old grandfather, who won the race at Newmarket, could have gone faster. When we came to the bridge John pulled me up a little and patted my neck. “Well done, Beauty! good old fellow,” he said. He would have let me go slower, but my spirit was up, and I was off again as fast as before. The air was frosty, the moon was bright; it was very pleasant. We came through a village, then through a dark wood, then uphill, then downhill, till after eight miles' run we came to the town, through the streets and into the market-place. It was all quite still except the clatter of my feet on the stones—everybody was asleep. The church clock struck three as we drew up at Dr. White's door. John rang the bell twice, and then knocked at the door like thunder. A window was thrown up, and Dr. White, in his nightcap, put his head out and said, “What do you want?”",
+      "ttsText": "There was before us a long piece of level road by the river side; John said to me, “Now, Beauty, do your best,” and so I did; I wanted no whip nor spur, and for two miles I galloped as fast as I could lay my feet to the ground; I don't believe that my old grandfather, who won the race at Newmarket, could have gone faster. When we came to the bridge John pulled me up a little and patted my neck. “Well done, Beauty! good old fellow,” he said. He would have let me go slower, but my spirit was up, and I was off again as fast as before. The air was frosty, the moon was bright; it was very pleasant. We came through a village, then through a dark wood, then uphill, then downhill, till after eight miles' run we came to the town, through the streets and into the market-place. It was all quite still except the clatter of my feet on the stones, everybody was asleep. The church clock struck three as we drew up at Dr. White's door. John rang the bell twice, and then knocked at the door like thunder. A window was thrown up, and Dr. White, in his nightcap, put his head out and said, “What do you want?”",
       "role": "paragraph"
     },
     {
@@ -2283,6 +2301,7 @@
       "order": 371,
       "chapterIndex": 0,
       "text": "I was now very ill; a strong inflammation had attacked my lungs, and I could not draw my breath without pain. John nursed me night and day; he would get up two or three times in the night to come to me. My master, too, often came to see me. “My poor Beauty,” he said one day, “my good horse, you saved your mistress' life, Beauty; yes, you saved her life.” I was very glad to hear that, for it seems the doctor had said if we had been a little longer it would have been too late. John told my master he never saw a horse go so fast in his life. It seemed as if the horse knew what was the matter. Of course I did, though John thought not; at least I knew as much as this—that John and I must go at the top of our speed, and that it was for the sake of the mistress.",
+      "ttsText": "I was now very ill; a strong inflammation had attacked my lungs, and I could not draw my breath without pain. John nursed me night and day; he would get up two or three times in the night to come to me. My master, too, often came to see me. “My poor Beauty,” he said one day, “my good horse, you saved your mistress' life, Beauty; yes, you saved her life.” I was very glad to hear that, for it seems the doctor had said if we had been a little longer it would have been too late. John told my master he never saw a horse go so fast in his life. It seemed as if the horse knew what was the matter. Of course I did, though John thought not; at least I knew as much as this, that John and I must go at the top of our speed, and that it was for the sake of the mistress.",
       "role": "paragraph"
     },
     {
@@ -2319,6 +2338,7 @@
       "order": 377,
       "chapterIndex": 0,
       "text": "After a short pause John said slowly, “You must not be too hard upon me, Tom. I know he meant no harm, I never said he did; I know he is not a bad boy. But you see, I am sore myself; that horse is the pride of my heart, to say nothing of his being such a favorite with the master and mistress; and to think that his life may be flung away in this manner is more than I can bear. But if you think I am hard on the boy I will try to give him a good word to-morrow—that is, I mean if Beauty is better.”",
+      "ttsText": "After a short pause John said slowly, “You must not be too hard upon me, Tom. I know he meant no harm, I never said he did; I know he is not a bad boy. But you see, I am sore myself; that horse is the pride of my heart, to say nothing of his being such a favorite with the master and mistress; and to think that his life may be flung away in this manner is more than I can bear. But if you think I am hard on the boy I will try to give him a good word to-morrow, that is, I mean if Beauty is better.”",
       "role": "paragraph"
     },
     {
@@ -2337,6 +2357,7 @@
       "order": 380,
       "chapterIndex": 0,
       "text": "“Only ignorance! only ignorance! how can you talk about only ignorance? Don't you know that it is the worst thing in the world, next to wickedness?—and which does the most mischief heaven only knows. If people can say, 'Oh! I did not know, I did not mean any harm,' they think it is all right. I suppose Martha Mulwash did not mean to kill that baby when she dosed it with Dalby and soothing syrups; but she did kill it, and was tried for manslaughter.”",
+      "ttsText": "“Only ignorance! only ignorance! how can you talk about only ignorance? Don't you know that it is the worst thing in the world, next to wickedness?, and which does the most mischief heaven only knows. If people can say, 'Oh! I did not know, I did not mean any harm,' they think it is all right. I suppose Martha Mulwash did not mean to kill that baby when she dosed it with Dalby and soothing syrups; but she did kill it, and was tried for manslaughter.”",
       "role": "paragraph"
     },
     {
@@ -2481,6 +2502,7 @@
       "order": 404,
       "chapterIndex": 0,
       "text": "It was wonderful what a change had come over Joe. John laughed, and said he had grown an inch taller in that week, and I believe he had. He was just as kind and gentle as before, but there was more purpose and determination in all that he did—as if he had jumped at once from a boy into a man.",
+      "ttsText": "It was wonderful what a change had come over Joe. John laughed, and said he had grown an inch taller in that week, and I believe he had. He was just as kind and gentle as before, but there was more purpose and determination in all that he did, as if he had jumped at once from a boy into a man.",
       "role": "paragraph"
     },
     {
@@ -2511,6 +2533,7 @@
       "order": 409,
       "chapterIndex": 1,
       "text": "The first of the party who went were Miss Jessie and Flora, with their governess. They came to bid us good-by. They hugged poor Merrylegs like an old friend, and so indeed he was. Then we heard what had been arranged for us. Master had sold Ginger and me to his old friend, the Earl of W——, for he thought we should have a good place there. Merrylegs he had given to the vicar, who was wanting a pony for Mrs. Blomefield, but it was on the condition that he should never be sold, and that when he was past work he should be shot and buried.",
+      "ttsText": "The first of the party who went were Miss Jessie and Flora, with their governess. They came to bid us good-by. They hugged poor Merrylegs like an old friend, and so indeed he was. Then we heard what had been arranged for us. Master had sold Ginger and me to his old friend, the Earl of W,, for he thought we should have a good place there. Merrylegs he had given to the vicar, who was wanting a pony for Mrs. Blomefield, but it was on the condition that he should never be sold, and that when he was past work he should be shot and buried.",
       "role": "paragraph"
     },
     {
@@ -2583,6 +2606,7 @@
       "order": 421,
       "chapterIndex": 1,
       "text": "“We shall never see her again,” he said—“never.” He took the reins, mounted the box, and with Joe drove slowly home; but it was not our home now.",
+      "ttsText": "“We shall never see her again,” he said, “never.” He took the reins, mounted the box, and with Joe drove slowly home; but it was not our home now.",
       "role": "paragraph"
     },
     {
@@ -2601,6 +2625,7 @@
       "order": 424,
       "chapterIndex": 1,
       "text": "The next morning after breakfast Joe put Merrylegs into the mistress' low chaise to take him to the vicarage; he came first and said good-by to us, and Merrylegs neighed to us from the yard. Then John put the saddle on Ginger and the leading rein on me, and rode us across the country about fifteen miles to Earlshall Park, where the Earl of W—— lived. There was a very fine house and a great deal of stabling. We went into the yard through a stone gateway, and John asked for Mr. York. It was some time before he came. He was a fine-looking, middle-aged man, and his voice said at once that he expected to be obeyed. He was very friendly and polite to John, and after giving us a slight look he called a groom to take us to our boxes, and invited John to take some refreshment.",
+      "ttsText": "The next morning after breakfast Joe put Merrylegs into the mistress' low chaise to take him to the vicarage; he came first and said good-by to us, and Merrylegs neighed to us from the yard. Then John put the saddle on Ginger and the leading rein on me, and rode us across the country about fifteen miles to Earlshall Park, where the Earl of W, lived. There was a very fine house and a great deal of stabling. We went into the yard through a stone gateway, and John asked for Mr. York. It was some time before he came. He was a fine-looking, middle-aged man, and his voice said at once that he expected to be obeyed. He was very friendly and polite to John, and after giving us a slight look he called a groom to take us to our boxes, and invited John to take some refreshment.",
       "role": "paragraph"
     },
     {
@@ -2637,6 +2662,7 @@
       "order": 430,
       "chapterIndex": 1,
       "text": "“Well,” said York, “if they come here they must wear the check-rein. I prefer a loose rein myself, and his lordship is always very reasonable about horses; but my lady—that's another thing; she will have style, and if her carriage horses are not reined up tight she wouldn't look at them. I always stand out against the gag-bit, and shall do so, but it must be tight up when my lady rides!”",
+      "ttsText": "“Well,” said York, “if they come here they must wear the check-rein. I prefer a loose rein myself, and his lordship is always very reasonable about horses; but my lady, that's another thing; she will have style, and if her carriage horses are not reined up tight she wouldn't look at them. I always stand out against the gag-bit, and shall do so, but it must be tight up when my lady rides!”",
       "role": "paragraph"
     },
     {
@@ -2661,6 +2687,7 @@
       "order": 434,
       "chapterIndex": 1,
       "text": "The next day Lord W—— came to look at us; he seemed pleased with our appearance.",
+      "ttsText": "The next day Lord W, came to look at us; he seemed pleased with our appearance.",
       "role": "paragraph"
     },
     {
@@ -2709,6 +2736,7 @@
       "order": 442,
       "chapterIndex": 1,
       "text": "York came round to our heads and shortened the rein himself—one hole, I think; every little makes a difference, be it for better or worse, and that day we had a steep hill to go up. Then I began to understand what I had heard of. Of course, I wanted to put my head forward and take the carriage up with a will, as we had been used to do; but no, I had to pull with my head up now, and that took all the spirit out of me, and the strain came on my back and legs. When we came in Ginger said, “Now you see what it is like; but this is not bad, and if it does not get much worse than this I shall say nothing about it, for we are very well treated here; but if they strain me up tight, why, let 'em look out! I can't bear it, and I won't.”",
+      "ttsText": "York came round to our heads and shortened the rein himself, one hole, I think; every little makes a difference, be it for better or worse, and that day we had a steep hill to go up. Then I began to understand what I had heard of. Of course, I wanted to put my head forward and take the carriage up with a will, as we had been used to do; but no, I had to pull with my head up now, and that took all the spirit out of me, and the strain came on my back and legs. When we came in Ginger said, “Now you see what it is like; but this is not bad, and if it does not get much worse than this I shall say nothing about it, for we are very well treated here; but if they strain me up tight, why, let 'em look out! I can't bear it, and I won't.”",
       "role": "paragraph"
     },
     {
@@ -2733,6 +2761,7 @@
       "order": 446,
       "chapterIndex": 1,
       "text": "“Drive to the Duchess of B——'s,” she said, and then after a pause, “Are you never going to get those horses' heads up, York? Raise them at once and let us have no more of this humoring and nonsense.”",
+      "ttsText": "“Drive to the Duchess of B, 's,” she said, and then after a pause, “Are you never going to get those horses' heads up, York? Raise them at once and let us have no more of this humoring and nonsense.”",
       "role": "paragraph"
     },
     {
@@ -2763,12 +2792,14 @@
       "order": 451,
       "chapterIndex": 1,
       "text": "Lord W—— was much put out when he learned what had happened; he blamed York for giving way to his mistress, to which he replied that in future he would much prefer to receive his orders only from his lordship; but I think nothing came of it, for things went on the same as before. I thought York might have stood up better for his horses, but perhaps I am no judge.",
+      "ttsText": "Lord W, was much put out when he learned what had happened; he blamed York for giving way to his mistress, to which he replied that in future he would much prefer to receive his orders only from his lordship; but I think nothing came of it, for things went on the same as before. I thought York might have stood up better for his horses, but perhaps I am no judge.",
       "role": "paragraph"
     },
     {
       "order": 452,
       "chapterIndex": 1,
       "text": "Ginger was never put into the carriage again, but when she was well of her bruises one of the Lord W——'s younger sons said he should like to have her; he was sure she would make a good hunter. As for me, I was obliged still to go in the carriage, and had a fresh partner called Max; he had always been used to the tight rein. I asked him how it was he bore it.",
+      "ttsText": "Ginger was never put into the carriage again, but when she was well of her bruises one of the Lord W, 's younger sons said he should like to have her; he was sure she would make a good hunter. As for me, I was obliged still to go in the carriage, and had a fresh partner called Max; he had always been used to the tight rein. I asked him how it was he bore it.",
       "role": "paragraph"
     },
     {
@@ -2811,6 +2842,7 @@
       "order": 459,
       "chapterIndex": 1,
       "text": "Early in the spring, Lord W—— and part of his family went up to London, and took York with them. I and Ginger and some other horses were left at home for use, and the head groom was left in charge.",
+      "ttsText": "Early in the spring, Lord W, and part of his family went up to London, and took York with them. I and Ginger and some other horses were left at home for use, and the head groom was left in charge.",
       "role": "paragraph"
     },
     {
@@ -2943,6 +2975,7 @@
       "order": 481,
       "chapterIndex": 1,
       "text": "“Then mount this horse, my friend—your neck will be quite safe—and ride to the doctor's and ask him to come instantly; then on to the hall; tell them all that you know, and bid them send me the carriage, with Lady Anne's maid and help. I shall stay here.”",
+      "ttsText": "“Then mount this horse, my friend, your neck will be quite safe, and ride to the doctor's and ask him to come instantly; then on to the hall; tell them all that you know, and bid them send me the carriage, with Lady Anne's maid and help. I shall stay here.”",
       "role": "paragraph"
     },
     {
@@ -3015,6 +3048,7 @@
       "order": 493,
       "chapterIndex": 1,
       "text": "It was now early in April, and the family was expected home some time in May. The light brougham was to be fresh done up, and as Colonel Blantyre was obliged to return to his regiment it was arranged that Smith should drive him to the town in it, and ride back; for this purpose he took the saddle with him, and I was chosen for the journey. At the station the colonel put some money into Smith's hand and bid him good-by, saying, “Take care of your young mistress, Reuben, and don't let Black Auster be hacked about by any random young prig that wants to ride him—keep him for the lady.”",
+      "ttsText": "It was now early in April, and the family was expected home some time in May. The light brougham was to be fresh done up, and as Colonel Blantyre was obliged to return to his regiment it was arranged that Smith should drive him to the town in it, and ride back; for this purpose he took the saddle with him, and I was chosen for the journey. At the station the colonel put some money into Smith's hand and bid him good-by, saying, “Take care of your young mistress, Reuben, and don't let Black Auster be hacked about by any random young prig that wants to ride him, keep him for the lady.”",
       "role": "paragraph"
     },
     {
@@ -3051,6 +3085,7 @@
       "order": 499,
       "chapterIndex": 1,
       "text": "Beyond the turnpike was a long piece of road, upon which fresh stones had just been laid—large sharp stones, over which no horse could be driven quickly without risk of danger. Over this road, with one shoe gone, I was forced to gallop at my utmost speed, my rider meanwhile cutting into me with his whip, and with wild curses urging me to go still faster. Of course my shoeless foot suffered dreadfully; the hoof was broken and split down to the very quick, and the inside was terribly cut by the sharpness of the stones.",
+      "ttsText": "Beyond the turnpike was a long piece of road, upon which fresh stones had just been laid, large sharp stones, over which no horse could be driven quickly without risk of danger. Over this road, with one shoe gone, I was forced to gallop at my utmost speed, my rider meanwhile cutting into me with his whip, and with wild curses urging me to go still faster. Of course my shoeless foot suffered dreadfully; the hoof was broken and split down to the very quick, and the inside was terribly cut by the sharpness of the stones.",
       "role": "paragraph"
     },
     {
@@ -3105,6 +3140,7 @@
       "order": 508,
       "chapterIndex": 1,
       "text": "“Halloo! he's bad in his foot as well as his knees. Look here—his hoof is cut all to pieces; he might well come down, poor fellow! I tell you what, Ned, I'm afraid it hasn't been all right with Reuben. Just think of his riding a horse over these stones without a shoe! Why, if he had been in his right senses he would just as soon have tried to ride him over the moon. I'm afraid it has been the old thing over again. Poor Susan! she looked awfully pale when she came to my house to ask if he had not come home. She made believe she was not a bit anxious, and talked of a lot of things that might have kept him. But for all that she begged me to go and meet him. But what must we do? There's the horse to get home as well as the body, and that will be no easy matter.”",
+      "ttsText": "“Halloo! he's bad in his foot as well as his knees. Look here, his hoof is cut all to pieces; he might well come down, poor fellow! I tell you what, Ned, I'm afraid it hasn't been all right with Reuben. Just think of his riding a horse over these stones without a shoe! Why, if he had been in his right senses he would just as soon have tried to ride him over the moon. I'm afraid it has been the old thing over again. Poor Susan! she looked awfully pale when she came to my house to ask if he had not come home. She made believe she was not a bit anxious, and talked of a lot of things that might have kept him. But for all that she begged me to go and meet him. But what must we do? There's the horse to get home as well as the body, and that will be no easy matter.”",
       "role": "paragraph"
     },
     {
@@ -3141,6 +3177,7 @@
       "order": 514,
       "chapterIndex": 1,
       "text": "Everybody pitied Susan. She was nearly out of her mind; she kept saying over and over again, “Oh! he was so good—so good! It was all that cursed drink; why will they sell that cursed drink? Oh Reuben, Reuben!” So she went on till after he was buried; and then, as she had no home or relations, she, with her six little children, was obliged once more to leave the pleasant home by the tall oak-trees, and go into that great gloomy Union House.",
+      "ttsText": "Everybody pitied Susan. She was nearly out of her mind; she kept saying over and over again, “Oh! he was so good, so good! It was all that cursed drink; why will they sell that cursed drink? Oh Reuben, Reuben!” So she went on till after he was buried; and then, as she had no home or relations, she, with her six little children, was obliged once more to leave the pleasant home by the tall oak-trees, and go into that great gloomy Union House.",
       "role": "paragraph"
     },
     {
@@ -3231,6 +3268,7 @@
       "order": 529,
       "chapterIndex": 1,
       "text": "First, there were the tight-rein drivers—men who seemed to think that all depended on holding the reins as hard as they could, never relaxing the pull on the horse's mouth, or giving him the least liberty of movement. They are always talking about “keeping the horse well in hand”, and “holding a horse up”, just as if a horse was not made to hold himself up.",
+      "ttsText": "First, there were the tight-rein drivers, men who seemed to think that all depended on holding the reins as hard as they could, never relaxing the pull on the horse's mouth, or giving him the least liberty of movement. They are always talking about “keeping the horse well in hand”, and “holding a horse up”, just as if a horse was not made to hold himself up.",
       "role": "paragraph"
     },
     {
@@ -3357,6 +3395,7 @@
       "order": 550,
       "chapterIndex": 1,
       "text": "They always seemed to think that a horse was something like a steam-engine, only smaller. At any rate, they think that if only they pay for it a horse is bound to go just as far and just as fast and with just as heavy a load as they please. And be the roads heavy and muddy, or dry and good; be they stony or smooth, uphill or downhill, it is all the same—on, on, on, one must go, at the same pace, with no relief and no consideration.",
+      "ttsText": "They always seemed to think that a horse was something like a steam-engine, only smaller. At any rate, they think that if only they pay for it a horse is bound to go just as far and just as fast and with just as heavy a load as they please. And be the roads heavy and muddy, or dry and good; be they stony or smooth, uphill or downhill, it is all the same, on, on, on, one must go, at the same pace, with no relief and no consideration.",
       "role": "paragraph"
     },
     {
@@ -3381,6 +3420,7 @@
       "order": 554,
       "chapterIndex": 1,
       "text": "Then these cockneys, instead of starting at an easy pace, as a gentleman would do, generally set off at full speed from the very stable-yard; and when they want to stop, they first whip us, and then pull up so suddenly that we are nearly thrown on our haunches, and our mouths jagged with the bit—they call that pulling up with a dash; and when they turn a corner they do it as sharply as if there were no right side or wrong side of the road.",
+      "ttsText": "Then these cockneys, instead of starting at an easy pace, as a gentleman would do, generally set off at full speed from the very stable-yard; and when they want to stop, they first whip us, and then pull up so suddenly that we are nearly thrown on our haunches, and our mouths jagged with the bit, they call that pulling up with a dash; and when they turn a corner they do it as sharply as if there were no right side or wrong side of the road.",
       "role": "paragraph"
     },
     {
@@ -3471,6 +3511,7 @@
       "order": 569,
       "chapterIndex": 1,
       "text": "“Well, I hardly know,” he said. “I was timid when I was young, and was a good deal frightened several times, and if I saw anything strange I used to turn and look at it—you see, with our blinkers one can't see or understand what a thing is unless one looks round—and then my master always gave me a whipping, which of course made me start on, and did not make me less afraid. I think if he would have let me just look at things quietly, and see that there was nothing to hurt me, it would have been all right, and I should have got used to them. One day an old gentleman was riding with him, and a large piece of white paper or rag blew across just on one side of me. I shied and started forward. My master as usual whipped me smartly, but the old man cried out, 'You're wrong! you're wrong! You should never whip a horse for shying; he shies because he is frightened, and you only frighten him more and make the habit worse.' So I suppose all men don't do so. I am sure I don't want to shy for the sake of it; but how should one know what is dangerous and what is not, if one is never allowed to get used to anything? I am never afraid of what I know. Now I was brought up in a park where there were deer; of course I knew them as well as I did a sheep or a cow, but they are not common, and I know many sensible horses who are frightened at them, and who kick up quite a shindy before they will pass a paddock where there are deer.”",
+      "ttsText": "“Well, I hardly know,” he said. “I was timid when I was young, and was a good deal frightened several times, and if I saw anything strange I used to turn and look at it, you see, with our blinkers one can't see or understand what a thing is unless one looks round, and then my master always gave me a whipping, which of course made me start on, and did not make me less afraid. I think if he would have let me just look at things quietly, and see that there was nothing to hurt me, it would have been all right, and I should have got used to them. One day an old gentleman was riding with him, and a large piece of white paper or rag blew across just on one side of me. I shied and started forward. My master as usual whipped me smartly, but the old man cried out, 'You're wrong! you're wrong! You should never whip a horse for shying; he shies because he is frightened, and you only frighten him more and make the habit worse.' So I suppose all men don't do so. I am sure I don't want to shy for the sake of it; but how should one know what is dangerous and what is not, if one is never allowed to get used to anything? I am never afraid of what I know. Now I was brought up in a park where there were deer; of course I knew them as well as I did a sheep or a cow, but they are not common, and I know many sensible horses who are frightened at them, and who kick up quite a shindy before they will pass a paddock where there are deer.”",
       "role": "paragraph"
     },
     {
@@ -3627,6 +3668,7 @@
       "order": 595,
       "chapterIndex": 1,
       "text": "Alfred Smirk considered himself very handsome; he spent a great deal of time about his hair, whiskers and necktie, before a little looking-glass in the harness-room. When his master was speaking to him it was always, “Yes, sir; yes, sir”—touching his hat at every word; and every one thought he was a very nice young man and that Mr. Barry was very fortunate to meet with him. I should say he was the laziest, most conceited fellow I ever came near. Of course, it was a great thing not to be ill-used, but then a horse wants more than that. I had a loose box, and might have been very comfortable if he had not been too indolent to clean it out. He never took all the straw away, and the smell from what lay underneath was very bad; while the strong vapors that rose made my eyes smart and inflame, and I did not feel the same appetite for my food.",
+      "ttsText": "Alfred Smirk considered himself very handsome; he spent a great deal of time about his hair, whiskers and necktie, before a little looking-glass in the harness-room. When his master was speaking to him it was always, “Yes, sir; yes, sir”, touching his hat at every word; and every one thought he was a very nice young man and that Mr. Barry was very fortunate to meet with him. I should say he was the laziest, most conceited fellow I ever came near. Of course, it was a great thing not to be ill-used, but then a horse wants more than that. I had a loose box, and might have been very comfortable if he had not been too indolent to clean it out. He never took all the straw away, and the smell from what lay underneath was very bad; while the strong vapors that rose made my eyes smart and inflame, and I did not feel the same appetite for my food.",
       "role": "paragraph"
     },
     {
@@ -3753,6 +3795,7 @@
       "order": 616,
       "chapterIndex": 1,
       "text": "There was one man, I thought, if he would buy me, I should be happy. He was not a gentleman, nor yet one of the loud, flashy sort that call themselves so. He was rather a small man, but well made, and quick in all his motions. I knew in a moment by the way he handled me, that he was used to horses; he spoke gently, and his gray eye had a kindly, cheery look in it. It may seem strange to say—but it is true all the same—that the clean, fresh smell there was about him made me take to him; no smell of old beer and tobacco, which I hated, but a fresh smell as if he had come out of a hayloft. He offered twenty-three pounds for me, but that was refused, and he walked away. I looked after him, but he was gone, and a very hard-looking, loud-voiced man came. I was dreadfully afraid he would have me; but he walked off. One or two more came who did not mean business. Then the hard-faced man came back again and offered twenty-three pounds. A very close bargain was being driven, for my salesman began to think he should not get all he asked, and must come down; but just then the gray-eyed man came back again. I could not help reaching out my head toward him. He stroked my face kindly.",
+      "ttsText": "There was one man, I thought, if he would buy me, I should be happy. He was not a gentleman, nor yet one of the loud, flashy sort that call themselves so. He was rather a small man, but well made, and quick in all his motions. I knew in a moment by the way he handled me, that he was used to horses; he spoke gently, and his gray eye had a kindly, cheery look in it. It may seem strange to say, but it is true all the same, that the clean, fresh smell there was about him made me take to him; no smell of old beer and tobacco, which I hated, but a fresh smell as if he had come out of a hayloft. He offered twenty-three pounds for me, but that was refused, and he walked away. I looked after him, but he was gone, and a very hard-looking, loud-voiced man came. I was dreadfully afraid he would have me; but he walked off. One or two more came who did not mean business. Then the hard-faced man came back again and offered twenty-three pounds. A very close bargain was being driven, for my salesman began to think he should not get all he asked, and must come down; but just then the gray-eyed man came back again. I could not help reaching out my head toward him. He stroked my face kindly.",
       "role": "paragraph"
     },
     {
@@ -3771,6 +3814,7 @@
       "order": 619,
       "chapterIndex": 1,
       "text": "“Twenty-four ten,” said my friend, in a very decided tone, “and not another sixpence—yes or no?”",
+      "ttsText": "“Twenty-four ten,” said my friend, in a very decided tone, “and not another sixpence, yes or no?”",
       "role": "paragraph"
     },
     {
@@ -3885,6 +3929,7 @@
       "order": 638,
       "chapterIndex": 1,
       "text": "“Of course there's no one to tell us whose fault that was,” said Jerry, “and as long as I don't know I shall give him the benefit of the doubt; for a firmer, neater stepper I never rode. We'll call him 'Jack', after the old one—shall we, Polly?”",
+      "ttsText": "“Of course there's no one to tell us whose fault that was,” said Jerry, “and as long as I don't know I shall give him the benefit of the doubt; for a firmer, neater stepper I never rode. We'll call him 'Jack', after the old one, shall we, Polly?”",
       "role": "paragraph"
     },
     {
@@ -4119,6 +4164,7 @@
       "order": 677,
       "chapterIndex": 1,
       "text": "And so they did; Harry was as clever at stable-work as a much older boy, and always wanted to do what he could. Then Polly and Dolly used to come in the morning to help with the cab—to brush and beat the cushions, and rub the glass, while Jerry was giving us a cleaning in the yard, and Harry was rubbing the harness. There used to be a great deal of laughing and fun between them, and it put Captain and me in much better spirits than if we had heard scolding and hard words. They were always early in the morning, for Jerry would say:",
+      "ttsText": "And so they did; Harry was as clever at stable-work as a much older boy, and always wanted to do what he could. Then Polly and Dolly used to come in the morning to help with the cab, to brush and beat the cushions, and rub the glass, while Jerry was giving us a cleaning in the yard, and Harry was rubbing the harness. There used to be a great deal of laughing and fun between them, and it put Captain and me in much better spirits than if we had heard scolding and hard words. They were always early in the morning, for Jerry would say:",
       "role": "paragraph"
     },
     {
@@ -4209,6 +4255,7 @@
       "order": 692,
       "chapterIndex": 1,
       "text": "It is always difficult to drive fast in the city in the middle of the day, when the streets are full of traffic, but we did what could be done; and when a good driver and a good horse, who understand each other, are of one mind, it is wonderful what they can do. I had a very good mouth—that is I could be guided by the slightest touch of the rein; and that is a great thing in London, among carriages, omnibuses, carts, vans, trucks, cabs, and great wagons creeping along at a walking pace; some going one way, some another, some going slowly, others wanting to pass them; omnibuses stopping short every few minutes to take up a passenger, obliging the horse that is coming behind to pull up too, or to pass, and get before them; perhaps you try to pass, but just then something else comes dashing in through the narrow opening, and you have to keep in behind the omnibus again; presently you think you see a chance, and manage to get to the front, going so near the wheels on each side that half an inch nearer and they would scrape. Well, you get along for a bit, but soon find yourself in a long train of carts and carriages all obliged to go at a walk; perhaps you come to a regular block-up, and have to stand still for minutes together, till something clears out into a side street, or the policeman interferes; you have to be ready for any chance—to dash forward if there be an opening, and be quick as a rat-dog to see if there be room and if there be time, lest you get your own wheels locked or smashed, or the shaft of some other vehicle run into your chest or shoulder. All this is what you have to be ready for. If you want to get through London fast in the middle of the day it wants a deal of practice.",
+      "ttsText": "It is always difficult to drive fast in the city in the middle of the day, when the streets are full of traffic, but we did what could be done; and when a good driver and a good horse, who understand each other, are of one mind, it is wonderful what they can do. I had a very good mouth, that is I could be guided by the slightest touch of the rein; and that is a great thing in London, among carriages, omnibuses, carts, vans, trucks, cabs, and great wagons creeping along at a walking pace; some going one way, some another, some going slowly, others wanting to pass them; omnibuses stopping short every few minutes to take up a passenger, obliging the horse that is coming behind to pull up too, or to pass, and get before them; perhaps you try to pass, but just then something else comes dashing in through the narrow opening, and you have to keep in behind the omnibus again; presently you think you see a chance, and manage to get to the front, going so near the wheels on each side that half an inch nearer and they would scrape. Well, you get along for a bit, but soon find yourself in a long train of carts and carriages all obliged to go at a walk; perhaps you come to a regular block-up, and have to stand still for minutes together, till something clears out into a side street, or the policeman interferes; you have to be ready for any chance, to dash forward if there be an opening, and be quick as a rat-dog to see if there be room and if there be time, lest you get your own wheels locked or smashed, or the shaft of some other vehicle run into your chest or shoulder. All this is what you have to be ready for. If you want to get through London fast in the middle of the day it wants a deal of practice.",
       "role": "paragraph"
     },
     {
@@ -4245,6 +4292,7 @@
       "order": 698,
       "chapterIndex": 1,
       "text": "“No, sir, no, thank you all the same; so glad we hit the time, sir; but don't stay now, sir, the bell is ringing. Here, porter! take this gentleman's luggage—Dover line twelve o'clock train—that's it,” and without waiting for another word Jerry wheeled me round to make room for other cabs that were dashing up at the last minute, and drew up on one side till the crush was past.",
+      "ttsText": "“No, sir, no, thank you all the same; so glad we hit the time, sir; but don't stay now, sir, the bell is ringing. Here, porter! take this gentleman's luggage, Dover line twelve o'clock train, that's it,” and without waiting for another word Jerry wheeled me round to make room for other cabs that were dashing up at the last minute, and drew up on one side till the crush was past.",
       "role": "paragraph"
     },
     {
@@ -4569,6 +4617,7 @@
       "order": 752,
       "chapterIndex": 1,
       "text": "“Tut, tut! we'll see about that. It was not the money I was thinking about, but of losing our Sunday; the horses are tired, and I am tired, too—that's where it pinches.”",
+      "ttsText": "“Tut, tut! we'll see about that. It was not the money I was thinking about, but of losing our Sunday; the horses are tired, and I am tired, too, that's where it pinches.”",
       "role": "paragraph"
     },
     {
@@ -4581,6 +4630,7 @@
       "order": 754,
       "chapterIndex": 1,
       "text": "“Why, Polly, you are as good as the minister, and so, as I've had my Sunday-morning sermon early to-day, you may go and tell Dinah that I'll be ready for her as the clock strikes ten; but stop—just step round to butcher Braydon's with my compliments, and ask him if he would lend me his light trap; I know he never uses it on the Sunday, and it would make a wonderful difference to the horse.”",
+      "ttsText": "“Why, Polly, you are as good as the minister, and so, as I've had my Sunday-morning sermon early to-day, you may go and tell Dinah that I'll be ready for her as the clock strikes ten; but stop, just step round to butcher Braydon's with my compliments, and ask him if he would lend me his light trap; I know he never uses it on the Sunday, and it would make a wonderful difference to the horse.”",
       "role": "paragraph"
     },
     {
@@ -4641,6 +4691,7 @@
       "order": 764,
       "chapterIndex": 1,
       "text": "When my harness was taken off I did not know what I should do first—whether to eat the grass, or roll over on my back, or lie down and rest, or have a gallop across the meadow out of sheer spirits at being free; and I did all by turns. Jerry seemed to be quite as happy as I was; he sat down by a bank under a shady tree, and listened to the birds, then he sang himself, and read out of the little brown book he is so fond of, then wandered round the meadow, and down by a little brook, where he picked the flowers and the hawthorn, and tied them up with long sprays of ivy; then he gave me a good feed of the oats which he had brought with him; but the time seemed all too short—I had not been in a field since I left poor Ginger at Earlshall.",
+      "ttsText": "When my harness was taken off I did not know what I should do first, whether to eat the grass, or roll over on my back, or lie down and rest, or have a gallop across the meadow out of sheer spirits at being free; and I did all by turns. Jerry seemed to be quite as happy as I was; he sat down by a bank under a shady tree, and listened to the birds, then he sang himself, and read out of the little brown book he is so fond of, then wandered round the meadow, and down by a little brook, where he picked the flowers and the hawthorn, and tied them up with long sprays of ivy; then he gave me a good feed of the oats which he had brought with him; but the time seemed all too short, I had not been in a field since I left poor Ginger at Earlshall.",
       "role": "paragraph"
     },
     {
@@ -4707,6 +4758,7 @@
       "order": 775,
       "chapterIndex": 1,
       "text": "One day he and another gentleman took our cab; they stopped at a shop in R—— Street, and while his friend went in he stood at the door. A little ahead of us on the other side of the street a cart with two very fine horses was standing before some wine vaults; the carter was not with them, and I cannot tell how long they had been standing, but they seemed to think they had waited long enough, and began to move off. Before they had gone many paces the carter came running out and caught them. He seemed furious at their having moved, and with whip and rein punished them brutally, even beating them about the head. Our gentleman saw it all, and stepping quickly across the street, said in a decided voice:",
+      "ttsText": "One day he and another gentleman took our cab; they stopped at a shop in R, Street, and while his friend went in he stood at the door. A little ahead of us on the other side of the street a cart with two very fine horses was standing before some wine vaults; the carter was not with them, and I cannot tell how long they had been standing, but they seemed to think they had waited long enough, and began to move off. Before they had gone many paces the carter came running out and caught them. He seemed furious at their having moved, and with whip and rein punished them brutally, even beating them about the head. Our gentleman saw it all, and stepping quickly across the street, said in a decided voice:",
       "role": "paragraph"
     },
     {
@@ -4815,6 +4867,7 @@
       "order": 793,
       "chapterIndex": 2,
       "text": "“You that have your own horses and cabs, or drive for good masters, have a chance of getting on and a chance of doing right; I haven't. We can't charge more than sixpence a mile after the first, within the four-mile radius. This very morning I had to go a clear six miles and only took three shillings. I could not get a return fare, and had to come all the way back; there's twelve miles for the horse and three shillings for me. After that I had a three-mile fare, and there were bags and boxes enough to have brought in a good many twopences if they had been put outside; but you know how people do; all that could be piled up inside on the front seat were put in and three heavy boxes went on the top. That was sixpence, and the fare one and sixpence; then I got a return for a shilling. Now that makes eighteen miles for the horse and six shillings for me; there's three shillings still for that horse to earn and nine shillings for the afternoon horse before I touch a penny. Of course, it is not always so bad as that, but you know it often is, and I say 'tis a mockery to tell a man that he must not overwork his horse, for when a beast is downright tired there's nothing but the whip that will keep his legs a-going; you can't help yourself—you must put your wife and children before the horse; the masters must look to that, we can't. I don't ill-use my horse for the sake of it; none of you can say I do. There's wrong lays somewhere—never a day's rest, never a quiet hour with the wife and children. I often feel like an old man, though I'm only forty-five. You know how quick some of the gentry are to suspect us of cheating and overcharging; why, they stand with their purses in their hands counting it over to a penny and looking at us as if we were pickpockets. I wish some of 'em had got to sit on my box sixteen hours a day and get a living out of it and eighteen shillings beside, and that in all weathers; they would not be so uncommon particular never to give us a sixpence over or to cram all the luggage inside. Of course, some of 'em tip us pretty handsome now and then, or else we could not live; but you can't depend upon that.”",
+      "ttsText": "“You that have your own horses and cabs, or drive for good masters, have a chance of getting on and a chance of doing right; I haven't. We can't charge more than sixpence a mile after the first, within the four-mile radius. This very morning I had to go a clear six miles and only took three shillings. I could not get a return fare, and had to come all the way back; there's twelve miles for the horse and three shillings for me. After that I had a three-mile fare, and there were bags and boxes enough to have brought in a good many twopences if they had been put outside; but you know how people do; all that could be piled up inside on the front seat were put in and three heavy boxes went on the top. That was sixpence, and the fare one and sixpence; then I got a return for a shilling. Now that makes eighteen miles for the horse and six shillings for me; there's three shillings still for that horse to earn and nine shillings for the afternoon horse before I touch a penny. Of course, it is not always so bad as that, but you know it often is, and I say 'tis a mockery to tell a man that he must not overwork his horse, for when a beast is downright tired there's nothing but the whip that will keep his legs a-going; you can't help yourself, you must put your wife and children before the horse; the masters must look to that, we can't. I don't ill-use my horse for the sake of it; none of you can say I do. There's wrong lays somewhere, never a day's rest, never a quiet hour with the wife and children. I often feel like an old man, though I'm only forty-five. You know how quick some of the gentry are to suspect us of cheating and overcharging; why, they stand with their purses in their hands counting it over to a penny and looking at us as if we were pickpockets. I wish some of 'em had got to sit on my box sixteen hours a day and get a living out of it and eighteen shillings beside, and that in all weathers; they would not be so uncommon particular never to give us a sixpence over or to cram all the luggage inside. Of course, some of 'em tip us pretty handsome now and then, or else we could not live; but you can't depend upon that.”",
       "role": "paragraph"
     },
     {
@@ -4881,6 +4934,7 @@
       "order": 804,
       "chapterIndex": 2,
       "text": "“Just snuffed out,” said the other; “he died at four o'clock this morning; all yesterday he was raving—raving about Skinner, and having no Sundays. 'I never had a Sunday's rest,' these were his last words.”",
+      "ttsText": "“Just snuffed out,” said the other; “he died at four o'clock this morning; all yesterday he was raving, raving about Skinner, and having no Sundays. 'I never had a Sunday's rest,' these were his last words.”",
       "role": "paragraph"
     },
     {
@@ -4923,6 +4977,7 @@
       "order": 811,
       "chapterIndex": 2,
       "text": "“And so at last,” said she, “I was bought by a man who keeps a number of cabs and horses, and lets them out. You look well off, and I am glad of it, but I could not tell you what my life has been. When they found out my weakness they said I was not worth what they gave for me, and that I must go into one of the low cabs, and just be used up; that is what they are doing, whipping and working with never one thought of what I suffer—they paid for me, and must get it out of me, they say. The man who hires me now pays a deal of money to the owner every day, and so he has to get it out of me too; and so it's all the week round and round, with never a Sunday rest.”",
+      "ttsText": "“And so at last,” said she, “I was bought by a man who keeps a number of cabs and horses, and lets them out. You look well off, and I am glad of it, but I could not tell you what my life has been. When they found out my weakness they said I was not worth what they gave for me, and that I must go into one of the low cabs, and just be used up; that is what they are doing, whipping and working with never one thought of what I suffer, they paid for me, and must get it out of me, they say. The man who hires me now pays a deal of money to the owner every day, and so he has to get it out of me too; and so it's all the week round and round, with never a Sunday rest.”",
       "role": "paragraph"
     },
     {
@@ -4935,6 +4990,7 @@
       "order": 813,
       "chapterIndex": 2,
       "text": "“Ah!” she said, “I did once, but it's no use; men are strongest, and if they are cruel and have no feeling, there is nothing that we can do, but just bear it—bear it on and on to the end. I wish the end was come, I wish I was dead. I have seen dead horses, and I am sure they do not suffer pain; I wish I may drop down dead at my work, and not be sent off to the knackers.”",
+      "ttsText": "“Ah!” she said, “I did once, but it's no use; men are strongest, and if they are cruel and have no feeling, there is nothing that we can do, but just bear it, bear it on and on to the end. I wish the end was come, I wish I was dead. I have seen dead horses, and I am sure they do not suffer pain; I wish I may drop down dead at my work, and not be sent off to the knackers.”",
       "role": "paragraph"
     },
     {
@@ -4965,6 +5021,7 @@
       "order": 818,
       "chapterIndex": 2,
       "text": "I saw a great deal of trouble among the horses in London, and much of it might have been prevented by a little common sense. We horses do not mind hard work if we are treated reasonably, and I am sure there are many driven by quite poor men who have a happier life than I had when I used to go in the Countess of W——'s carriage, with my silver-mounted harness and high feeding.",
+      "ttsText": "I saw a great deal of trouble among the horses in London, and much of it might have been prevented by a little common sense. We horses do not mind hard work if we are treated reasonably, and I am sure there are many driven by quite poor men who have a happier life than I had when I used to go in the Countess of W, 's carriage, with my silver-mounted harness and high feeding.",
       "role": "paragraph"
     },
     {
@@ -5001,6 +5058,7 @@
       "order": 824,
       "chapterIndex": 2,
       "text": "“I wish to goodness they would,” said the butcher; “'twould save me a wonderful deal of harass, and I could suit my customers much better if I knew beforehand—But there! what's the use of talking—who ever thinks of a butcher's convenience or a butcher's horse! Now, then, take him in and look to him well; mind, he does not go out again to-day, and if anything else is wanted you must carry it yourself in the basket.” With that he went in, and the horse was led away.",
+      "ttsText": "“I wish to goodness they would,” said the butcher; “'twould save me a wonderful deal of harass, and I could suit my customers much better if I knew beforehand, But there! what's the use of talking, who ever thinks of a butcher's convenience or a butcher's horse! Now, then, take him in and look to him well; mind, he does not go out again to-day, and if anything else is wanted you must carry it yourself in the basket.” With that he went in, and the horse was led away.",
       "role": "paragraph"
     },
     {
@@ -5031,6 +5089,7 @@
       "order": 829,
       "chapterIndex": 2,
       "text": "As we came into the yard one afternoon Polly came out. “Jerry! I've had Mr. B—— here asking about your vote, and he wants to hire your cab for the election; he will call for an answer.”",
+      "ttsText": "As we came into the yard one afternoon Polly came out. “Jerry! I've had Mr. B, here asking about your vote, and he wants to hire your cab for the election; he will call for an answer.”",
       "role": "paragraph"
     },
     {
@@ -5079,6 +5138,7 @@
       "order": 837,
       "chapterIndex": 2,
       "text": "“Those naughty boys,” she sobbed, “have thrown the dirt all over me, and called me a little raga—raga—”",
+      "ttsText": "“Those naughty boys,” she sobbed, “have thrown the dirt all over me, and called me a little raga, raga, ”",
       "role": "paragraph"
     },
     {
@@ -5103,6 +5163,7 @@
       "order": 841,
       "chapterIndex": 2,
       "text": "“My boy, I hope you will always defend your sister, and give anybody who insults her a good thrashing—that is as it should be; but mind, I won't have any election blackguarding on my premises. There are as many 'blue' blackguards as there are 'orange', and as many white as there are purple, or any other color, and I won't have any of my family mixed up with it. Even women and children are ready to quarrel for the sake of a color, and not one in ten of them knows what it is about.”",
+      "ttsText": "“My boy, I hope you will always defend your sister, and give anybody who insults her a good thrashing, that is as it should be; but mind, I won't have any election blackguarding on my premises. There are as many 'blue' blackguards as there are 'orange', and as many white as there are purple, or any other color, and I won't have any of my family mixed up with it. Even women and children are ready to quarrel for the sake of a color, and not one in ten of them knows what it is about.”",
       "role": "paragraph"
     },
     {
@@ -5115,6 +5176,7 @@
       "order": 843,
       "chapterIndex": 2,
       "text": "“My boy, Liberty does not come from colors, they only show party, and all the liberty you can get out of them is, liberty to get drunk at other people's expense, liberty to ride to the poll in a dirty old cab, liberty to abuse any one that does not wear your color, and to shout yourself hoarse at what you only half-understand—that's your liberty!”",
+      "ttsText": "“My boy, Liberty does not come from colors, they only show party, and all the liberty you can get out of them is, liberty to get drunk at other people's expense, liberty to ride to the poll in a dirty old cab, liberty to abuse any one that does not wear your color, and to shout yourself hoarse at what you only half-understand, that's your liberty!”",
       "role": "paragraph"
     },
     {
@@ -5145,6 +5207,7 @@
       "order": 848,
       "chapterIndex": 2,
       "text": "I found I had a good feed of crushed oats wetted up with a little bran; this would be a treat any day, but very refreshing then. Jerry was so thoughtful and kind—what horse would not do his best for such a master? Then he took out one of Polly's meat pies, and standing near me, he began to eat it. The streets were very full, and the cabs, with the candidates' colors on them, were dashing about through the crowd as if life and limb were of no consequence; we saw two people knocked down that day, and one was a woman. The horses were having a bad time of it, poor things! but the voters inside thought nothing of that; many of them were half-drunk, hurrahing out of the cab windows if their own party came by. It was the first election I had seen, and I don't want to be in another, though I have heard things are better now.",
+      "ttsText": "I found I had a good feed of crushed oats wetted up with a little bran; this would be a treat any day, but very refreshing then. Jerry was so thoughtful and kind, what horse would not do his best for such a master? Then he took out one of Polly's meat pies, and standing near me, he began to eat it. The streets were very full, and the cabs, with the candidates' colors on them, were dashing about through the crowd as if life and limb were of no consequence; we saw two people knocked down that day, and one was a woman. The horses were having a bad time of it, poor things! but the voters inside thought nothing of that; many of them were half-drunk, hurrahing out of the cab windows if their own party came by. It was the first election I had seen, and I don't want to be in another, though I have heard things are better now.",
       "role": "paragraph"
     },
     {
@@ -5337,6 +5400,7 @@
       "order": 880,
       "chapterIndex": 2,
       "text": "“He'll never get over it,” said Jerry, “at least not for my work, so the farrier said this morning. He says he may do for carting, and that sort of work. It has put me out very much. Carting, indeed! I've seen what horses come to at that work round London. I only wish all the drunkards could be put in a lunatic asylum instead of being allowed to run foul of sober people. If they would break their own bones, and smash their own carts, and lame their own horses, that would be their own affair, and we might let them alone, but it seems to me that the innocent always suffer; and then they talk about compensation! You can't make compensation; there's all the trouble, and vexation, and loss of time, besides losing a good horse that's like an old friend—it's nonsense talking of compensation! If there's one devil that I should like to see in the bottomless pit more than another, it's the drink devil.”",
+      "ttsText": "“He'll never get over it,” said Jerry, “at least not for my work, so the farrier said this morning. He says he may do for carting, and that sort of work. It has put me out very much. Carting, indeed! I've seen what horses come to at that work round London. I only wish all the drunkards could be put in a lunatic asylum instead of being allowed to run foul of sober people. If they would break their own bones, and smash their own carts, and lame their own horses, that would be their own affair, and we might let them alone, but it seems to me that the innocent always suffer; and then they talk about compensation! You can't make compensation; there's all the trouble, and vexation, and loss of time, besides losing a good horse that's like an old friend, it's nonsense talking of compensation! If there's one devil that I should like to see in the bottomless pit more than another, it's the drink devil.”",
       "role": "paragraph"
     },
     {
@@ -5637,6 +5701,7 @@
       "order": 930,
       "chapterIndex": 2,
       "text": "“Don't you know? Why, it is the name of Mrs. Fowler's place—mother's old mistress, you know—the lady that father met last summer, who sent you and me five shillings each.”",
+      "ttsText": "“Don't you know? Why, it is the name of Mrs. Fowler's place, mother's old mistress, you know, the lady that father met last summer, who sent you and me five shillings each.”",
       "role": "paragraph"
     },
     {
@@ -5775,6 +5840,7 @@
       "order": 953,
       "chapterIndex": 2,
       "text": "“You see,” she said, “you do not give him a fair chance; he cannot use all his power with his head held back as it is with that check-rein; if you would take it off I am sure he would do better—do try it,” she said persuasively, “I should be very glad if you would.”",
+      "ttsText": "“You see,” she said, “you do not give him a fair chance; he cannot use all his power with his head held back as it is with that check-rein; if you would take it off I am sure he would do better, do try it,” she said persuasively, “I should be very glad if you would.”",
       "role": "paragraph"
     },
     {
@@ -5877,6 +5943,7 @@
       "order": 970,
       "chapterIndex": 2,
       "text": "Sometimes on a Sunday morning a party of fast men would hire the cab for the day; four of them inside and another with the driver, and I had to take them ten or fifteen miles out into the country, and back again; never would any of them get down to walk up a hill, let it be ever so steep, or the day ever so hot—unless, indeed, when the driver was afraid I should not manage it, and sometimes I was so fevered and worn that I could hardly touch my food. How I used to long for the nice bran mash with niter in it that Jerry used to give us on Saturday nights in hot weather, that used to cool us down and make us so comfortable. Then we had two nights and a whole day for unbroken rest, and on Monday morning we were as fresh as young horses again; but here there was no rest, and my driver was just as hard as his master. He had a cruel whip with something so sharp at the end that it sometimes drew blood, and he would even whip me under the belly, and flip the lash out at my head. Indignities like these took the heart out of me terribly, but still I did my best and never hung back; for, as poor Ginger said, it was no use; men are the strongest.",
+      "ttsText": "Sometimes on a Sunday morning a party of fast men would hire the cab for the day; four of them inside and another with the driver, and I had to take them ten or fifteen miles out into the country, and back again; never would any of them get down to walk up a hill, let it be ever so steep, or the day ever so hot, unless, indeed, when the driver was afraid I should not manage it, and sometimes I was so fevered and worn that I could hardly touch my food. How I used to long for the nice bran mash with niter in it that Jerry used to give us on Saturday nights in hot weather, that used to cool us down and make us so comfortable. Then we had two nights and a whole day for unbroken rest, and on Monday morning we were as fresh as young horses again; but here there was no rest, and my driver was just as hard as his master. He had a cruel whip with something so sharp at the end that it sometimes drew blood, and he would even whip me under the belly, and flip the lash out at my head. Indignities like these took the heart out of me terribly, but still I did my best and never hung back; for, as poor Ginger said, it was no use; men are the strongest.",
       "role": "paragraph"
     },
     {
@@ -5931,6 +5998,7 @@
       "order": 979,
       "chapterIndex": 2,
       "text": "“Nonsense, Grace, get in at once, and don't make all this fuss; a pretty thing it would be if a man of business had to examine every cab-horse before he hired it—the man knows his own business of course; there, get in and hold your tongue!”",
+      "ttsText": "“Nonsense, Grace, get in at once, and don't make all this fuss; a pretty thing it would be if a man of business had to examine every cab-horse before he hired it, the man knows his own business of course; there, get in and hold your tongue!”",
       "role": "paragraph"
     },
     {
@@ -5949,6 +6017,7 @@
       "order": 982,
       "chapterIndex": 2,
       "text": "I got along fairly till we came to Ludgate Hill; but there the heavy load and my own exhaustion were too much. I was struggling to keep on, goaded by constant chucks of the rein and use of the whip, when in a single moment—I cannot tell how—my feet slipped from under me, and I fell heavily to the ground on my side; the suddenness and the force with which I fell seemed to beat all the breath out of my body. I lay perfectly still; indeed, I had no power to move, and I thought now I was going to die. I heard a sort of confusion round me, loud, angry voices, and the getting down of the luggage, but it was all like a dream. I thought I heard that sweet, pitiful voice saying, “Oh! that poor horse! it is all our fault.” Some one came and loosened the throat strap of my bridle, and undid the traces which kept the collar so tight upon me. Some one said, “He's dead, he'll never get up again.” Then I could hear a policeman giving orders, but I did not even open my eyes; I could only draw a gasping breath now and then. Some cold water was thrown over my head, and some cordial was poured into my mouth, and something was covered over me. I cannot tell how long I lay there, but I found my life coming back, and a kind-voiced man was patting me and encouraging me to rise. After some more cordial had been given me, and after one or two attempts, I staggered to my feet, and was gently led to some stables which were close by. Here I was put into a well-littered stall, and some warm gruel was brought to me, which I drank thankfully.",
+      "ttsText": "I got along fairly till we came to Ludgate Hill; but there the heavy load and my own exhaustion were too much. I was struggling to keep on, goaded by constant chucks of the rein and use of the whip, when in a single moment, I cannot tell how, my feet slipped from under me, and I fell heavily to the ground on my side; the suddenness and the force with which I fell seemed to beat all the breath out of my body. I lay perfectly still; indeed, I had no power to move, and I thought now I was going to die. I heard a sort of confusion round me, loud, angry voices, and the getting down of the luggage, but it was all like a dream. I thought I heard that sweet, pitiful voice saying, “Oh! that poor horse! it is all our fault.” Some one came and loosened the throat strap of my bridle, and undid the traces which kept the collar so tight upon me. Some one said, “He's dead, he'll never get up again.” Then I could hear a policeman giving orders, but I did not even open my eyes; I could only draw a gasping breath now and then. Some cold water was thrown over my head, and some cordial was poured into my mouth, and something was covered over me. I cannot tell how long I lay there, but I found my life coming back, and a kind-voiced man was patting me and encouraging me to rise. After some more cordial had been given me, and after one or two attempts, I staggered to my feet, and was gently led to some stables which were close by. Here I was put into a well-littered stall, and some warm gruel was brought to me, which I drank thankfully.",
       "role": "paragraph"
     },
     {
@@ -5967,6 +6036,7 @@
       "order": 985,
       "chapterIndex": 2,
       "text": "“Then he must just go to the dogs,” said Skinner. “I have no meadows to nurse sick horses in—he might get well or he might not; that sort of thing don't suit my business; my plan is to work 'em as long as they'll go, and then sell 'em for what they'll fetch, at the knacker's or elsewhere.”",
+      "ttsText": "“Then he must just go to the dogs,” said Skinner. “I have no meadows to nurse sick horses in, he might get well or he might not; that sort of thing don't suit my business; my plan is to work 'em as long as they'll go, and then sell 'em for what they'll fetch, at the knacker's or elsewhere.”",
       "role": "paragraph"
     },
     {
@@ -5991,12 +6061,14 @@
       "order": 989,
       "chapterIndex": 2,
       "text": "At this sale, of course I found myself in company with the old broken-down horses—some lame, some broken-winded, some old, and some that I am sure it would have been merciful to shoot.",
+      "ttsText": "At this sale, of course I found myself in company with the old broken-down horses, some lame, some broken-winded, some old, and some that I am sure it would have been merciful to shoot.",
       "role": "paragraph"
     },
     {
       "order": 990,
       "chapterIndex": 2,
       "text": "The buyers and sellers, too, many of them, looked not much better off than the poor beasts they were bargaining about. There were poor old men, trying to get a horse or a pony for a few pounds, that might drag about some little wood or coal cart. There were poor men trying to sell a worn-out beast for two or three pounds, rather than have the greater loss of killing him. Some of them looked as if poverty and hard times had hardened them all over; but there were others that I would have willingly used the last of my strength in serving; poor and shabby, but kind and human, with voices that I could trust. There was one tottering old man who took a great fancy to me, and I to him, but I was not strong enough—it was an anxious time! Coming from the better part of the fair, I noticed a man who looked like a gentleman farmer, with a young boy by his side; he had a broad back and round shoulders, a kind, ruddy face, and he wore a broad-brimmed hat. When he came up to me and my companions he stood still and gave a pitiful look round upon us. I saw his eye rest on me; I had still a good mane and tail, which did something for my appearance. I pricked my ears and looked at him.",
+      "ttsText": "The buyers and sellers, too, many of them, looked not much better off than the poor beasts they were bargaining about. There were poor old men, trying to get a horse or a pony for a few pounds, that might drag about some little wood or coal cart. There were poor men trying to sell a worn-out beast for two or three pounds, rather than have the greater loss of killing him. Some of them looked as if poverty and hard times had hardened them all over; but there were others that I would have willingly used the last of my strength in serving; poor and shabby, but kind and human, with voices that I could trust. There was one tottering old man who took a great fancy to me, and I to him, but I was not strong enough, it was an anxious time! Coming from the better part of the fair, I noticed a man who looked like a gentleman farmer, with a young boy by his side; he had a broad back and round shoulders, a kind, ruddy face, and he wore a broad-brimmed hat. When he came up to me and my companions he stood still and gave a pitiful look round upon us. I saw his eye rest on me; I had still a good mane and tail, which did something for my appearance. I pricked my ears and looked at him.",
       "role": "paragraph"
     },
     {
@@ -6183,6 +6255,7 @@
       "order": 1021,
       "chapterIndex": 2,
       "text": "At the distance of a mile or two from the village we came to a pretty, low house, with a lawn and shrubbery at the front and a drive up to the door. Willie rang the bell, and asked if Miss Blomefield or Miss Ellen was at home. Yes, they were. So, while Willie stayed with me, Mr. Thoroughgood went into the house. In about ten minutes he returned, followed by three ladies; one tall, pale lady, wrapped in a white shawl, leaned on a younger lady, with dark eyes and a merry face; the other, a very stately-looking person, was Miss Blomefield. They all came and looked at me and asked questions. The younger lady—that was Miss Ellen—took to me very much; she said she was sure she should like me, I had such a good face. The tall, pale lady said that she should always be nervous in riding behind a horse that had once been down, as I might come down again, and if I did she should never get over the fright.",
+      "ttsText": "At the distance of a mile or two from the village we came to a pretty, low house, with a lawn and shrubbery at the front and a drive up to the door. Willie rang the bell, and asked if Miss Blomefield or Miss Ellen was at home. Yes, they were. So, while Willie stayed with me, Mr. Thoroughgood went into the house. In about ten minutes he returned, followed by three ladies; one tall, pale lady, wrapped in a white shawl, leaned on a younger lady, with dark eyes and a merry face; the other, a very stately-looking person, was Miss Blomefield. They all came and looked at me and asked questions. The younger lady, that was Miss Ellen, took to me very much; she said she was sure she should like me, I had such a good face. The tall, pale lady said that she should always be nervous in riding behind a horse that had once been down, as I might come down again, and if I did she should never get over the fright.",
       "role": "paragraph"
     },
     {
@@ -6243,6 +6316,7 @@
       "order": 1031,
       "chapterIndex": 2,
       "text": "“White star in the forehead, one white foot on the off side, this little knot just in that place;” then looking at the middle of my back—“and, as I am alive, there is that little patch of white hair that John used to call 'Beauty's three-penny bit'. It must be 'Black Beauty'! Why, Beauty! Beauty! do you know me?—little Joe Green, that almost killed you?” And he began patting and patting me as if he was quite overjoyed.",
+      "ttsText": "“White star in the forehead, one white foot on the off side, this little knot just in that place;” then looking at the middle of my back, “and, as I am alive, there is that little patch of white hair that John used to call 'Beauty's three-penny bit'. It must be 'Black Beauty'! Why, Beauty! Beauty! do you know me?, little Joe Green, that almost killed you?” And he began patting and patting me as if he was quite overjoyed.",
       "role": "paragraph"
     },
     {
@@ -6291,6 +6365,7 @@
       "order": 1039,
       "chapterIndex": 2,
       "text": "“In your place he will last till he is twenty years old—perhaps more.”",
+      "ttsText": "“In your place he will last till he is twenty years old, perhaps more.”",
       "role": "paragraph"
     },
     {

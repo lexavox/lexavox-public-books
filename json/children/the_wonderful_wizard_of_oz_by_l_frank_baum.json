@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:13.6765437Z",
+  "generatedAt": "2026-04-07T14:53:09.3920499Z",
   "source": {
     "id": "pg55",
     "title": "The Wonderful Wizard of Oz",
@@ -239,6 +239,7 @@
       "order": 12,
       "chapterIndex": 0,
       "text": "This book is dedicated to my good friend & comrade",
+      "ttsText": "This book is dedicated to my good friend and comrade",
       "role": "paragraph"
     },
     {
@@ -509,6 +510,7 @@
       "order": 57,
       "chapterIndex": 2,
       "text": "“Only a mouse!” cried the little animal, indignantly. “Why, I am a Queen—the Queen of all the Field Mice!”",
+      "ttsText": "“Only a mouse!” cried the little animal, indignantly. “Why, I am a Queen, the Queen of all the Field Mice!”",
       "role": "paragraph"
     },
     {
@@ -959,6 +961,7 @@
       "order": 132,
       "chapterIndex": 3,
       "text": "“Very likely. Well, Oz can do anything; so I suppose he will find Kansas for you. But first you must get to see him, and that will be a hard task; for the Great Wizard does not like to see anyone, and he usually has his own way. But what do YOU want?” he continued, speaking to Toto. Toto only wagged his tail; for, strange to say, he could not speak.",
+      "ttsText": "“Very likely. Well, Oz can do anything; so I suppose he will find Kansas for you. But first you must get to see him, and that will be a hard task; for the Great Wizard does not like to see anyone, and he usually has his own way. But what do You want?” he continued, speaking to Toto. Toto only wagged his tail; for, strange to say, he could not speak.",
       "role": "paragraph"
     },
     {
@@ -1103,6 +1106,7 @@
       "order": 156,
       "chapterIndex": 4,
       "text": "There were many people—men, women, and children—walking about, and these were all dressed in green clothes and had greenish skins. They looked at Dorothy and her strangely assorted company with wondering eyes, and the children all ran away and hid behind their mothers when they saw the Lion; but no one spoke to them. Many shops stood in the street, and Dorothy saw that everything in them was green. Green candy and green pop-corn were offered for sale, as well as green shoes, green hats, and green clothes of all sorts. At one place a man was selling green lemonade, and when the children bought it Dorothy could see that they paid for it with green pennies.",
+      "ttsText": "There were many people, men, women, and children, walking about, and these were all dressed in green clothes and had greenish skins. They looked at Dorothy and her strangely assorted company with wondering eyes, and the children all ran away and hid behind their mothers when they saw the Lion; but no one spoke to them. Many shops stood in the street, and Dorothy saw that everything in them was green. Green candy and green pop-corn were offered for sale, as well as green shoes, green hats, and green clothes of all sorts. At one place a man was selling green lemonade, and when the children bought it Dorothy could see that they paid for it with green pennies.",
       "role": "paragraph"
     },
     {
@@ -1367,6 +1371,7 @@
       "order": 200,
       "chapterIndex": 4,
       "text": "“You killed the Witch of the East and you wear the silver shoes, which bear a powerful charm. There is now but one Wicked Witch left in all this land, and when you can tell me she is dead I will send you back to Kansas—but not before.”",
+      "ttsText": "“You killed the Witch of the East and you wear the silver shoes, which bear a powerful charm. There is now but one Wicked Witch left in all this land, and when you can tell me she is dead I will send you back to Kansas, but not before.”",
       "role": "paragraph"
     },
     {
@@ -1385,6 +1390,7 @@
       "order": 203,
       "chapterIndex": 4,
       "text": "“I do not know,” said the Head; “but that is my answer, and until the Wicked Witch dies you will not see your uncle and aunt again. Remember that the Witch is Wicked—tremendously Wicked—and ought to be killed. Now go, and do not ask to see me again until you have done your task.”",
+      "ttsText": "“I do not know,” said the Head; “but that is my answer, and until the Wicked Witch dies you will not see your uncle and aunt again. Remember that the Witch is Wicked, tremendously Wicked, and ought to be killed. Now go, and do not ask to see me again until you have done your task.”",
       "role": "paragraph"
     },
     {
@@ -2207,6 +2213,7 @@
       "order": 340,
       "chapterIndex": 5,
       "text": "“Well, in a few minutes I shall be all melted, and you will have the castle to yourself. I have been wicked in my day, but I never thought a little girl like you would ever be able to melt me and end my wicked deeds. Look out—here I go!”",
+      "ttsText": "“Well, in a few minutes I shall be all melted, and you will have the castle to yourself. I have been wicked in my day, but I never thought a little girl like you would ever be able to melt me and end my wicked deeds. Look out, here I go!”",
       "role": "paragraph"
     },
     {
@@ -2429,6 +2436,7 @@
       "order": 377,
       "chapterIndex": 7,
       "text": "You will remember there was no road—not even a pathway—between the castle of the Wicked Witch and the Emerald City. When the four travelers went in search of the Witch she had seen them coming, and so sent the Winged Monkeys to bring them to her. It was much harder to find their way back through the big fields of buttercups and yellow daisies than it was being carried. They knew, of course, they must go straight east, toward the rising sun; and they started off in the right way. But at noon, when the sun was over their heads, they did not know which was east and which was west, and that was the reason they were lost in the great fields. They kept on walking, however, and at night the moon came out and shone brightly. So they lay down among the sweet smelling yellow flowers and slept soundly until morning—all but the Scarecrow and the Tin Woodman.",
+      "ttsText": "You will remember there was no road, not even a pathway, between the castle of the Wicked Witch and the Emerald City. When the four travelers went in search of the Witch she had seen them coming, and so sent the Winged Monkeys to bring them to her. It was much harder to find their way back through the big fields of buttercups and yellow daisies than it was being carried. They knew, of course, they must go straight east, toward the rising sun; and they started off in the right way. But at noon, when the sun was over their heads, they did not know which was east and which was west, and that was the reason they were lost in the great fields. They kept on walking, however, and at night the moon came out and shone brightly. So they lay down among the sweet smelling yellow flowers and slept soundly until morning, all but the Scarecrow and the Tin Woodman.",
       "role": "paragraph"
     },
     {
@@ -2903,6 +2911,7 @@
       "order": 456,
       "chapterIndex": 8,
       "text": "“I am Oz, the Great and Terrible,” said the little man, in a trembling voice. “But don’t strike me—please don’t—and I’ll do anything you want me to.”",
+      "ttsText": "“I am Oz, the Great and Terrible,” said the little man, in a trembling voice. “But don’t strike me, please don’t, and I’ll do anything you want me to.”",
       "role": "paragraph"
     },
     {
@@ -2951,6 +2960,7 @@
       "order": 464,
       "chapterIndex": 8,
       "text": "“Hush, my dear,” he said. “Don’t speak so loud, or you will be overheard—and I should be ruined. I’m supposed to be a Great Wizard.”",
+      "ttsText": "“Hush, my dear,” he said. “Don’t speak so loud, or you will be overheard, and I should be ruined. I’m supposed to be a Great Wizard.”",
       "role": "paragraph"
     },
     {
@@ -3011,6 +3021,7 @@
       "order": 474,
       "chapterIndex": 8,
       "text": "“No one knows it but you four—and myself,” replied Oz. “I have fooled everyone so long that I thought I should never be found out. It was a great mistake my ever letting you into the Throne Room. Usually I will not see even my subjects, and so they believe I am something terrible.”",
+      "ttsText": "“No one knows it but you four, and myself,” replied Oz. “I have fooled everyone so long that I thought I should never be found out. It was a great mistake my ever letting you into the Throne Room. Usually I will not see even my subjects, and so they believe I am something terrible.”",
       "role": "paragraph"
     },
     {
@@ -3059,6 +3070,7 @@
       "order": 482,
       "chapterIndex": 8,
       "text": "“I am—I certainly am,” answered the little man sorrowfully; “but it was the only thing I could do. Sit down, please, there are plenty of chairs; and I will tell you my story.”",
+      "ttsText": "“I am, I certainly am,” answered the little man sorrowfully; “but it was the only thing I could do. Sit down, please, there are plenty of chairs; and I will tell you my story.”",
       "role": "paragraph"
     },
     {
@@ -3071,6 +3083,7 @@
       "order": 484,
       "chapterIndex": 8,
       "text": "“I was born in Omaha—”",
+      "ttsText": "“I was born in Omaha, ”",
       "role": "paragraph"
     },
     {
@@ -3185,6 +3198,7 @@
       "order": 503,
       "chapterIndex": 8,
       "text": "“Oh, thank you—thank you!” cried the Scarecrow. “I’ll find a way to use them, never fear!”",
+      "ttsText": "“Oh, thank you, thank you!” cried the Scarecrow. “I’ll find a way to use them, never fear!”",
       "role": "paragraph"
     },
     {
@@ -3245,6 +3259,7 @@
       "order": 513,
       "chapterIndex": 8,
       "text": "“We shall have to think about that,” replied the little man. “Give me two or three days to consider the matter and I’ll try to find a way to carry you over the desert. In the meantime you shall all be treated as my guests, and while you live in the Palace my people will wait upon you and obey your slightest wish. There is only one thing I ask in return for my help—such as it is. You must keep my secret and tell no one I am a humbug.”",
+      "ttsText": "“We shall have to think about that,” replied the little man. “Give me two or three days to consider the matter and I’ll try to find a way to carry you over the desert. In the meantime you shall all be treated as my guests, and while you live in the Palace my people will wait upon you and obey your slightest wish. There is only one thing I ask in return for my help, such as it is. You must keep my secret and tell no one I am a humbug.”",
       "role": "paragraph"
     },
     {
@@ -4061,6 +4076,7 @@
       "order": 649,
       "chapterIndex": 12,
       "text": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough to crush any building in its path. It was reached by a trap door in the middle of the floor, from which a ladder led down into the small, dark hole.",
+      "ttsText": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar, except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough to crush any building in its path. It was reached by a trap door in the middle of the floor, from which a ladder led down into the small, dark hole.",
       "role": "paragraph"
     },
     {
@@ -5159,6 +5175,7 @@
       "order": 832,
       "chapterIndex": 17,
       "text": "“My second command to the Winged Monkeys,” said Glinda “will be that they carry you safely to the land of the Winkies. Your brain may not be so large to look at as those of the Scarecrow, but you are really brighter than he is—when you are well polished—and I am sure you will rule the Winkies wisely and well.”",
+      "ttsText": "“My second command to the Winged Monkeys,” said Glinda “will be that they carry you safely to the land of the Winkies. Your brain may not be so large to look at as those of the Scarecrow, but you are really brighter than he is, when you are well polished, and I am sure you will rule the Winkies wisely and well.”",
       "role": "paragraph"
     },
     {

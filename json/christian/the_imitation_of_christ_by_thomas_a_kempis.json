@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:15.0789255Z",
+  "generatedAt": "2026-04-07T14:54:22.1621686Z",
   "source": {
     "id": "pg1653",
     "title": "The Imitation of Christ",
-    "author": "Thomas Ã  Kempis",
+    "author": "Thomas à Kempis",
     "language": "en",
     "category": "christian",
     "filename": "the_imitation_of_christ_by_thomas_a_kempis.epub",
@@ -1472,6 +1472,7 @@
       "order": 140,
       "chapterIndex": 2,
       "text": "CHAPTER VIII",
+      "ttsText": "Chapter VIII",
       "role": "heading"
     },
     {
@@ -1502,6 +1503,7 @@
       "order": 145,
       "chapterIndex": 3,
       "text": "CHAPTER I",
+      "ttsText": "Chapter I",
       "role": "heading"
     },
     {
@@ -1610,6 +1612,7 @@
       "order": 163,
       "chapterIndex": 4,
       "text": "CHAPTER II",
+      "ttsText": "Chapter II",
       "role": "heading"
     },
     {
@@ -1676,6 +1679,7 @@
       "order": 174,
       "chapterIndex": 5,
       "text": "CHAPTER III",
+      "ttsText": "Chapter III",
       "role": "heading"
     },
     {
@@ -1730,6 +1734,7 @@
       "order": 183,
       "chapterIndex": 6,
       "text": "CHAPTER IV",
+      "ttsText": "Chapter IV",
       "role": "heading"
     },
     {
@@ -1790,6 +1795,7 @@
       "order": 193,
       "chapterIndex": 7,
       "text": "CHAPTER V",
+      "ttsText": "Chapter V",
       "role": "heading"
     },
     {
@@ -1832,6 +1838,7 @@
       "order": 200,
       "chapterIndex": 8,
       "text": "CHAPTER VI",
+      "ttsText": "Chapter VI",
       "role": "heading"
     },
     {
@@ -1868,6 +1875,7 @@
       "order": 206,
       "chapterIndex": 9,
       "text": "CHAPTER VII",
+      "ttsText": "Chapter VII",
       "role": "heading"
     },
     {
@@ -1916,6 +1924,7 @@
       "order": 214,
       "chapterIndex": 10,
       "text": "CHAPTER VIII",
+      "ttsText": "Chapter VIII",
       "role": "heading"
     },
     {
@@ -1958,6 +1967,7 @@
       "order": 221,
       "chapterIndex": 11,
       "text": "CHAPTER IX",
+      "ttsText": "Chapter IX",
       "role": "heading"
     },
     {
@@ -2024,6 +2034,7 @@
       "order": 232,
       "chapterIndex": 12,
       "text": "CHAPTER X",
+      "ttsText": "Chapter X",
       "role": "heading"
     },
     {
@@ -2090,6 +2101,7 @@
       "order": 243,
       "chapterIndex": 13,
       "text": "CHAPTER IX",
+      "ttsText": "Chapter IX",
       "role": "heading"
     },
     {
@@ -2126,6 +2138,7 @@
       "order": 249,
       "chapterIndex": 14,
       "text": "CHAPTER XI",
+      "ttsText": "Chapter XI",
       "role": "heading"
     },
     {
@@ -2162,6 +2175,7 @@
       "order": 255,
       "chapterIndex": 14,
       "text": "4. For two things do I feel to be exceedingly necessary to me in this life, without which this miserable life would be intolerable to me; being detained in the prison of this body, I confess that I need two things, even food and light. Thou hast therefore given to me who am so weak, Thy sacred Body and Blood, for the refreshing of my soul and body, and hast set Thy Word for a lantern to my feet .(3) Without these two I could not properly live; for the Word of God is the light of my soul, and Thy Sacrament the bread of life. These may also be called the two tables, placed on this side and on that, in the treasury of Thy holy Church. One table is that of the Sacred Altar, bearing the holy bread, that is the precious Body and Blood of Christ; the other is the table of the Divine Law, containing holy doctrine, teaching the true faith, and leading steadfastly onwards even to that which is within the veil, where the Holy of Holies is.",
+      "ttsText": "4. For two things do I feel to be exceedingly necessary to me in this life, without which this miserable life would be intolerable to me; being detained in the prison of this body, I confess that I need two things, even food and light. Thou hast therefore given to me who am so weak, Thy sacred Body and Blood, for the refreshing of my soul and body, and hast set Thy Word for a lantern to my feet.(3) Without these two I could not properly live; for the Word of God is the light of my soul, and Thy Sacrament the bread of life. These may also be called the two tables, placed on this side and on that, in the treasury of Thy holy Church. One table is that of the Sacred Altar, bearing the holy bread, that is the precious Body and Blood of Christ; the other is the table of the Divine Law, containing holy doctrine, teaching the true faith, and leading steadfastly onwards even to that which is within the veil, where the Holy of Holies is.",
       "role": "heading"
     },
     {
@@ -2204,6 +2218,7 @@
       "order": 262,
       "chapterIndex": 15,
       "text": "CHAPTER XII",
+      "ttsText": "Chapter XII",
       "role": "heading"
     },
     {
@@ -2258,6 +2273,7 @@
       "order": 271,
       "chapterIndex": 16,
       "text": "CHAPTER XIII",
+      "ttsText": "Chapter XIII",
       "role": "heading"
     },
     {
@@ -2306,6 +2322,7 @@
       "order": 279,
       "chapterIndex": 17,
       "text": "CHAPTER XIV",
+      "ttsText": "Chapter XIV",
       "role": "heading"
     },
     {
@@ -2354,6 +2371,7 @@
       "order": 287,
       "chapterIndex": 18,
       "text": "CHAPTER XV",
+      "ttsText": "Chapter XV",
       "role": "heading"
     },
     {
@@ -2378,6 +2396,7 @@
       "order": 291,
       "chapterIndex": 18,
       "text": "2. If grace were always given immediately, and were at hand at the wish, it would be hardly bearable to weak man. Wherefore the grace of devotion is to be waited for with a good hope and with humble patience. Yet impute it to thyself and to thy sins when it is not given, or when it is mysteriously taken away. It is sometimes a small thing which hindereth and hideth grace; (if indeed that ought to be called small and not rather great , which hindereth so great a good); but if thou remove this, be it small or great, and perfectly overcome it, thou wilt have what thou hast asked.",
+      "ttsText": "2. If grace were always given immediately, and were at hand at the wish, it would be hardly bearable to weak man. Wherefore the grace of devotion is to be waited for with a good hope and with humble patience. Yet impute it to thyself and to thy sins when it is not given, or when it is mysteriously taken away. It is sometimes a small thing which hindereth and hideth grace; (if indeed that ought to be called small and not rather great, which hindereth so great a good); but if thou remove this, be it small or great, and perfectly overcome it, thou wilt have what thou hast asked.",
       "role": "heading"
     },
     {
@@ -2408,6 +2427,7 @@
       "order": 296,
       "chapterIndex": 19,
       "text": "CHAPTER XVI",
+      "ttsText": "Chapter XVI",
       "role": "heading"
     },
     {
@@ -2450,6 +2470,7 @@
       "order": 303,
       "chapterIndex": 20,
       "text": "CHAPTER XVII",
+      "ttsText": "Chapter XVII",
       "role": "heading"
     },
     {
@@ -2510,6 +2531,7 @@
       "order": 313,
       "chapterIndex": 21,
       "text": "CHAPTER XVIII",
+      "ttsText": "Chapter XVIII",
       "role": "heading"
     },
     {

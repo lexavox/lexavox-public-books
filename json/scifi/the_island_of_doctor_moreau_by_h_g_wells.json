@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:57.7893566Z",
+  "generatedAt": "2026-04-07T14:55:10.8963631Z",
   "source": {
     "id": "pg159",
     "title": "The Island of Doctor Moreau",
@@ -239,7 +239,8 @@
       "order": 12,
       "chapterIndex": 0,
       "text": "by H. G. Wells",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "by H.G.Wells"
     },
     {
       "order": 13,
@@ -407,19 +408,21 @@
       "order": 40,
       "chapterIndex": 1,
       "text": "On January the Fifth, 1888—that is eleven months and four days after—my uncle, Edward Prendick, a private gentleman, who certainly went aboard the Lady Vain at Callao, and who had been considered drowned, was picked up in latitude 5° 3′ S. and longitude 101° W. in a small open boat of which the name was illegible, but which is supposed to have belonged to the missing schooner Ipecacuanha . He gave such a strange account of himself that he was supposed demented. Subsequently he alleged that his mind was a blank from the moment of his escape from the Lady Vain . His case was discussed among psychologists at the time as a curious instance of the lapse of memory consequent upon physical and mental stress. The following narrative was found among his papers by the undersigned, his nephew and heir, but unaccompanied by any definite request for publication.",
+      "ttsText": "On January the Fifth, 1888, that is eleven months and four days after, my uncle, Edward Prendick, a private gentleman, who certainly went aboard the Lady Vain at Callao, and who had been considered drowned, was picked up in latitude 5° 3′ S. and longitude 101° W. in a small open boat of which the name was illegible, but which is supposed to have belonged to the missing schooner Ipecacuanha. He gave such a strange account of himself that he was supposed demented. Subsequently he alleged that his mind was a blank from the moment of his escape from the Lady Vain. His case was discussed among psychologists at the time as a curious instance of the lapse of memory consequent upon physical and mental stress. The following narrative was found among his papers by the undersigned, his nephew and heir, but unaccompanied by any definite request for publication.",
       "role": "paragraph"
     },
     {
       "order": 41,
       "chapterIndex": 1,
       "text": "The only island known to exist in the region in which my uncle was picked up is Noble’s Isle, a small volcanic islet and uninhabited. It was visited in 1891 by H. M. S. Scorpion . A party of sailors then landed, but found nothing living thereon except certain curious white moths, some hogs and rabbits, and some rather peculiar rats. So that this narrative is without confirmation in its most essential particular. With that understood, there seems no harm in putting this strange story before the public in accordance, as I believe, with my uncle’s intentions. There is at least this much in its behalf: my uncle passed out of human knowledge about latitude 5° S. and longitude 105° E., and reappeared in the same part of the ocean after a space of eleven months. In some way he must have lived during the interval. And it seems that a schooner called the Ipecacuanha with a drunken captain, John Davies, did start from Africa with a puma and certain other animals aboard in January, 1887, that the vessel was well known at several ports in the South Pacific, and that it finally disappeared from those seas (with a considerable amount of copra aboard), sailing to its unknown fate from Bayna in December, 1887, a date that tallies entirely with my uncle’s story.",
+      "ttsText": "The only island known to exist in the region in which my uncle was picked up is Noble’s Isle, a small volcanic islet and uninhabited. It was visited in 1891 by H.M.S.Scorpion. A party of sailors then landed, but found nothing living thereon except certain curious white moths, some hogs and rabbits, and some rather peculiar rats. So that this narrative is without confirmation in its most essential particular. With that understood, there seems no harm in putting this strange story before the public in accordance, as I believe, with my uncle’s intentions. There is at least this much in its behalf: my uncle passed out of human knowledge about latitude 5° S. and longitude 105° E., and reappeared in the same part of the ocean after a space of eleven months. In some way he must have lived during the interval. And it seems that a schooner called the Ipecacuanha with a drunken captain, John Davies, did start from Africa with a puma and certain other animals aboard in January, 1887, that the vessel was well known at several ports in the South Pacific, and that it finally disappeared from those seas (with a considerable amount of copra aboard), sailing to its unknown fate from Bayna in December, 1887, a date that tallies entirely with my uncle’s story.",
       "role": "paragraph"
     },
     {
       "order": 42,
       "chapterIndex": 1,
       "text": "C HARLES E DWARD P RENDICK .",
-      "ttsText": "Charles Edward Prendick .",
+      "ttsText": "Charles Edward Prendick.",
       "role": "title"
     },
     {
@@ -438,6 +441,7 @@
       "order": 45,
       "chapterIndex": 2,
       "text": "THE THING IN THE FOREST.",
+      "ttsText": "The Thing in the Forest.",
       "role": "title"
     },
     {
@@ -456,6 +460,7 @@
       "order": 48,
       "chapterIndex": 2,
       "text": "From this I was aroused, after I know not how long, by a rustling amidst the greenery on the other side of the stream. For a moment I could see nothing but the waving summits of the ferns and reeds. Then suddenly upon the bank of the stream appeared something—at first I could not distinguish what it was. It bowed its round head to the water, and began to drink. Then I saw it was a man, going on all-fours like a beast. He was clothed in bluish cloth, and was of a copper-coloured hue, with black hair. It seemed that grotesque ugliness was an invariable character of these islanders. I could hear the suck of the water at his lips as he drank.",
+      "ttsText": "From this I was aroused, after I know not how long, by a rustling amidst the greenery on the other side of the stream. For a moment I could see nothing but the waving summits of the ferns and reeds. Then suddenly upon the bank of the stream appeared something, at first I could not distinguish what it was. It bowed its round head to the water, and began to drink. Then I saw it was a man, going on all-fours like a beast. He was clothed in bluish cloth, and was of a copper-coloured hue, with black hair. It seemed that grotesque ugliness was an invariable character of these islanders. I could hear the suck of the water at his lips as he drank.",
       "role": "paragraph"
     },
     {
@@ -480,6 +485,7 @@
       "order": 52,
       "chapterIndex": 2,
       "text": "I was startled by a great patch of vivid scarlet on the ground, and going up to it found it to be a peculiar fungus, branched and corrugated like a foliaceous lichen, but deliquescing into slime at the touch; and then in the shadow of some luxuriant ferns I came upon an unpleasant thing,—the dead body of a rabbit covered with shining flies, but still warm and with the head torn off. I stopped aghast at the sight of the scattered blood. Here at least was one visitor to the island disposed of! There were no traces of other violence about it. It looked as though it had been suddenly snatched up and killed; and as I stared at the little furry body came the difficulty of how the thing had been done. The vague dread that had been in my mind since I had seen the inhuman face of the man at the stream grew distincter as I stood there. I began to realise the hardihood of my expedition among these unknown people. The thicket about me became altered to my imagination. Every shadow became something more than a shadow,—became an ambush; every rustle became a threat. Invisible things seemed watching me. I resolved to go back to the enclosure on the beach. I suddenly turned away and thrust myself violently, possibly even frantically, through the bushes, anxious to get a clear space about me again.",
+      "ttsText": "I was startled by a great patch of vivid scarlet on the ground, and going up to it found it to be a peculiar fungus, branched and corrugated like a foliaceous lichen, but deliquescing into slime at the touch; and then in the shadow of some luxuriant ferns I came upon an unpleasant thing,, the dead body of a rabbit covered with shining flies, but still warm and with the head torn off. I stopped aghast at the sight of the scattered blood. Here at least was one visitor to the island disposed of! There were no traces of other violence about it. It looked as though it had been suddenly snatched up and killed; and as I stared at the little furry body came the difficulty of how the thing had been done. The vague dread that had been in my mind since I had seen the inhuman face of the man at the stream grew distincter as I stood there. I began to realise the hardihood of my expedition among these unknown people. The thicket about me became altered to my imagination. Every shadow became something more than a shadow,, became an ambush; every rustle became a threat. Invisible things seemed watching me. I resolved to go back to the enclosure on the beach. I suddenly turned away and thrust myself violently, possibly even frantically, through the bushes, anxious to get a clear space about me again.",
       "role": "paragraph"
     },
     {
@@ -492,18 +498,21 @@
       "order": 54,
       "chapterIndex": 2,
       "text": "They were talking, or at least one of the men was talking to the other two, and all three had been too closely interested to heed the rustling of my approach. They swayed their heads and shoulders from side to side. The speaker’s words came thick and sloppy, and though I could hear them distinctly I could not distinguish what he said. He seemed to me to be reciting some complicated gibberish. Presently his articulation became shriller, and spreading his hands he rose to his feet. At that the others began to gibber in unison, also rising to their feet, spreading their hands and swaying their bodies in rhythm with their chant. I noticed then the abnormal shortness of their legs, and their lank, clumsy feet. All three began slowly to circle round, raising and stamping their feet and waving their arms; a kind of tune crept into their rhythmic recitation, and a refrain,—“Aloola,” or “Balloola,” it sounded like. Their eyes began to sparkle, and their ugly faces to brighten, with an expression of strange pleasure. Saliva dripped from their lipless mouths.",
+      "ttsText": "They were talking, or at least one of the men was talking to the other two, and all three had been too closely interested to heed the rustling of my approach. They swayed their heads and shoulders from side to side. The speaker’s words came thick and sloppy, and though I could hear them distinctly I could not distinguish what he said. He seemed to me to be reciting some complicated gibberish. Presently his articulation became shriller, and spreading his hands he rose to his feet. At that the others began to gibber in unison, also rising to their feet, spreading their hands and swaying their bodies in rhythm with their chant. I noticed then the abnormal shortness of their legs, and their lank, clumsy feet. All three began slowly to circle round, raising and stamping their feet and waving their arms; a kind of tune crept into their rhythmic recitation, and a refrain,, “Aloola,” or “Balloola,” it sounded like. Their eyes began to sparkle, and their ugly faces to brighten, with an expression of strange pleasure. Saliva dripped from their lipless mouths.",
       "role": "paragraph"
     },
     {
       "order": 55,
       "chapterIndex": 2,
       "text": "Suddenly, as I watched their grotesque and unaccountable gestures, I perceived clearly for the first time what it was that had offended me, what had given me the two inconsistent and conflicting impressions of utter strangeness and yet of the strangest familiarity. The three creatures engaged in this mysterious rite were human in shape, and yet human beings with the strangest air about them of some familiar animal. Each of these creatures, despite its human form, its rag of clothing, and the rough humanity of its bodily form, had woven into it—into its movements, into the expression of its countenance, into its whole presence—some now irresistible suggestion of a hog, a swinish taint, the unmistakable mark of the beast.",
+      "ttsText": "Suddenly, as I watched their grotesque and unaccountable gestures, I perceived clearly for the first time what it was that had offended me, what had given me the two inconsistent and conflicting impressions of utter strangeness and yet of the strangest familiarity. The three creatures engaged in this mysterious rite were human in shape, and yet human beings with the strangest air about them of some familiar animal. Each of these creatures, despite its human form, its rag of clothing, and the rough humanity of its bodily form, had woven into it, into its movements, into the expression of its countenance, into its whole presence, some now irresistible suggestion of a hog, a swinish taint, the unmistakable mark of the beast.",
       "role": "paragraph"
     },
     {
       "order": 56,
       "chapterIndex": 2,
       "text": "I stood overcome by this amazing realisation and then the most horrible questionings came rushing into my mind. They began leaping in the air, first one and then the other, whooping and grunting. Then one slipped, and for a moment was on all-fours,—to recover, indeed, forthwith. But that transitory gleam of the true animalism of these monsters was enough.",
+      "ttsText": "I stood overcome by this amazing realisation and then the most horrible questionings came rushing into my mind. They began leaping in the air, first one and then the other, whooping and grunting. Then one slipped, and for a moment was on all-fours,, to recover, indeed, forthwith. But that transitory gleam of the true animalism of these monsters was enough.",
       "role": "paragraph"
     },
     {
@@ -516,6 +525,7 @@
       "order": 58,
       "chapterIndex": 2,
       "text": "What on earth was he,—man or beast? What did he want with me? I had no weapon, not even a stick. Flight would be madness. At any rate the Thing, whatever it was, lacked the courage to attack me. Setting my teeth hard, I walked straight towards him. I was anxious not to show the fear that seemed chilling my backbone. I pushed through a tangle of tall white-flowered bushes, and saw him twenty paces beyond, looking over his shoulder at me and hesitating. I advanced a step or two, looking steadfastly into his eyes.",
+      "ttsText": "What on earth was he,, man or beast? What did he want with me? I had no weapon, not even a stick. Flight would be madness. At any rate the Thing, whatever it was, lacked the courage to attack me. Setting my teeth hard, I walked straight towards him. I was anxious not to show the fear that seemed chilling my backbone. I pushed through a tangle of tall white-flowered bushes, and saw him twenty paces beyond, looking over his shoulder at me and hesitating. I advanced a step or two, looking steadfastly into his eyes.",
       "role": "paragraph"
     },
     {
@@ -576,6 +586,7 @@
       "order": 68,
       "chapterIndex": 2,
       "text": "A twig snapped behind me, and there was a rustle. I turned, and stood facing the dark trees. I could see nothing—or else I could see too much. Every dark form in the dimness had its ominous quality, its peculiar suggestion of alert watchfulness. So I stood for perhaps a minute, and then, with an eye to the trees still, turned westward to cross the headland; and as I moved, one among the lurking shadows moved to follow me.",
+      "ttsText": "A twig snapped behind me, and there was a rustle. I turned, and stood facing the dark trees. I could see nothing, or else I could see too much. Every dark form in the dimness had its ominous quality, its peculiar suggestion of alert watchfulness. So I stood for perhaps a minute, and then, with an eye to the trees still, turned westward to cross the headland; and as I moved, one among the lurking shadows moved to follow me.",
       "role": "paragraph"
     },
     {
@@ -600,6 +611,7 @@
       "order": 72,
       "chapterIndex": 2,
       "text": "So long as I live, I shall remember the terror of that chase. I ran near the water’s edge, and heard every now and then the splash of the feet that gained upon me. Far away, hopelessly far, was the yellow light. All the night about us was black and still. Splash, splash, came the pursuing feet, nearer and nearer. I felt my breath going, for I was quite out of training; it whooped as I drew it, and I felt a pain like a knife at my side. I perceived the Thing would come up with me long before I reached the enclosure, and, desperate and sobbing for my breath, I wheeled round upon it and struck at it as it came up to me,—struck with all my strength. The stone came out of the sling of the handkerchief as I did so. As I turned, the Thing, which had been running on all-fours, rose to its feet, and the missile fell fair on its left temple. The skull rang loud, and the animal-man blundered into me, thrust me back with its hands, and went staggering past me to fall headlong upon the sand with its face in the water; and there it lay still.",
+      "ttsText": "So long as I live, I shall remember the terror of that chase. I ran near the water’s edge, and heard every now and then the splash of the feet that gained upon me. Far away, hopelessly far, was the yellow light. All the night about us was black and still. Splash, splash, came the pursuing feet, nearer and nearer. I felt my breath going, for I was quite out of training; it whooped as I drew it, and I felt a pain like a knife at my side. I perceived the Thing would come up with me long before I reached the enclosure, and, desperate and sobbing for my breath, I wheeled round upon it and struck at it as it came up to me,, struck with all my strength. The stone came out of the sling of the handkerchief as I did so. As I turned, the Thing, which had been running on all-fours, rose to its feet, and the missile fell fair on its left temple. The skull rang loud, and the animal-man blundered into me, thrust me back with its hands, and went staggering past me to fall headlong upon the sand with its face in the water; and there it lay still.",
       "role": "paragraph"
     },
     {
@@ -624,6 +636,7 @@
       "order": 76,
       "chapterIndex": 3,
       "text": "THE CRYING OF THE MAN.",
+      "ttsText": "The Crying of the Man.",
       "role": "title"
     },
     {
@@ -636,6 +649,7 @@
       "order": 78,
       "chapterIndex": 3,
       "text": "“Where have you been?” said he, holding me at arm’s length, so that the light from the door fell on my face. “We have both been so busy that we forgot you until about half an hour ago.” He led me into the room and sat me down in the deck chair. For awhile I was blinded by the light. “We did not think you would start to explore this island of ours without telling us,” he said; and then, “I was afraid—But—what—Hullo!”",
+      "ttsText": "“Where have you been?” said he, holding me at arm’s length, so that the light from the door fell on my face. “We have both been so busy that we forgot you until about half an hour ago.” He led me into the room and sat me down in the deck chair. For awhile I was blinded by the light. “We did not think you would start to explore this island of ours without telling us,” he said; and then, “I was afraid, But, what, Hullo!”",
       "role": "paragraph"
     },
     {
@@ -708,6 +722,7 @@
       "order": 90,
       "chapterIndex": 3,
       "text": "Montgomery came round behind me and put his hand on my shoulder. “Look here, Prendick,” he said, “I had no business to let you drift out into this silly island of ours. But it’s not so bad as you feel, man. Your nerves are worked to rags. Let me give you something that will make you sleep. That —will keep on for hours yet. You must simply get to sleep, or I won’t answer for it.”",
+      "ttsText": "Montgomery came round behind me and put his hand on my shoulder. “Look here, Prendick,” he said, “I had no business to let you drift out into this silly island of ours. But it’s not so bad as you feel, man. Your nerves are worked to rags. Let me give you something that will make you sleep. That, will keep on for hours yet. You must simply get to sleep, or I won’t answer for it.”",
       "role": "paragraph"
     },
     {
@@ -726,6 +741,7 @@
       "order": 93,
       "chapterIndex": 3,
       "text": "I got up and sat down before the food. I had a heavy feeling in my head, and only the vaguest memory at first of the things that had happened over night. The morning breeze blew very pleasantly through the unglazed window, and that and the food contributed to the sense of animal comfort which I experienced. Presently the door behind me—the door inward towards the yard of the enclosure—opened. I turned and saw Montgomery’s face.",
+      "ttsText": "I got up and sat down before the food. I had a heavy feeling in my head, and only the vaguest memory at first of the things that had happened over night. The morning breeze blew very pleasantly through the unglazed window, and that and the food contributed to the sense of animal comfort which I experienced. Presently the door behind me, the door inward towards the yard of the enclosure, opened. I turned and saw Montgomery’s face.",
       "role": "paragraph"
     },
     {
@@ -762,6 +778,7 @@
       "order": 99,
       "chapterIndex": 3,
       "text": "A startled deerhound yelped and snarled. There was blood, I saw, in the sink,—brown, and some scarlet—and I smelt the peculiar smell of carbolic acid. Then through an open doorway beyond, in the dim light of the shadow, I saw something bound painfully upon a framework, scarred, red, and bandaged; and then blotting this out appeared the face of old Moreau, white and terrible. In a moment he had gripped me by the shoulder with a hand that was smeared red, had twisted me off my feet, and flung me headlong back into my own room. He lifted me as though I was a little child. I fell at full length upon the floor, and the door slammed and shut out the passionate intensity of his face. Then I heard the key turn in the lock, and Montgomery’s voice in expostulation.",
+      "ttsText": "A startled deerhound yelped and snarled. There was blood, I saw, in the sink,, brown, and some scarlet, and I smelt the peculiar smell of carbolic acid. Then through an open doorway beyond, in the dim light of the shadow, I saw something bound painfully upon a framework, scarred, red, and bandaged; and then blotting this out appeared the face of old Moreau, white and terrible. In a moment he had gripped me by the shoulder with a hand that was smeared red, had twisted me off my feet, and flung me headlong back into my own room. He lifted me as though I was a little child. I fell at full length upon the floor, and the door slammed and shut out the passionate intensity of his face. Then I heard the key turn in the lock, and Montgomery’s voice in expostulation.",
       "role": "paragraph"
     },
     {
@@ -804,12 +821,14 @@
       "order": 106,
       "chapterIndex": 4,
       "text": "THE HUNTING OF THE MAN.",
+      "ttsText": "The Hunting of the Man.",
       "role": "title"
     },
     {
       "order": 107,
       "chapterIndex": 4,
       "text": "It came before my mind with an unreasonable hope of escape that the outer door of my room was still open to me. I was convinced now, absolutely assured, that Moreau had been vivisecting a human being. All the time since I had heard his name, I had been trying to link in my mind in some way the grotesque animalism of the islanders with his abominations; and now I thought I saw it all. The memory of his work on the transfusion of blood recurred to me. These creatures I had seen were the victims of some hideous experiment. These sickening scoundrels had merely intended to keep me back, to fool me with their display of confidence, and presently to fall upon me with a fate more horrible than death,—with torture; and after torture the most hideous degradation it is possible to conceive,—to send me off a lost soul, a beast, to the rest of their Comus rout.",
+      "ttsText": "It came before my mind with an unreasonable hope of escape that the outer door of my room was still open to me. I was convinced now, absolutely assured, that Moreau had been vivisecting a human being. All the time since I had heard his name, I had been trying to link in my mind in some way the grotesque animalism of the islanders with his abominations; and now I thought I saw it all. The memory of his work on the transfusion of blood recurred to me. These creatures I had seen were the victims of some hideous experiment. These sickening scoundrels had merely intended to keep me back, to fool me with their display of confidence, and presently to fall upon me with a fate more horrible than death,, with torture; and after torture the most hideous degradation it is possible to conceive,, to send me off a lost soul, a beast, to the rest of their Comus rout.",
       "role": "paragraph"
     },
     {
@@ -846,12 +865,14 @@
       "order": 113,
       "chapterIndex": 4,
       "text": "The minutes passed; the silence lengthened out, and at last after an hour of security my courage began to return to me. By this time I was no longer very much terrified or very miserable. I had, as it were, passed the limit of terror and despair. I felt now that my life was practically lost, and that persuasion made me capable of daring anything. I had even a certain wish to encounter Moreau face to face; and as I had waded into the water, I remembered that if I were too hard pressed at least one path of escape from torment still lay open to me,—they could not very well prevent my drowning myself. I had half a mind to drown myself then; but an odd wish to see the whole adventure out, a queer, impersonal, spectacular interest in myself, restrained me. I stretched my limbs, sore and painful from the pricks of the spiny plants, and stared around me at the trees; and, so suddenly that it seemed to jump out of the green tracery about it, my eyes lit upon a black face watching me. I saw that it was the simian creature who had met the launch upon the beach. He was clinging to the oblique stem of a palm-tree. I gripped my stick, and stood up facing him. He began chattering. “You, you, you,” was all I could distinguish at first. Suddenly he dropped from the tree, and in another moment was holding the fronds apart and staring curiously at me.",
+      "ttsText": "The minutes passed; the silence lengthened out, and at last after an hour of security my courage began to return to me. By this time I was no longer very much terrified or very miserable. I had, as it were, passed the limit of terror and despair. I felt now that my life was practically lost, and that persuasion made me capable of daring anything. I had even a certain wish to encounter Moreau face to face; and as I had waded into the water, I remembered that if I were too hard pressed at least one path of escape from torment still lay open to me,, they could not very well prevent my drowning myself. I had half a mind to drown myself then; but an odd wish to see the whole adventure out, a queer, impersonal, spectacular interest in myself, restrained me. I stretched my limbs, sore and painful from the pricks of the spiny plants, and stared around me at the trees; and, so suddenly that it seemed to jump out of the green tracery about it, my eyes lit upon a black face watching me. I saw that it was the simian creature who had met the launch upon the beach. He was clinging to the oblique stem of a palm-tree. I gripped my stick, and stood up facing him. He began chattering. “You, you, you,” was all I could distinguish at first. Suddenly he dropped from the tree, and in another moment was holding the fronds apart and staring curiously at me.",
       "role": "paragraph"
     },
     {
       "order": 114,
       "chapterIndex": 4,
       "text": "I did not feel the same repugnance towards this creature which I had experienced in my encounters with the other Beast Men. “You,” he said, “in the boat.” He was a man, then,—at least as much of a man as Montgomery’s attendant,—for he could talk.",
+      "ttsText": "I did not feel the same repugnance towards this creature which I had experienced in my encounters with the other Beast Men. “You,” he said, “in the boat.” He was a man, then,, at least as much of a man as Montgomery’s attendant,, for he could talk.",
       "role": "paragraph"
     },
     {
@@ -864,12 +885,14 @@
       "order": 116,
       "chapterIndex": 4,
       "text": "“Oh!” he said, and his bright, restless eyes travelled over me, to my hands, to the stick I carried, to my feet, to the tattered places in my coat, and the cuts and scratches I had received from the thorns. He seemed puzzled at something. His eyes came back to my hands. He held his own hand out and counted his digits slowly, “One, two, three, four, five—eigh?”",
+      "ttsText": "“Oh!” he said, and his bright, restless eyes travelled over me, to my hands, to the stick I carried, to my feet, to the tattered places in my coat, and the cuts and scratches I had received from the thorns. He seemed puzzled at something. His eyes came back to my hands. He held his own hand out and counted his digits slowly, “One, two, three, four, five, eigh?”",
       "role": "paragraph"
     },
     {
       "order": 117,
       "chapterIndex": 4,
       "text": "I did not grasp his meaning then; afterwards I was to find that a great proportion of these Beast People had malformed hands, lacking sometimes even three digits. But guessing this was in some way a greeting, I did the same thing by way of reply. He grinned with immense satisfaction. Then his swift roving glance went round again; he made a swift movement—and vanished. The fern fronds he had stood between came swishing together.",
+      "ttsText": "I did not grasp his meaning then; afterwards I was to find that a great proportion of these Beast People had malformed hands, lacking sometimes even three digits. But guessing this was in some way a greeting, I did the same thing by way of reply. He grinned with immense satisfaction. Then his swift roving glance went round again; he made a swift movement, and vanished. The fern fronds he had stood between came swishing together.",
       "role": "paragraph"
     },
     {
@@ -978,6 +1001,7 @@
       "order": 135,
       "chapterIndex": 5,
       "text": "THE SAYERS OF THE LAW.",
+      "ttsText": "The Sayers of the Law.",
       "role": "title"
     },
     {
@@ -1038,6 +1062,7 @@
       "order": 145,
       "chapterIndex": 5,
       "text": "It was a thick voice, with something in it—a kind of whistling overtone—that struck me as peculiar; but the English accent was strangely good.",
+      "ttsText": "It was a thick voice, with something in it, a kind of whistling overtone, that struck me as peculiar; but the English accent was strangely good.",
       "role": "paragraph"
     },
     {
@@ -1146,6 +1171,7 @@
       "order": 163,
       "chapterIndex": 5,
       "text": "And so on for another long series, mostly quite incomprehensible gibberish to me about Him , whoever he might be. I could have fancied it was a dream, but never before have I heard chanting in a dream.",
+      "ttsText": "And so on for another long series, mostly quite incomprehensible gibberish to me about Him, whoever he might be. I could have fancied it was a dream, but never before have I heard chanting in a dream.",
       "role": "paragraph"
     },
     {
@@ -1176,6 +1202,7 @@
       "order": 168,
       "chapterIndex": 5,
       "text": "“He is a five-man, a five-man, a five-man—like me,” said the Ape-man.",
+      "ttsText": "“He is a five-man, a five-man, a five-man, like me,” said the Ape-man.",
       "role": "paragraph"
     },
     {
@@ -1242,6 +1269,7 @@
       "order": 179,
       "chapterIndex": 5,
       "text": "“None, none,” said the Ape-man,—“none escape. See! I did a little thing, a wrong thing, once. I jabbered, jabbered, stopped talking. None could understand. I am burnt, branded in the hand. He is great. He is good!”",
+      "ttsText": "“None, none,” said the Ape-man,, “none escape. See! I did a little thing, a wrong thing, once. I jabbered, jabbered, stopped talking. None could understand. I am burnt, branded in the hand. He is great. He is good!”",
       "role": "paragraph"
     },
     {
@@ -1356,6 +1384,7 @@
       "order": 198,
       "chapterIndex": 5,
       "text": "Presently the ground gave rich and oozy under my feet; but I was desperate and went headlong into it, struggled through kneedeep, and so came to a winding path among tall canes. The noise of my pursuers passed away to my left. In one place three strange, pink, hopping animals, about the size of cats, bolted before my footsteps. This pathway ran up hill, across another open space covered with white incrustation, and plunged into a canebrake again. Then suddenly it turned parallel with the edge of a steep-walled gap, which came without warning, like the ha-ha of an English park,—turned with an unexpected abruptness. I was still running with all my might, and I never saw this drop until I was flying headlong through the air.",
+      "ttsText": "Presently the ground gave rich and oozy under my feet; but I was desperate and went headlong into it, struggled through kneedeep, and so came to a winding path among tall canes. The noise of my pursuers passed away to my left. In one place three strange, pink, hopping animals, about the size of cats, bolted before my footsteps. This pathway ran up hill, across another open space covered with white incrustation, and plunged into a canebrake again. Then suddenly it turned parallel with the edge of a steep-walled gap, which came without warning, like the ha-ha of an English park,, turned with an unexpected abruptness. I was still running with all my might, and I never saw this drop until I was flying headlong through the air.",
       "role": "paragraph"
     },
     {
@@ -1392,7 +1421,7 @@
       "order": 204,
       "chapterIndex": 6,
       "text": "A PARLEY.",
-      "ttsText": "Aparley.",
+      "ttsText": "A Parley.",
       "role": "title"
     },
     {
@@ -1405,12 +1434,14 @@
       "order": 206,
       "chapterIndex": 6,
       "text": "Then it came into my head that there was one chance before me yet. While Moreau and Montgomery and their bestial rabble chased me through the island, might I not go round the beach until I came to their enclosure,—make a flank march upon them, in fact, and then with a rock lugged out of their loosely-built wall, perhaps, smash in the lock of the smaller door and see what I could find (knife, pistol, or what not) to fight them with when they returned? It was at any rate something to try.",
+      "ttsText": "Then it came into my head that there was one chance before me yet. While Moreau and Montgomery and their bestial rabble chased me through the island, might I not go round the beach until I came to their enclosure,, make a flank march upon them, in fact, and then with a rock lugged out of their loosely-built wall, perhaps, smash in the lock of the smaller door and see what I could find (knife, pistol, or what not) to fight them with when they returned? It was at any rate something to try.",
       "role": "paragraph"
     },
     {
       "order": 207,
       "chapterIndex": 6,
       "text": "So I turned to the westward and walked along by the water’s edge. The setting sun flashed his blinding heat into my eyes. The slight Pacific tide was running in with a gentle ripple. Presently the shore fell away southward, and the sun came round upon my right hand. Then suddenly, far in front of me, I saw first one and then several figures emerging from the bushes,—Moreau, with his grey staghound, then Montgomery, and two others. At that I stopped.",
+      "ttsText": "So I turned to the westward and walked along by the water’s edge. The setting sun flashed his blinding heat into my eyes. The slight Pacific tide was running in with a gentle ripple. Presently the shore fell away southward, and the sun came round upon my right hand. Then suddenly, far in front of me, I saw first one and then several figures emerging from the bushes,, Moreau, with his grey staghound, then Montgomery, and two others. At that I stopped.",
       "role": "paragraph"
     },
     {
@@ -1471,6 +1502,7 @@
       "order": 217,
       "chapterIndex": 6,
       "text": "“What I saw,” I said. “And those—yonder.”",
+      "ttsText": "“What I saw,” I said. “And those, yonder.”",
       "role": "paragraph"
     },
     {
@@ -1495,12 +1527,14 @@
       "order": 221,
       "chapterIndex": 6,
       "text": "“Who are these creatures?” said I, pointing to them and raising my voice more and more that it might reach them. “They were men, men like yourselves, whom you have infected with some bestial taint,—men whom you have enslaved, and whom you still fear.",
+      "ttsText": "“Who are these creatures?” said I, pointing to them and raising my voice more and more that it might reach them. “They were men, men like yourselves, whom you have infected with some bestial taint,, men whom you have enslaved, and whom you still fear.",
       "role": "paragraph"
     },
     {
       "order": 222,
       "chapterIndex": 6,
       "text": "“You who listen,” I cried, pointing now to Moreau and shouting past him to the Beast Men,—“You who listen! Do you not see these men still fear you, go in dread of you? Why, then, do you fear them? You are many—”",
+      "ttsText": "“You who listen,” I cried, pointing now to Moreau and shouting past him to the Beast Men,, “You who listen! Do you not see these men still fear you, go in dread of you? Why, then, do you fear them? You are many, ”",
       "role": "paragraph"
     },
     {
@@ -1525,6 +1559,7 @@
       "order": 226,
       "chapterIndex": 6,
       "text": "I went on shouting, I scarcely remember what,—that Moreau and Montgomery could be killed, that they were not to be feared: that was the burden of what I put into the heads of the Beast People. I saw the green-eyed man in the dark rags, who had met me on the evening of my arrival, come out from among the trees, and others followed him, to hear me better. At last for want of breath I paused.",
+      "ttsText": "I went on shouting, I scarcely remember what,, that Moreau and Montgomery could be killed, that they were not to be feared: that was the burden of what I put into the heads of the Beast People. I saw the green-eyed man in the dark rags, who had met me on the evening of my arrival, come out from among the trees, and others followed him, to hear me better. At last for want of breath I paused.",
       "role": "paragraph"
     },
     {
@@ -1543,6 +1578,7 @@
       "order": 229,
       "chapterIndex": 6,
       "text": "He coughed, thought, then shouted: “Latin, Prendick! bad Latin, schoolboy Latin; but try and understand. Hi non sunt homines; sunt animalia qui nos habemus —vivisected. A humanising process. I will explain. Come ashore.”",
+      "ttsText": "He coughed, thought, then shouted: “Latin, Prendick! bad Latin, schoolboy Latin; but try and understand. Hi non sunt homines; sunt animalia qui nos habemus, vivisected. A humanising process. I will explain. Come ashore.”",
       "role": "paragraph"
     },
     {
@@ -1555,6 +1591,7 @@
       "order": 231,
       "chapterIndex": 6,
       "text": "“The water just beyond where you stand is deep—and full of sharks.”",
+      "ttsText": "“The water just beyond where you stand is deep, and full of sharks.”",
       "role": "paragraph"
     },
     {
@@ -1579,12 +1616,14 @@
       "order": 235,
       "chapterIndex": 6,
       "text": "“I want you to think over things, Prendick. In the first place, I never asked you to come upon this island. If we vivisected men, we should import men, not beasts. In the next, we had you drugged last night, had we wanted to work you any mischief; and in the next, now your first panic is over and you can think a little, is Montgomery here quite up to the character you give him? We have chased you for your good. Because this island is full of—inimical phenomena. Besides, why should we want to shoot you when you have just offered to drown yourself?”",
+      "ttsText": "“I want you to think over things, Prendick. In the first place, I never asked you to come upon this island. If we vivisected men, we should import men, not beasts. In the next, we had you drugged last night, had we wanted to work you any mischief; and in the next, now your first panic is over and you can think a little, is Montgomery here quite up to the character you give him? We have chased you for your good. Because this island is full of, inimical phenomena. Besides, why should we want to shoot you when you have just offered to drown yourself?”",
       "role": "paragraph"
     },
     {
       "order": 236,
       "chapterIndex": 6,
       "text": "“Why did you set—your people onto me when I was in the hut?”",
+      "ttsText": "“Why did you set, your people onto me when I was in the hut?”",
       "role": "paragraph"
     },
     {
@@ -1597,6 +1636,7 @@
       "order": 238,
       "chapterIndex": 6,
       "text": "I mused. It seemed just possible. Then I remembered something again. “But I saw,” said I, “in the enclosure—”",
+      "ttsText": "I mused. It seemed just possible. Then I remembered something again. “But I saw,” said I, “in the enclosure, ”",
       "role": "paragraph"
     },
     {
@@ -1663,6 +1703,7 @@
       "order": 249,
       "chapterIndex": 6,
       "text": "The knot of Beast Men, still wondering, stood back among the trees. I passed them as serenely as possible. One started to follow me, but retreated again when Montgomery cracked his whip. The rest stood silent—watching. They may once have been animals; but I never before saw an animal trying to think.",
+      "ttsText": "The knot of Beast Men, still wondering, stood back among the trees. I passed them as serenely as possible. One started to follow me, but retreated again when Montgomery cracked his whip. The rest stood silent, watching. They may once have been animals; but I never before saw an animal trying to think.",
       "role": "paragraph"
     },
     {
@@ -1681,12 +1722,14 @@
       "order": 252,
       "chapterIndex": 7,
       "text": "DOCTOR MOREAU EXPLAINS.",
+      "ttsText": "Doctor Moreau Explains.",
       "role": "title"
     },
     {
       "order": 253,
       "chapterIndex": 7,
       "text": "“And now, Prendick, I will explain,” said Doctor Moreau, so soon as we had eaten and drunk. “I must confess that you are the most dictatorial guest I ever entertained. I warn you that this is the last I shall do to oblige you. The next thing you threaten to commit suicide about, I shan’t do,—even at some personal inconvenience.”",
+      "ttsText": "“And now, Prendick, I will explain,” said Doctor Moreau, so soon as we had eaten and drunk. “I must confess that you are the most dictatorial guest I ever entertained. I warn you that this is the last I shall do to oblige you. The next thing you threaten to commit suicide about, I shan’t do,, even at some personal inconvenience.”",
       "role": "paragraph"
     },
     {
@@ -1705,6 +1748,7 @@
       "order": 256,
       "chapterIndex": 7,
       "text": "“It is the puma,” I said, “still alive, but so cut and mutilated as I pray I may never see living flesh again. Of all vile—”",
+      "ttsText": "“It is the puma,” I said, “still alive, but so cut and mutilated as I pray I may never see living flesh again. Of all vile, ”",
       "role": "paragraph"
     },
     {
@@ -1723,54 +1767,63 @@
       "order": 259,
       "chapterIndex": 7,
       "text": "The creatures I had seen were not men, had never been men. They were animals, humanised animals,—triumphs of vivisection.",
+      "ttsText": "The creatures I had seen were not men, had never been men. They were animals, humanised animals,, triumphs of vivisection.",
       "role": "paragraph"
     },
     {
       "order": 260,
       "chapterIndex": 7,
       "text": "“You forget all that a skilled vivisector can do with living things,” said Moreau. “For my own part, I’m puzzled why the things I have done here have not been done before. Small efforts, of course, have been made,—amputation, tongue-cutting, excisions. Of course you know a squint may be induced or cured by surgery? Then in the case of excisions you have all kinds of secondary changes, pigmentary disturbances, modifications of the passions, alterations in the secretion of fatty tissue. I have no doubt you have heard of these things?”",
+      "ttsText": "“You forget all that a skilled vivisector can do with living things,” said Moreau. “For my own part, I’m puzzled why the things I have done here have not been done before. Small efforts, of course, have been made,, amputation, tongue-cutting, excisions. Of course you know a squint may be induced or cured by surgery? Then in the case of excisions you have all kinds of secondary changes, pigmentary disturbances, modifications of the passions, alterations in the secretion of fatty tissue. I have no doubt you have heard of these things?”",
       "role": "paragraph"
     },
     {
       "order": 261,
       "chapterIndex": 7,
       "text": "“Of course,” said I. “But these foul creatures of yours—”",
+      "ttsText": "“Of course,” said I. “But these foul creatures of yours, ”",
       "role": "paragraph"
     },
     {
       "order": 262,
       "chapterIndex": 7,
       "text": "“All in good time,” said he, waving his hand at me; “I am only beginning. Those are trivial cases of alteration. Surgery can do better things than that. There is building up as well as breaking down and changing. You have heard, perhaps, of a common surgical operation resorted to in cases where the nose has been destroyed: a flap of skin is cut from the forehead, turned down on the nose, and heals in the new position. This is a kind of grafting in a new position of part of an animal upon itself. Grafting of freshly obtained material from another animal is also possible,—the case of teeth, for example. The grafting of skin and bone is done to facilitate healing: the surgeon places in the middle of the wound pieces of skin snipped from another animal, or fragments of bone from a victim freshly killed. Hunter’s cock-spur—possibly you have heard of that—flourished on the bull’s neck; and the rhinoceros rats of the Algerian zouaves are also to be thought of,—monsters manufactured by transferring a slip from the tail of an ordinary rat to its snout, and allowing it to heal in that position.”",
+      "ttsText": "“All in good time,” said he, waving his hand at me; “I am only beginning. Those are trivial cases of alteration. Surgery can do better things than that. There is building up as well as breaking down and changing. You have heard, perhaps, of a common surgical operation resorted to in cases where the nose has been destroyed: a flap of skin is cut from the forehead, turned down on the nose, and heals in the new position. This is a kind of grafting in a new position of part of an animal upon itself. Grafting of freshly obtained material from another animal is also possible,, the case of teeth, for example. The grafting of skin and bone is done to facilitate healing: the surgeon places in the middle of the wound pieces of skin snipped from another animal, or fragments of bone from a victim freshly killed. Hunter’s cock-spur, possibly you have heard of that, flourished on the bull’s neck; and the rhinoceros rats of the Algerian zouaves are also to be thought of,, monsters manufactured by transferring a slip from the tail of an ordinary rat to its snout, and allowing it to heal in that position.”",
       "role": "paragraph"
     },
     {
       "order": 263,
       "chapterIndex": 7,
       "text": "“Monsters manufactured!” said I. “Then you mean to tell me—”",
+      "ttsText": "“Monsters manufactured!” said I. “Then you mean to tell me, ”",
       "role": "paragraph"
     },
     {
       "order": 264,
       "chapterIndex": 7,
       "text": "“Yes. These creatures you have seen are animals carven and wrought into new shapes. To that, to the study of the plasticity of living forms, my life has been devoted. I have studied for years, gaining in knowledge as I go. I see you look horrified, and yet I am telling you nothing new. It all lay in the surface of practical anatomy years ago, but no one had the temerity to touch it. It is not simply the outward form of an animal which I can change. The physiology, the chemical rhythm of the creature, may also be made to undergo an enduring modification,—of which vaccination and other methods of inoculation with living or dead matter are examples that will, no doubt, be familiar to you. A similar operation is the transfusion of blood,—with which subject, indeed, I began. These are all familiar cases. Less so, and probably far more extensive, were the operations of those mediaeval practitioners who made dwarfs and beggar-cripples, show-monsters,—some vestiges of whose art still remain in the preliminary manipulation of the young mountebank or contortionist. Victor Hugo gives an account of them in ‘L’Homme qui Rit.’—But perhaps my meaning grows plain now. You begin to see that it is a possible thing to transplant tissue from one part of an animal to another, or from one animal to another; to alter its chemical reactions and methods of growth; to modify the articulations of its limbs; and, indeed, to change it in its most intimate structure.",
+      "ttsText": "“Yes. These creatures you have seen are animals carven and wrought into new shapes. To that, to the study of the plasticity of living forms, my life has been devoted. I have studied for years, gaining in knowledge as I go. I see you look horrified, and yet I am telling you nothing new. It all lay in the surface of practical anatomy years ago, but no one had the temerity to touch it. It is not simply the outward form of an animal which I can change. The physiology, the chemical rhythm of the creature, may also be made to undergo an enduring modification,, of which vaccination and other methods of inoculation with living or dead matter are examples that will, no doubt, be familiar to you. A similar operation is the transfusion of blood,, with which subject, indeed, I began. These are all familiar cases. Less so, and probably far more extensive, were the operations of those mediaeval practitioners who made dwarfs and beggar-cripples, show-monsters,, some vestiges of whose art still remain in the preliminary manipulation of the young mountebank or contortionist. Victor Hugo gives an account of them in ‘L’Homme qui Rit.’, But perhaps my meaning grows plain now. You begin to see that it is a possible thing to transplant tissue from one part of an animal to another, or from one animal to another; to alter its chemical reactions and methods of growth; to modify the articulations of its limbs; and, indeed, to change it in its most intimate structure.",
       "role": "paragraph"
     },
     {
       "order": 265,
       "chapterIndex": 7,
       "text": "“And yet this extraordinary branch of knowledge has never been sought as an end, and systematically, by modern investigators until I took it up! Some such things have been hit upon in the last resort of surgery; most of the kindred evidence that will recur to your mind has been demonstrated as it were by accident,—by tyrants, by criminals, by the breeders of horses and dogs, by all kinds of untrained clumsy-handed men working for their own immediate ends. I was the first man to take up this question armed with antiseptic surgery, and with a really scientific knowledge of the laws of growth. Yet one would imagine it must have been practised in secret before. Such creatures as the Siamese Twins—And in the vaults of the Inquisition. No doubt their chief aim was artistic torture, but some at least of the inquisitors must have had a touch of scientific curiosity.”",
+      "ttsText": "“And yet this extraordinary branch of knowledge has never been sought as an end, and systematically, by modern investigators until I took it up! Some such things have been hit upon in the last resort of surgery; most of the kindred evidence that will recur to your mind has been demonstrated as it were by accident,, by tyrants, by criminals, by the breeders of horses and dogs, by all kinds of untrained clumsy-handed men working for their own immediate ends. I was the first man to take up this question armed with antiseptic surgery, and with a really scientific knowledge of the laws of growth. Yet one would imagine it must have been practised in secret before. Such creatures as the Siamese Twins, And in the vaults of the Inquisition. No doubt their chief aim was artistic torture, but some at least of the inquisitors must have had a touch of scientific curiosity.”",
       "role": "paragraph"
     },
     {
       "order": 266,
       "chapterIndex": 7,
       "text": "“But,” said I, “these things—these animals talk!”",
+      "ttsText": "“But,” said I, “these things, these animals talk!”",
       "role": "paragraph"
     },
     {
       "order": 267,
       "chapterIndex": 7,
       "text": "He said that was so, and proceeded to point out that the possibility of vivisection does not stop at a mere physical metamorphosis. A pig may be educated. The mental structure is even less determinate than the bodily. In our growing science of hypnotism we find the promise of a possibility of superseding old inherent instincts by new suggestions, grafting upon or replacing the inherited fixed ideas. Very much indeed of what we call moral education, he said, is such an artificial modification and perversion of instinct; pugnacity is trained into courageous self-sacrifice, and suppressed sexuality into religious emotion. And the great difference between man and monkey is in the larynx, he continued,—in the incapacity to frame delicately different sound-symbols by which thought could be sustained. In this I failed to agree with him, but with a certain incivility he declined to notice my objection. He repeated that the thing was so, and continued his account of his work.",
+      "ttsText": "He said that was so, and proceeded to point out that the possibility of vivisection does not stop at a mere physical metamorphosis. A pig may be educated. The mental structure is even less determinate than the bodily. In our growing science of hypnotism we find the promise of a possibility of superseding old inherent instincts by new suggestions, grafting upon or replacing the inherited fixed ideas. Very much indeed of what we call moral education, he said, is such an artificial modification and perversion of instinct; pugnacity is trained into courageous self-sacrifice, and suppressed sexuality into religious emotion. And the great difference between man and monkey is in the larynx, he continued,, in the incapacity to frame delicately different sound-symbols by which thought could be sustained. In this I failed to agree with him, but with a certain incivility he declined to notice my objection. He repeated that the thing was so, and continued his account of his work.",
       "role": "paragraph"
     },
     {
@@ -1783,12 +1836,14 @@
       "order": 269,
       "chapterIndex": 7,
       "text": "He confessed that he had chosen that form by chance. “I might just as well have worked to form sheep into llamas and llamas into sheep. I suppose there is something in the human form that appeals to the artistic turn of mind more powerfully than any animal shape can. But I’ve not confined myself to man-making. Once or twice—” He was silent, for a minute perhaps. “These years! How they have slipped by! And here I have wasted a day saving your life, and am now wasting an hour explaining myself!”",
+      "ttsText": "He confessed that he had chosen that form by chance. “I might just as well have worked to form sheep into llamas and llamas into sheep. I suppose there is something in the human form that appeals to the artistic turn of mind more powerfully than any animal shape can. But I’ve not confined myself to man-making. Once or twice, ” He was silent, for a minute perhaps. “These years! How they have slipped by! And here I have wasted a day saving your life, and am now wasting an hour explaining myself!”",
       "role": "paragraph"
     },
     {
       "order": 270,
       "chapterIndex": 7,
       "text": "“But,” said I, “I still do not understand. Where is your justification for inflicting all this pain? The only thing that could excuse vivisection to me would be some application—”",
+      "ttsText": "“But,” said I, “I still do not understand. Where is your justification for inflicting all this pain? The only thing that could excuse vivisection to me would be some application, ”",
       "role": "paragraph"
     },
     {
@@ -1807,6 +1862,7 @@
       "order": 273,
       "chapterIndex": 7,
       "text": "“In my view—in my view. For it is just this question of pain that parts us. So long as visible or audible pain turns you sick; so long as your own pains drive you; so long as pain underlies your propositions about sin,—so long, I tell you, you are an animal, thinking a little less obscurely what an animal feels. This pain—”",
+      "ttsText": "“In my view, in my view. For it is just this question of pain that parts us. So long as visible or audible pain turns you sick; so long as your own pains drive you; so long as pain underlies your propositions about sin,, so long, I tell you, you are an animal, thinking a little less obscurely what an animal feels. This pain, ”",
       "role": "paragraph"
     },
     {
@@ -1819,6 +1875,7 @@
       "order": 275,
       "chapterIndex": 7,
       "text": "“Oh, but it is such a little thing! A mind truly opened to what science has to teach must see that it is a little thing. It may be that save in this little planet, this speck of cosmic dust, invisible long before the nearest star could be attained—it may be, I say, that nowhere else does this thing called pain occur. But the laws we feel our way towards—Why, even on this earth, even among living things, what pain is there?”",
+      "ttsText": "“Oh, but it is such a little thing! A mind truly opened to what science has to teach must see that it is a little thing. It may be that save in this little planet, this speck of cosmic dust, invisible long before the nearest star could be attained, it may be, I say, that nowhere else does this thing called pain occur. But the laws we feel our way towards, Why, even on this earth, even among living things, what pain is there?”",
       "role": "paragraph"
     },
     {
@@ -1831,72 +1888,84 @@
       "order": 277,
       "chapterIndex": 7,
       "text": "“No doubt,” he said, “you have seen that before. It does not hurt a pin-prick. But what does it show? The capacity for pain is not needed in the muscle, and it is not placed there,—is but little needed in the skin, and only here and there over the thigh is a spot capable of feeling pain. Pain is simply our intrinsic medical adviser to warn us and stimulate us. Not all living flesh is painful; nor is all nerve, not even all sensory nerve. There’s no taint of pain, real pain, in the sensations of the optic nerve. If you wound the optic nerve, you merely see flashes of light,—just as disease of the auditory nerve merely means a humming in our ears. Plants do not feel pain, nor the lower animals; it’s possible that such animals as the starfish and crayfish do not feel pain at all. Then with men, the more intelligent they become, the more intelligently they will see after their own welfare, and the less they will need the goad to keep them out of danger. I never yet heard of a useless thing that was not ground out of existence by evolution sooner or later. Did you? And pain gets needless.",
+      "ttsText": "“No doubt,” he said, “you have seen that before. It does not hurt a pin-prick. But what does it show? The capacity for pain is not needed in the muscle, and it is not placed there,, is but little needed in the skin, and only here and there over the thigh is a spot capable of feeling pain. Pain is simply our intrinsic medical adviser to warn us and stimulate us. Not all living flesh is painful; nor is all nerve, not even all sensory nerve. There’s no taint of pain, real pain, in the sensations of the optic nerve. If you wound the optic nerve, you merely see flashes of light,, just as disease of the auditory nerve merely means a humming in our ears. Plants do not feel pain, nor the lower animals; it’s possible that such animals as the starfish and crayfish do not feel pain at all. Then with men, the more intelligent they become, the more intelligently they will see after their own welfare, and the less they will need the goad to keep them out of danger. I never yet heard of a useless thing that was not ground out of existence by evolution sooner or later. Did you? And pain gets needless.",
       "role": "paragraph"
     },
     {
       "order": 278,
       "chapterIndex": 7,
       "text": "“Then I am a religious man, Prendick, as every sane man must be. It may be, I fancy, that I have seen more of the ways of this world’s Maker than you,—for I have sought his laws, in my way, all my life, while you, I understand, have been collecting butterflies. And I tell you, pleasure and pain have nothing to do with heaven or hell. Pleasure and pain—bah! What is your theologian’s ecstasy but Mahomet’s houri in the dark? This store which men and women set on pleasure and pain, Prendick, is the mark of the beast upon them,—the mark of the beast from which they came! Pain, pain and pleasure, they are for us only so long as we wriggle in the dust.",
+      "ttsText": "“Then I am a religious man, Prendick, as every sane man must be. It may be, I fancy, that I have seen more of the ways of this world’s Maker than you,, for I have sought his laws, in my way, all my life, while you, I understand, have been collecting butterflies. And I tell you, pleasure and pain have nothing to do with heaven or hell. Pleasure and pain, bah! What is your theologian’s ecstasy but Mahomet’s houri in the dark? This store which men and women set on pleasure and pain, Prendick, is the mark of the beast upon them,, the mark of the beast from which they came! Pain, pain and pleasure, they are for us only so long as we wriggle in the dust.",
       "role": "paragraph"
     },
     {
       "order": 279,
       "chapterIndex": 7,
       "text": "“You see, I went on with this research just the way it led me. That is the only way I ever heard of true research going. I asked a question, devised some method of obtaining an answer, and got a fresh question. Was this possible or that possible? You cannot imagine what this means to an investigator, what an intellectual passion grows upon him! You cannot imagine the strange, colourless delight of these intellectual desires! The thing before you is no longer an animal, a fellow-creature, but a problem! Sympathetic pain,—all I know of it I remember as a thing I used to suffer from years ago. I wanted—it was the one thing I wanted—to find out the extreme limit of plasticity in a living shape.”",
+      "ttsText": "“You see, I went on with this research just the way it led me. That is the only way I ever heard of true research going. I asked a question, devised some method of obtaining an answer, and got a fresh question. Was this possible or that possible? You cannot imagine what this means to an investigator, what an intellectual passion grows upon him! You cannot imagine the strange, colourless delight of these intellectual desires! The thing before you is no longer an animal, a fellow-creature, but a problem! Sympathetic pain,, all I know of it I remember as a thing I used to suffer from years ago. I wanted, it was the one thing I wanted, to find out the extreme limit of plasticity in a living shape.”",
       "role": "paragraph"
     },
     {
       "order": 280,
       "chapterIndex": 7,
       "text": "“But,” said I, “the thing is an abomination—”",
+      "ttsText": "“But,” said I, “the thing is an abomination, ”",
       "role": "paragraph"
     },
     {
       "order": 281,
       "chapterIndex": 7,
       "text": "“To this day I have never troubled about the ethics of the matter,” he continued. “The study of Nature makes a man at last as remorseless as Nature. I have gone on, not heeding anything but the question I was pursuing; and the material has—dripped into the huts yonder. It is nearly eleven years since we came here, I and Montgomery and six Kanakas. I remember the green stillness of the island and the empty ocean about us, as though it was yesterday. The place seemed waiting for me.",
+      "ttsText": "“To this day I have never troubled about the ethics of the matter,” he continued. “The study of Nature makes a man at last as remorseless as Nature. I have gone on, not heeding anything but the question I was pursuing; and the material has, dripped into the huts yonder. It is nearly eleven years since we came here, I and Montgomery and six Kanakas. I remember the green stillness of the island and the empty ocean about us, as though it was yesterday. The place seemed waiting for me.",
       "role": "paragraph"
     },
     {
       "order": 282,
       "chapterIndex": 7,
       "text": "“The stores were landed and the house was built. The Kanakas founded some huts near the ravine. I went to work here upon what I had brought with me. There were some disagreeable things happened at first. I began with a sheep, and killed it after a day and a half by a slip of the scalpel. I took another sheep, and made a thing of pain and fear and left it bound up to heal. It looked quite human to me when I had finished it; but when I went to it I was discontented with it. It remembered me, and was terrified beyond imagination; and it had no more than the wits of a sheep. The more I looked at it the clumsier it seemed, until at last I put the monster out of its misery. These animals without courage, these fear-haunted, pain-driven things, without a spark of pugnacious energy to face torment,—they are no good for man-making.",
+      "ttsText": "“The stores were landed and the house was built. The Kanakas founded some huts near the ravine. I went to work here upon what I had brought with me. There were some disagreeable things happened at first. I began with a sheep, and killed it after a day and a half by a slip of the scalpel. I took another sheep, and made a thing of pain and fear and left it bound up to heal. It looked quite human to me when I had finished it; but when I went to it I was discontented with it. It remembered me, and was terrified beyond imagination; and it had no more than the wits of a sheep. The more I looked at it the clumsier it seemed, until at last I put the monster out of its misery. These animals without courage, these fear-haunted, pain-driven things, without a spark of pugnacious energy to face torment,, they are no good for man-making.",
       "role": "paragraph"
     },
     {
       "order": 283,
       "chapterIndex": 7,
       "text": "“Then I took a gorilla I had; and upon that, working with infinite care and mastering difficulty after difficulty, I made my first man. All the week, night and day, I moulded him. With him it was chiefly the brain that needed moulding; much had to be added, much changed. I thought him a fair specimen of the negroid type when I had finished him, and he lay bandaged, bound, and motionless before me. It was only when his life was assured that I left him and came into this room again, and found Montgomery much as you are. He had heard some of the cries as the thing grew human,—cries like those that disturbed you so. I didn’t take him completely into my confidence at first. And the Kanakas too, had realised something of it. They were scared out of their wits by the sight of me. I got Montgomery over to me—in a way; but I and he had the hardest job to prevent the Kanakas deserting. Finally they did; and so we lost the yacht. I spent many days educating the brute,—altogether I had him for three or four months. I taught him the rudiments of English; gave him ideas of counting; even made the thing read the alphabet. But at that he was slow, though I’ve met with idiots slower. He began with a clean sheet, mentally; had no memories left in his mind of what he had been. When his scars were quite healed, and he was no longer anything but painful and stiff, and able to converse a little, I took him yonder and introduced him to the Kanakas as an interesting stowaway.",
+      "ttsText": "“Then I took a gorilla I had; and upon that, working with infinite care and mastering difficulty after difficulty, I made my first man. All the week, night and day, I moulded him. With him it was chiefly the brain that needed moulding; much had to be added, much changed. I thought him a fair specimen of the negroid type when I had finished him, and he lay bandaged, bound, and motionless before me. It was only when his life was assured that I left him and came into this room again, and found Montgomery much as you are. He had heard some of the cries as the thing grew human,, cries like those that disturbed you so. I didn’t take him completely into my confidence at first. And the Kanakas too, had realised something of it. They were scared out of their wits by the sight of me. I got Montgomery over to me, in a way; but I and he had the hardest job to prevent the Kanakas deserting. Finally they did; and so we lost the yacht. I spent many days educating the brute,, altogether I had him for three or four months. I taught him the rudiments of English; gave him ideas of counting; even made the thing read the alphabet. But at that he was slow, though I’ve met with idiots slower. He began with a clean sheet, mentally; had no memories left in his mind of what he had been. When his scars were quite healed, and he was no longer anything but painful and stiff, and able to converse a little, I took him yonder and introduced him to the Kanakas as an interesting stowaway.",
       "role": "paragraph"
     },
     {
       "order": 284,
       "chapterIndex": 7,
       "text": "“They were horribly afraid of him at first, somehow,—which offended me rather, for I was conceited about him; but his ways seemed so mild, and he was so abject, that after a time they received him and took his education in hand. He was quick to learn, very imitative and adaptive, and built himself a hovel rather better, it seemed to me, than their own shanties. There was one among the boys a bit of a missionary, and he taught the thing to read, or at least to pick out letters, and gave him some rudimentary ideas of morality; but it seems the beast’s habits were not all that is desirable.",
+      "ttsText": "“They were horribly afraid of him at first, somehow,, which offended me rather, for I was conceited about him; but his ways seemed so mild, and he was so abject, that after a time they received him and took his education in hand. He was quick to learn, very imitative and adaptive, and built himself a hovel rather better, it seemed to me, than their own shanties. There was one among the boys a bit of a missionary, and he taught the thing to read, or at least to pick out letters, and gave him some rudimentary ideas of morality; but it seems the beast’s habits were not all that is desirable.",
       "role": "paragraph"
     },
     {
       "order": 285,
       "chapterIndex": 7,
       "text": "“I rested from work for some days after this, and was in a mind to write an account of the whole affair to wake up English physiology. Then I came upon the creature squatting up in a tree and gibbering at two of the Kanakas who had been teasing him. I threatened him, told him the inhumanity of such a proceeding, aroused his sense of shame, and came home resolved to do better before I took my work back to England. I have been doing better. But somehow the things drift back again: the stubborn beast-flesh grows day by day back again. But I mean to do better things still. I mean to conquer that. This puma—",
+      "ttsText": "“I rested from work for some days after this, and was in a mind to write an account of the whole affair to wake up English physiology. Then I came upon the creature squatting up in a tree and gibbering at two of the Kanakas who had been teasing him. I threatened him, told him the inhumanity of such a proceeding, aroused his sense of shame, and came home resolved to do better before I took my work back to England. I have been doing better. But somehow the things drift back again: the stubborn beast-flesh grows day by day back again. But I mean to do better things still. I mean to conquer that. This puma,",
       "role": "paragraph"
     },
     {
       "order": 286,
       "chapterIndex": 7,
       "text": "“But that’s the story. All the Kanaka boys are dead now; one fell overboard of the launch, and one died of a wounded heel that he poisoned in some way with plant-juice. Three went away in the yacht, and I suppose and hope were drowned. The other one—was killed. Well, I have replaced them. Montgomery went on much as you are disposed to do at first, and then—”",
+      "ttsText": "“But that’s the story. All the Kanaka boys are dead now; one fell overboard of the launch, and one died of a wounded heel that he poisoned in some way with plant-juice. Three went away in the yacht, and I suppose and hope were drowned. The other one, was killed. Well, I have replaced them. Montgomery went on much as you are disposed to do at first, and then, ”",
       "role": "paragraph"
     },
     {
       "order": 287,
       "chapterIndex": 7,
       "text": "“What became of the other one?” said I, sharply,—“the other Kanaka who was killed?”",
+      "ttsText": "“What became of the other one?” said I, sharply,, “the other Kanaka who was killed?”",
       "role": "paragraph"
     },
     {
       "order": 288,
       "chapterIndex": 7,
       "text": "“The fact is, after I had made a number of human creatures I made a Thing—” He hesitated.",
+      "ttsText": "“The fact is, after I had made a number of human creatures I made a Thing, ” He hesitated.",
       "role": "paragraph"
     },
     {
@@ -1915,12 +1984,14 @@
       "order": 291,
       "chapterIndex": 7,
       "text": "“I don’t understand,” said I; “do you mean to say—”",
+      "ttsText": "“I don’t understand,” said I; “do you mean to say, ”",
       "role": "paragraph"
     },
     {
       "order": 292,
       "chapterIndex": 7,
       "text": "“It killed the Kanaka—yes. It killed several other things that it caught. We chased it for a couple of days. It only got loose by accident—I never meant it to get away. It wasn’t finished. It was purely an experiment. It was a limbless thing, with a horrible face, that writhed along the ground in a serpentine fashion. It was immensely strong, and in infuriating pain. It lurked in the woods for some days, until we hunted it; and then it wriggled into the northern part of the island, and we divided the party to close in upon it. Montgomery insisted upon coming with me. The man had a rifle; and when his body was found, one of the barrels was curved into the shape of an S and very nearly bitten through. Montgomery shot the thing. After that I stuck to the ideal of humanity—except for little things.”",
+      "ttsText": "“It killed the Kanaka, yes. It killed several other things that it caught. We chased it for a couple of days. It only got loose by accident, I never meant it to get away. It wasn’t finished. It was purely an experiment. It was a limbless thing, with a horrible face, that writhed along the ground in a serpentine fashion. It was immensely strong, and in infuriating pain. It lurked in the woods for some days, until we hunted it; and then it wriggled into the northern part of the island, and we divided the party to close in upon it. Montgomery insisted upon coming with me. The man had a rifle; and when his body was found, one of the barrels was curved into the shape of an S and very nearly bitten through. Montgomery shot the thing. After that I stuck to the ideal of humanity, except for little things.”",
       "role": "paragraph"
     },
     {
@@ -1933,6 +2004,7 @@
       "order": 294,
       "chapterIndex": 7,
       "text": "“So for twenty years altogether—counting nine years in England—I have been going on; and there is still something in everything I do that defeats me, makes me dissatisfied, challenges me to further effort. Sometimes I rise above my level, sometimes I fall below it; but always I fall short of the things I dream. The human shape I can get now, almost with ease, so that it is lithe and graceful, or thick and strong; but often there is trouble with the hands and the claws,—painful things, that I dare not shape too freely. But it is in the subtle grafting and reshaping one must needs do to the brain that my trouble lies. The intelligence is often oddly low, with unaccountable blank ends, unexpected gaps. And least satisfactory of all is something that I cannot touch, somewhere—I cannot determine where—in the seat of the emotions. Cravings, instincts, desires that harm humanity, a strange hidden reservoir to burst forth suddenly and inundate the whole being of the creature with anger, hate, or fear. These creatures of mine seemed strange and uncanny to you so soon as you began to observe them; but to me, just after I make them, they seem to be indisputably human beings. It’s afterwards, as I observe them, that the persuasion fades. First one animal trait, then another, creeps to the surface and stares out at me. But I will conquer yet! Each time I dip a living creature into the bath of burning pain, I say, ‘This time I will burn out all the animal; this time I will make a rational creature of my own!’ After all, what is ten years? Men have been a hundred thousand in the making.” He thought darkly. “But I am drawing near the fastness. This puma of mine—” After a silence, “And they revert. As soon as my hand is taken from them the beast begins to creep back, begins to assert itself again.” Another long silence.",
+      "ttsText": "“So for twenty years altogether, counting nine years in England, I have been going on; and there is still something in everything I do that defeats me, makes me dissatisfied, challenges me to further effort. Sometimes I rise above my level, sometimes I fall below it; but always I fall short of the things I dream. The human shape I can get now, almost with ease, so that it is lithe and graceful, or thick and strong; but often there is trouble with the hands and the claws,, painful things, that I dare not shape too freely. But it is in the subtle grafting and reshaping one must needs do to the brain that my trouble lies. The intelligence is often oddly low, with unaccountable blank ends, unexpected gaps. And least satisfactory of all is something that I cannot touch, somewhere, I cannot determine where, in the seat of the emotions. Cravings, instincts, desires that harm humanity, a strange hidden reservoir to burst forth suddenly and inundate the whole being of the creature with anger, hate, or fear. These creatures of mine seemed strange and uncanny to you so soon as you began to observe them; but to me, just after I make them, they seem to be indisputably human beings. It’s afterwards, as I observe them, that the persuasion fades. First one animal trait, then another, creeps to the surface and stares out at me. But I will conquer yet! Each time I dip a living creature into the bath of burning pain, I say, ‘This time I will burn out all the animal; this time I will make a rational creature of my own!’ After all, what is ten years? Men have been a hundred thousand in the making.” He thought darkly. “But I am drawing near the fastness. This puma of mine, ” After a silence, “And they revert. As soon as my hand is taken from them the beast begins to creep back, begins to assert itself again.” Another long silence.",
       "role": "paragraph"
     },
     {
@@ -1945,6 +2017,7 @@
       "order": 296,
       "chapterIndex": 7,
       "text": "“They go. I turn them out when I begin to feel the beast in them, and presently they wander there. They all dread this house and me. There is a kind of travesty of humanity over there. Montgomery knows about it, for he interferes in their affairs. He has trained one or two of them to our service. He’s ashamed of it, but I believe he half likes some of those beasts. It’s his business, not mine. They only sicken me with a sense of failure. I take no interest in them. I fancy they follow in the lines the Kanaka missionary marked out, and have a kind of mockery of a rational life, poor beasts! There’s something they call the Law. Sing hymns about ‘all thine.’ They build themselves their dens, gather fruit, and pull herbs—marry even. But I can see through it all, see into their very souls, and see there nothing but the souls of beasts, beasts that perish, anger and the lusts to live and gratify themselves.—Yet they’re odd; complex, like everything else alive. There is a kind of upward striving in them, part vanity, part waste sexual emotion, part waste curiosity. It only mocks me. I have some hope of this puma. I have worked hard at her head and brain—",
+      "ttsText": "“They go. I turn them out when I begin to feel the beast in them, and presently they wander there. They all dread this house and me. There is a kind of travesty of humanity over there. Montgomery knows about it, for he interferes in their affairs. He has trained one or two of them to our service. He’s ashamed of it, but I believe he half likes some of those beasts. It’s his business, not mine. They only sicken me with a sense of failure. I take no interest in them. I fancy they follow in the lines the Kanaka missionary marked out, and have a kind of mockery of a rational life, poor beasts! There’s something they call the Law. Sing hymns about ‘all thine.’ They build themselves their dens, gather fruit, and pull herbs, marry even. But I can see through it all, see into their very souls, and see there nothing but the souls of beasts, beasts that perish, anger and the lusts to live and gratify themselves., Yet they’re odd; complex, like everything else alive. There is a kind of upward striving in them, part vanity, part waste sexual emotion, part waste curiosity. It only mocks me. I have some hope of this puma. I have worked hard at her head and brain,",
       "role": "paragraph"
     },
     {
@@ -1987,6 +2060,7 @@
       "order": 303,
       "chapterIndex": 8,
       "text": "CONCERNING THE BEAST FOLK.",
+      "ttsText": "Concerning the Beast Folk.",
       "role": "title"
     },
     {
@@ -2023,18 +2097,21 @@
       "order": 309,
       "chapterIndex": 8,
       "text": "And here perhaps I may give a few general facts about the island and the Beast People. The island, which was of irregular outline and lay low upon the wide sea, had a total area, I suppose, of seven or eight square miles. [2] It was volcanic in origin, and was now fringed on three sides by coral reefs; some fumaroles to the northward, and a hot spring, were the only vestiges of the forces that had long since originated it. Now and then a faint quiver of earthquake would be sensible, and sometimes the ascent of the spire of smoke would be rendered tumultuous by gusts of steam; but that was all. The population of the island, Montgomery informed me, now numbered rather more than sixty of these strange creations of Moreau’s art, not counting the smaller monstrosities which lived in the undergrowth and were without human form. Altogether he had made nearly a hundred and twenty; but many had died, and others—like the writhing Footless Thing of which he had told me—had come by violent ends. In answer to my question, Montgomery said that they actually bore offspring, but that these generally died. When they lived, Moreau took them and stamped the human form upon them. There was no evidence of the inheritance of their acquired human characteristics. The females were less numerous than the males, and liable to much furtive persecution in spite of the monogamy the Law enjoined.",
+      "ttsText": "And here perhaps I may give a few general facts about the island and the Beast People. The island, which was of irregular outline and lay low upon the wide sea, had a total area, I suppose, of seven or eight square miles. [2] It was volcanic in origin, and was now fringed on three sides by coral reefs; some fumaroles to the northward, and a hot spring, were the only vestiges of the forces that had long since originated it. Now and then a faint quiver of earthquake would be sensible, and sometimes the ascent of the spire of smoke would be rendered tumultuous by gusts of steam; but that was all. The population of the island, Montgomery informed me, now numbered rather more than sixty of these strange creations of Moreau’s art, not counting the smaller monstrosities which lived in the undergrowth and were without human form. Altogether he had made nearly a hundred and twenty; but many had died, and others, like the writhing Footless Thing of which he had told me, had come by violent ends. In answer to my question, Montgomery said that they actually bore offspring, but that these generally died. When they lived, Moreau took them and stamped the human form upon them. There was no evidence of the inheritance of their acquired human characteristics. The females were less numerous than the males, and liable to much furtive persecution in spite of the monogamy the Law enjoined.",
       "role": "paragraph"
     },
     {
       "order": 310,
       "chapterIndex": 8,
       "text": "[2] This description corresponds in every respect to Noble’s Isle.—C. E. P.",
+      "ttsText": "[2] This description corresponds in every respect to Noble’s Isle., C.E.P.",
       "role": "paragraph"
     },
     {
       "order": 311,
       "chapterIndex": 8,
       "text": "It would be impossible for me to describe these Beast People in detail; my eye has had no training in details, and unhappily I cannot sketch. Most striking, perhaps, in their general appearance was the disproportion between the legs of these creatures and the length of their bodies; and yet—so relative is our idea of grace—my eye became habituated to their forms, and at last I even fell in with their persuasion that my own long thighs were ungainly. Another point was the forward carriage of the head and the clumsy and inhuman curvature of the spine. Even the Ape-man lacked that inward sinuous curve of the back which makes the human figure so graceful. Most had their shoulders hunched clumsily, and their short forearms hung weakly at their sides. Few of them were conspicuously hairy, at least until the end of my time upon the island.",
+      "ttsText": "It would be impossible for me to describe these Beast People in detail; my eye has had no training in details, and unhappily I cannot sketch. Most striking, perhaps, in their general appearance was the disproportion between the legs of these creatures and the length of their bodies; and yet, so relative is our idea of grace, my eye became habituated to their forms, and at last I even fell in with their persuasion that my own long thighs were ungainly. Another point was the forward carriage of the head and the clumsy and inhuman curvature of the spine. Even the Ape-man lacked that inward sinuous curve of the back which makes the human figure so graceful. Most had their shoulders hunched clumsily, and their short forearms hung weakly at their sides. Few of them were conspicuously hairy, at least until the end of my time upon the island.",
       "role": "paragraph"
     },
     {
@@ -2053,12 +2130,14 @@
       "order": 314,
       "chapterIndex": 8,
       "text": "At first I had a shivering horror of the brutes, felt all too keenly that they were still brutes; but insensibly I became a little habituated to the idea of them, and moreover I was affected by Montgomery’s attitude towards them. He had been with them so long that he had come to regard them as almost normal human beings. His London days seemed a glorious, impossible past to him. Only once in a year or so did he go to Africa to deal with Moreau’s agent, a trader in animals there. He hardly met the finest type of mankind in that seafaring village of Spanish mongrels. The men aboard-ship, he told me, seemed at first just as strange to him as the Beast Men seemed to me,—unnaturally long in the leg, flat in the face, prominent in the forehead, suspicious, dangerous, and cold-hearted. In fact, he did not like men: his heart had warmed to me, he thought, because he had saved my life. I fancied even then that he had a sneaking kindness for some of these metamorphosed brutes, a vicious sympathy with some of their ways, but that he attempted to veil it from me at first.",
+      "ttsText": "At first I had a shivering horror of the brutes, felt all too keenly that they were still brutes; but insensibly I became a little habituated to the idea of them, and moreover I was affected by Montgomery’s attitude towards them. He had been with them so long that he had come to regard them as almost normal human beings. His London days seemed a glorious, impossible past to him. Only once in a year or so did he go to Africa to deal with Moreau’s agent, a trader in animals there. He hardly met the finest type of mankind in that seafaring village of Spanish mongrels. The men aboard-ship, he told me, seemed at first just as strange to him as the Beast Men seemed to me,, unnaturally long in the leg, flat in the face, prominent in the forehead, suspicious, dangerous, and cold-hearted. In fact, he did not like men: his heart had warmed to me, he thought, because he had saved my life. I fancied even then that he had a sneaking kindness for some of these metamorphosed brutes, a vicious sympathy with some of their ways, but that he attempted to veil it from me at first.",
       "role": "paragraph"
     },
     {
       "order": 315,
       "chapterIndex": 8,
       "text": "M’ling, the black-faced man, Montgomery’s attendant, the first of the Beast Folk I had encountered, did not live with the others across the island, but in a small kennel at the back of the enclosure. The creature was scarcely so intelligent as the Ape-man, but far more docile, and the most human-looking of all the Beast Folk; and Montgomery had trained it to prepare food, and indeed to discharge all the trivial domestic offices that were required. It was a complex trophy of Moreau’s horrible skill,—a bear, tainted with dog and ox, and one of the most elaborately made of all his creatures. It treated Montgomery with a strange tenderness and devotion. Sometimes he would notice it, pat it, call it half-mocking, half-jocular names, and so make it caper with extraordinary delight; sometimes he would ill-treat it, especially after he had been at the whiskey, kicking it, beating it, pelting it with stones or lighted fusees. But whether he treated it well or ill, it loved nothing so much as to be near him.",
+      "ttsText": "M’ling, the black-faced man, Montgomery’s attendant, the first of the Beast Folk I had encountered, did not live with the others across the island, but in a small kennel at the back of the enclosure. The creature was scarcely so intelligent as the Ape-man, but far more docile, and the most human-looking of all the Beast Folk; and Montgomery had trained it to prepare food, and indeed to discharge all the trivial domestic offices that were required. It was a complex trophy of Moreau’s horrible skill,, a bear, tainted with dog and ox, and one of the most elaborately made of all his creatures. It treated Montgomery with a strange tenderness and devotion. Sometimes he would notice it, pat it, call it half-mocking, half-jocular names, and so make it caper with extraordinary delight; sometimes he would ill-treat it, especially after he had been at the whiskey, kicking it, beating it, pelting it with stones or lighted fusees. But whether he treated it well or ill, it loved nothing so much as to be near him.",
       "role": "paragraph"
     },
     {
@@ -2071,6 +2150,7 @@
       "order": 317,
       "chapterIndex": 8,
       "text": "Yet every now and then the beast would flash out upon me beyond doubt or denial. An ugly-looking man, a hunch-backed human savage to all appearance, squatting in the aperture of one of the dens, would stretch his arms and yawn, showing with startling suddenness scissor-edged incisors and sabre-like canines, keen and brilliant as knives. Or in some narrow pathway, glancing with a transitory daring into the eyes of some lithe, white-swathed female figure, I would suddenly see (with a spasmodic revulsion) that she had slit-like pupils, or glancing down note the curving nail with which she held her shapeless wrap about her. It is a curious thing, by the bye, for which I am quite unable to account, that these weird creatures—the females, I mean—had in the earlier days of my stay an instinctive sense of their own repulsive clumsiness, and displayed in consequence a more than human regard for the decency and decorum of extensive costume.",
+      "ttsText": "Yet every now and then the beast would flash out upon me beyond doubt or denial. An ugly-looking man, a hunch-backed human savage to all appearance, squatting in the aperture of one of the dens, would stretch his arms and yawn, showing with startling suddenness scissor-edged incisors and sabre-like canines, keen and brilliant as knives. Or in some narrow pathway, glancing with a transitory daring into the eyes of some lithe, white-swathed female figure, I would suddenly see (with a spasmodic revulsion) that she had slit-like pupils, or glancing down note the curving nail with which she held her shapeless wrap about her. It is a curious thing, by the bye, for which I am quite unable to account, that these weird creatures, the females, I mean, had in the earlier days of my stay an instinctive sense of their own repulsive clumsiness, and displayed in consequence a more than human regard for the decency and decorum of extensive costume.",
       "role": "paragraph"
     },
     {
@@ -2089,6 +2169,7 @@
       "order": 320,
       "chapterIndex": 9,
       "text": "HOW THE BEAST FOLK TASTE BLOOD.",
+      "ttsText": "How the Beast Folk Taste Blood.",
       "role": "title"
     },
     {
@@ -2101,12 +2182,14 @@
       "order": 322,
       "chapterIndex": 9,
       "text": "After I had breakfasted with Montgomery, he took me across the island to see the fumarole and the source of the hot spring into whose scalding waters I had blundered on the previous day. Both of us carried whips and loaded revolvers. While going through a leafy jungle on our road thither, we heard a rabbit squealing. We stopped and listened, but we heard no more; and presently we went on our way, and the incident dropped out of our minds. Montgomery called my attention to certain little pink animals with long hind-legs, that went leaping through the undergrowth. He told me they were creatures made of the offspring of the Beast People, that Moreau had invented. He had fancied they might serve for meat, but a rabbit-like habit of devouring their young had defeated this intention. I had already encountered some of these creatures,—once during my moonlight flight from the Leopard-man, and once during my pursuit by Moreau on the previous day. By chance, one hopping to avoid us leapt into the hole caused by the uprooting of a wind-blown tree; before it could extricate itself we managed to catch it. It spat like a cat, scratched and kicked vigorously with its hind-legs, and made an attempt to bite; but its teeth were too feeble to inflict more than a painless pinch. It seemed to me rather a pretty little creature; and as Montgomery stated that it never destroyed the turf by burrowing, and was very cleanly in its habits, I should imagine it might prove a convenient substitute for the common rabbit in gentlemen’s parks.",
+      "ttsText": "After I had breakfasted with Montgomery, he took me across the island to see the fumarole and the source of the hot spring into whose scalding waters I had blundered on the previous day. Both of us carried whips and loaded revolvers. While going through a leafy jungle on our road thither, we heard a rabbit squealing. We stopped and listened, but we heard no more; and presently we went on our way, and the incident dropped out of our minds. Montgomery called my attention to certain little pink animals with long hind-legs, that went leaping through the undergrowth. He told me they were creatures made of the offspring of the Beast People, that Moreau had invented. He had fancied they might serve for meat, but a rabbit-like habit of devouring their young had defeated this intention. I had already encountered some of these creatures,, once during my moonlight flight from the Leopard-man, and once during my pursuit by Moreau on the previous day. By chance, one hopping to avoid us leapt into the hole caused by the uprooting of a wind-blown tree; before it could extricate itself we managed to catch it. It spat like a cat, scratched and kicked vigorously with its hind-legs, and made an attempt to bite; but its teeth were too feeble to inflict more than a painless pinch. It seemed to me rather a pretty little creature; and as Montgomery stated that it never destroyed the turf by burrowing, and was very cleanly in its habits, I should imagine it might prove a convenient substitute for the common rabbit in gentlemen’s parks.",
       "role": "paragraph"
     },
     {
       "order": 323,
       "chapterIndex": 9,
       "text": "We also saw on our way the trunk of a tree barked in long strips and splintered deeply. Montgomery called my attention to this. “Not to claw bark of trees, that is the Law,” he said. “Much some of them care for it!” It was after this, I think, that we met the Satyr and the Ape-man. The Satyr was a gleam of classical memory on the part of Moreau,—his face ovine in expression, like the coarser Hebrew type; his voice a harsh bleat, his nether extremities Satanic. He was gnawing the husk of a pod-like fruit as he passed us. Both of them saluted Montgomery.",
+      "ttsText": "We also saw on our way the trunk of a tree barked in long strips and splintered deeply. Montgomery called my attention to this. “Not to claw bark of trees, that is the Law,” he said. “Much some of them care for it!” It was after this, I think, that we met the Satyr and the Ape-man. The Satyr was a gleam of classical memory on the part of Moreau,, his face ovine in expression, like the coarser Hebrew type; his voice a harsh bleat, his nether extremities Satanic. He was gnawing the husk of a pod-like fruit as he passed us. Both of them saluted Montgomery.",
       "role": "paragraph"
     },
     {
@@ -2125,6 +2208,7 @@
       "order": 326,
       "chapterIndex": 9,
       "text": "“Was he not made?” said the Ape-man. “He said—he said he was made.”",
+      "ttsText": "“Was he not made?” said the Ape-man. “He said, he said he was made.”",
       "role": "paragraph"
     },
     {
@@ -2281,6 +2365,7 @@
       "order": 352,
       "chapterIndex": 9,
       "text": "“Of course,” said Montgomery; “it’s just the way with carnivores. After a kill, they drink. It’s the taste of blood, you know.—What was the brute like?” he continued. “Would you know him again?” He glanced about us, standing astride over the mess of dead rabbit, his eyes roving among the shadows and screens of greenery, the lurking-places and ambuscades of the forest that bounded us in. “The taste of blood,” he said again.",
+      "ttsText": "“Of course,” said Montgomery; “it’s just the way with carnivores. After a kill, they drink. It’s the taste of blood, you know., What was the brute like?” he continued. “Would you know him again?” He glanced about us, standing astride over the mess of dead rabbit, his eyes roving among the shadows and screens of greenery, the lurking-places and ambuscades of the forest that bounded us in. “The taste of blood,” he said again.",
       "role": "paragraph"
     },
     {
@@ -2317,12 +2402,14 @@
       "order": 358,
       "chapterIndex": 9,
       "text": "Presently he woke up and came towards me. “You see,” he said, almost in a whisper, “they are all supposed to have a fixed idea against eating anything that runs on land. If some brute has by any accident tasted blood—”",
+      "ttsText": "Presently he woke up and came towards me. “You see,” he said, almost in a whisper, “they are all supposed to have a fixed idea against eating anything that runs on land. If some brute has by any accident tasted blood, ”",
       "role": "paragraph"
     },
     {
       "order": 359,
       "chapterIndex": 9,
       "text": "We went on some way in silence. “I wonder what can have happened,” he said to himself. Then, after a pause again: “I did a foolish thing the other day. That servant of mine—I showed him how to skin and cook a rabbit. It’s odd—I saw him licking his hands—It never occurred to me.”",
+      "ttsText": "We went on some way in silence. “I wonder what can have happened,” he said to himself. Then, after a pause again: “I did a foolish thing the other day. That servant of mine, I showed him how to skin and cook a rabbit. It’s odd, I saw him licking his hands, It never occurred to me.”",
       "role": "paragraph"
     },
     {
@@ -2407,12 +2494,14 @@
       "order": 373,
       "chapterIndex": 9,
       "text": "First to arrive was the Satyr, strangely unreal for all that he cast a shadow and tossed the dust with his hoofs. After him from the brake came a monstrous lout, a thing of horse and rhinoceros, chewing a straw as it came; then appeared the Swine-woman and two Wolf-women; then the Fox-bear witch, with her red eyes in her peaked red face, and then others,—all hurrying eagerly. As they came forward they began to cringe towards Moreau and chant, quite regardless of one another, fragments of the latter half of the litany of the Law,—“His is the Hand that wounds; His is the Hand that heals,” and so forth. As soon as they had approached within a distance of perhaps thirty yards they halted, and bowing on knees and elbows began flinging the white dust upon their heads.",
+      "ttsText": "First to arrive was the Satyr, strangely unreal for all that he cast a shadow and tossed the dust with his hoofs. After him from the brake came a monstrous lout, a thing of horse and rhinoceros, chewing a straw as it came; then appeared the Swine-woman and two Wolf-women; then the Fox-bear witch, with her red eyes in her peaked red face, and then others,, all hurrying eagerly. As they came forward they began to cringe towards Moreau and chant, quite regardless of one another, fragments of the latter half of the litany of the Law,, “His is the Hand that wounds; His is the Hand that heals,” and so forth. As soon as they had approached within a distance of perhaps thirty yards they halted, and bowing on knees and elbows began flinging the white dust upon their heads.",
       "role": "paragraph"
     },
     {
       "order": 374,
       "chapterIndex": 9,
       "text": "Imagine the scene if you can! We three blue-clad men, with our misshapen black-faced attendant, standing in a wide expanse of sunlit yellow dust under the blazing blue sky, and surrounded by this circle of crouching and gesticulating monstrosities,—some almost human save in their subtle expression and gestures, some like cripples, some so strangely distorted as to resemble nothing but the denizens of our wildest dreams; and, beyond, the reedy lines of a canebrake in one direction, a dense tangle of palm-trees on the other, separating us from the ravine with the huts, and to the north the hazy horizon of the Pacific Ocean.",
+      "ttsText": "Imagine the scene if you can! We three blue-clad men, with our misshapen black-faced attendant, standing in a wide expanse of sunlit yellow dust under the blazing blue sky, and surrounded by this circle of crouching and gesticulating monstrosities,, some almost human save in their subtle expression and gestures, some like cripples, some so strangely distorted as to resemble nothing but the denizens of our wildest dreams; and, beyond, the reedy lines of a canebrake in one direction, a dense tangle of palm-trees on the other, separating us from the ravine with the huts, and to the north the hazy horizon of the Pacific Ocean.",
       "role": "paragraph"
     },
     {
@@ -2455,6 +2544,7 @@
       "order": 381,
       "chapterIndex": 9,
       "text": "Forthwith all in the kneeling assembly, swaying from side to side and dashing up the sulphur with their hands,—first the right hand and a puff of dust, and then the left,—began once more to chant their strange litany. When they reached, “Not to eat Flesh or Fish, that is the Law,” Moreau held up his lank white hand.",
+      "ttsText": "Forthwith all in the kneeling assembly, swaying from side to side and dashing up the sulphur with their hands,, first the right hand and a puff of dust, and then the left,, began once more to chant their strange litany. When they reached, “Not to eat Flesh or Fish, that is the Law,” Moreau held up his lank white hand.",
       "role": "paragraph"
     },
     {
@@ -2509,24 +2599,28 @@
       "order": 390,
       "chapterIndex": 9,
       "text": "“Who breaks the Law—” said Moreau, taking his eyes off his victim, and turning towards us (it seemed to me there was a touch of exultation in his voice).",
+      "ttsText": "“Who breaks the Law, ” said Moreau, taking his eyes off his victim, and turning towards us (it seemed to me there was a touch of exultation in his voice).",
       "role": "paragraph"
     },
     {
       "order": 391,
       "chapterIndex": 9,
       "text": "“Goes back to the House of Pain,” they all clamoured,—“goes back to the House of Pain, O Master!”",
+      "ttsText": "“Goes back to the House of Pain,” they all clamoured,, “goes back to the House of Pain, O Master!”",
       "role": "paragraph"
     },
     {
       "order": 392,
       "chapterIndex": 9,
       "text": "“Back to the House of Pain,—back to the House of Pain,” gabbled the Ape-man, as though the idea was sweet to him.",
+      "ttsText": "“Back to the House of Pain,, back to the House of Pain,” gabbled the Ape-man, as though the idea was sweet to him.",
       "role": "paragraph"
     },
     {
       "order": 393,
       "chapterIndex": 9,
       "text": "“Do you hear?” said Moreau, turning back to the criminal, “my friend—Hullo!”",
+      "ttsText": "“Do you hear?” said Moreau, turning back to the criminal, “my friend, Hullo!”",
       "role": "paragraph"
     },
     {
@@ -2545,6 +2639,7 @@
       "order": 396,
       "chapterIndex": 9,
       "text": "The Leopard-man went bursting his way through the long canes, which sprang back as he passed, and rattled in M’ling’s face. We others in the rear found a trampled path for us when we reached the brake. The chase lay through the brake for perhaps a quarter of a mile, and then plunged into a dense thicket, which retarded our movements exceedingly, though we went through it in a crowd together,—fronds flicking into our faces, ropy creepers catching us under the chin or gripping our ankles, thorny plants hooking into and tearing cloth and flesh together.",
+      "ttsText": "The Leopard-man went bursting his way through the long canes, which sprang back as he passed, and rattled in M’ling’s face. We others in the rear found a trampled path for us when we reached the brake. The chase lay through the brake for perhaps a quarter of a mile, and then plunged into a dense thicket, which retarded our movements exceedingly, though we went through it in a crowd together,, fronds flicking into our faces, ropy creepers catching us under the chin or gripping our ankles, thorny plants hooking into and tearing cloth and flesh together.",
       "role": "paragraph"
     },
     {
@@ -2605,6 +2700,7 @@
       "order": 406,
       "chapterIndex": 9,
       "text": "It may seem a strange contradiction in me,—I cannot explain the fact,—but now, seeing the creature there in a perfectly animal attitude, with the light gleaming in its eyes and its imperfectly human face distorted with terror, I realised again the fact of its humanity. In another moment other of its pursuers would see it, and it would be overpowered and captured, to experience once more the horrible tortures of the enclosure. Abruptly I slipped out my revolver, aimed between its terror-struck eyes, and fired. As I did so, the Hyena-swine saw the Thing, and flung itself upon it with an eager cry, thrusting thirsty teeth into its neck. All about me the green masses of the thicket were swaying and cracking as the Beast People came rushing together. One face and then another appeared.",
+      "ttsText": "It may seem a strange contradiction in me,, I cannot explain the fact,, but now, seeing the creature there in a perfectly animal attitude, with the light gleaming in its eyes and its imperfectly human face distorted with terror, I realised again the fact of its humanity. In another moment other of its pursuers would see it, and it would be overpowered and captured, to experience once more the horrible tortures of the enclosure. Abruptly I slipped out my revolver, aimed between its terror-struck eyes, and fired. As I did so, the Hyena-swine saw the Thing, and flung itself upon it with an eager cry, thrusting thirsty teeth into its neck. All about me the green masses of the thicket were swaying and cracking as the Beast People came rushing together. One face and then another appeared.",
       "role": "paragraph"
     },
     {
@@ -2641,6 +2737,7 @@
       "order": 412,
       "chapterIndex": 9,
       "text": "Poor brutes! I began to see the viler aspect of Moreau’s cruelty. I had not thought before of the pain and trouble that came to these poor victims after they had passed from Moreau’s hands. I had shivered only at the days of actual torment in the enclosure. But now that seemed to me the lesser part. Before, they had been beasts, their instincts fitly adapted to their surroundings, and happy as living things may be. Now they stumbled in the shackles of humanity, lived in a fear that never died, fretted by a law they could not understand; their mock-human existence, begun in an agony, was one long internal struggle, one long dread of Moreau—and for what? It was the wantonness of it that stirred me.",
+      "ttsText": "Poor brutes! I began to see the viler aspect of Moreau’s cruelty. I had not thought before of the pain and trouble that came to these poor victims after they had passed from Moreau’s hands. I had shivered only at the days of actual torment in the enclosure. But now that seemed to me the lesser part. Before, they had been beasts, their instincts fitly adapted to their surroundings, and happy as living things may be. Now they stumbled in the shackles of humanity, lived in a fear that never died, fretted by a law they could not understand; their mock-human existence, begun in an agony, was one long internal struggle, one long dread of Moreau, and for what? It was the wantonness of it that stirred me.",
       "role": "paragraph"
     },
     {
@@ -2671,19 +2768,21 @@
       "order": 417,
       "chapterIndex": 10,
       "text": "A CATASTROPHE.",
-      "ttsText": "Acatastrophe.",
+      "ttsText": "A Catastrophe.",
       "role": "title"
     },
     {
       "order": 418,
       "chapterIndex": 10,
       "text": "Scarcely six weeks passed before I had lost every feeling but dislike and abhorrence for this infamous experiment of Moreau’s. My one idea was to get away from these horrible caricatures of my Maker’s image, back to the sweet and wholesome intercourse of men. My fellow-creatures, from whom I was thus separated, began to assume idyllic virtue and beauty in my memory. My first friendship with Montgomery did not increase. His long separation from humanity, his secret vice of drunkenness, his evident sympathy with the Beast People, tainted him to me. Several times I let him go alone among them. I avoided intercourse with them in every possible way. I spent an increasing proportion of my time upon the beach, looking for some liberating sail that never appeared,—until one day there fell upon us an appalling disaster, which put an altogether different aspect upon my strange surroundings.",
+      "ttsText": "Scarcely six weeks passed before I had lost every feeling but dislike and abhorrence for this infamous experiment of Moreau’s. My one idea was to get away from these horrible caricatures of my Maker’s image, back to the sweet and wholesome intercourse of men. My fellow-creatures, from whom I was thus separated, began to assume idyllic virtue and beauty in my memory. My first friendship with Montgomery did not increase. His long separation from humanity, his secret vice of drunkenness, his evident sympathy with the Beast People, tainted him to me. Several times I let him go alone among them. I avoided intercourse with them in every possible way. I spent an increasing proportion of my time upon the beach, looking for some liberating sail that never appeared,, until one day there fell upon us an appalling disaster, which put an altogether different aspect upon my strange surroundings.",
       "role": "paragraph"
     },
     {
       "order": 419,
       "chapterIndex": 10,
       "text": "It was about seven or eight weeks after my landing,—rather more, I think, though I had not troubled to keep account of the time,—when this catastrophe occurred. It happened in the early morning—I should think about six. I had risen and breakfasted early, having been aroused by the noise of three Beast Men carrying wood into the enclosure.",
+      "ttsText": "It was about seven or eight weeks after my landing,, rather more, I think, though I had not troubled to keep account of the time,, when this catastrophe occurred. It happened in the early morning, I should think about six. I had risen and breakfasted early, having been aroused by the noise of three Beast Men carrying wood into the enclosure.",
       "role": "paragraph"
     },
     {
@@ -2696,6 +2795,7 @@
       "order": 421,
       "chapterIndex": 10,
       "text": "Then suddenly something happened,—I do not know what, to this day. I heard a short, sharp cry behind me, a fall, and turning saw an awful face rushing upon me,—not human, not animal, but hellish, brown, seamed with red branching scars, red drops starting out upon it, and the lidless eyes ablaze. I threw up my arm to defend myself from the blow that flung me headlong with a broken forearm; and the great monster, swathed in lint and with red-stained bandages fluttering about it, leapt over me and passed. I rolled over and over down the beach, tried to sit up, and collapsed upon my broken arm. Then Moreau appeared, his massive white face all the more terrible for the blood that trickled from his forehead. He carried a revolver in one hand. He scarcely glanced at me, but rushed off at once in pursuit of the puma.",
+      "ttsText": "Then suddenly something happened,, I do not know what, to this day. I heard a short, sharp cry behind me, a fall, and turning saw an awful face rushing upon me,, not human, not animal, but hellish, brown, seamed with red branching scars, red drops starting out upon it, and the lidless eyes ablaze. I threw up my arm to defend myself from the blow that flung me headlong with a broken forearm; and the great monster, swathed in lint and with red-stained bandages fluttering about it, leapt over me and passed. I rolled over and over down the beach, tried to sit up, and collapsed upon my broken arm. Then Moreau appeared, his massive white face all the more terrible for the blood that trickled from his forehead. He carried a revolver in one hand. He scarcely glanced at me, but rushed off at once in pursuit of the puma.",
       "role": "paragraph"
     },
     {
@@ -2720,6 +2820,7 @@
       "order": 425,
       "chapterIndex": 10,
       "text": "He came forward and took my arm. “Blood on the sleeve,” said he, and rolled back the flannel. He pocketed his weapon, felt my arm about painfully, and led me inside. “Your arm is broken,” he said, and then, “Tell me exactly how it happened—what happened?”",
+      "ttsText": "He came forward and took my arm. “Blood on the sleeve,” said he, and rolled back the flannel. He pocketed his weapon, felt my arm about painfully, and led me inside. “Your arm is broken,” he said, and then, “Tell me exactly how it happened, what happened?”",
       "role": "paragraph"
     },
     {
@@ -2762,12 +2863,14 @@
       "order": 432,
       "chapterIndex": 10,
       "text": "The morning was as still as death. Not a whisper of wind was stirring; the sea was like polished glass, the sky empty, the beach desolate. In my half-excited, half-feverish state, this stillness of things oppressed me. I tried to whistle, and the tune died away. I swore again,—the second time that morning. Then I went to the corner of the enclosure and stared inland at the green bush that had swallowed up Moreau and Montgomery. When would they return, and how? Then far away up the beach a little grey Beast Man appeared, ran down to the water’s edge and began splashing about. I strolled back to the doorway, then to the corner again, and so began pacing to and fro like a sentinel upon duty. Once I was arrested by the distant voice of Montgomery bawling, “Coo-ee—Moreau!” My arm became less painful, but very hot. I got feverish and thirsty. My shadow grew shorter. I watched the distant figure until it went away again. Would Moreau and Montgomery never return? Three sea-birds began fighting for some stranded treasure.",
+      "ttsText": "The morning was as still as death. Not a whisper of wind was stirring; the sea was like polished glass, the sky empty, the beach desolate. In my half-excited, half-feverish state, this stillness of things oppressed me. I tried to whistle, and the tune died away. I swore again,, the second time that morning. Then I went to the corner of the enclosure and stared inland at the green bush that had swallowed up Moreau and Montgomery. When would they return, and how? Then far away up the beach a little grey Beast Man appeared, ran down to the water’s edge and began splashing about. I strolled back to the doorway, then to the corner again, and so began pacing to and fro like a sentinel upon duty. Once I was arrested by the distant voice of Montgomery bawling, “Coo-ee, Moreau!” My arm became less painful, but very hot. I got feverish and thirsty. My shadow grew shorter. I watched the distant figure until it went away again. Would Moreau and Montgomery never return? Three sea-birds began fighting for some stranded treasure.",
       "role": "paragraph"
     },
     {
       "order": 433,
       "chapterIndex": 10,
       "text": "Then from far away behind the enclosure I heard a pistol-shot. A long silence, and then came another. Then a yelling cry nearer, and another dismal gap of silence. My unfortunate imagination set to work to torment me. Then suddenly a shot close by. I went to the corner, startled, and saw Montgomery,—his face scarlet, his hair disordered, and the knee of his trousers torn. His face expressed profound consternation. Behind him slouched the Beast Man, M’ling, and round M’ling’s jaws were some queer dark stains.",
+      "ttsText": "Then from far away behind the enclosure I heard a pistol-shot. A long silence, and then came another. Then a yelling cry nearer, and another dismal gap of silence. My unfortunate imagination set to work to torment me. Then suddenly a shot close by. I went to the corner, startled, and saw Montgomery,, his face scarlet, his hair disordered, and the knee of his trousers torn. His face expressed profound consternation. Behind him slouched the Beast Man, M’ling, and round M’ling’s jaws were some queer dark stains.",
       "role": "paragraph"
     },
     {
@@ -2810,6 +2913,7 @@
       "order": 440,
       "chapterIndex": 10,
       "text": "Growing more alarmed every minute, he began to retrace his steps. Then it was he encountered the two Swine-men I had seen dancing on the night of my arrival; blood-stained they were about the mouth, and intensely excited. They came crashing through the ferns, and stopped with fierce faces when they saw him. He cracked his whip in some trepidation, and forthwith they rushed at him. Never before had a Beast Man dared to do that. One he shot through the head; M’ling flung himself upon the other, and the two rolled grappling. M’ling got his brute under and with his teeth in its throat, and Montgomery shot that too as it struggled in M’ling’s grip. He had some difficulty in inducing M’ling to come on with him. Thence they had hurried back to me. On the way, M’ling had suddenly rushed into a thicket and driven out an under-sized Ocelot-man, also blood-stained, and lame through a wound in the foot. This brute had run a little way and then turned savagely at bay, and Montgomery—with a certain wantonness, I thought—had shot him.",
+      "ttsText": "Growing more alarmed every minute, he began to retrace his steps. Then it was he encountered the two Swine-men I had seen dancing on the night of my arrival; blood-stained they were about the mouth, and intensely excited. They came crashing through the ferns, and stopped with fierce faces when they saw him. He cracked his whip in some trepidation, and forthwith they rushed at him. Never before had a Beast Man dared to do that. One he shot through the head; M’ling flung himself upon the other, and the two rolled grappling. M’ling got his brute under and with his teeth in its throat, and Montgomery shot that too as it struggled in M’ling’s grip. He had some difficulty in inducing M’ling to come on with him. Thence they had hurried back to me. On the way, M’ling had suddenly rushed into a thicket and driven out an under-sized Ocelot-man, also blood-stained, and lame through a wound in the foot. This brute had run a little way and then turned savagely at bay, and Montgomery, with a certain wantonness, I thought, had shot him.",
       "role": "paragraph"
     },
     {
@@ -2840,6 +2944,7 @@
       "order": 445,
       "chapterIndex": 11,
       "text": "THE FINDING OF MOREAU.",
+      "ttsText": "The Finding of Moreau.",
       "role": "title"
     },
     {
@@ -2888,12 +2993,14 @@
       "order": 453,
       "chapterIndex": 11,
       "text": "There was a silence, then a crashing among the interlacing vegetation, first here, then there, and then half-a-dozen faces appeared,—strange faces, lit by a strange light. M’ling made a growling noise in his throat. I recognised the Ape-man: I had indeed already identified his voice, and two of the white-swathed brown-featured creatures I had seen in Montgomery’s boat. With these were the two dappled brutes and that grey, horribly crooked creature who said the Law, with grey hair streaming down its cheeks, heavy grey eyebrows, and grey locks pouring off from a central parting upon its sloping forehead,—a heavy, faceless thing, with strange red eyes, looking at us curiously from amidst the green.",
+      "ttsText": "There was a silence, then a crashing among the interlacing vegetation, first here, then there, and then half-a-dozen faces appeared,, strange faces, lit by a strange light. M’ling made a growling noise in his throat. I recognised the Ape-man: I had indeed already identified his voice, and two of the white-swathed brown-featured creatures I had seen in Montgomery’s boat. With these were the two dappled brutes and that grey, horribly crooked creature who said the Law, with grey hair streaming down its cheeks, heavy grey eyebrows, and grey locks pouring off from a central parting upon its sloping forehead,, a heavy, faceless thing, with strange red eyes, looking at us curiously from amidst the green.",
       "role": "paragraph"
     },
     {
       "order": 454,
       "chapterIndex": 11,
       "text": "For a space no one spoke. Then Montgomery hiccoughed, “Who—said he was dead?”",
+      "ttsText": "For a space no one spoke. Then Montgomery hiccoughed, “Who, said he was dead?”",
       "role": "paragraph"
     },
     {
@@ -2948,6 +3055,7 @@
       "order": 463,
       "chapterIndex": 11,
       "text": "I had been standing behind him during this colloquy. I began to see how things lay with them. I suddenly stepped in front of Montgomery and lifted up my voice:—“Children of the Law,” I said, “he is not dead!” M’ling turned his sharp eyes on me. “He has changed his shape; he has changed his body,” I went on. “For a time you will not see him. He is—there,” I pointed upward, “where he can watch you. You cannot see him, but he can see you. Fear the Law!”",
+      "ttsText": "I had been standing behind him during this colloquy. I began to see how things lay with them. I suddenly stepped in front of Montgomery and lifted up my voice:, “Children of the Law,” I said, “he is not dead!” M’ling turned his sharp eyes on me. “He has changed his shape; he has changed his body,” I went on. “For a time you will not see him. He is, there,” I pointed upward, “where he can watch you. You cannot see him, but he can see you. Fear the Law!”",
       "role": "paragraph"
     },
     {
@@ -2972,6 +3080,7 @@
       "order": 467,
       "chapterIndex": 11,
       "text": "“The Thing that bled, and ran screaming and sobbing,—that is dead too,” said the grey Thing, still regarding me.",
+      "ttsText": "“The Thing that bled, and ran screaming and sobbing,, that is dead too,” said the grey Thing, still regarding me.",
       "role": "paragraph"
     },
     {
@@ -2984,6 +3093,7 @@
       "order": 469,
       "chapterIndex": 11,
       "text": "“The Other with the Whip—” began the grey Thing.",
+      "ttsText": "“The Other with the Whip, ” began the grey Thing.",
       "role": "paragraph"
     },
     {
@@ -3008,6 +3118,7 @@
       "order": 473,
       "chapterIndex": 11,
       "text": "“Some,” said I, “have broken the Law: they will die. Some have died. Show us now where his old body lies,—the body he cast away because he had no more need of it.”",
+      "ttsText": "“Some,” said I, “have broken the Law: they will die. Some have died. Show us now where his old body lies,, the body he cast away because he had no more need of it.”",
       "role": "paragraph"
     },
     {
@@ -3074,30 +3185,35 @@
       "order": 484,
       "chapterIndex": 12,
       "text": "IN THE DINGEY OF THE “LADY VAIN.”",
+      "ttsText": "In the Dingey of the “Lady Vain.”",
       "role": "title"
     },
     {
       "order": 485,
       "chapterIndex": 12,
       "text": "I do not propose to add anything to what has already been written concerning the loss of the Lady Vain . As everyone knows, she collided with a derelict when ten days out from Callao. The longboat, with seven of the crew, was picked up eighteen days after by H. M. gunboat Myrtle , and the story of their terrible privations has become quite as well known as the far more horrible Medusa case. But I have to add to the published story of the Lady Vain another, possibly as horrible and far stranger. It has hitherto been supposed that the four men who were in the dingey perished, but this is incorrect. I have the best of evidence for this assertion: I was one of the four men.",
+      "ttsText": "I do not propose to add anything to what has already been written concerning the loss of the Lady Vain. As everyone knows, she collided with a derelict when ten days out from Callao. The longboat, with seven of the crew, was picked up eighteen days after by H.M.gunboat Myrtle, and the story of their terrible privations has become quite as well known as the far more horrible Medusa case. But I have to add to the published story of the Lady Vain another, possibly as horrible and far stranger. It has hitherto been supposed that the four men who were in the dingey perished, but this is incorrect. I have the best of evidence for this assertion: I was one of the four men.",
       "role": "paragraph"
     },
     {
       "order": 486,
       "chapterIndex": 12,
       "text": "But in the first place I must state that there never were four men in the dingey,—the number was three. Constans, who was “seen by the captain to jump into the gig,” [1] luckily for us and unluckily for himself did not reach us. He came down out of the tangle of ropes under the stays of the smashed bowsprit, some small rope caught his heel as he let go, and he hung for a moment head downward, and then fell and struck a block or spar floating in the water. We pulled towards him, but he never came up.",
+      "ttsText": "But in the first place I must state that there never were four men in the dingey,, the number was three. Constans, who was “seen by the captain to jump into the gig,” [1] luckily for us and unluckily for himself did not reach us. He came down out of the tangle of ropes under the stays of the smashed bowsprit, some small rope caught his heel as he let go, and he hung for a moment head downward, and then fell and struck a block or spar floating in the water. We pulled towards him, but he never came up.",
       "role": "paragraph"
     },
     {
       "order": 487,
       "chapterIndex": 12,
       "text": "[1] Daily News , March 17, 1887.",
+      "ttsText": "[1] Daily News, March 17, 1887.",
       "role": "paragraph"
     },
     {
       "order": 488,
       "chapterIndex": 12,
       "text": "I say luckily for us he did not reach us, and I might almost say luckily for himself; for we had only a small beaker of water and some soddened ship’s biscuits with us, so sudden had been the alarm, so unprepared the ship for any disaster. We thought the people on the launch would be better provisioned (though it seems they were not), and we tried to hail them. They could not have heard us, and the next morning when the drizzle cleared,—which was not until past midday,—we could see nothing of them. We could not stand up to look about us, because of the pitching of the boat. The two other men who had escaped so far with me were a man named Helmar, a passenger like myself, and a seaman whose name I don’t know,—a short sturdy man, with a stammer.",
+      "ttsText": "I say luckily for us he did not reach us, and I might almost say luckily for himself; for we had only a small beaker of water and some soddened ship’s biscuits with us, so sudden had been the alarm, so unprepared the ship for any disaster. We thought the people on the launch would be better provisioned (though it seems they were not), and we tried to hail them. They could not have heard us, and the next morning when the drizzle cleared,, which was not until past midday,, we could see nothing of them. We could not stand up to look about us, because of the pitching of the boat. The two other men who had escaped so far with me were a man named Helmar, a passenger like myself, and a seaman whose name I don’t know,, a short sturdy man, with a stammer.",
       "role": "paragraph"
     },
     {
@@ -3140,6 +3256,7 @@
       "order": 495,
       "chapterIndex": 13,
       "text": "MONTGOMERY’S “BANK HOLIDAY.”",
+      "ttsText": "Montgomery’s “Bank Holiday.”",
       "role": "title"
     },
     {
@@ -3152,6 +3269,7 @@
       "order": 497,
       "chapterIndex": 13,
       "text": "“This silly ass of a world,” he said; “what a muddle it all is! I haven’t had any life. I wonder when it’s going to begin. Sixteen years being bullied by nurses and schoolmasters at their own sweet will; five in London grinding hard at medicine, bad food, shabby lodgings, shabby clothes, shabby vice, a blunder,— I didn’t know any better,—and hustled off to this beastly island. Ten years here! What’s it all for, Prendick? Are we bubbles blown by a baby?”",
+      "ttsText": "“This silly ass of a world,” he said; “what a muddle it all is! I haven’t had any life. I wonder when it’s going to begin. Sixteen years being bullied by nurses and schoolmasters at their own sweet will; five in London grinding hard at medicine, bad food, shabby lodgings, shabby clothes, shabby vice, a blunder,, I didn’t know any better,, and hustled off to this beastly island. Ten years here! What’s it all for, Prendick? Are we bubbles blown by a baby?”",
       "role": "paragraph"
     },
     {
@@ -3164,18 +3282,21 @@
       "order": 499,
       "chapterIndex": 13,
       "text": "“What’s the good of getting away? I’m an outcast. Where am I to join on? It’s all very well for you , Prendick. Poor old Moreau! We can’t leave him here to have his bones picked. As it is—And besides, what will become of the decent part of the Beast Folk?”",
+      "ttsText": "“What’s the good of getting away? I’m an outcast. Where am I to join on? It’s all very well for you, Prendick. Poor old Moreau! We can’t leave him here to have his bones picked. As it is, And besides, what will become of the decent part of the Beast Folk?”",
       "role": "paragraph"
     },
     {
       "order": 500,
       "chapterIndex": 13,
       "text": "“Well,” said I, “that will do to-morrow. I’ve been thinking we might make the brushwood into a pyre and burn his body—and those other things. Then what will happen with the Beast Folk?”",
+      "ttsText": "“Well,” said I, “that will do to-morrow. I’ve been thinking we might make the brushwood into a pyre and burn his body, and those other things. Then what will happen with the Beast Folk?”",
       "role": "paragraph"
     },
     {
       "order": 501,
       "chapterIndex": 13,
       "text": "“ I don’t know. I suppose those that were made of beasts of prey will make silly asses of themselves sooner or later. We can’t massacre the lot—can we? I suppose that’s what your humanity would suggest? But they’ll change. They are sure to change.”",
+      "ttsText": "“ I don’t know. I suppose those that were made of beasts of prey will make silly asses of themselves sooner or later. We can’t massacre the lot, can we? I suppose that’s what your humanity would suggest? But they’ll change. They are sure to change.”",
       "role": "paragraph"
     },
     {
@@ -3230,12 +3351,14 @@
       "order": 510,
       "chapterIndex": 13,
       "text": "“Get—out of the way!” he roared, and suddenly whipped out his revolver.",
+      "ttsText": "“Get, out of the way!” he roared, and suddenly whipped out his revolver.",
       "role": "paragraph"
     },
     {
       "order": 511,
       "chapterIndex": 13,
       "text": "“Very well,” said I, and stood aside, half-minded to fall upon him as he put his hand upon the latch, but deterred by the thought of my useless arm. “You’ve made a beast of yourself,—to the beasts you may go.”",
+      "ttsText": "“Very well,” said I, and stood aside, half-minded to fall upon him as he put his hand upon the latch, but deterred by the thought of my useless arm. “You’ve made a beast of yourself,, to the beasts you may go.”",
       "role": "paragraph"
     },
     {
@@ -3254,6 +3377,7 @@
       "order": 514,
       "chapterIndex": 13,
       "text": "Three dim creatures in the silvery light came along the edge of the wan beach,—one a white-wrapped creature, the other two blotches of blackness following it. They halted, staring. Then I saw M’ling’s hunched shoulders as he came round the corner of the house.",
+      "ttsText": "Three dim creatures in the silvery light came along the edge of the wan beach,, one a white-wrapped creature, the other two blotches of blackness following it. They halted, staring. Then I saw M’ling’s hunched shoulders as he came round the corner of the house.",
       "role": "paragraph"
     },
     {
@@ -3272,6 +3396,7 @@
       "order": 517,
       "chapterIndex": 13,
       "text": "“Sing!” I heard Montgomery shout,—“sing all together, ‘Confound old Prendick!’ That’s right; now again, ‘Confound old Prendick!’”",
+      "ttsText": "“Sing!” I heard Montgomery shout,, “sing all together, ‘Confound old Prendick!’ That’s right; now again, ‘Confound old Prendick!’”",
       "role": "paragraph"
     },
     {
@@ -3290,6 +3415,7 @@
       "order": 520,
       "chapterIndex": 13,
       "text": "Then I shut the door, locked it, and went into the enclosure where Moreau lay beside his latest victims,—the staghounds and the llama and some other wretched brutes,—with his massive face calm even after his terrible death, and with the hard eyes open, staring at the dead white moon above. I sat down upon the edge of the sink, and with my eyes upon that ghastly pile of silvery light and ominous shadows began to turn over my plans. In the morning I would gather some provisions in the dingey, and after setting fire to the pyre before me, push out into the desolation of the high sea once more. I felt that for Montgomery there was no help; that he was, in truth, half akin to these Beast Folk, unfitted for human kindred.",
+      "ttsText": "Then I shut the door, locked it, and went into the enclosure where Moreau lay beside his latest victims,, the staghounds and the llama and some other wretched brutes,, with his massive face calm even after his terrible death, and with the hard eyes open, staring at the dead white moon above. I sat down upon the edge of the sink, and with my eyes upon that ghastly pile of silvery light and ominous shadows began to turn over my plans. In the morning I would gather some provisions in the dingey, and after setting fire to the pyre before me, push out into the desolation of the high sea once more. I felt that for Montgomery there was no help; that he was, in truth, half akin to these Beast Folk, unfitted for human kindred.",
       "role": "paragraph"
     },
     {
@@ -3302,12 +3428,14 @@
       "order": 522,
       "chapterIndex": 13,
       "text": "My thoughts went back to my means of escape. I got up, brought the lamp, and went into a shed to look at some kegs I had seen there. Then I became interested in the contents of some biscuit-tins, and opened one. I saw something out of the tail of my eye,—a red figure,—and turned sharply.",
+      "ttsText": "My thoughts went back to my means of escape. I got up, brought the lamp, and went into a shed to look at some kegs I had seen there. Then I became interested in the contents of some biscuit-tins, and opened one. I saw something out of the tail of my eye,, a red figure,, and turned sharply.",
       "role": "paragraph"
     },
     {
       "order": 523,
       "chapterIndex": 13,
       "text": "Behind me lay the yard, vividly black-and-white in the moonlight, and the pile of wood and faggots on which Moreau and his mutilated victims lay, one over another. They seemed to be gripping one another in one last revengeful grapple. His wounds gaped, black as night, and the blood that had dripped lay in black patches upon the sand. Then I saw, without understanding, the cause of my phantom,—a ruddy glow that came and danced and went upon the wall opposite. I misinterpreted this, fancied it was a reflection of my flickering lamp, and turned again to the stores in the shed. I went on rummaging among them, as well as a one-armed man could, finding this convenient thing and that, and putting them aside for to-morrow’s launch. My movements were slow, and the time passed quickly. Insensibly the daylight crept upon me.",
+      "ttsText": "Behind me lay the yard, vividly black-and-white in the moonlight, and the pile of wood and faggots on which Moreau and his mutilated victims lay, one over another. They seemed to be gripping one another in one last revengeful grapple. His wounds gaped, black as night, and the blood that had dripped lay in black patches upon the sand. Then I saw, without understanding, the cause of my phantom,, a ruddy glow that came and danced and went upon the wall opposite. I misinterpreted this, fancied it was a reflection of my flickering lamp, and turned again to the stores in the shed. I went on rummaging among them, as well as a one-armed man could, finding this convenient thing and that, and putting them aside for to-morrow’s launch. My movements were slow, and the time passed quickly. Insensibly the daylight crept upon me.",
       "role": "paragraph"
     },
     {
@@ -3332,12 +3460,14 @@
       "order": 527,
       "chapterIndex": 13,
       "text": "Montgomery lay on his back, with the hairy-grey Beast-man sprawling across his body. The brute was dead, but still gripping Montgomery’s throat with its curving claws. Near by lay M’ling on his face and quite still, his neck bitten open and the upper part of the smashed brandy-bottle in his hand. Two other figures lay near the fire,—the one motionless, the other groaning fitfully, every now and then raising its head slowly, then dropping it again.",
+      "ttsText": "Montgomery lay on his back, with the hairy-grey Beast-man sprawling across his body. The brute was dead, but still gripping Montgomery’s throat with its curving claws. Near by lay M’ling on his face and quite still, his neck bitten open and the upper part of the smashed brandy-bottle in his hand. Two other figures lay near the fire,, the one motionless, the other groaning fitfully, every now and then raising its head slowly, then dropping it again.",
       "role": "paragraph"
     },
     {
       "order": 528,
       "chapterIndex": 13,
       "text": "I caught hold of the grey man and pulled him off Montgomery’s body; his claws drew down the torn coat reluctantly as I dragged him away. Montgomery was dark in the face and scarcely breathing. I splashed sea-water on his face and pillowed his head on my rolled-up coat. M’ling was dead. The wounded creature by the fire—it was a Wolf-brute with a bearded grey face—lay, I found, with the fore part of its body upon the still glowing timber. The wretched thing was injured so dreadfully that in mercy I blew its brains out at once. The other brute was one of the Bull-men swathed in white. He too was dead. The rest of the Beast People had vanished from the beach.",
+      "ttsText": "I caught hold of the grey man and pulled him off Montgomery’s body; his claws drew down the torn coat reluctantly as I dragged him away. Montgomery was dark in the face and scarcely breathing. I splashed sea-water on his face and pillowed his head on my rolled-up coat. M’ling was dead. The wounded creature by the fire, it was a Wolf-brute with a bearded grey face, lay, I found, with the fore part of its body upon the still glowing timber. The wretched thing was injured so dreadfully that in mercy I blew its brains out at once. The other brute was one of the Bull-men swathed in white. He too was dead. The rest of the Beast People had vanished from the beach.",
       "role": "paragraph"
     },
     {
@@ -3374,6 +3504,7 @@
       "order": 534,
       "chapterIndex": 13,
       "text": "“Sorry,” he said presently, with an effort. He seemed trying to think. “The last,” he murmured, “the last of this silly universe. What a mess—”",
+      "ttsText": "“Sorry,” he said presently, with an effort. He seemed trying to think. “The last,” he murmured, “the last of this silly universe. What a mess, ”",
       "role": "paragraph"
     },
     {
@@ -3410,12 +3541,14 @@
       "order": 540,
       "chapterIndex": 14,
       "text": "ALONE WITH THE BEAST FOLK.",
+      "ttsText": "Alone with the Beast Folk.",
       "role": "title"
     },
     {
       "order": 541,
       "chapterIndex": 14,
       "text": "I faced these people, facing my fate in them, single-handed now,—literally single-handed, for I had a broken arm. In my pocket was a revolver with two empty chambers. Among the chips scattered about the beach lay the two axes that had been used to chop up the boats. The tide was creeping in behind me. There was nothing for it but courage. I looked squarely into the faces of the advancing monsters. They avoided my eyes, and their quivering nostrils investigated the bodies that lay beyond me on the beach. I took half-a-dozen steps, picked up the blood-stained whip that lay beneath the body of the Wolf-man, and cracked it. They stopped and stared at me.",
+      "ttsText": "I faced these people, facing my fate in them, single-handed now,, literally single-handed, for I had a broken arm. In my pocket was a revolver with two empty chambers. Among the chips scattered about the beach lay the two axes that had been used to chop up the boats. The tide was creeping in behind me. There was nothing for it but courage. I looked squarely into the faces of the advancing monsters. They avoided my eyes, and their quivering nostrils investigated the bodies that lay beyond me on the beach. I took half-a-dozen steps, picked up the blood-stained whip that lay beneath the body of the Wolf-man, and cracked it. They stopped and stared at me.",
       "role": "paragraph"
     },
     {
@@ -3440,6 +3573,7 @@
       "order": 545,
       "chapterIndex": 14,
       "text": "“They broke the Law,” said I, putting my foot on the Sayer of the Law. “They have been slain,—even the Sayer of the Law; even the Other with the Whip. Great is the Law! Come and see.”",
+      "ttsText": "“They broke the Law,” said I, putting my foot on the Sayer of the Law. “They have been slain,, even the Sayer of the Law; even the Other with the Whip. Great is the Law! Come and see.”",
       "role": "paragraph"
     },
     {
@@ -3536,6 +3670,7 @@
       "order": 561,
       "chapterIndex": 14,
       "text": "His teeth flashed upon me in a snarl. “Who are you that I should—”",
+      "ttsText": "His teeth flashed upon me in a snarl. “Who are you that I should, ”",
       "role": "paragraph"
     },
     {
@@ -3644,6 +3779,7 @@
       "order": 579,
       "chapterIndex": 15,
       "text": "THE REVERSION OF THE BEAST FOLK.",
+      "ttsText": "The Reversion of the Beast Folk.",
       "role": "title"
     },
     {
@@ -3668,6 +3804,7 @@
       "order": 583,
       "chapterIndex": 15,
       "text": "“ I —Master.”",
+      "ttsText": "“ I, Master.”",
       "role": "paragraph"
     },
     {
@@ -3722,6 +3859,7 @@
       "order": 592,
       "chapterIndex": 15,
       "text": "“Presently,” I answered, “I will slay them all,—after certain days and certain things have come to pass. Every one of them save those you spare, every one of them shall be slain.”",
+      "ttsText": "“Presently,” I answered, “I will slay them all,, after certain days and certain things have come to pass. Every one of them save those you spare, every one of them shall be slain.”",
       "role": "paragraph"
     },
     {
@@ -3746,6 +3884,7 @@
       "order": 596,
       "chapterIndex": 15,
       "text": "“But one has sinned,” said I. “Him I will kill, whenever I may meet him. When I say to you, ‘ That is he ,’ see that you fall upon him. And now I will go to the men and women who are assembled together.”",
+      "ttsText": "“But one has sinned,” said I. “Him I will kill, whenever I may meet him. When I say to you, ‘ That is he,’ see that you fall upon him. And now I will go to the men and women who are assembled together.”",
       "role": "paragraph"
     },
     {
@@ -3770,6 +3909,7 @@
       "order": 600,
       "chapterIndex": 15,
       "text": "“He is dead, he is dead! the Master is dead!” said the voice of the Ape-man to the right of me. “The House of Pain—there is no House of Pain!”",
+      "ttsText": "“He is dead, he is dead! the Master is dead!” said the voice of the Ape-man to the right of me. “The House of Pain, there is no House of Pain!”",
       "role": "paragraph"
     },
     {
@@ -3830,12 +3970,14 @@
       "order": 610,
       "chapterIndex": 15,
       "text": "In this manner began the longer part of my sojourn upon this Island of Doctor Moreau. But from that night until the end came, there was but one thing happened to tell save a series of innumerable small unpleasant details and the fretting of an incessant uneasiness. So that I prefer to make no chronicle for that gap of time, to tell only one cardinal incident of the ten months I spent as an intimate of these half-humanised brutes. There is much that sticks in my memory that I could write,—things that I would cheerfully give my right hand to forget; but they do not help the telling of the story.",
+      "ttsText": "In this manner began the longer part of my sojourn upon this Island of Doctor Moreau. But from that night until the end came, there was but one thing happened to tell save a series of innumerable small unpleasant details and the fretting of an incessant uneasiness. So that I prefer to make no chronicle for that gap of time, to tell only one cardinal incident of the ten months I spent as an intimate of these half-humanised brutes. There is much that sticks in my memory that I could write,, things that I would cheerfully give my right hand to forget; but they do not help the telling of the story.",
       "role": "paragraph"
     },
     {
       "order": 611,
       "chapterIndex": 15,
       "text": "In the retrospect it is strange to remember how soon I fell in with these monsters’ ways, and gained my confidence again. I had my quarrels with them of course, and could show some of their teeth-marks still; but they soon gained a wholesome respect for my trick of throwing stones and for the bite of my hatchet. And my Saint-Bernard-man’s loyalty was of infinite service to me. I found their simple scale of honour was based mainly on the capacity for inflicting trenchant wounds. Indeed, I may say—without vanity, I hope—that I held something like pre-eminence among them. One or two, whom in a rare access of high spirits I had scarred rather badly, bore me a grudge; but it vented itself chiefly behind my back, and at a safe distance from my missiles, in grimaces.",
+      "ttsText": "In the retrospect it is strange to remember how soon I fell in with these monsters’ ways, and gained my confidence again. I had my quarrels with them of course, and could show some of their teeth-marks still; but they soon gained a wholesome respect for my trick of throwing stones and for the bite of my hatchet. And my Saint-Bernard-man’s loyalty was of infinite service to me. I found their simple scale of honour was based mainly on the capacity for inflicting trenchant wounds. Indeed, I may say, without vanity, I hope, that I held something like pre-eminence among them. One or two, whom in a rare access of high spirits I had scarred rather badly, bore me a grudge; but it vented itself chiefly behind my back, and at a safe distance from my missiles, in grimaces.",
       "role": "paragraph"
     },
     {
@@ -3848,18 +3990,21 @@
       "order": 613,
       "chapterIndex": 15,
       "text": "In the first month or so the Beast Folk, compared with their latter condition, were human enough, and for one or two besides my canine friend I even conceived a friendly tolerance. The little pink sloth-creature displayed an odd affection for me, and took to following me about. The Monkey-man bored me, however; he assumed, on the strength of his five digits, that he was my equal, and was for ever jabbering at me,—jabbering the most arrant nonsense. One thing about him entertained me a little: he had a fantastic trick of coining new words. He had an idea, I believe, that to gabble about names that meant nothing was the proper use of speech. He called it “Big Thinks” to distinguish it from “Little Thinks,” the sane every-day interests of life. If ever I made a remark he did not understand, he would praise it very much, ask me to say it again, learn it by heart, and go off repeating it, with a word wrong here or there, to all the milder of the Beast People. He thought nothing of what was plain and comprehensible. I invented some very curious “Big Thinks” for his especial use. I think now that he was the silliest creature I ever met; he had developed in the most wonderful way the distinctive silliness of man without losing one jot of the natural folly of a monkey.",
+      "ttsText": "In the first month or so the Beast Folk, compared with their latter condition, were human enough, and for one or two besides my canine friend I even conceived a friendly tolerance. The little pink sloth-creature displayed an odd affection for me, and took to following me about. The Monkey-man bored me, however; he assumed, on the strength of his five digits, that he was my equal, and was for ever jabbering at me,, jabbering the most arrant nonsense. One thing about him entertained me a little: he had a fantastic trick of coining new words. He had an idea, I believe, that to gabble about names that meant nothing was the proper use of speech. He called it “Big Thinks” to distinguish it from “Little Thinks,” the sane every-day interests of life. If ever I made a remark he did not understand, he would praise it very much, ask me to say it again, learn it by heart, and go off repeating it, with a word wrong here or there, to all the milder of the Beast People. He thought nothing of what was plain and comprehensible. I invented some very curious “Big Thinks” for his especial use. I think now that he was the silliest creature I ever met; he had developed in the most wonderful way the distinctive silliness of man without losing one jot of the natural folly of a monkey.",
       "role": "paragraph"
     },
     {
       "order": 614,
       "chapterIndex": 15,
       "text": "This, I say, was in the earlier weeks of my solitude among these brutes. During that time they respected the usage established by the Law, and behaved with general decorum. Once I found another rabbit torn to pieces,—by the Hyena-swine, I am assured,—but that was all. It was about May when I first distinctly perceived a growing difference in their speech and carriage, a growing coarseness of articulation, a growing disinclination to talk. My Monkey-man’s jabber multiplied in volume but grew less and less comprehensible, more and more simian. Some of the others seemed altogether slipping their hold upon speech, though they still understood what I said to them at that time. (Can you imagine language, once clear-cut and exact, softening and guttering, losing shape and import, becoming mere lumps of sound again?) And they walked erect with an increasing difficulty. Though they evidently felt ashamed of themselves, every now and then I would come upon one or another running on toes and finger-tips, and quite unable to recover the vertical attitude. They held things more clumsily; drinking by suction, feeding by gnawing, grew commoner every day. I realised more keenly than ever what Moreau had told me about the “stubborn beast-flesh.” They were reverting, and reverting very rapidly.",
+      "ttsText": "This, I say, was in the earlier weeks of my solitude among these brutes. During that time they respected the usage established by the Law, and behaved with general decorum. Once I found another rabbit torn to pieces,, by the Hyena-swine, I am assured,, but that was all. It was about May when I first distinctly perceived a growing difference in their speech and carriage, a growing coarseness of articulation, a growing disinclination to talk. My Monkey-man’s jabber multiplied in volume but grew less and less comprehensible, more and more simian. Some of the others seemed altogether slipping their hold upon speech, though they still understood what I said to them at that time. (Can you imagine language, once clear-cut and exact, softening and guttering, losing shape and import, becoming mere lumps of sound again?) And they walked erect with an increasing difficulty. Though they evidently felt ashamed of themselves, every now and then I would come upon one or another running on toes and finger-tips, and quite unable to recover the vertical attitude. They held things more clumsily; drinking by suction, feeding by gnawing, grew commoner every day. I realised more keenly than ever what Moreau had told me about the “stubborn beast-flesh.” They were reverting, and reverting very rapidly.",
       "role": "paragraph"
     },
     {
       "order": 615,
       "chapterIndex": 15,
       "text": "Some of them—the pioneers in this, I noticed with some surprise, were all females—began to disregard the injunction of decency, deliberately for the most part. Others even attempted public outrages upon the institution of monogamy. The tradition of the Law was clearly losing its force. I cannot pursue this disagreeable subject.",
+      "ttsText": "Some of them, the pioneers in this, I noticed with some surprise, were all females, began to disregard the injunction of decency, deliberately for the most part. Others even attempted public outrages upon the institution of monogamy. The tradition of the Law was clearly losing its force. I cannot pursue this disagreeable subject.",
       "role": "paragraph"
     },
     {
@@ -3878,6 +4023,7 @@
       "order": 618,
       "chapterIndex": 15,
       "text": "It would be impossible to detail every step of the lapsing of these monsters,—to tell how, day by day, the human semblance left them; how they gave up bandagings and wrappings, abandoned at last every stitch of clothing; how the hair began to spread over the exposed limbs; how their foreheads fell away and their faces projected; how the quasi-human intimacy I had permitted myself with some of them in the first month of my loneliness became a shuddering horror to recall.",
+      "ttsText": "It would be impossible to detail every step of the lapsing of these monsters,, to tell how, day by day, the human semblance left them; how they gave up bandagings and wrappings, abandoned at last every stitch of clothing; how the hair began to spread over the exposed limbs; how their foreheads fell away and their faces projected; how the quasi-human intimacy I had permitted myself with some of them in the first month of my loneliness became a shuddering horror to recall.",
       "role": "paragraph"
     },
     {
@@ -3890,6 +4036,7 @@
       "order": 620,
       "chapterIndex": 15,
       "text": "Of course these creatures did not decline into such beasts as the reader has seen in zoological gardens,—into ordinary bears, wolves, tigers, oxen, swine, and apes. There was still something strange about each; in each Moreau had blended this animal with that. One perhaps was ursine chiefly, another feline chiefly, another bovine chiefly; but each was tainted with other creatures,—a kind of generalised animalism appearing through the specific dispositions. And the dwindling shreds of the humanity still startled me every now and then,—a momentary recrudescence of speech perhaps, an unexpected dexterity of the fore-feet, a pitiful attempt to walk erect.",
+      "ttsText": "Of course these creatures did not decline into such beasts as the reader has seen in zoological gardens,, into ordinary bears, wolves, tigers, oxen, swine, and apes. There was still something strange about each; in each Moreau had blended this animal with that. One perhaps was ursine chiefly, another feline chiefly, another bovine chiefly; but each was tainted with other creatures,, a kind of generalised animalism appearing through the specific dispositions. And the dwindling shreds of the humanity still startled me every now and then,, a momentary recrudescence of speech perhaps, an unexpected dexterity of the fore-feet, a pitiful attempt to walk erect.",
       "role": "paragraph"
     },
     {
@@ -3920,6 +4067,7 @@
       "order": 625,
       "chapterIndex": 15,
       "text": "I did not, however, mean to die, and an incident occurred that warned me unmistakably of the folly of letting the days pass so,—for each fresh day was fraught with increasing danger from the Beast People.",
+      "ttsText": "I did not, however, mean to die, and an incident occurred that warned me unmistakably of the folly of letting the days pass so,, for each fresh day was fraught with increasing danger from the Beast People.",
       "role": "paragraph"
     },
     {
@@ -3932,6 +4080,7 @@
       "order": 627,
       "chapterIndex": 15,
       "text": "At first I did not understand, but presently it occurred to me that he wished me to follow him; and this I did at last,—slowly, for the day was hot. When we reached the trees he clambered into them, for he could travel better among their swinging creepers than on the ground. And suddenly in a trampled space I came upon a ghastly group. My Saint-Bernard-creature lay on the ground, dead; and near his body crouched the Hyena-swine, gripping the quivering flesh with its misshapen claws, gnawing at it, and snarling with delight. As I approached, the monster lifted its glaring eyes to mine, its lips went trembling back from its red-stained teeth, and it growled menacingly. It was not afraid and not ashamed; the last vestige of the human taint had vanished. I advanced a step farther, stopped, and pulled out my revolver. At last I had him face to face.",
+      "ttsText": "At first I did not understand, but presently it occurred to me that he wished me to follow him; and this I did at last,, slowly, for the day was hot. When we reached the trees he clambered into them, for he could travel better among their swinging creepers than on the ground. And suddenly in a trampled space I came upon a ghastly group. My Saint-Bernard-creature lay on the ground, dead; and near his body crouched the Hyena-swine, gripping the quivering flesh with its misshapen claws, gnawing at it, and snarling with delight. As I approached, the monster lifted its glaring eyes to mine, its lips went trembling back from its red-stained teeth, and it growled menacingly. It was not afraid and not ashamed; the last vestige of the human taint had vanished. I advanced a step farther, stopped, and pulled out my revolver. At last I had him face to face.",
       "role": "paragraph"
     },
     {
@@ -3956,6 +4105,7 @@
       "order": 631,
       "chapterIndex": 15,
       "text": "And then came a day, a wonderful day, which I spent in ecstasy. I saw a sail to the southwest, a small sail like that of a little schooner; and forthwith I lit a great pile of brushwood, and stood by it in the heat of it, and the heat of the midday sun, watching. All day I watched that sail, eating or drinking nothing, so that my head reeled; and the Beasts came and glared at me, and seemed to wonder, and went away. It was still distant when night came and swallowed it up; and all night I toiled to keep my blaze bright and high, and the eyes of the Beasts shone out of the darkness, marvelling. In the dawn the sail was nearer, and I saw it was the dirty lug-sail of a small boat. But it sailed strangely. My eyes were weary with watching, and I peered and could not believe them. Two men were in the boat, sitting low down,—one by the bows, the other at the rudder. The head was not kept to the wind; it yawed and fell away.",
+      "ttsText": "And then came a day, a wonderful day, which I spent in ecstasy. I saw a sail to the southwest, a small sail like that of a little schooner; and forthwith I lit a great pile of brushwood, and stood by it in the heat of it, and the heat of the midday sun, watching. All day I watched that sail, eating or drinking nothing, so that my head reeled; and the Beasts came and glared at me, and seemed to wonder, and went away. It was still distant when night came and swallowed it up; and all night I toiled to keep my blaze bright and high, and the eyes of the Beasts shone out of the darkness, marvelling. In the dawn the sail was nearer, and I saw it was the dirty lug-sail of a small boat. But it sailed strangely. My eyes were weary with watching, and I peered and could not believe them. Two men were in the boat, sitting low down,, one by the bows, the other at the rudder. The head was not kept to the wind; it yawed and fell away.",
       "role": "paragraph"
     },
     {
@@ -3968,6 +4118,7 @@
       "order": 633,
       "chapterIndex": 15,
       "text": "Then I stopped shouting, and sat down on the headland and rested my chin on my hands and stared. Slowly, slowly, the boat drove past towards the west. I would have swum out to it, but something—a cold, vague fear—kept me back. In the afternoon the tide stranded the boat, and left it a hundred yards or so to the westward of the ruins of the enclosure. The men in it were dead, had been dead so long that they fell to pieces when I tilted the boat on its side and dragged them out. One had a shock of red hair, like the captain of the Ipecacuanha , and a dirty white cap lay in the bottom of the boat.",
+      "ttsText": "Then I stopped shouting, and sat down on the headland and rested my chin on my hands and stared. Slowly, slowly, the boat drove past towards the west. I would have swum out to it, but something, a cold, vague fear, kept me back. In the afternoon the tide stranded the boat, and left it a hundred yards or so to the westward of the ruins of the enclosure. The men in it were dead, had been dead so long that they fell to pieces when I tilted the boat on its side and dragged them out. One had a shock of red hair, like the captain of the Ipecacuanha, and a dirty white cap lay in the bottom of the boat.",
       "role": "paragraph"
     },
     {
@@ -3998,6 +4149,7 @@
       "order": 638,
       "chapterIndex": 16,
       "text": "THE MAN ALONE.",
+      "ttsText": "The Man Alone.",
       "role": "title"
     },
     {
@@ -4010,36 +4162,42 @@
       "order": 640,
       "chapterIndex": 16,
       "text": "So I drifted for three days, eating and drinking sparingly, and meditating upon all that had happened to me,—not desiring very greatly then to see men again. One unclean rag was about me, my hair a black tangle: no doubt my discoverers thought me a madman.",
+      "ttsText": "So I drifted for three days, eating and drinking sparingly, and meditating upon all that had happened to me,, not desiring very greatly then to see men again. One unclean rag was about me, my hair a black tangle: no doubt my discoverers thought me a madman.",
       "role": "paragraph"
     },
     {
       "order": 641,
       "chapterIndex": 16,
       "text": "It is strange, but I felt no desire to return to mankind. I was only glad to be quit of the foulness of the Beast People. And on the third day I was picked up by a brig from Apia to San Francisco. Neither the captain nor the mate would believe my story, judging that solitude and danger had made me mad; and fearing their opinion might be that of others, I refrained from telling my adventure further, and professed to recall nothing that had happened to me between the loss of the Lady Vain and the time when I was picked up again,—the space of a year.",
+      "ttsText": "It is strange, but I felt no desire to return to mankind. I was only glad to be quit of the foulness of the Beast People. And on the third day I was picked up by a brig from Apia to San Francisco. Neither the captain nor the mate would believe my story, judging that solitude and danger had made me mad; and fearing their opinion might be that of others, I refrained from telling my adventure further, and professed to recall nothing that had happened to me between the loss of the Lady Vain and the time when I was picked up again,, the space of a year.",
       "role": "paragraph"
     },
     {
       "order": 642,
       "chapterIndex": 16,
       "text": "I had to act with the utmost circumspection to save myself from the suspicion of insanity. My memory of the Law, of the two dead sailors, of the ambuscades of the darkness, of the body in the canebrake, haunted me; and, unnatural as it seems, with my return to mankind came, instead of that confidence and sympathy I had expected, a strange enhancement of the uncertainty and dread I had experienced during my stay upon the island. No one would believe me; I was almost as queer to men as I had been to the Beast People. I may have caught something of the natural wildness of my companions. They say that terror is a disease, and anyhow I can witness that for several years now a restless fear has dwelt in my mind,—such a restless fear as a half-tamed lion cub may feel.",
+      "ttsText": "I had to act with the utmost circumspection to save myself from the suspicion of insanity. My memory of the Law, of the two dead sailors, of the ambuscades of the darkness, of the body in the canebrake, haunted me; and, unnatural as it seems, with my return to mankind came, instead of that confidence and sympathy I had expected, a strange enhancement of the uncertainty and dread I had experienced during my stay upon the island. No one would believe me; I was almost as queer to men as I had been to the Beast People. I may have caught something of the natural wildness of my companions. They say that terror is a disease, and anyhow I can witness that for several years now a restless fear has dwelt in my mind,, such a restless fear as a half-tamed lion cub may feel.",
       "role": "paragraph"
     },
     {
       "order": 643,
       "chapterIndex": 16,
       "text": "My trouble took the strangest form. I could not persuade myself that the men and women I met were not also another Beast People, animals half wrought into the outward image of human souls, and that they would presently begin to revert,—to show first this bestial mark and then that. But I have confided my case to a strangely able man,—a man who had known Moreau, and seemed half to credit my story; a mental specialist,—and he has helped me mightily, though I do not expect that the terror of that island will ever altogether leave me. At most times it lies far in the back of my mind, a mere distant cloud, a memory, and a faint distrust; but there are times when the little cloud spreads until it obscures the whole sky. Then I look about me at my fellow-men; and I go in fear. I see faces, keen and bright; others dull or dangerous; others, unsteady, insincere,—none that have the calm authority of a reasonable soul. I feel as though the animal was surging up through them; that presently the degradation of the Islanders will be played over again on a larger scale. I know this is an illusion; that these seeming men and women about me are indeed men and women,—men and women for ever, perfectly reasonable creatures, full of human desires and tender solicitude, emancipated from instinct and the slaves of no fantastic Law,—beings altogether different from the Beast Folk. Yet I shrink from them, from their curious glances, their inquiries and assistance, and long to be away from them and alone. For that reason I live near the broad free downland, and can escape thither when this shadow is over my soul; and very sweet is the empty downland then, under the wind-swept sky.",
+      "ttsText": "My trouble took the strangest form. I could not persuade myself that the men and women I met were not also another Beast People, animals half wrought into the outward image of human souls, and that they would presently begin to revert,, to show first this bestial mark and then that. But I have confided my case to a strangely able man,, a man who had known Moreau, and seemed half to credit my story; a mental specialist,, and he has helped me mightily, though I do not expect that the terror of that island will ever altogether leave me. At most times it lies far in the back of my mind, a mere distant cloud, a memory, and a faint distrust; but there are times when the little cloud spreads until it obscures the whole sky. Then I look about me at my fellow-men; and I go in fear. I see faces, keen and bright; others dull or dangerous; others, unsteady, insincere,, none that have the calm authority of a reasonable soul. I feel as though the animal was surging up through them; that presently the degradation of the Islanders will be played over again on a larger scale. I know this is an illusion; that these seeming men and women about me are indeed men and women,, men and women for ever, perfectly reasonable creatures, full of human desires and tender solicitude, emancipated from instinct and the slaves of no fantastic Law,, beings altogether different from the Beast Folk. Yet I shrink from them, from their curious glances, their inquiries and assistance, and long to be away from them and alone. For that reason I live near the broad free downland, and can escape thither when this shadow is over my soul; and very sweet is the empty downland then, under the wind-swept sky.",
       "role": "paragraph"
     },
     {
       "order": 644,
       "chapterIndex": 16,
       "text": "When I lived in London the horror was well-nigh insupportable. I could not get away from men: their voices came through windows; locked doors were flimsy safeguards. I would go out into the streets to fight with my delusion, and prowling women would mew after me; furtive, craving men glance jealously at me; weary, pale workers go coughing by me with tired eyes and eager paces, like wounded deer dripping blood; old people, bent and dull, pass murmuring to themselves; and, all unheeding, a ragged tail of gibing children. Then I would turn aside into some chapel,—and even there, such was my disturbance, it seemed that the preacher gibbered “Big Thinks,” even as the Ape-man had done; or into some library, and there the intent faces over the books seemed but patient creatures waiting for prey. Particularly nauseous were the blank, expressionless faces of people in trains and omnibuses; they seemed no more my fellow-creatures than dead bodies would be, so that I did not dare to travel unless I was assured of being alone. And even it seemed that I too was not a reasonable creature, but only an animal tormented with some strange disorder in its brain which sent it to wander alone, like a sheep stricken with gid.",
+      "ttsText": "When I lived in London the horror was well-nigh insupportable. I could not get away from men: their voices came through windows; locked doors were flimsy safeguards. I would go out into the streets to fight with my delusion, and prowling women would mew after me; furtive, craving men glance jealously at me; weary, pale workers go coughing by me with tired eyes and eager paces, like wounded deer dripping blood; old people, bent and dull, pass murmuring to themselves; and, all unheeding, a ragged tail of gibing children. Then I would turn aside into some chapel,, and even there, such was my disturbance, it seemed that the preacher gibbered “Big Thinks,” even as the Ape-man had done; or into some library, and there the intent faces over the books seemed but patient creatures waiting for prey. Particularly nauseous were the blank, expressionless faces of people in trains and omnibuses; they seemed no more my fellow-creatures than dead bodies would be, so that I did not dare to travel unless I was assured of being alone. And even it seemed that I too was not a reasonable creature, but only an animal tormented with some strange disorder in its brain which sent it to wander alone, like a sheep stricken with gid.",
       "role": "paragraph"
     },
     {
       "order": 645,
       "chapterIndex": 16,
       "text": "This is a mood, however, that comes to me now, I thank God, more rarely. I have withdrawn myself from the confusion of cities and multitudes, and spend my days surrounded by wise books,—bright windows in this life of ours, lit by the shining souls of men. I see few strangers, and have but a small household. My days I devote to reading and to experiments in chemistry, and I spend many of the clear nights in the study of astronomy. There is—though I do not know how there is or why there is—a sense of infinite peace and protection in the glittering hosts of heaven. There it must be, I think, in the vast and eternal laws of matter, and not in the daily cares and sins and troubles of men, that whatever is more than animal within us must find its solace and its hope. I hope , or I could not live.",
+      "ttsText": "This is a mood, however, that comes to me now, I thank God, more rarely. I have withdrawn myself from the confusion of cities and multitudes, and spend my days surrounded by wise books,, bright windows in this life of ours, lit by the shining souls of men. I see few strangers, and have but a small household. My days I devote to reading and to experiments in chemistry, and I spend many of the clear nights in the study of astronomy. There is, though I do not know how there is or why there is, a sense of infinite peace and protection in the glittering hosts of heaven. There it must be, I think, in the vast and eternal laws of matter, and not in the daily cares and sins and troubles of men, that whatever is more than animal within us must find its solace and its hope. I hope, or I could not live.",
       "role": "paragraph"
     },
     {
@@ -4052,7 +4210,7 @@
       "order": 647,
       "chapterIndex": 16,
       "text": "E DWARD P RENDICK .",
-      "ttsText": "Edward Prendick .",
+      "ttsText": "Edward Prendick.",
       "role": "title"
     },
     {
@@ -4065,6 +4223,7 @@
       "order": 649,
       "chapterIndex": 17,
       "text": "NOTE.",
+      "ttsText": "Note.",
       "role": "heading"
     },
     {

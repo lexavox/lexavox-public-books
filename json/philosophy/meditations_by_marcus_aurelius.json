@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:36.9465139Z",
+  "generatedAt": "2026-04-07T14:54:47.6367067Z",
   "source": {
     "id": "pg2680",
     "title": "Meditations",
@@ -193,6 +193,7 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "MEDITATIONS",
+      "ttsText": "Meditations",
       "role": "title"
     },
     {
@@ -205,108 +206,126 @@
       "order": 13,
       "chapterIndex": 0,
       "text": "MARCUS AURELIUS ANTONINUS THE ROMAN EMPEROR",
+      "ttsText": "Marcus Aurelius Antoninus the Roman Emperor",
       "role": "title"
     },
     {
       "order": 14,
       "chapterIndex": 0,
       "text": "BOOKS",
+      "ttsText": "Books",
       "role": "title"
     },
     {
       "order": 15,
       "chapterIndex": 0,
       "text": "INTRODUCTION",
+      "ttsText": "Introduction",
       "role": "heading"
     },
     {
       "order": 16,
       "chapterIndex": 0,
       "text": "HIS FIRST BOOK",
+      "ttsText": "His First Book",
       "role": "title"
     },
     {
       "order": 17,
       "chapterIndex": 0,
       "text": "THE SECOND BOOK",
+      "ttsText": "The Second Book",
       "role": "title"
     },
     {
       "order": 18,
       "chapterIndex": 0,
       "text": "THE THIRD BOOK",
+      "ttsText": "The Third Book",
       "role": "title"
     },
     {
       "order": 19,
       "chapterIndex": 0,
       "text": "THE FOURTH BOOK",
+      "ttsText": "The Fourth Book",
       "role": "title"
     },
     {
       "order": 20,
       "chapterIndex": 0,
       "text": "THE FIFTH BOOK",
+      "ttsText": "The Fifth Book",
       "role": "title"
     },
     {
       "order": 21,
       "chapterIndex": 0,
       "text": "THE SIXTH BOOK",
+      "ttsText": "The Sixth Book",
       "role": "title"
     },
     {
       "order": 22,
       "chapterIndex": 0,
       "text": "THE SEVENTH BOOK",
+      "ttsText": "The Seventh Book",
       "role": "title"
     },
     {
       "order": 23,
       "chapterIndex": 0,
       "text": "THE EIGHTH BOOK",
+      "ttsText": "The Eighth Book",
       "role": "title"
     },
     {
       "order": 24,
       "chapterIndex": 0,
       "text": "THE NINTH BOOK",
+      "ttsText": "The Ninth Book",
       "role": "title"
     },
     {
       "order": 25,
       "chapterIndex": 0,
       "text": "THE TENTH BOOK",
+      "ttsText": "The Tenth Book",
       "role": "title"
     },
     {
       "order": 26,
       "chapterIndex": 0,
       "text": "THE ELEVENTH BOOK",
+      "ttsText": "The Eleventh Book",
       "role": "title"
     },
     {
       "order": 27,
       "chapterIndex": 0,
       "text": "THE TWELFTH BOOK",
+      "ttsText": "The Twelfth Book",
       "role": "title"
     },
     {
       "order": 28,
       "chapterIndex": 0,
       "text": "APPENDIX",
+      "ttsText": "Appendix",
       "role": "heading"
     },
     {
       "order": 29,
       "chapterIndex": 0,
       "text": "NOTES",
+      "ttsText": "Notes",
       "role": "title"
     },
     {
       "order": 30,
       "chapterIndex": 0,
       "text": "GLOSSARY",
+      "ttsText": "Glossary",
       "role": "title"
     },
     {
@@ -319,12 +338,14 @@
       "order": 32,
       "chapterIndex": 1,
       "text": "INTRODUCTION",
+      "ttsText": "Introduction",
       "role": "heading"
     },
     {
       "order": 33,
       "chapterIndex": 1,
       "text": "MARCUS AURELIUS ANTONINUS was born on April 26, A.D. 121. His real name was M. Annius Verus, and he was sprung of a noble family which claimed descent from Numa, second King of Rome. Thus the most religious of emperors came of the blood of the most pious of early kings. His father, Annius Verus, had held high office in Rome, and his grandfather, of the same name, had been thrice Consul. Both his parents died young, but Marcus held them in loving remembrance. On his father's death Marcus was adopted by his grandfather, the consular Annius Verus, and there was deep love between these two. On the very first page of his book Marcus gratefully declares how of his grandfather he had learned to be gentle and meek, and to refrain from all anger and passion. The Emperor Hadrian divined the fine character of the lad, whom he used to call not Verus but Verissimus, more Truthful than his own name. He advanced Marcus to equestrian rank when six years of age, and at the age of eight made him a member of the ancient Salian priesthood. The boy's aunt, Annia Galeria Faustina, was married to Antoninus Pius, afterwards emperor. Hence it came about that Antoninus, having no son, adopted Marcus, changing his name to that which he is known by, and betrothed him to his daughter Faustina. His education was conducted with all care. The ablest teachers were engaged for him, and he was trained in the strict doctrine of the Stoic philosophy, which was his great delight. He was taught to dress plainly and to live simply, to avoid all softness and luxury. His body was trained to hardihood by wrestling, hunting, and outdoor games; and though his constitution was weak, he showed great personal courage to encounter the fiercest boars. At the same time he was kept from the extravagancies of his day. The great excitement in Rome was the strife of the Factions, as they were called, in the circus. The racing drivers used to adopt one of four colours—red, blue, white, or green—and their partisans showed an eagerness in supporting them which nothing could surpass. Riot and corruption went in the train of the racing chariots; and from all these things Marcus held severely aloof.",
+      "ttsText": "Marcus Aurelius Antoninus was born on April 26, A.D.121. His real name was M. Annius Verus, and he was sprung of a noble family which claimed descent from Numa, second King of Rome. Thus the most religious of emperors came of the blood of the most pious of early kings. His father, Annius Verus, had held high office in Rome, and his grandfather, of the same name, had been thrice Consul. Both his parents died young, but Marcus held them in loving remembrance. On his father's death Marcus was adopted by his grandfather, the consular Annius Verus, and there was deep love between these two. On the very first page of his book Marcus gratefully declares how of his grandfather he had learned to be gentle and meek, and to refrain from all anger and passion. The Emperor Hadrian divined the fine character of the lad, whom he used to call not Verus but Verissimus, more Truthful than his own name. He advanced Marcus to equestrian rank when six years of age, and at the age of eight made him a member of the ancient Salian priesthood. The boy's aunt, Annia Galeria Faustina, was married to Antoninus Pius, afterwards emperor. Hence it came about that Antoninus, having no son, adopted Marcus, changing his name to that which he is known by, and betrothed him to his daughter Faustina. His education was conducted with all care. The ablest teachers were engaged for him, and he was trained in the strict doctrine of the Stoic philosophy, which was his great delight. He was taught to dress plainly and to live simply, to avoid all softness and luxury. His body was trained to hardihood by wrestling, hunting, and outdoor games; and though his constitution was weak, he showed great personal courage to encounter the fiercest boars. At the same time he was kept from the extravagancies of his day. The great excitement in Rome was the strife of the Factions, as they were called, in the circus. The racing drivers used to adopt one of four colours, red, blue, white, or green, and their partisans showed an eagerness in supporting them which nothing could surpass. Riot and corruption went in the train of the racing chariots; and from all these things Marcus held severely aloof.",
       "role": "paragraph"
     },
     {
@@ -337,6 +358,7 @@
       "order": 35,
       "chapterIndex": 1,
       "text": "Antoninus Pius died in 161, and Marcus assumed the imperial state. He at once associated with himself L. Ceionius Commodus, whom Antoninus had adopted as a younger son at the same time with Marcus, giving him the name of Lucius Aurelius Verus. Henceforth the two are colleagues in the empire, the junior being trained as it were to succeed. No sooner was Marcus settled upon the throne than wars broke out on all sides. In the east, Vologeses III. of Parthia began a long-meditated revolt by destroying a whole Roman Legion and invading Syria (162). Verus was sent off in hot haste to quell this rising; and he fulfilled his trust by plunging into drunkenness and debauchery, while the war was left to his officers. Soon after Marcus had to face a more serious danger at home in the coalition of several powerful tribes on the northern frontier. Chief among those were the Marcomanni or Marchmen, the Quadi (mentioned in this book), the Sarmatians, the Catti, the Jazyges. In Rome itself there was pestilence and starvation, the one brought from the east by Verus's legions, the other caused by floods which had destroyed vast quantities of grain. After all had been done possible to allay famine and to supply pressing needs—Marcus being forced even to sell the imperial jewels to find money—both emperors set forth to a struggle which was to continue more or less during the rest of Marcus's reign. During these wars, in 169, Verus died. We have no means of following the campaigns in detail; but thus much is certain, that in the end the Romans succeeded in crushing the barbarian tribes, and effecting a settlement which made the empire more secure. Marcus was himself commander-in-chief, and victory was due no less to his own ability than to his wisdom in choice of lieutenants, shown conspicuously in the case of Pertinax. There were several important battles fought in these campaigns; and one of them has become celebrated for the legend of the Thundering Legion. In a battle against the Quadi in 174, the day seemed to be going in favour of the foe, when on a sudden arose a great storm of thunder and rain the lightning struck the barbarians with terror, and they turned to rout. In later days this storm was said to have been sent in answer to the prayers of a legion which contained many Christians, and the name Thundering Legion should be given to it on this account. The title of Thundering Legion is known at an earlier date, so this part of the story at least cannot be true; but the aid of the storm is acknowledged by one of the scenes carved on Antonine's Column at Rome, which commemorates these wars.",
+      "ttsText": "Antoninus Pius died in 161, and Marcus assumed the imperial state. He at once associated with himself L. Ceionius Commodus, whom Antoninus had adopted as a younger son at the same time with Marcus, giving him the name of Lucius Aurelius Verus. Henceforth the two are colleagues in the empire, the junior being trained as it were to succeed. No sooner was Marcus settled upon the throne than wars broke out on all sides. In the east, Vologeses III. of Parthia began a long-meditated revolt by destroying a whole Roman Legion and invading Syria (162). Verus was sent off in hot haste to quell this rising; and he fulfilled his trust by plunging into drunkenness and debauchery, while the war was left to his officers. Soon after Marcus had to face a more serious danger at home in the coalition of several powerful tribes on the northern frontier. Chief among those were the Marcomanni or Marchmen, the Quadi (mentioned in this book), the Sarmatians, the Catti, the Jazyges. In Rome itself there was pestilence and starvation, the one brought from the east by Verus's legions, the other caused by floods which had destroyed vast quantities of grain. After all had been done possible to allay famine and to supply pressing needs, Marcus being forced even to sell the imperial jewels to find money, both emperors set forth to a struggle which was to continue more or less during the rest of Marcus's reign. During these wars, in 169, Verus died. We have no means of following the campaigns in detail; but thus much is certain, that in the end the Romans succeeded in crushing the barbarian tribes, and effecting a settlement which made the empire more secure. Marcus was himself commander-in-chief, and victory was due no less to his own ability than to his wisdom in choice of lieutenants, shown conspicuously in the case of Pertinax. There were several important battles fought in these campaigns; and one of them has become celebrated for the legend of the Thundering Legion. In a battle against the Quadi in 174, the day seemed to be going in favour of the foe, when on a sudden arose a great storm of thunder and rain the lightning struck the barbarians with terror, and they turned to rout. In later days this storm was said to have been sent in answer to the prayers of a legion which contained many Christians, and the name Thundering Legion should be given to it on this account. The title of Thundering Legion is known at an earlier date, so this part of the story at least cannot be true; but the aid of the storm is acknowledged by one of the scenes carved on Antonine's Column at Rome, which commemorates these wars.",
       "role": "paragraph"
     },
     {
@@ -355,6 +377,7 @@
       "order": 38,
       "chapterIndex": 1,
       "text": "The good emperor was not spared domestic troubles. Faustina had borne him several children, of whom he was passionately fond. Their innocent faces may still be seen in many a sculpture gallery, recalling with odd effect the dreamy countenance of their father. But they died one by one, and when Marcus came to his own end only one of his sons still lived—the weak and worthless Commodus. On his father's death Commodus, who succeeded him, undid the work of many campaigns by a hasty and unwise peace; and his reign of twelve years proved him to be a ferocious and bloodthirsty tyrant. Scandal has made free with the name of Faustina herself, who is accused not only of unfaithfulness, but of intriguing with Cassius and egging him on to his fatal rebellion, it must be admitted that these charges rest on no sure evidence; and the emperor, at all events, loved her dearly, nor ever felt the slightest qualm of suspicion.",
+      "ttsText": "The good emperor was not spared domestic troubles. Faustina had borne him several children, of whom he was passionately fond. Their innocent faces may still be seen in many a sculpture gallery, recalling with odd effect the dreamy countenance of their father. But they died one by one, and when Marcus came to his own end only one of his sons still lived, the weak and worthless Commodus. On his father's death Commodus, who succeeded him, undid the work of many campaigns by a hasty and unwise peace; and his reign of twelve years proved him to be a ferocious and bloodthirsty tyrant. Scandal has made free with the name of Faustina herself, who is accused not only of unfaithfulness, but of intriguing with Cassius and egging him on to his fatal rebellion, it must be admitted that these charges rest on no sure evidence; and the emperor, at all events, loved her dearly, nor ever felt the slightest qualm of suspicion.",
       "role": "paragraph"
     },
     {
@@ -373,6 +396,7 @@
       "order": 41,
       "chapterIndex": 1,
       "text": "Zeno, the founder of Stoicism, was born in Cyprus at some date unknown, but his life may be said roughly to be between the years 350 and 250 B.C. Cyprus has been from time immemorial a meeting-place of the East and West, and although we cannot grant any importance to a possible strain of Phœnician blood in him (for the Phoenicians were no philosophers), yet it is quite likely that through Asia Minor he may have come in touch with the Far East. He studied under the cynic Crates, but he did not neglect other philosophical systems. After many years' study he opened his own school in a colonnade in Athens called the Painted Porch, or Stoa, which gave the Stoics their name. Next to Zeno, the School of the Porch owes most to Chrysippus (280—207 b.c.), who organised Stoicism into a system. Of him it was said,",
+      "ttsText": "Zeno, the founder of Stoicism, was born in Cyprus at some date unknown, but his life may be said roughly to be between the years 350 and 250 B.C.Cyprus has been from time immemorial a meeting-place of the East and West, and although we cannot grant any importance to a possible strain of Phœnician blood in him (for the Phoenicians were no philosophers), yet it is quite likely that through Asia Minor he may have come in touch with the Far East. He studied under the cynic Crates, but he did not neglect other philosophical systems. After many years' study he opened his own school in a colonnade in Athens called the Painted Porch, or Stoa, which gave the Stoics their name. Next to Zeno, the School of the Porch owes most to Chrysippus (280, 207 B.C.), who organised Stoicism into a system. Of him it was said,",
       "role": "paragraph"
     },
     {
@@ -385,6 +409,7 @@
       "order": 43,
       "chapterIndex": 1,
       "text": "The Stoics regarded speculation as a means to an end and that end was, as Zeno put it, to live consistently (ὁμολογουμένος ζῆν), or as it was later explained, to live in conformity with nature (ὁμολογουμένος τῇ φύσει ζῆν). This conforming of the life to nature was the Stoic idea of Virtue. This dictum might easily be taken to mean that virtue consists in yielding to each natural impulse; but that was very far from the Stoic meaning. In order to live in accord with nature, it is necessary to know what nature is; and to this end a threefold division of philosophy is made—into Physics , dealing with the universe and its laws, the problems of divine government and teleology; Logic , which trains the mind to discern true from false; and Ethics , which applies the knowledge thus gained and tested to practical life.",
+      "ttsText": "The Stoics regarded speculation as a means to an end and that end was, as Zeno put it, to live consistently (ὁμολογουμένος ζῆν), or as it was later explained, to live in conformity with nature (ὁμολογουμένος τῇ φύσει ζῆν). This conforming of the life to nature was the Stoic idea of Virtue. This dictum might easily be taken to mean that virtue consists in yielding to each natural impulse; but that was very far from the Stoic meaning. In order to live in accord with nature, it is necessary to know what nature is; and to this end a threefold division of philosophy is made, into Physics, dealing with the universe and its laws, the problems of divine government and teleology; Logic, which trains the mind to discern true from false; and Ethics, which applies the knowledge thus gained and tested to practical life.",
       "role": "paragraph"
     },
     {
@@ -403,6 +428,7 @@
       "order": 46,
       "chapterIndex": 1,
       "text": "In Logic, the Stoic system is noteworthy for their theory as to the test of truth, the Criterion . They compared the new-born soul to a sheet of paper ready for writing. Upon this the senses write their impressions (φαντασίαι), and by experience of a number of these the soul unconsciously conceives general notions (κοιναὶ ἔννοιαι) or anticipations (προλήψεις). When the impression was such as to be irresistible it was called (καταληπτικὴ φαντασία) one that holds fast, or as they explained it, one proceeding from truth. Ideas and inferences artificially produced by deduction or the like were tested by this 'holding perception.' Of the Ethical application I have already spoken. The highest good was the virtuous life. Virtue alone is happiness, and vice is unhappiness. Carrying this theory to its extreme, the Stoic said that there could be no gradations between virtue and vice, though of course each has its special manifestations. Moreover, nothing is good but virtue, and nothing but vice is bad. Those outside things which are commonly called good or bad, such as health and sickness, wealth and poverty, pleasure and pain, are to him indifferent (ἀδιάφορα). All these things are merely the sphere in which virtue may act. The ideal Wise Man is sufficient unto himself in all things (αὐταρκής); and knowing these truths, he will be happy even when stretched upon the rack. It is probable that no Stoic claimed for himself that he was this Wise Man, but that each strove after it as an ideal much as the Christian strives after a likeness to Christ. The exaggeration in this statement was, however, so obvious, that the later Stoics were driven to make a further subdivision of things indifferent into what is preferable (προηγμένα) and what is undesirable (ἀποπροηγμένα). They also held that for him who had not attained to the perfect wisdom, certain actions were proper. (καθήκοντα) These were neither virtuous nor vicious, but, like the indifferent things, held a middle place.",
+      "ttsText": "In Logic, the Stoic system is noteworthy for their theory as to the test of truth, the Criterion. They compared the new-born soul to a sheet of paper ready for writing. Upon this the senses write their impressions (φαντασίαι), and by experience of a number of these the soul unconsciously conceives general notions (κοιναὶ ἔννοιαι) or anticipations (προλήψεις). When the impression was such as to be irresistible it was called (καταληπτικὴ φαντασία) one that holds fast, or as they explained it, one proceeding from truth. Ideas and inferences artificially produced by deduction or the like were tested by this 'holding perception.' Of the Ethical application I have already spoken. The highest good was the virtuous life. Virtue alone is happiness, and vice is unhappiness. Carrying this theory to its extreme, the Stoic said that there could be no gradations between virtue and vice, though of course each has its special manifestations. Moreover, nothing is good but virtue, and nothing but vice is bad. Those outside things which are commonly called good or bad, such as health and sickness, wealth and poverty, pleasure and pain, are to him indifferent (ἀδιάφορα). All these things are merely the sphere in which virtue may act. The ideal Wise Man is sufficient unto himself in all things (αὐταρκής); and knowing these truths, he will be happy even when stretched upon the rack. It is probable that no Stoic claimed for himself that he was this Wise Man, but that each strove after it as an ideal much as the Christian strives after a likeness to Christ. The exaggeration in this statement was, however, so obvious, that the later Stoics were driven to make a further subdivision of things indifferent into what is preferable (προηγμένα) and what is undesirable (ἀποπροηγμένα). They also held that for him who had not attained to the perfect wisdom, certain actions were proper. (καθήκοντα) These were neither virtuous nor vicious, but, like the indifferent things, held a middle place.",
       "role": "paragraph"
     },
     {
@@ -421,6 +447,7 @@
       "order": 49,
       "chapterIndex": 1,
       "text": "It is instructive to compare the Meditations with another famous book, the Imitation of Christ . There is the same ideal of self-control in both. It should be a man's task, says the Imitation , 'to overcome himself, and every day to be stronger than himself.' 'In withstanding of the passions standeth very peace of heart.' 'Let us set the axe to the root, that we being purged of our passions may have a peaceable mind.' To this end there must be continual self-examination. 'If thou may not continually gather thyself together, namely sometimes do it, at least once a day, the morning or the evening. In the morning purpose, in the evening discuss the manner, what thou hast been this day, in word, work, and thought.' But while the Roman's temper is a modest self-reliance, the Christian aims at a more passive mood, humbleness and meekness, and reliance on the presence and personal friendship of God. The Roman scrutinises his faults with severity, but without the self-contempt which makes the Christian 'vile in his own sight.' The Christian, like the Roman, bids 'study to withdraw thine heart from the love of things visible'; but it is not the busy life of duty he has in mind so much as the contempt of all worldly things, and the 'cutting away of all lower delectations.' Both rate men's praise or blame at their real worthlessness; 'Let not thy peace,' says the Christian, 'be in the mouths of men.' But it is to God's censure the Christian appeals, the Roman to his own soul. The petty annoyances of injustice or unkindness are looked on by each with the same magnanimity. 'Why doth a little thing said or done against thee make thee sorry? It is no new thing; it is not the first, nor shall it be the last, if thou live long. At best suffer patiently, if thou canst not suffer joyously.' The Christian should sorrow more for other men's malice than for our own wrongs; but the Roman is inclined to wash his hands of the offender. 'Study to be patient in suffering and bearing other men's defaults and all manner infirmities,' says the Christian; but the Roman would never have thought to add, 'If all men were perfect, what had we then to suffer of other men for God?' The virtue of suffering in itself is an idea which does not meet us in the Meditations . Both alike realise that man is one of a great community. 'No man is sufficient to himself,' says the Christian; 'we must bear together, help together, comfort together.' But while he sees a chief importance in zeal, in exalted emotion that is, and avoidance of lukewarmness, the Roman thought mainly of the duty to be done as well as might be, and less of the feeling which should go with the doing of it. To the saint as to the emperor, the world is a poor thing at best. 'Verily it is a misery to live upon the earth,' says the Christian; few and evil are the days of man's life, which passeth away suddenly as a shadow.",
+      "ttsText": "It is instructive to compare the Meditations with another famous book, the Imitation of Christ. There is the same ideal of self-control in both. It should be a man's task, says the Imitation, 'to overcome himself, and every day to be stronger than himself.' 'In withstanding of the passions standeth very peace of heart.' 'Let us set the axe to the root, that we being purged of our passions may have a peaceable mind.' To this end there must be continual self-examination. 'If thou may not continually gather thyself together, namely sometimes do it, at least once a day, the morning or the evening. In the morning purpose, in the evening discuss the manner, what thou hast been this day, in word, work, and thought.' But while the Roman's temper is a modest self-reliance, the Christian aims at a more passive mood, humbleness and meekness, and reliance on the presence and personal friendship of God. The Roman scrutinises his faults with severity, but without the self-contempt which makes the Christian 'vile in his own sight.' The Christian, like the Roman, bids 'study to withdraw thine heart from the love of things visible'; but it is not the busy life of duty he has in mind so much as the contempt of all worldly things, and the 'cutting away of all lower delectations.' Both rate men's praise or blame at their real worthlessness; 'Let not thy peace,' says the Christian, 'be in the mouths of men.' But it is to God's censure the Christian appeals, the Roman to his own soul. The petty annoyances of injustice or unkindness are looked on by each with the same magnanimity. 'Why doth a little thing said or done against thee make thee sorry? It is no new thing; it is not the first, nor shall it be the last, if thou live long. At best suffer patiently, if thou canst not suffer joyously.' The Christian should sorrow more for other men's malice than for our own wrongs; but the Roman is inclined to wash his hands of the offender. 'Study to be patient in suffering and bearing other men's defaults and all manner infirmities,' says the Christian; but the Roman would never have thought to add, 'If all men were perfect, what had we then to suffer of other men for God?' The virtue of suffering in itself is an idea which does not meet us in the Meditations. Both alike realise that man is one of a great community. 'No man is sufficient to himself,' says the Christian; 'we must bear together, help together, comfort together.' But while he sees a chief importance in zeal, in exalted emotion that is, and avoidance of lukewarmness, the Roman thought mainly of the duty to be done as well as might be, and less of the feeling which should go with the doing of it. To the saint as to the emperor, the world is a poor thing at best. 'Verily it is a misery to live upon the earth,' says the Christian; few and evil are the days of man's life, which passeth away suddenly as a shadow.",
       "role": "paragraph"
     },
     {
@@ -463,6 +490,7 @@
       "order": 56,
       "chapterIndex": 1,
       "text": "By the irony of fate this man, so gentle and good, so desirous of quiet joys and a mind free from care, was set at the head of the Roman Empire when great dangers threatened from east and west. For several years he himself commanded his armies in chief. In camp before the Quadi he dates the first book of his Meditations , and shows how he could retire within himself amid the coarse clangour of arms. The pomps and glories which he despised were all his; what to most men is an ambition or a dream, to him was a round of weary tasks which nothing but the stern sense of duty could carry him through. And he did his work well. His wars were slow and tedious, but successful. With a statesman's wisdom he foresaw the danger to Rome of the barbarian hordes from the north, and took measures to meet it. As it was, his settlement gave two centuries of respite to the Roman Empire; had he fulfilled the plan of pushing the imperial frontiers to the Elbe, which seems to have been in his mind, much more might have been accomplished. But death cut short his designs.",
+      "ttsText": "By the irony of fate this man, so gentle and good, so desirous of quiet joys and a mind free from care, was set at the head of the Roman Empire when great dangers threatened from east and west. For several years he himself commanded his armies in chief. In camp before the Quadi he dates the first book of his Meditations, and shows how he could retire within himself amid the coarse clangour of arms. The pomps and glories which he despised were all his; what to most men is an ambition or a dream, to him was a round of weary tasks which nothing but the stern sense of duty could carry him through. And he did his work well. His wars were slow and tedious, but successful. With a statesman's wisdom he foresaw the danger to Rome of the barbarian hordes from the north, and took measures to meet it. As it was, his settlement gave two centuries of respite to the Roman Empire; had he fulfilled the plan of pushing the imperial frontiers to the Elbe, which seems to have been in his mind, much more might have been accomplished. But death cut short his designs.",
       "role": "paragraph"
     },
     {
@@ -475,6 +503,7 @@
       "order": 58,
       "chapterIndex": 1,
       "text": "The following is a list of the chief English translations of Marcus Aurelius: (1) By Meric Casaubon, 1634; (2) Jeremy Collier, 1701; (3) James Thomson, 1747; (4) R. Graves, 1792; (5) H. McCormac, 1844; (6) George Long, 1862; (7) G. H. Rendall, 1898; and (8) J. Jackson, 1906. Renan’s “Marc-Aurèle”—in his “History of the Origins of Christianity,” which appeared in 1882—is the most vital and original book to be had relating to the time of Marcus Aurelius. Pater’s “Marius the Epicurean” forms another outside commentary, which is of service in the imaginative attempt to create again the period.",
+      "ttsText": "The following is a list of the chief English translations of Marcus Aurelius: (1) By Meric Casaubon, 1634; (2) Jeremy Collier, 1701; (3) James Thomson, 1747; (4) R. Graves, 1792; (5) H. McCormac, 1844; (6) George Long, 1862; (7) G.H.Rendall, 1898; and (8) J. Jackson, 1906. Renan’s “Marc-Aurèle”, in his “History of the Origins of Christianity,” which appeared in 1882, is the most vital and original book to be had relating to the time of Marcus Aurelius. Pater’s “Marius the Epicurean” forms another outside commentary, which is of service in the imaginative attempt to create again the period.",
       "role": "paragraph"
     },
     {
@@ -487,6 +516,7 @@
       "order": 60,
       "chapterIndex": 2,
       "text": "THE NINTH BOOK",
+      "ttsText": "The Ninth Book",
       "role": "title"
     },
     {
@@ -757,6 +787,7 @@
       "order": 105,
       "chapterIndex": 3,
       "text": "THE TENTH BOOK",
+      "ttsText": "The Tenth Book",
       "role": "title"
     },
     {
@@ -805,6 +836,7 @@
       "order": 113,
       "chapterIndex": 3,
       "text": "VIII. Now that thou hast taken these names upon thee of good, modest, true; of ἔμφρων, σύμφρων, ὑπέρφρων; take heed lest at any times by doing anything that is contrary, thou be but improperly so called, and lose thy right to these appellations. Or if thou do, return unto them again with all possible speed. And remember, that the word ἔμφρων notes unto thee an intent and intelligent consideration of every object that presents itself unto thee, without distraction. And the word σύμφρων, a ready and contented acceptation of whatsoever by the appointment of the common nature, happens unto thee. And the word ὑπέρφρων, a super-extension, or a transcendent, and outreaching disposition of thy mind, whereby it passeth by all bodily pains and pleasures, honour and credit, death and whatsoever is of the same nature, as matters of absolute indifferency, and in no wise to be stood upon by a wise man. These then if inviolably thou shalt observe, and shalt not be ambitious to be so called by others, both thou thyself shalt become a new man, and thou shalt begin a new life. For to continue such as hitherto thou hast been, to undergo those distractions and distempers as thou must needs for such a life as hitherto thou hast lived, is the part of one that is very foolish, and is overfond of his life. Whom a man might compare to one of those half-eaten wretches, matched in the amphitheatre with wild beasts; who as full as they are all the body over with wounds and blood, desire for a great favour, that they may be reserved till the next day, then also, and in the same estate to be exposed to the same nails and teeth as before. Away therefore, ship thyself; and from the troubles and distractions of thy former life convey thyself as it were unto these few names; and if thou canst abide in them, or be constant in the practice and possession of them, continue there as glad and joyful as one that were translated unto some such place of bliss and happiness as that which by Hesiod and Plato is called the Islands of the Blessed, by others called the Elysian Fields. And whensoever thou findest thyself; that thou art in danger of a relapse, and that thou art not able to master and overcome those difficulties and temptations that present themselves in thy present station: get thee into any private corner, where thou mayst be better able. Or if that will not serve forsake even thy life rather. But so that it be not in passion but in a plain voluntary modest way: this being the only commendable action of thy whole life that thus thou art departed, or this having been the main work and business of thy whole life, that thou mightest thus depart. Now for the better remembrance of those names that we have spoken of, thou shalt find it a very good help, to remember the Gods as often as may be: and that, the thing which they require at our hands of as many of us, as are by nature reasonable creation is not that with fair words, and outward show of piety and devotion we should flatter them, but that we should become like unto them: and that as all other natural creatures, the fig tree for example; the dog the bee: both do, all of them, and apply themselves unto that which by their natural constitution, is proper unto them; so man likewise should do that, which by his nature, as he is a man, belongs unto him.",
+      "ttsText": "VIII. Now that thou hast taken these names upon thee of good, modest, true; of,,; take heed lest at any times by doing anything that is contrary, thou be but improperly so called, and lose thy right to these appellations. Or if thou do, return unto them again with all possible speed. And remember, that the word notes unto thee an intent and intelligent consideration of every object that presents itself unto thee, without distraction. And the word, a ready and contented acceptation of whatsoever by the appointment of the common nature, happens unto thee. And the word, a super-extension, or a transcendent, and outreaching disposition of thy mind, whereby it passeth by all bodily pains and pleasures, honour and credit, death and whatsoever is of the same nature, as matters of absolute indifferency, and in no wise to be stood upon by a wise man. These then if inviolably thou shalt observe, and shalt not be ambitious to be so called by others, both thou thyself shalt become a new man, and thou shalt begin a new life. For to continue such as hitherto thou hast been, to undergo those distractions and distempers as thou must needs for such a life as hitherto thou hast lived, is the part of one that is very foolish, and is overfond of his life. Whom a man might compare to one of those half-eaten wretches, matched in the amphitheatre with wild beasts; who as full as they are all the body over with wounds and blood, desire for a great favour, that they may be reserved till the next day, then also, and in the same estate to be exposed to the same nails and teeth as before. Away therefore, ship thyself; and from the troubles and distractions of thy former life convey thyself as it were unto these few names; and if thou canst abide in them, or be constant in the practice and possession of them, continue there as glad and joyful as one that were translated unto some such place of bliss and happiness as that which by Hesiod and Plato is called the Islands of the Blessed, by others called the Elysian Fields. And whensoever thou findest thyself; that thou art in danger of a relapse, and that thou art not able to master and overcome those difficulties and temptations that present themselves in thy present station: get thee into any private corner, where thou mayst be better able. Or if that will not serve forsake even thy life rather. But so that it be not in passion but in a plain voluntary modest way: this being the only commendable action of thy whole life that thus thou art departed, or this having been the main work and business of thy whole life, that thou mightest thus depart. Now for the better remembrance of those names that we have spoken of, thou shalt find it a very good help, to remember the Gods as often as may be: and that, the thing which they require at our hands of as many of us, as are by nature reasonable creation is not that with fair words, and outward show of piety and devotion we should flatter them, but that we should become like unto them: and that as all other natural creatures, the fig tree for example; the dog the bee: both do, all of them, and apply themselves unto that which by their natural constitution, is proper unto them; so man likewise should do that, which by his nature, as he is a man, belongs unto him.",
       "role": "heading"
     },
     {
@@ -907,6 +939,7 @@
       "order": 130,
       "chapterIndex": 3,
       "text": "XXV. He that runs away from his master is a fugitive. But the law is every man's master. He therefore that forsakes the law, is a fugitive. So is he, whosoever he be, that is either sorry, angry, or afraid, or for anything that either hath been, is, or shall be by his appointment, who is the Lord and Governor of the universe. For he truly and properly is Νόμος, or the law, as the only νέμων, or distributor and dispenser of all things that happen unto any one in his lifetime—Whatsoever then is either sorry, angry, or afraid, is a fugitive.",
+      "ttsText": "XXV. He that runs away from his master is a fugitive. But the law is every man's master. He therefore that forsakes the law, is a fugitive. So is he, whosoever he be, that is either sorry, angry, or afraid, or for anything that either hath been, is, or shall be by his appointment, who is the Lord and Governor of the universe. For he truly and properly is, or the law, as the only, or distributor and dispenser of all things that happen unto any one in his lifetime, Whatsoever then is either sorry, angry, or afraid, is a fugitive.",
       "role": "heading"
     },
     {
@@ -919,6 +952,7 @@
       "order": 132,
       "chapterIndex": 3,
       "text": "XXVII. Ever to mind and consider with thyself; how all things that now are, have been heretofore much after the same sort, and after the same fashion that now they are: and so to think of those things which shall be hereafter also. Moreover, whole dramata, and uniform scenes, or scenes that comprehend the lives and actions of men of one calling and profession, as many as either in thine own experience thou hast known, or by reading of ancient histories; (as the whole court of Adrianus, the whole court of Antoninus Pius, the whole court of Philippus, that of Alexander, that of Crœsus): to set them all before thine eyes. For thou shalt find that they are all but after one sort and fashion: only that the actors were others.",
+      "ttsText": "XXVII. Ever to mind and consider with thyself; how all things that now are, have been heretofore much after the same sort, and after the same fashion that now they are: and so to think of those things which shall be hereafter also. Moreover, whole dramata, and uniform scenes, or scenes that comprehend the lives and actions of men of one calling and profession, as many as either in thine own experience thou hast known, or by reading of ancient histories; (as the whole court of Adrianus, the whole court of Antoninus Pius, the whole court of Philippus, that of Alexander, that of Crsus): to set them all before thine eyes. For thou shalt find that they are all but after one sort and fashion: only that the actors were others.",
       "role": "heading"
     },
     {
@@ -955,12 +989,14 @@
       "order": 138,
       "chapterIndex": 3,
       "text": "XXXIII. Let it not be in any man's power, to say truly of thee, that thou art not truly simple, or sincere and open, or not good. Let him be deceived whosoever he be that shall have any such opinion of thee. For all this doth depend of thee. For who is it that should hinder thee from being either truly simple or good? Do thou only resolve rather not to live, than not to be such. For indeed neither doth it stand with reason that he should live that is not such. What then is it that may upon this present occasion according to best reason and discretion, either be said or done? For whatsoever it be, it is in thy power either to do it, or to say it, and therefore seek not any pretences, as though thou wert hindered. Thou wilt never cease groaning and complaining, until such time as that, what pleasure is unto the voluptuous, be unto thee, to do in everything that presents itself, whatsoever may be done conformably and agreeably to the proper constitution of man, or, to man as he is a man. For thou must account that pleasure, whatsoever it be, that thou mayest do according to thine own nature. And to do this, every place will fit thee. Unto the cylindrus , or roller, it is not granted to move everywhere according to its own proper motion, as neither unto the water, nor unto the fire, nor unto any other thing, that either is merely natural, or natural and sensitive; but not rational for many things there be that can hinder their operations. But of the mind and understanding this is the proper privilege, that according to its own nature, and as it will itself, it can pass through every obstacle that it finds, and keep straight on forwards. Setting therefore before thine eyes this happiness and felicity of thy mind, whereby it is able to pass through all things, and is capable of all motions, whether as the fire, upwards; or as the stone downwards, or as the cylindrus through that which is sloping: content thyself with it, and seek not after any other thing. For all other kind of hindrances that are not hindrances of thy mind either they are proper to the body, or merely proceed from the opinion, reason not making that resistance that it should, but basely, and cowardly suffering itself to be foiled; and of themselves can neither wound, nor do any hurt at all. Else must he of necessity, whosoever he be that meets with any of them, become worse than he was before. For so is it in all other subjects, that that is thought hurtful unto them, whereby they are made worse. But here contrariwise, man (if he make that good use of them that he should) is rather the better and the more praiseworthy for any of those kind of hindrances, than otherwise. But generally remember that nothing can hurt a natural citizen, that is not hurtful unto the city itself, nor anything hurt the city, that is not hurtful unto the law itself. But none of these casualties, or external hindrances, do hurt the law itself; or, are contrary to that course of justice and equity, by which public societies are maintained: neither therefore do they hurt either city or citizen.",
+      "ttsText": "XXXIII. Let it not be in any man's power, to say truly of thee, that thou art not truly simple, or sincere and open, or not good. Let him be deceived whosoever he be that shall have any such opinion of thee. For all this doth depend of thee. For who is it that should hinder thee from being either truly simple or good? Do thou only resolve rather not to live, than not to be such. For indeed neither doth it stand with reason that he should live that is not such. What then is it that may upon this present occasion according to best reason and discretion, either be said or done? For whatsoever it be, it is in thy power either to do it, or to say it, and therefore seek not any pretences, as though thou wert hindered. Thou wilt never cease groaning and complaining, until such time as that, what pleasure is unto the voluptuous, be unto thee, to do in everything that presents itself, whatsoever may be done conformably and agreeably to the proper constitution of man, or, to man as he is a man. For thou must account that pleasure, whatsoever it be, that thou mayest do according to thine own nature. And to do this, every place will fit thee. Unto the cylindrus, or roller, it is not granted to move everywhere according to its own proper motion, as neither unto the water, nor unto the fire, nor unto any other thing, that either is merely natural, or natural and sensitive; but not rational for many things there be that can hinder their operations. But of the mind and understanding this is the proper privilege, that according to its own nature, and as it will itself, it can pass through every obstacle that it finds, and keep straight on forwards. Setting therefore before thine eyes this happiness and felicity of thy mind, whereby it is able to pass through all things, and is capable of all motions, whether as the fire, upwards; or as the stone downwards, or as the cylindrus through that which is sloping: content thyself with it, and seek not after any other thing. For all other kind of hindrances that are not hindrances of thy mind either they are proper to the body, or merely proceed from the opinion, reason not making that resistance that it should, but basely, and cowardly suffering itself to be foiled; and of themselves can neither wound, nor do any hurt at all. Else must he of necessity, whosoever he be that meets with any of them, become worse than he was before. For so is it in all other subjects, that that is thought hurtful unto them, whereby they are made worse. But here contrariwise, man (if he make that good use of them that he should) is rather the better and the more praiseworthy for any of those kind of hindrances, than otherwise. But generally remember that nothing can hurt a natural citizen, that is not hurtful unto the city itself, nor anything hurt the city, that is not hurtful unto the law itself. But none of these casualties, or external hindrances, do hurt the law itself; or, are contrary to that course of justice and equity, by which public societies are maintained: neither therefore do they hurt either city or citizen.",
       "role": "heading"
     },
     {
       "order": 139,
       "chapterIndex": 3,
       "text": "XXXIV. As he that is bitten by a mad dog, is afraid of everything almost that he seeth: so unto him, whom the dogmata have once bitten, or in whom true knowledge hath made an impression, everything almost that he sees or reads be it never so short or ordinary, doth afford a good memento; to put him out of all grief and fear, as that of the poet, 'The winds blow upon the trees, and their leaves fall upon the ground. Then do the trees begin to bud again, and by the spring-time they put forth new branches. So is the generation of men; some come into the world, and others go out of it.' Of these leaves then thy children are. And they also that applaud thee so gravely, or, that applaud thy speeches, with that their usual acclamation, ἀξιοπίστως, O wisely spoken I and speak well of thee, as on the other side, they that stick not to curse thee, they that privately and secretly dispraise and deride thee, they also are but leaves. And they also that shall follow, in whose memories the names of men famous after death, is preserved, they are but leaves neither. For even so is it of all these worldly things. Their spring comes, and they are put forth. Then blows the wind, and they go down. And then in lieu of them grow others out of the wood or common matter of all things, like unto them. But, to endure but for a while, is common unto all. Why then shouldest thou so earnestly either seek after these things, or fly from them, as though they should endure for ever? Yet a little while, and thine eyes will be closed up, and for him that carries thee to thy grave shall another mourn within a while after.",
+      "ttsText": "XXXIV. As he that is bitten by a mad dog, is afraid of everything almost that he seeth: so unto him, whom the dogmata have once bitten, or in whom true knowledge hath made an impression, everything almost that he sees or reads be it never so short or ordinary, doth afford a good memento; to put him out of all grief and fear, as that of the poet, 'The winds blow upon the trees, and their leaves fall upon the ground. Then do the trees begin to bud again, and by the spring-time they put forth new branches. So is the generation of men; some come into the world, and others go out of it.' Of these leaves then thy children are. And they also that applaud thee so gravely, or, that applaud thy speeches, with that their usual acclamation,, O wisely spoken I and speak well of thee, as on the other side, they that stick not to curse thee, they that privately and secretly dispraise and deride thee, they also are but leaves. And they also that shall follow, in whose memories the names of men famous after death, is preserved, they are but leaves neither. For even so is it of all these worldly things. Their spring comes, and they are put forth. Then blows the wind, and they go down. And then in lieu of them grow others out of the wood or common matter of all things, like unto them. But, to endure but for a while, is common unto all. Why then shouldest thou so earnestly either seek after these things, or fly from them, as though they should endure for ever? Yet a little while, and thine eyes will be closed up, and for him that carries thee to thy grave shall another mourn within a while after.",
       "role": "heading"
     },
     {
@@ -997,6 +1033,7 @@
       "order": 145,
       "chapterIndex": 4,
       "text": "THE ELEVENTH BOOK",
+      "ttsText": "The Eleventh Book",
       "role": "title"
     },
     {
@@ -1027,6 +1064,7 @@
       "order": 150,
       "chapterIndex": 4,
       "text": "V. Tragedies were at first brought in and instituted, to put men in mind of worldly chances and casualties: that these things in the ordinary course of nature did so happen: that men that were much pleased and delighted by such accidents upon this stage, would not by the same things in a greater stage be grieved and afflicted: for here you see what is the end of all such things; and that even they that cry out so mournfully to Cithaeron, must bear them for all their cries and exclamations, as well as others. And in very truth many good things are spoken by these poets; as that (for example) is an excellent passage: 'But if so be that I and my two children be neglected by the Gods, they have some reason even for that,' &c. And again, 'It will but little avail thee to storm and rage against the things themselves,' &c. Again, 'To reap one's life, as a ripe ear of corn;' and whatsoever else is to be found in them, that is of the same kind. After the tragedy, the ancient comedy was brought in, which had the liberty to inveigh against personal vices; being therefore through this her freedom and liberty of speech of very good use and effect, to restrain men from pride and arrogancy. To which end it was, that Diogenes took also the same liberty. After these, what were either the Middle, or New Comedy admitted for, but merely, (Or for the most part at least) for the delight and pleasure of curious and excellent imitation? 'It will steal away; look to it,' &c. Why, no man denies, but that these also have some good things whereof that may be one: but the whole drift and foundation of that kind of dramatical poetry, what is it else, but as we have said?",
+      "ttsText": "V. Tragedies were at first brought in and instituted, to put men in mind of worldly chances and casualties: that these things in the ordinary course of nature did so happen: that men that were much pleased and delighted by such accidents upon this stage, would not by the same things in a greater stage be grieved and afflicted: for here you see what is the end of all such things; and that even they that cry out so mournfully to Cithaeron, must bear them for all their cries and exclamations, as well as others. And in very truth many good things are spoken by these poets; as that (for example) is an excellent passage: 'But if so be that I and my two children be neglected by the Gods, they have some reason even for that,' and c. And again, 'It will but little avail thee to storm and rage against the things themselves,' and c. Again, 'To reap one's life, as a ripe ear of corn;' and whatsoever else is to be found in them, that is of the same kind. After the tragedy, the ancient comedy was brought in, which had the liberty to inveigh against personal vices; being therefore through this her freedom and liberty of speech of very good use and effect, to restrain men from pride and arrogancy. To which end it was, that Diogenes took also the same liberty. After these, what were either the Middle, or New Comedy admitted for, but merely, (Or for the most part at least) for the delight and pleasure of curious and excellent imitation? 'It will steal away; look to it,' and c. Why, no man denies, but that these also have some good things whereof that may be one: but the whole drift and foundation of that kind of dramatical poetry, what is it else, but as we have said?",
       "role": "heading"
     },
     {
@@ -1195,6 +1233,7 @@
       "order": 178,
       "chapterIndex": 5,
       "text": "THE TWELFTH BOOK",
+      "ttsText": "The Twelfth Book",
       "role": "title"
     },
     {
@@ -1207,6 +1246,7 @@
       "order": 180,
       "chapterIndex": 5,
       "text": "II. God beholds our minds and understandings, bare and naked from these material vessels, and outsides, and all earthly dross. For with His simple and pure understanding, He pierceth into our inmost and purest parts, which from His, as it were by a water pipe and channel, first flowed and issued. This if thou also shalt use to do, thou shalt rid thyself of that manifold luggage, wherewith thou art round about encumbered. For he that does regard neither his body, nor his clothing, nor his dwelling, nor any such external furniture, must needs gain unto himself great rest and ease. Three things there be in all, which thou doest consist of; thy body, thy life, and thy mind. Of these the two former, are so far forth thine, as that thou art bound to take care for them. But the third alone is that which is properly thine. If then thou shalt separate from thyself, that is from thy mind, whatsoever other men either do or say, or whatsoever thou thyself hast heretofore either done or said; and all troublesome thoughts concerning the future, and whatsoever, (as either belonging to thy body or life:) is without the jurisdiction of thine own will, and whatsoever in the ordinary course of human chances and accidents doth happen unto thee; so that thy mind (keeping herself loose and free from all outward coincidental entanglements; always in a readiness to depart:) shall live by herself, and to herself, doing that which is just, accepting whatsoever doth happen, and speaking the truth always; if, I say, thou shalt separate from thy mind, whatsoever by sympathy might adhere unto it, and all time both past and future, and shalt make thyself in all points and respects, like unto Empedocles his allegorical sphere, 'all round and circular,' &c., and shalt think of no longer life than that which is now present: then shalt thou be truly able to pass the remainder of thy days without troubles and distractions; nobly and generously disposed, and in good favour and correspondency, with that spirit which is within thee.",
+      "ttsText": "II. God beholds our minds and understandings, bare and naked from these material vessels, and outsides, and all earthly dross. For with His simple and pure understanding, He pierceth into our inmost and purest parts, which from His, as it were by a water pipe and channel, first flowed and issued. This if thou also shalt use to do, thou shalt rid thyself of that manifold luggage, wherewith thou art round about encumbered. For he that does regard neither his body, nor his clothing, nor his dwelling, nor any such external furniture, must needs gain unto himself great rest and ease. Three things there be in all, which thou doest consist of; thy body, thy life, and thy mind. Of these the two former, are so far forth thine, as that thou art bound to take care for them. But the third alone is that which is properly thine. If then thou shalt separate from thyself, that is from thy mind, whatsoever other men either do or say, or whatsoever thou thyself hast heretofore either done or said; and all troublesome thoughts concerning the future, and whatsoever, (as either belonging to thy body or life:) is without the jurisdiction of thine own will, and whatsoever in the ordinary course of human chances and accidents doth happen unto thee; so that thy mind (keeping herself loose and free from all outward coincidental entanglements; always in a readiness to depart:) shall live by herself, and to herself, doing that which is just, accepting whatsoever doth happen, and speaking the truth always; if, I say, thou shalt separate from thy mind, whatsoever by sympathy might adhere unto it, and all time both past and future, and shalt make thyself in all points and respects, like unto Empedocles his allegorical sphere, 'all round and circular,' and c., and shalt think of no longer life than that which is now present: then shalt thou be truly able to pass the remainder of thy days without troubles and distractions; nobly and generously disposed, and in good favour and correspondency, with that spirit which is within thee.",
       "role": "heading"
     },
     {
@@ -1297,6 +1337,7 @@
       "order": 195,
       "chapterIndex": 5,
       "text": "XVII. No operation whatsoever it he, ceasing for a while, can be truly said to suffer any evil, because it is at an end. Neither can he that is the author of that operation; for this very respect, because his operation is at an end, be said to suffer any evil. Likewise then, neither can the whole body of all our actions (which is our life) if in time it cease, be said to suffer any evil for this very reason, because it is at an end; nor he truly be said to have been ill affected, that did put a period to this series of actions. Now this time or certain period, depends of the determination of nature: sometimes of particular nature, as when a man dieth old; but of nature in general, however; the parts whereof thus changing one after another, the whole world still continues fresh and new. Now that is ever best and most seasonable, which is for the good of the whole. Thus it appears that death of itself can neither be hurtful to any in particular, because it is not a shameful thing (for neither is it a thing that depends of our own will, nor of itself contrary to the common good) and generally, as it is both expedient and seasonable to the whole, that in that respect it must needs be good. It is that also, which is brought unto us by the order and appointment of the Divine Providence; so that he whose will and mind in these things runs along with the Divine ordinance, and by this concurrence of his will and mind with the Divine Providence, is led and driven along, as it were by God Himself; may truly be termed and esteemed the θεοφόρητος, or divinely led and inspired.",
+      "ttsText": "XVII. No operation whatsoever it he, ceasing for a while, can be truly said to suffer any evil, because it is at an end. Neither can he that is the author of that operation; for this very respect, because his operation is at an end, be said to suffer any evil. Likewise then, neither can the whole body of all our actions (which is our life) if in time it cease, be said to suffer any evil for this very reason, because it is at an end; nor he truly be said to have been ill affected, that did put a period to this series of actions. Now this time or certain period, depends of the determination of nature: sometimes of particular nature, as when a man dieth old; but of nature in general, however; the parts whereof thus changing one after another, the whole world still continues fresh and new. Now that is ever best and most seasonable, which is for the good of the whole. Thus it appears that death of itself can neither be hurtful to any in particular, because it is not a shameful thing (for neither is it a thing that depends of our own will, nor of itself contrary to the common good) and generally, as it is both expedient and seasonable to the whole, that in that respect it must needs be good. It is that also, which is brought unto us by the order and appointment of the Divine Providence; so that he whose will and mind in these things runs along with the Divine ordinance, and by this concurrence of his will and mind with the Divine Providence, is led and driven along, as it were by God Himself; may truly be termed and esteemed the, or divinely led and inspired.",
       "role": "heading"
     },
     {
@@ -1369,30 +1410,35 @@
       "order": 207,
       "chapterIndex": 6,
       "text": "APPENDIX",
+      "ttsText": "Appendix",
       "role": "heading"
     },
     {
       "order": 208,
       "chapterIndex": 6,
       "text": "CORRESPONDENCE OF M. AURELIUS ANTONINUS AND M. CORNELIUS FRONTO [1]",
+      "ttsText": "Correspondence of M. Aurelius Antoninus and M. Cornelius Fronto [1]",
       "role": "paragraph"
     },
     {
       "order": 209,
       "chapterIndex": 6,
       "text": "M. CORNELIUS FRONTO was a Roman by descent, but of provincial birth, being native to Cirta, in Numidia. Thence he migrated to Rome in the reign of Hadrian, and became the most famous rhetorician of his day. As a pleader and orator he was counted by his contemporaries hardly inferior to Tully himself, and as a teacher his aid was sought for the noblest youths of Rome. To him was entrusted the education of M.",
+      "ttsText": "M. Cornelius Fronto was a Roman by descent, but of provincial birth, being native to Cirta, in Numidia. Thence he migrated to Rome in the reign of Hadrian, and became the most famous rhetorician of his day. As a pleader and orator he was counted by his contemporaries hardly inferior to Tully himself, and as a teacher his aid was sought for the noblest youths of Rome. To him was entrusted the education of M.",
       "role": "heading"
     },
     {
       "order": 210,
       "chapterIndex": 6,
       "text": "Aurelius and of his colleague L. Verus in their boyhood; and he was rewarded for his efforts by a seat in the Senate and the consular rank (A.D. 143). By the exercise of his profession he became wealthy; and if he speaks of his means as not great, [2] he must be comparing his wealth with the grandees of Rome, not with the ordinary citizen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Aurelius and of his colleague L. Verus in their boyhood; and he was rewarded for his efforts by a seat in the Senate and the consular rank (A.D.143). By the exercise of his profession he became wealthy; and if he speaks of his means as not great, [2] he must be comparing his wealth with the grandees of Rome, not with the ordinary citizen."
     },
     {
       "order": 211,
       "chapterIndex": 6,
       "text": "Before the present century nothing was known of the works of Fronto, except a grammatical treatise; but in 1815 Cardinal Mai published a number of letters and some short essays of Fronto, which he had discovered in a palimpsest at Milan. Other parts of the same MS. he found later in the Vatican, the whole being collected",
+      "ttsText": "Before the present century nothing was known of the works of Fronto, except a grammatical treatise; but in 1815 Cardinal Mai published a number of letters and some short essays of Fronto, which he had discovered in a palimpsest at Milan. Other parts of the same Ms. he found later in the Vatican, the whole being collected",
       "role": "paragraph"
     },
     {
@@ -1429,12 +1475,14 @@
       "order": 217,
       "chapterIndex": 6,
       "text": "An example of the frankness which was between them is given by a difference they had over the case of Herodes Atticus. Herodes was a Greek rhetorician who had a school at Rome, and Marcus Aurelius was among his pupils. Both Marcus and the Emperor Antoninus had a high opinion of Herodes; and all we know goes to prove he was a man of high character and princely generosity. When quite young he was made administrator of the free cities in Asia, nor is it surprising to find that he made bitter enemies there; indeed, a just ruler was sure to make enemies. The end of it was that an Athenian deputation, headed by the orators Theodotus and Demostratus, made serious accusations against his honour. There is no need to discuss the merits of the case here; suffice it to say, Herodes succeeded in defending himself to the satisfaction of the emperor. Pronto appears to have taken the delegates' part, and to have accepted a brief for the prosecution, urged to some extent by personal considerations; and in this cause Marcus Aurelius writes to Fronto as follows:—",
+      "ttsText": "An example of the frankness which was between them is given by a difference they had over the case of Herodes Atticus. Herodes was a Greek rhetorician who had a school at Rome, and Marcus Aurelius was among his pupils. Both Marcus and the Emperor Antoninus had a high opinion of Herodes; and all we know goes to prove he was a man of high character and princely generosity. When quite young he was made administrator of the free cities in Asia, nor is it surprising to find that he made bitter enemies there; indeed, a just ruler was sure to make enemies. The end of it was that an Athenian deputation, headed by the orators Theodotus and Demostratus, made serious accusations against his honour. There is no need to discuss the merits of the case here; suffice it to say, Herodes succeeded in defending himself to the satisfaction of the emperor. Pronto appears to have taken the delegates' part, and to have accepted a brief for the prosecution, urged to some extent by personal considerations; and in this cause Marcus Aurelius writes to Fronto as follows:,",
       "role": "paragraph"
     },
     {
       "order": 218,
       "chapterIndex": 6,
       "text": "'AURELIUS CÆSAR to his friend FRONTO, greeting. [5]",
+      "ttsText": "'Aurelius Cæsar to his friend Fronto, greeting. [5]",
       "role": "paragraph"
     },
     {
@@ -1453,6 +1501,7 @@
       "order": 221,
       "chapterIndex": 6,
       "text": "Fronto replied, thanking the prince for his advice, and promising that he will confine himself to the facts of the case. But he points out that the charges brought against Herodes were such, that they can hardly be made agreeable; amongst them being spoliation, violence, and murder. However, he is willing even to let some of these drop if it be the prince's pleasure. To this Marcus returned the following answer:— [6] 'This one thing, my dearest Fronto, is enough to make me truly grateful to you, that so far from rejecting my counsel, you have even approved it. As to the question you raise in your kind letter, my opinion is this: all that concerns the case which you are supporting must be clearly brought forward; what concerns your own feelings, though you may have had just provocation, should be left unsaid.' The story does credit to both. Fronto shows no loss of temper at the interference, nor shrinks from stating his case with frankness; and Marcus, with forbearance remarkable in a prince, does not command that his friend be left unmolested, but merely stipulates for a fair trial on the merits of the case.",
+      "ttsText": "Fronto replied, thanking the prince for his advice, and promising that he will confine himself to the facts of the case. But he points out that the charges brought against Herodes were such, that they can hardly be made agreeable; amongst them being spoliation, violence, and murder. However, he is willing even to let some of these drop if it be the prince's pleasure. To this Marcus returned the following answer:, [6] 'This one thing, my dearest Fronto, is enough to make me truly grateful to you, that so far from rejecting my counsel, you have even approved it. As to the question you raise in your kind letter, my opinion is this: all that concerns the case which you are supporting must be clearly brought forward; what concerns your own feelings, though you may have had just provocation, should be left unsaid.' The story does credit to both. Fronto shows no loss of temper at the interference, nor shrinks from stating his case with frankness; and Marcus, with forbearance remarkable in a prince, does not command that his friend be left unmolested, but merely stipulates for a fair trial on the merits of the case.",
       "role": "paragraph"
     },
     {
@@ -1489,6 +1538,7 @@
       "order": 227,
       "chapterIndex": 6,
       "text": "To MY MASTER. [9]",
+      "ttsText": "To My Master. [9]",
       "role": "paragraph"
     },
     {
@@ -1549,6 +1599,7 @@
       "order": 237,
       "chapterIndex": 6,
       "text": "[13] The writer sometimes uses archaisms such as quom , which I render 'whenas'.",
+      "ttsText": "[13] The writer sometimes uses archaisms such as quom, which I render 'whenas'.",
       "role": "paragraph"
     },
     {
@@ -1573,6 +1624,7 @@
       "order": 241,
       "chapterIndex": 6,
       "text": "[16] From internal evidence: the letters are not arranged in order of time. See Naher's Prolegomena , p. xx. foll.",
+      "ttsText": "[16] From internal evidence: the letters are not arranged in order of time. See Naher's Prolegomena, p. xx. foll.",
       "role": "paragraph"
     },
     {
@@ -1681,6 +1733,7 @@
       "order": 259,
       "chapterIndex": 6,
       "text": "What a letter do you think you have written me I could make bold to say, that never did she who bore me and nurst me, write anything SO delightful, so honey-sweet. And this does not come of your fine style and eloquence: otherwise not my mother only, but all who breathe.'",
+      "ttsText": "What a letter do you think you have written me I could make bold to say, that never did she who bore me and nurst me, write anything So delightful, so honey-sweet. And this does not come of your fine style and eloquence: otherwise not my mother only, but all who breathe.'",
       "role": "paragraph"
     },
     {
@@ -1705,6 +1758,7 @@
       "order": 263,
       "chapterIndex": 6,
       "text": "[27] The Emperor Antoninus Pius is spoken of as dominus meus .",
+      "ttsText": "[27] The Emperor Antoninus Pius is spoken of as dominus meus.",
       "role": "paragraph"
     },
     {
@@ -1765,12 +1819,14 @@
       "order": 273,
       "chapterIndex": 6,
       "text": "'MY DEAREST MASTER,—I am well. To-day I studied from the ninth hour of the night to the second hour of day, after taking food. I then put on my slippers, and from time second to the third hour had a most enjoyable walk up and down before my chamber. Then booted and cloaked-for so we were commanded to appear-I went to wait upon my lord the emperor. We went a-hunting, did doughty deeds, heard a rumour that boars had been caught, but there was nothing to see. However, we climbed a pretty steep hill, and in the afternoon returned home. I went straight to my books. Off with the boots, down with the cloak; I spent a couple of hours in bed. I read Cato's speech on the Property of Pulchra, and another in which he impeaches a tribune. Ho, ho! I hear you cry to your man, Off with you as fast as you can, and bring me these speeches from the library of Apollo. No use to send: I have those books with me too. You must get round the Tiberian librarian; you will have to spend something on the matter; and when I return to town, I shall expect to go shares with him. Well, after reading these speeches I wrote a wretched trifle, destined for drowning or burning. No, indeed my attempt at writing did not come off at all to-day; the composition of a hunter or a vintager, whose shouts are echoing through my chamber, hateful and wearisome as the law-courts. What have I said? Yes, it was rightly said, for my master is an orator. I think I have caught cold, whether from walking in slippers or from writing badly, I do not know. I am always annoyed with phlegm, but to-day I seem to snivel more than usual. Well, I will pour oil on my head and go off to sleep. I don't mean to put one drop in my lamp to-day, so weary am I from riding and sneezing. Farewell, dearest and most beloved master, whom I miss, I may say, more than Rome itself.'",
+      "ttsText": "'My Dearest Master,, I am well. To-day I studied from the ninth hour of the night to the second hour of day, after taking food. I then put on my slippers, and from time second to the third hour had a most enjoyable walk up and down before my chamber. Then booted and cloaked-for so we were commanded to appear-I went to wait upon my lord the emperor. We went a-hunting, did doughty deeds, heard a rumour that boars had been caught, but there was nothing to see. However, we climbed a pretty steep hill, and in the afternoon returned home. I went straight to my books. Off with the boots, down with the cloak; I spent a couple of hours in bed. I read Cato's speech on the Property of Pulchra, and another in which he impeaches a tribune. Ho, ho! I hear you cry to your man, Off with you as fast as you can, and bring me these speeches from the library of Apollo. No use to send: I have those books with me too. You must get round the Tiberian librarian; you will have to spend something on the matter; and when I return to town, I shall expect to go shares with him. Well, after reading these speeches I wrote a wretched trifle, destined for drowning or burning. No, indeed my attempt at writing did not come off at all to-day; the composition of a hunter or a vintager, whose shouts are echoing through my chamber, hateful and wearisome as the law-courts. What have I said? Yes, it was rightly said, for my master is an orator. I think I have caught cold, whether from walking in slippers or from writing badly, I do not know. I am always annoyed with phlegm, but to-day I seem to snivel more than usual. Well, I will pour oil on my head and go off to sleep. I don't mean to put one drop in my lamp to-day, so weary am I from riding and sneezing. Farewell, dearest and most beloved master, whom I miss, I may say, more than Rome itself.'",
       "role": "paragraph"
     },
     {
       "order": 274,
       "chapterIndex": 6,
       "text": "'MY BELOVED MASTER,-I am well. I slept a little more than usual for my slight cold, which seems to be well again. So I spent the time from the eleventh hour of the night to the third of the day partly in reading in Cato's Agriculture, partly in writing, not quite so badly as yesterday indeed. Then, after waiting upon my father, I soothed my throat with honey-water, ejecting it without swallowing: I might say gargle , but I won't, though I think the word is found in Novius and elsewhere. After attending to my throat I went to my father, and stood by his side as he sacrificed. Then to luncheon. What do you think I had to eat? A bit of bread so big, while I watched others gobbling boiled beans, onions, and fish full of roe. Then we set to work at gathering the grapes, with plenty of sweat and shouting, and, as the quotation runs, \"A few high-hanging clusters did we leave survivors of the vintage.\" After the sixth hour we returned home. I did a little work, and poor work at that. Then I had a long gossip with my dear mother sitting on the bed. My conversation was: What do you think my friend Fronto is doing just now? She said: And what do you think of my friend Gratia?' [33] My turn now: And what of our little Gratia, [34] the sparrowkin? After this kind of talk, and an argument as to which of you loved the other most, the gong sounded, the signal that my father had gone to the bath. We supped, after ablutions in the oil-cellar-I mean we supped after ablutions, not after ablutions in the oil-cellar; and listened with enjoyment to the rustics gibing. After returning, before turning on my side to snore, I do my task and give an account of the day to my delightful master, whom if I could long for a little more, I should not mind growing a trifle thinner. Farewell, Fronto, wherever you are, honey-sweet, my darling, my delight. Why do I want you? I can love you while far away.'",
+      "ttsText": "'My Beloved Master,-I am well. I slept a little more than usual for my slight cold, which seems to be well again. So I spent the time from the eleventh hour of the night to the third of the day partly in reading in Cato's Agriculture, partly in writing, not quite so badly as yesterday indeed. Then, after waiting upon my father, I soothed my throat with honey-water, ejecting it without swallowing: I might say gargle, but I won't, though I think the word is found in Novius and elsewhere. After attending to my throat I went to my father, and stood by his side as he sacrificed. Then to luncheon. What do you think I had to eat? A bit of bread so big, while I watched others gobbling boiled beans, onions, and fish full of roe. Then we set to work at gathering the grapes, with plenty of sweat and shouting, and, as the quotation runs, \"A few high-hanging clusters did we leave survivors of the vintage.\" After the sixth hour we returned home. I did a little work, and poor work at that. Then I had a long gossip with my dear mother sitting on the bed. My conversation was: What do you think my friend Fronto is doing just now? She said: And what do you think of my friend Gratia?' [33] My turn now: And what of our little Gratia, [34] the sparrowkin? After this kind of talk, and an argument as to which of you loved the other most, the gong sounded, the signal that my father had gone to the bath. We supped, after ablutions in the oil-cellar-I mean we supped after ablutions, not after ablutions in the oil-cellar; and listened with enjoyment to the rustics gibing. After returning, before turning on my side to snore, I do my task and give an account of the day to my delightful master, whom if I could long for a little more, I should not mind growing a trifle thinner. Farewell, Fronto, wherever you are, honey-sweet, my darling, my delight. Why do I want you? I can love you while far away.'",
       "role": "paragraph"
     },
     {
@@ -1807,12 +1863,14 @@
       "order": 280,
       "chapterIndex": 6,
       "text": "Another letter [36] describes a visit to a country town, and shows the antiquarian spirit of the writer:—",
+      "ttsText": "Another letter [36] describes a visit to a country town, and shows the antiquarian spirit of the writer:,",
       "role": "paragraph"
     },
     {
       "order": 281,
       "chapterIndex": 6,
       "text": "'M. CÆSAR to his MASTER M. FRONTO, greeting.",
+      "ttsText": "'M. Cæsar to his Master M. Fronto, greeting.",
       "role": "paragraph"
     },
     {
@@ -1879,13 +1937,15 @@
       "order": 292,
       "chapterIndex": 6,
       "text": "'To MY MASTER.",
+      "ttsText": "'To My Master.",
       "role": "paragraph"
     },
     {
       "order": 293,
       "chapterIndex": 6,
       "text": "'I have a serious grievance against you, my dear master, yet indeed my grief is more than my grievance, because after so long a time I neither embraced you nor spoke to you, though you visited the palace, and the moment after I had left the prince my brother. I reproached my brother severely for not recalling me; nor durst he deny the fault.' Fronto again writes on one occasion: 'I have seen your daughter. It was like seeing you and Faustina in infancy, so much that is charming her face has taken from each of yours.' Or again, at a later date: [41] I have seen your chicks, most delightful sight that ever I saw in my life, so like you that nothing is more like than the likeness.... By the mercy of Heaven they have a healthy colour and strong lungs. One held a piece of white bread, like a little prince, the other a common piece, like a true philosophers son.'",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "'I have a serious grievance against you, my dear master, yet indeed my grief is more than my grievance, because after so long a time I neither embraced you nor spoke to you, though you visited the palace, and the moment after I had left the prince my brother. I reproached my brother severely for not recalling me; nor durst he deny the fault.' Fronto again writes on one occasion: 'I have seen your daughter. It was like seeing you and Faustina in infancy, so much that is charming her face has taken from each of yours.' Or again, at a later date: [41] I have seen your chicks, most delightful sight that ever I saw in my life, so like you that nothing is more like than the likeness … By the mercy of Heaven they have a healthy colour and strong lungs. One held a piece of white bread, like a little prince, the other a common piece, like a true philosophers son.'"
     },
     {
       "order": 294,
@@ -1897,6 +1957,7 @@
       "order": 295,
       "chapterIndex": 6,
       "text": "Marcus, we know, was devoted to his children. They were delicate in health, in spite of Fronto's assurance, and only one son survived the father. We find echoes of this affection now and again in the letters. 'We have summer heat here still,' writes Marcus, 'but since my little girls are pretty well, if I may say so, it is like the bracing climate of spring to us.' [42] When little Faustina came back from the valley of the shadow of death, her father at once writes to inform Fronto. [43] The sympathy he asks he also gives, and as old age brings more and more infirmity, Marcus becomes even more solicitous for his beloved teacher. The poor old man suffered a heavy blow in the death of his grandson, on which Marcus writes: [44] 'I have just heard of your misfortune. Feeling grieved as I do when one of your joints gives you pain, what do you think I feel, dear master, when you have pain of mind?' The old man's reply, in spite of a certain self-consciousness, is full of pathos. He recounts with pride the events of a long and upright life, in which he has wronged no man, and lived in harmony with his friends and family. His affectations fall away from him, as the cry of pain is forced from his heart:—",
+      "ttsText": "Marcus, we know, was devoted to his children. They were delicate in health, in spite of Fronto's assurance, and only one son survived the father. We find echoes of this affection now and again in the letters. 'We have summer heat here still,' writes Marcus, 'but since my little girls are pretty well, if I may say so, it is like the bracing climate of spring to us.' [42] When little Faustina came back from the valley of the shadow of death, her father at once writes to inform Fronto. [43] The sympathy he asks he also gives, and as old age brings more and more infirmity, Marcus becomes even more solicitous for his beloved teacher. The poor old man suffered a heavy blow in the death of his grandson, on which Marcus writes: [44] 'I have just heard of your misfortune. Feeling grieved as I do when one of your joints gives you pain, what do you think I feel, dear master, when you have pain of mind?' The old man's reply, in spite of a certain self-consciousness, is full of pathos. He recounts with pride the events of a long and upright life, in which he has wronged no man, and lived in harmony with his friends and family. His affectations fall away from him, as the cry of pain is forced from his heart:,",
       "role": "paragraph"
     },
     {
@@ -1921,7 +1982,8 @@
       "order": 299,
       "chapterIndex": 6,
       "text": "[45] 'Many such sorrows has fortune visited me with all my life long. To pass by my other afflictions, I have lost five children under the most pitiful conditions possible: for the five I lost one by one when each was my only child, suffering these blows of bereavement in such a manner that each child was born to one already bereaved. Thus I ever lost my children without solace, and got them amidst fresh grief.....'",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "[45] 'Many such sorrows has fortune visited me with all my life long. To pass by my other afflictions, I have lost five children under the most pitiful conditions possible: for the five I lost one by one when each was my only child, suffering these blows of bereavement in such a manner that each child was born to one already bereaved. Thus I ever lost my children without solace, and got them amidst fresh grief … '"
     },
     {
       "order": 300,
@@ -1975,6 +2037,7 @@
       "order": 308,
       "chapterIndex": 7,
       "text": "NOTES",
+      "ttsText": "Notes",
       "role": "title"
     },
     {
@@ -1993,30 +2056,35 @@
       "order": 311,
       "chapterIndex": 7,
       "text": "Numbers in brackets refer to the Teubner text of Stich, but the divisions of the text are left unaltered. For some of the references identified I am indebted to Mr. G. H. Rendall's Marcus Aurelius .",
+      "ttsText": "Numbers in brackets refer to the Teubner text of Stich, but the divisions of the text are left unaltered. For some of the references identified I am indebted to Mr. G.H.Rendall's Marcus Aurelius.",
       "role": "paragraph"
     },
     {
       "order": 312,
       "chapterIndex": 7,
       "text": "BOOK II \"Both to frequent\" (4). Gr. τὸ μή, C. conjectures τὸ μὲ. The text is probably right: \"I did not frequent public lectures, and I was taught at home.\"",
+      "ttsText": "Book II \"Both to frequent\" (4). Gr., C. conjectures. The text is probably right: \"I did not frequent public lectures, and I was taught at home.\"",
       "role": "heading"
     },
     {
       "order": 313,
       "chapterIndex": 7,
       "text": "VI Idiots.... philosophers (9). The reading is doubtful, but the meaning seems to be: \"simple and unlearned men\"",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "VI Idiots … philosophers (9). The reading is doubtful, but the meaning seems to be: \"simple and unlearned men\""
     },
     {
       "order": 314,
       "chapterIndex": 7,
       "text": "XII \"Claudius Maximus\" (15). The reading of the Palatine MS. (now lost) was paraklhsiz Maximon, which C. supposes to conceal the letters kl as an abbreviation of Claudius.",
+      "ttsText": "XII \"Claudius Maximus\" (15). The reading of the Palatine Ms. (now lost) was paraklhsiz Maximon, which C. supposes to conceal the letters kl as an abbreviation of Claudius.",
       "role": "paragraph"
     },
     {
       "order": 315,
       "chapterIndex": 7,
       "text": "XIII \"Patient hearing... He would not\" (16). C. translates his conjectural reading epimonon ollan. on proapsth Stich suggests a reading with much the same sense: .....epimonon all antoi \"Strict and rigid dealing\" (16). C. translates tonvn (Pal. MS.) as though from tonoz, in the sense of \"strain.\" \"rigour.\" The reading of other MSS. tonvn is preferable.",
+      "ttsText": "XIII \"Patient hearing … He would not\" (16). C. translates his conjectural reading epimonon ollan. on proapsth Stich suggests a reading with much the same sense: … epimonon all antoi \"Strict and rigid dealing\" (16). C. translates tonvn (Pal. Ms.) as though from tonoz, in the sense of \"strain.\" \"rigour.\" The reading of other Mss. tonvn is preferable.",
       "role": "paragraph"
     },
     {
@@ -2029,6 +2097,7 @@
       "order": 317,
       "chapterIndex": 7,
       "text": "XIV \"Cajeta\" (17). The passage is certainly corrupt. C. spies a reference to Chryses praying by the sea-shore in the Illiad, and supposes M. Aurelius to have done the like. None of the emendations suggested is satisfactory. At § XV. Book II. is usually reckoned to begin. BOOK II III. \"Do, soul\" (6). If the received reading be right, it must be sarcastic; but there are several variants which show how unsatisfactory it is. C. translates \"en gar o bioz ekasty so par eanty\", which I do not understand. The sense required is: \"Do not violence to thyself, for thou hast not long to use self-respect. Life is not (v. 1. so long for each, and this life for thee is all but done.\"",
+      "ttsText": "XIV \"Cajeta\" (17). The passage is certainly corrupt. C. spies a reference to Chryses praying by the sea-shore in the Illiad, and supposes M. Aurelius to have done the like. None of the emendations suggested is satisfactory. At § XV. Book II. is usually reckoned to begin. Book II III. \"Do, soul\" (6). If the received reading be right, it must be sarcastic; but there are several variants which show how unsatisfactory it is. C. translates \"en gar o bioz ekasty so par eanty\", which I do not understand. The sense required is: \"Do not violence to thyself, for thou hast not long to use self-respect. Life is not (v. 1. so long for each, and this life for thee is all but done.\"",
       "role": "paragraph"
     },
     {
@@ -2047,26 +2116,29 @@
       "order": 320,
       "chapterIndex": 7,
       "text": "BOOK IV XV. \"Agathos\" (18): This is probably not a proper name, but the text seems to be unsound. The meaning may be \"the good man ought\"",
+      "ttsText": "Book IV XV. \"Agathos\" (18): This is probably not a proper name, but the text seems to be unsound. The meaning may be \"the good man ought\"",
       "role": "heading"
     },
     {
       "order": 321,
       "chapterIndex": 7,
       "text": "XVI. oikonomian (16) is a \"practical benefit,\" a secondary end. XXXIX. \"For herein lieth all....\" (~3). C. translates his conjecture olan for ola.",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "XVI. oikonomian (16) is a \"practical benefit,\" a secondary end. XXXIX. \"For herein lieth all … \" (~3). C. translates his conjecture olan for ola."
     },
     {
       "order": 322,
       "chapterIndex": 7,
       "text": "BOOK V XIV. katorqwseiz (15): Acts of \"rightness\" or \"straightness.\" XXIII. \"Roarer\" (28): Gr. \"tragedian.\" Ed. 1 has whoremonger,' ed. 2 corrects to \"harlot,\" but omits to alter' the word at its second occurrence.",
-      "ttsText": "BOOK Vxiv. katorqwseiz (15): Acts of \"rightness\" or \"straightness.\" XXIII. \"Roarer\" (28): Gr. \"tragedian.\" Ed. 1 has whoremonger,' ed. 2 corrects to \"harlot,\" but omits to alter' the word at its second occurrence.",
+      "ttsText": "Book Vxiv. katorqwseiz (15): Acts of \"rightness\" or \"straightness.\" XXIII. \"Roarer\" (28): Gr. \"tragedian.\" Ed. 1 has whoremonger,' ed. 2 corrects to \"harlot,\" but omits to alter' the word at its second occurrence.",
       "role": "heading"
     },
     {
       "order": 323,
       "chapterIndex": 7,
       "text": "XXV. \"Thou hast... them\" (33): A quotation from Homer, Odyssey, iv. 690.",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "XXV. \"Thou hast … them\" (33): A quotation from Homer, Odyssey, iv. 690."
     },
     {
       "order": 324,
@@ -2078,13 +2150,15 @@
       "order": 325,
       "chapterIndex": 7,
       "text": "XXIX and XXX. (36). The Greek appears to contain quotations from sources not known, and the translation is a paraphrase. (One or two alterations are here made on the authority of the second edition.) BOOK VI XIII. \"Affected and qualified\" (i4): exis, the power of cohesion shown in things inanimate; fusiz, power of growth seen in plants and the like.",
+      "ttsText": "XXIX and XXX. (36). The Greek appears to contain quotations from sources not known, and the translation is a paraphrase. (One or two alterations are here made on the authority of the second edition.) Book VI XIII. \"Affected and qualified\" (i4): exis, the power of cohesion shown in things inanimate; fusiz, power of growth seen in plants and the like.",
       "role": "paragraph"
     },
     {
       "order": 326,
       "chapterIndex": 7,
       "text": "XVII. \"Wonder at them\" (18): i.e. mankind.",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "XVII. \"Wonder at them\" (18): I.E.mankind."
     },
     {
       "order": 327,
@@ -2096,7 +2170,8 @@
       "order": 328,
       "chapterIndex": 7,
       "text": "XL. \"Man or men...\" There is no hiatus in the Greek, which means: \"Whatever (is beneficial) for a man is so for other men also.\"",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "XL. \"Man or men … \" There is no hiatus in the Greek, which means: \"Whatever (is beneficial) for a man is so for other men also.\""
     },
     {
       "order": 329,
@@ -2108,6 +2183,7 @@
       "order": 330,
       "chapterIndex": 7,
       "text": "BOOK VII IX. C. translates his conjecture mh for h. The Greek means \"straight, or rectified,\" with a play on the literal and metaphorical meaning of ortoz.",
+      "ttsText": "Book VII IX. C. translates his conjecture mh for h. The Greek means \"straight, or rectified,\" with a play on the literal and metaphorical meaning of ortoz.",
       "role": "heading"
     },
     {
@@ -2156,7 +2232,8 @@
       "order": 338,
       "chapterIndex": 7,
       "text": "\"With meats,\" etc. From Euripides, Supplices, 1110. XXXIII. \"They both,\" i.e. life and wrestling.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "\"With meats,\" etc. From Euripides, Supplices, 1110. XXXIII. \"They both,\" I.E.life and wrestling."
     },
     {
       "order": 339,
@@ -2186,7 +2263,7 @@
       "order": 343,
       "chapterIndex": 7,
       "text": "BOOK X XXII. The Greek means, \"paltry breath bearing up corpses, so that the tale of Dead Man's Land is clearer.\"",
-      "ttsText": "BOOK Xxxii. The Greek means, \"paltry breath bearing up corpses, so that the tale of Dead Man's Land is clearer.\"",
+      "ttsText": "Book Xxxii. The Greek means, \"paltry breath bearing up corpses, so that the tale of Dead Man's Land is clearer.\"",
       "role": "heading"
     },
     {
@@ -2211,6 +2288,7 @@
       "order": 347,
       "chapterIndex": 7,
       "text": "XXXIV. \"Wood\": A translation of ulh, \"matter.\"",
+      "ttsText": "XXXIV. \"Wood\": a translation of ulh, \"matter.\"",
       "role": "heading"
     },
     {
@@ -2223,13 +2301,15 @@
       "order": 349,
       "chapterIndex": 7,
       "text": "BOOK XI V. \"Cithaeron\" (6): Oedipus utters this cry after discovering that he has fulfilled his awful doom, he was exposed on Cithaeron as an infant to die, and the cry implies that he wishes he had died there. Sophocles, Oedipus Tyrannus, 1391.",
+      "ttsText": "Book XI V. \"Cithaeron\" (6): Oedipus utters this cry after discovering that he has fulfilled his awful doom, he was exposed on Cithaeron as an infant to die, and the cry implies that he wishes he had died there. Sophocles, Oedipus Tyrannus, 1391.",
       "role": "heading"
     },
     {
       "order": 350,
       "chapterIndex": 7,
       "text": "V. \"New Comedy...,\" etc. C. has here strayed from the Greek rather widely. Translate: \"and understand to what end the New Comedy was adopted, which by small degrees degenerated into a mere show of skill in mimicry.\" C. writes Comedia Vetus, Media, Nova. XII. \"Phocion\" (13): When about to be put to death he charged his son to bear no malice against the Athenians.",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "V. \"New Comedy …,\" etc. C. has here strayed from the Greek rather widely. Translate: \"and understand to what end the New Comedy was adopted, which by small degrees degenerated into a mere show of skill in mimicry.\" C. writes Comedia Vetus, Media, Nova. XII. \"Phocion\" (13): When about to be put to death he charged his son to bear no malice against the Athenians."
     },
     {
       "order": 351,
@@ -2259,12 +2339,14 @@
       "order": 355,
       "chapterIndex": 8,
       "text": "GLOSSARY",
+      "ttsText": "Glossary",
       "role": "title"
     },
     {
       "order": 356,
       "chapterIndex": 8,
       "text": "This Glossary includes all proper names (excepting a few which are insignificant or unknown) and all obsolete or obscure words. ADRIANUS, or Hadrian (76-138 A. D.), 14th Roman Emperor.",
+      "ttsText": "This Glossary includes all proper names (excepting a few which are insignificant or unknown) and all obsolete or obscure words. Adrianus, or Hadrian (76-138 A.D.), 14th Roman Emperor.",
       "role": "paragraph"
     },
     {
@@ -2283,6 +2365,7 @@
       "order": 359,
       "chapterIndex": 8,
       "text": "Antisthenes of Athens, founder of the sect of Cynic philosophers, and an opponent of Plato, 5th century B.C Antoninus Pius, 15th Roman Emperor, 138-161 AD. one of the best princes that ever mounted a throne.",
+      "ttsText": "Antisthenes of Athens, founder of the sect of Cynic philosophers, and an opponent of Plato, 5th century B.C Antoninus Pius, 15th Roman Emperor, 138-161 Ad. one of the best princes that ever mounted a throne.",
       "role": "paragraph"
     },
     {
@@ -2325,6 +2408,7 @@
       "order": 366,
       "chapterIndex": 8,
       "text": "Augustus, first Roman Emperor (ruled 31 B.C.-14 AD.).",
+      "ttsText": "Augustus, first Roman Emperor (ruled 31 B.Cad.).",
       "role": "paragraph"
     },
     {
@@ -2337,6 +2421,7 @@
       "order": 368,
       "chapterIndex": 8,
       "text": "BACCHIUS: there Were several persons of this name, and the one meant is perhaps the musician.",
+      "ttsText": "Bacchius: there Were several persons of this name, and the one meant is perhaps the musician.",
       "role": "paragraph"
     },
     {
@@ -2379,7 +2464,8 @@
       "order": 375,
       "chapterIndex": 8,
       "text": "Cato, called of Utica, a Stoic who died by his own hand after the battle of Thapsus, 46 B.C. His name was proverbial for virtue and courage.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Cato, called of Utica, a Stoic who died by his own hand after the battle of Thapsus, 46 B.C.His name was proverbial for virtue and courage."
     },
     {
       "order": 376,
@@ -2469,6 +2555,7 @@
       "order": 390,
       "chapterIndex": 8,
       "text": "DEMETRIUS of Phalerum, an Athenian orator, statesman, philosopher, and poet. Born 345 B.C.",
+      "ttsText": "Demetrius of Phalerum, an Athenian orator, statesman, philosopher, and poet. Born 345 B.C.",
       "role": "paragraph"
     },
     {
@@ -2511,6 +2598,7 @@
       "order": 397,
       "chapterIndex": 8,
       "text": "EMPEDOCLES of Agrigentum, fl. 5th century B.C., a philosopher, who first laid down that there were \"four elements.\" He believed in the transmigration of souls, and the indestructibility of matter.",
+      "ttsText": "Empedocles of Agrigentum, fl. 5th century B.C., a philosopher, who first laid down that there were \"four elements.\" He believed in the transmigration of souls, and the indestructibility of matter.",
       "role": "paragraph"
     },
     {
@@ -2523,7 +2611,8 @@
       "order": 399,
       "chapterIndex": 8,
       "text": "Epicureans, a sect of philosophers founded by Epicurus, who \"combined the physics of Democritus,\" i.e. the atomic theory, \"with the ethics of Aristippus.\"",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Epicureans, a sect of philosophers founded by Epicurus, who \"combined the physics of Democritus,\" I.E.the atomic theory, \"with the ethics of Aristippus.\""
     },
     {
       "order": 400,
@@ -2547,12 +2636,14 @@
       "order": 403,
       "chapterIndex": 8,
       "text": "Eudoxus of Cnidus, a famous astronomer and physician of the 4th century B. C.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Eudoxus of Cnidus, a famous astronomer and physician of the 4th century B.C."
     },
     {
       "order": 404,
       "chapterIndex": 8,
       "text": "FATAL, fated.",
+      "ttsText": "Fatal, fated.",
       "role": "paragraph"
     },
     {
@@ -2565,18 +2656,21 @@
       "order": 406,
       "chapterIndex": 8,
       "text": "Fronto, M. Cornelius, a rhetorician and pleader, made consul in 143 A.D. A number of his letters to M, Aur. and others are extant.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Fronto, M. Cornelius, a rhetorician and pleader, made consul in 143 A.D.A number of his letters to M, Aur. and others are extant."
     },
     {
       "order": 407,
       "chapterIndex": 8,
       "text": "GRANUA, a tributary of the Danube.",
+      "ttsText": "Granua, a tributary of the Danube.",
       "role": "paragraph"
     },
     {
       "order": 408,
       "chapterIndex": 8,
       "text": "HELICE, ancient capital city of Achaia, swallowed up by an earthquake, 373 B.C.",
+      "ttsText": "Helice, ancient capital city of Achaia, swallowed up by an earthquake, 373 B.C.",
       "role": "paragraph"
     },
     {
@@ -2589,12 +2683,14 @@
       "order": 410,
       "chapterIndex": 8,
       "text": "Heraclitus of Ephesus, who lived in the 6th century B.C. He wrote on philosophy and natural science.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Heraclitus of Ephesus, who lived in the 6th century B.C.He wrote on philosophy and natural science."
     },
     {
       "order": 411,
       "chapterIndex": 8,
       "text": "Herculaneum, near Mount Vesuvius, buried by the eruption of 79 AD.",
+      "ttsText": "Herculaneum, near Mount Vesuvius, buried by the eruption of 79 Ad.",
       "role": "paragraph"
     },
     {
@@ -2619,18 +2715,21 @@
       "order": 415,
       "chapterIndex": 8,
       "text": "Hippocrates of Cos, about 460-357 B.C. One of the most famous physicians of antiquity.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Hippocrates of Cos, about 460-357 B.C.One of the most famous physicians of antiquity."
     },
     {
       "order": 416,
       "chapterIndex": 8,
       "text": "IDIOT, means merely the non-proficient in anything, the \"layman,\" he who was not technically trained in any art, craft, or calling.",
+      "ttsText": "Idiot, means merely the non-proficient in anything, the \"layman,\" he who was not technically trained in any art, craft, or calling.",
       "role": "paragraph"
     },
     {
       "order": 417,
       "chapterIndex": 8,
       "text": "LEONNATUS, a distinguished general under Alexander the Great.",
+      "ttsText": "Leonnatus, a distinguished general under Alexander the Great.",
       "role": "paragraph"
     },
     {
@@ -2685,6 +2784,7 @@
       "order": 426,
       "chapterIndex": 8,
       "text": "NERVES, strings.",
+      "ttsText": "Nerves, strings.",
       "role": "paragraph"
     },
     {
@@ -2697,6 +2797,7 @@
       "order": 428,
       "chapterIndex": 8,
       "text": "PALESTRA, wrestling school.",
+      "ttsText": "Palestra, wrestling school.",
       "role": "paragraph"
     },
     {
@@ -2751,7 +2852,8 @@
       "order": 437,
       "chapterIndex": 8,
       "text": "Plato of Athens, 429-347 B.C. He used the dialectic method invented by his master Socrates.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Plato of Athens, 429-347 B.C.He used the dialectic method invented by his master Socrates."
     },
     {
       "order": 438,
@@ -2769,7 +2871,8 @@
       "order": 440,
       "chapterIndex": 8,
       "text": "Pompeii, near Mount Vesuvius, buried in the eruption of 79 A. D.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Pompeii, near Mount Vesuvius, buried in the eruption of 79 A.D."
     },
     {
       "order": 441,
@@ -2793,6 +2896,7 @@
       "order": 444,
       "chapterIndex": 8,
       "text": "QUADI, a tribe of S. Germany.",
+      "ttsText": "Quadi, a tribe of S. Germany.",
       "role": "paragraph"
     },
     {
@@ -2805,6 +2909,7 @@
       "order": 446,
       "chapterIndex": 8,
       "text": "RICTUS, gape, jaws.",
+      "ttsText": "Rictus, gape, jaws.",
       "role": "paragraph"
     },
     {
@@ -2817,6 +2922,7 @@
       "order": 448,
       "chapterIndex": 8,
       "text": "SACRARY, shrine.",
+      "ttsText": "Sacrary, shrine.",
       "role": "paragraph"
     },
     {
@@ -2901,6 +3007,7 @@
       "order": 462,
       "chapterIndex": 8,
       "text": "THEOPHRASTUS, a philosopher, pupil of Aristotle, and his successor as president of the Lyceum. He wrote a large number of works on philosophy and natural history. Died 287 B.C.",
+      "ttsText": "Theophrastus, a philosopher, pupil of Aristotle, and his successor as president of the Lyceum. He wrote a large number of works on philosophy and natural history. Died 287 B.C.",
       "role": "paragraph"
     },
     {
@@ -2913,6 +3020,7 @@
       "order": 464,
       "chapterIndex": 8,
       "text": "Tiberius, 2nd Roman Emperor (14-31 AD.). He spent the latter part of his life at Capreae (Capri), off Naples, in luxury or debauchery, neglecting his imperial duties.",
+      "ttsText": "Tiberius, 2nd Roman Emperor (14-31 Ad.). He spent the latter part of his life at Capreae (Capri), off Naples, in luxury or debauchery, neglecting his imperial duties.",
       "role": "paragraph"
     },
     {
@@ -2931,18 +3039,21 @@
       "order": 467,
       "chapterIndex": 8,
       "text": "VERUS, Lucius Aurelius, colleague of M. Aurelius in the Empire.",
+      "ttsText": "Verus, Lucius Aurelius, colleague of M. Aurelius in the Empire.",
       "role": "paragraph"
     },
     {
       "order": 468,
       "chapterIndex": 8,
       "text": "He married Lucilla, daughter of M. A., and died 169 A.D.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "He married Lucilla, daughter of M.A., and died 169 A.D."
     },
     {
       "order": 469,
       "chapterIndex": 8,
       "text": "Vespasian, 9th Roman Emperor XENOCRATES of Chalcedon, 396-314 B.C., a philosopher, and president of the Academy.",
+      "ttsText": "Vespasian, 9th Roman Emperor Xenocrates of Chalcedon, 396-314 B.C., a philosopher, and president of the Academy.",
       "role": "paragraph"
     },
     {
@@ -2955,6 +3066,7 @@
       "order": 471,
       "chapterIndex": 8,
       "text": "HIS FIRST BOOK",
+      "ttsText": "His First Book",
       "role": "title"
     },
     {
@@ -3063,6 +3175,7 @@
       "order": 489,
       "chapterIndex": 8,
       "text": "THE SECOND BOOK",
+      "ttsText": "The Second Book",
       "role": "title"
     },
     {
@@ -3159,6 +3272,7 @@
       "order": 505,
       "chapterIndex": 8,
       "text": "THE THIRD BOOK",
+      "ttsText": "The Third Book",
       "role": "title"
     },
     {
@@ -3267,6 +3381,7 @@
       "order": 523,
       "chapterIndex": 8,
       "text": "THE FOURTH BOOK",
+      "ttsText": "The Fourth Book",
       "role": "title"
     },
     {
@@ -3531,6 +3646,7 @@
       "order": 567,
       "chapterIndex": 8,
       "text": "THE FIFTH BOOK",
+      "ttsText": "The Fifth Book",
       "role": "title"
     },
     {
@@ -3717,6 +3833,7 @@
       "order": 598,
       "chapterIndex": 8,
       "text": "THE SIXTH BOOK",
+      "ttsText": "The Sixth Book",
       "role": "title"
     },
     {
@@ -4047,6 +4164,7 @@
       "order": 653,
       "chapterIndex": 8,
       "text": "THE SEVENTH BOOK",
+      "ttsText": "The Seventh Book",
       "role": "title"
     },
     {
@@ -4131,6 +4249,7 @@
       "order": 667,
       "chapterIndex": 8,
       "text": "XIV. What is rv&nfLovia, or happiness: but a7~o~ &d~wv, or, a good",
+      "ttsText": "XIV. What is rv and nfLovia, or happiness: but a7~o~ and d~wv, or, a good",
       "role": "heading"
     },
     {
@@ -4317,6 +4436,7 @@
       "order": 698,
       "chapterIndex": 8,
       "text": "THE EIGHTH BOOK",
+      "ttsText": "The Eighth Book",
       "role": "title"
     },
     {
@@ -4671,6 +4791,7 @@
       "order": 757,
       "chapterIndex": 8,
       "text": "THE NINTH BOOK",
+      "ttsText": "The Ninth Book",
       "role": "title"
     },
     {
@@ -4935,6 +5056,7 @@
       "order": 801,
       "chapterIndex": 8,
       "text": "THE TENTH BOOK",
+      "ttsText": "The Tenth Book",
       "role": "title"
     },
     {
@@ -5169,6 +5291,7 @@
       "order": 840,
       "chapterIndex": 8,
       "text": "THE ELEVENTH BOOK",
+      "ttsText": "The Eleventh Book",
       "role": "title"
     },
     {
@@ -5361,6 +5484,7 @@
       "order": 872,
       "chapterIndex": 8,
       "text": "THE TWELFTH BOOK",
+      "ttsText": "The Twelfth Book",
       "role": "title"
     },
     {

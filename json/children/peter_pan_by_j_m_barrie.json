@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:12.1658183Z",
+  "generatedAt": "2026-04-07T14:53:07.5073061Z",
   "source": {
     "id": "pg16",
     "title": "Peter Pan",
@@ -210,13 +210,15 @@
       "order": 13,
       "chapterIndex": 0,
       "text": "[PETER AND WENDY]",
+      "ttsText": "[Peter and Wendy]",
       "role": "title"
     },
     {
       "order": 14,
       "chapterIndex": 0,
       "text": "by J. M. Barrie [James Matthew Barrie]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "by J.M.Barrie [James Matthew Barrie]"
     },
     {
       "order": 15,
@@ -402,6 +404,7 @@
       "order": 45,
       "chapterIndex": 1,
       "text": "“I have one pound seventeen here, and two and six at the office; I can cut off my coffee at the office, say ten shillings, making two nine and six, with your eighteen and three makes three nine seven, with five naught naught in my cheque-book makes eight nine seven—who is that moving?—eight nine seven, dot and carry seven—don’t speak, my own—and the pound you lent to that man who came to the door—quiet, child—dot and carry child—there, you’ve done it!—did I say nine nine seven? yes, I said nine nine seven; the question is, can we try it for a year on nine nine seven?”",
+      "ttsText": "“I have one pound seventeen here, and two and six at the office; I can cut off my coffee at the office, say ten shillings, making two nine and six, with your eighteen and three makes three nine seven, with five naught naught in my cheque-book makes eight nine seven, who is that moving?, eight nine seven, dot and carry seven, don’t speak, my own, and the pound you lent to that man who came to the door, quiet, child, dot and carry child, there, you’ve done it!, did I say nine nine seven? yes, I said nine nine seven; the question is, can we try it for a year on nine nine seven?”",
       "role": "paragraph"
     },
     {
@@ -414,6 +417,7 @@
       "order": 47,
       "chapterIndex": 1,
       "text": "“Remember mumps,” he warned her almost threateningly, and off he went again. “Mumps one pound, that is what I have put down, but I daresay it will be more like thirty shillings—don’t speak—measles one five, German measles half a guinea, makes two fifteen six—don’t waggle your finger—whooping-cough, say fifteen shillings”—and so on it went, and it added up differently each time; but at last Wendy just got through, with mumps reduced to twelve six, and the two kinds of measles treated as one.",
+      "ttsText": "“Remember mumps,” he warned her almost threateningly, and off he went again. “Mumps one pound, that is what I have put down, but I daresay it will be more like thirty shillings, don’t speak, measles one five, German measles half a guinea, makes two fifteen six, don’t waggle your finger, whooping-cough, say fifteen shillings”, and so on it went, and it added up differently each time; but at last Wendy just got through, with mumps reduced to twelve six, and the two kinds of measles treated as one.",
       "role": "paragraph"
     },
     {
@@ -678,6 +682,7 @@
       "order": 91,
       "chapterIndex": 2,
       "text": "THE HAPPY HOME",
+      "ttsText": "The Happy Home",
       "role": "title"
     },
     {
@@ -1290,13 +1295,14 @@
       "order": 193,
       "chapterIndex": 3,
       "text": "WENDY’S STORY",
-      "ttsText": "WENDY’Sstory",
+      "ttsText": "Wendy’s Story",
       "role": "title"
     },
     {
       "order": 194,
       "chapterIndex": 3,
       "text": "“Listen, then,” said Wendy, settling down to her story, with Michael at her feet and seven boys in the bed. “There was once a gentleman—”",
+      "ttsText": "“Listen, then,” said Wendy, settling down to her story, with Michael at her feet and seven boys in the bed. “There was once a gentleman, ”",
       "role": "paragraph"
     },
     {
@@ -1315,6 +1321,7 @@
       "order": 197,
       "chapterIndex": 3,
       "text": "“Quiet,” their mother admonished them. “There was a lady also, and—”",
+      "ttsText": "“Quiet,” their mother admonished them. “There was a lady also, and, ”",
       "role": "paragraph"
     },
     {
@@ -1579,6 +1586,7 @@
       "order": 241,
       "chapterIndex": 3,
       "text": "“Can it be—yes—no—it is—the fair Wendy!”",
+      "ttsText": "“Can it be, yes, no, it is, the fair Wendy!”",
       "role": "paragraph"
     },
     {
@@ -1849,6 +1857,7 @@
       "order": 286,
       "chapterIndex": 3,
       "text": "“Tink,” he rapped out, “if you don’t get up and dress at once I will open the curtains, and then we shall all see you in your negligée .”",
+      "ttsText": "“Tink,” he rapped out, “if you don’t get up and dress at once I will open the curtains, and then we shall all see you in your negligée.”",
       "role": "paragraph"
     },
     {
@@ -1963,6 +1972,7 @@
       "order": 305,
       "chapterIndex": 3,
       "text": "“But, Peter—”",
+      "ttsText": "“But, Peter, ”",
       "role": "paragraph"
     },
     {
@@ -2077,6 +2087,7 @@
       "order": 324,
       "chapterIndex": 4,
       "text": "THE CHILDREN ARE CARRIED OFF",
+      "ttsText": "The Children Are Carried Off",
       "role": "title"
     },
     {
@@ -2143,6 +2154,7 @@
       "order": 335,
       "chapterIndex": 4,
       "text": "Peter was such a small boy that one tends to wonder at the man’s hatred of him. True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant. The truth is that there was a something about Peter which goaded the pirate captain to frenzy. It was not his courage, it was not his engaging appearance, it was not—. There is no beating about the bush, for we know quite well what it was, and have got to tell. It was Peter’s cockiness.",
+      "ttsText": "Peter was such a small boy that one tends to wonder at the man’s hatred of him. True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant. The truth is that there was a something about Peter which goaded the pirate captain to frenzy. It was not his courage, it was not his engaging appearance, it was not,. There is no beating about the bush, for we know quite well what it was, and have got to tell. It was Peter’s cockiness.",
       "role": "paragraph"
     },
     {
@@ -2221,6 +2233,7 @@
       "order": 348,
       "chapterIndex": 5,
       "text": "DO YOU BELIEVE IN FAIRIES?",
+      "ttsText": "Do You Believe in Fairies?",
       "role": "title"
     },
     {
@@ -2233,6 +2246,7 @@
       "order": 350,
       "chapterIndex": 5,
       "text": "A different treatment was accorded to Wendy, who came last. With ironical politeness Hook raised his hat to her, and, offering her his arm, escorted her to the spot where the others were being gagged. He did it with such an air, he was so frightfully distingué , that she was too fascinated to cry out. She was only a little girl.",
+      "ttsText": "A different treatment was accorded to Wendy, who came last. With ironical politeness Hook raised his hat to her, and, offering her his arm, escorted her to the spot where the others were being gagged. He did it with such an air, he was so frightfully distingué, that she was too fascinated to cry out. She was only a little girl.",
       "role": "paragraph"
     },
     {
@@ -2659,12 +2673,14 @@
       "order": 421,
       "chapterIndex": 6,
       "text": "THE PIRATE SHIP",
+      "ttsText": "The Pirate Ship",
       "role": "title"
     },
     {
       "order": 422,
       "chapterIndex": 6,
       "text": "One green light squinting over Kidd’s Creek, which is near the mouth of the pirate river, marked where the brig, the Jolly Roger , lay, low in the water; a rakish-looking craft foul to the hull, every beam in her detestable, like ground strewn with mangled feathers. She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name.",
+      "ttsText": "One green light squinting over Kidd’s Creek, which is near the mouth of the pirate river, marked where the brig, the Jolly Roger, lay, low in the water; a rakish-looking craft foul to the hull, every beam in her detestable, like ground strewn with mangled feathers. She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name.",
       "role": "paragraph"
     },
     {
@@ -2737,6 +2753,7 @@
       "order": 434,
       "chapterIndex": 6,
       "text": "“Barbecue, Flint—what house?” came the cutting retort.",
+      "ttsText": "“Barbecue, Flint, what house?” came the cutting retort.",
       "role": "paragraph"
     },
     {
@@ -2791,6 +2808,7 @@
       "order": 443,
       "chapterIndex": 6,
       "text": "To tell poor Smee that they thought him lovable! Hook itched to do it, but it seemed too brutal. Instead, he revolved this mystery in his mind: why do they find Smee lovable? He pursued the problem like the sleuth-hound that he was. If Smee was lovable, what was it that made him so? A terrible answer suddenly presented itself—“Good form?”",
+      "ttsText": "To tell poor Smee that they thought him lovable! Hook itched to do it, but it seemed too brutal. Instead, he revolved this mystery in his mind: why do they find Smee lovable? He pursued the problem like the sleuth-hound that he was. If Smee was lovable, what was it that made him so? A terrible answer suddenly presented itself, “Good form?”",
       "role": "paragraph"
     },
     {
@@ -2887,6 +2905,7 @@
       "order": 459,
       "chapterIndex": 6,
       "text": "“I don’t think so,” said the first twin, as clever as the others. “Nibs, would—”",
+      "ttsText": "“I don’t think so,” said the first twin, as clever as the others. “Nibs, would, ”",
       "role": "paragraph"
     },
     {
@@ -3037,6 +3056,7 @@
       "order": 484,
       "chapterIndex": 6,
       "text": "“What my mother hopes. John, what are—”",
+      "ttsText": "“What my mother hopes. John, what are, ”",
       "role": "paragraph"
     },
     {
@@ -3085,6 +3105,7 @@
       "order": 492,
       "chapterIndex": 6,
       "text": "They all heard it—pirates, boys, Wendy; and immediately every head was blown in one direction; not to the water whence the sound proceeded, but toward Hook. All knew that what was about to happen concerned him alone, and that from being actors they were suddenly become spectators.",
+      "ttsText": "They all heard it, pirates, boys, Wendy; and immediately every head was blown in one direction; not to the water whence the sound proceeded, but toward Hook. All knew that what was about to happen concerned him alone, and that from being actors they were suddenly become spectators.",
       "role": "paragraph"
     },
     {
@@ -3145,6 +3166,7 @@
       "order": 502,
       "chapterIndex": 7,
       "text": "“HOOK OR ME THIS TIME”",
+      "ttsText": "“Hook or Me This Time”",
       "role": "title"
     },
     {
@@ -3283,6 +3305,7 @@
       "order": 525,
       "chapterIndex": 7,
       "text": "And when they’re writ upon your back—”",
+      "ttsText": "And when they’re writ upon your back, ”",
       "role": "paragraph"
     },
     {
@@ -3589,6 +3612,7 @@
       "order": 576,
       "chapterIndex": 7,
       "text": "“Down, boys, and at them!” Peter’s voice rang out; and in another moment the clash of arms was resounding through the ship. Had the pirates kept together it is certain that they would have won; but the onset came when they were still unstrung, and they ran hither and thither, striking wildly, each thinking himself the last survivor of the crew. Man to man they were the stronger; but they fought on the defensive only, which enabled the boys to hunt in pairs and choose their quarry. Some of the miscreants leapt into the sea; others hid in dark recesses, where they were found by Slightly, who did not fight, but ran about with a lantern which he flashed in their faces, so that they were half blinded and fell as an easy prey to the reeking swords of the other boys. There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting—five—six—seven—eight—nine—ten—eleven.",
+      "ttsText": "“Down, boys, and at them!” Peter’s voice rang out; and in another moment the clash of arms was resounding through the ship. Had the pirates kept together it is certain that they would have won; but the onset came when they were still unstrung, and they ran hither and thither, striking wildly, each thinking himself the last survivor of the crew. Man to man they were the stronger; but they fought on the defensive only, which enabled the boys to hunt in pairs and choose their quarry. Some of the miscreants leapt into the sea; others hid in dark recesses, where they were found by Slightly, who did not fight, but ran about with a lantern which he flashed in their faces, so that they were half blinded and fell as an easy prey to the reeking swords of the other boys. There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting, five, six, seven, eight, nine, ten, eleven.",
       "role": "paragraph"
     },
     {
@@ -3799,6 +3823,7 @@
       "order": 611,
       "chapterIndex": 8,
       "text": "THE RETURN HOME",
+      "ttsText": "The Return Home",
       "role": "title"
     },
     {
@@ -4303,6 +4328,7 @@
       "order": 695,
       "chapterIndex": 9,
       "text": "WHEN WENDY GREW UP",
+      "ttsText": "When Wendy Grew Up",
       "role": "title"
     },
     {
@@ -5317,6 +5343,7 @@
       "order": 864,
       "chapterIndex": 9,
       "text": "THE END",
+      "ttsText": "The End",
       "role": "title"
     },
     {

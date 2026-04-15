@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:11.8524593Z",
+  "generatedAt": "2026-04-07T14:53:07.1506465Z",
   "source": {
     "id": "pg1448",
     "title": "Heidi",
@@ -123,12 +123,14 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "HEIDI",
+      "ttsText": "Heidi",
       "role": "title"
     },
     {
       "order": 12,
       "chapterIndex": 0,
       "text": "by JOHANNA SPYRI",
+      "ttsText": "by Johanna Spyri",
       "role": "paragraph"
     },
     {
@@ -297,6 +299,7 @@
       "order": 40,
       "chapterIndex": 0,
       "text": "Her chief works, besides Heidi, were:— Am Sonntag; Arthur und",
+      "ttsText": "Her chief works, besides Heidi, were:, Am Sonntag; Arthur und",
       "role": "paragraph"
     },
     {
@@ -351,12 +354,14 @@
       "order": 49,
       "chapterIndex": 0,
       "text": "HEIDI",
+      "ttsText": "Heidi",
       "role": "title"
     },
     {
       "order": 50,
       "chapterIndex": 0,
       "text": "CHAPTER I. UP THE MOUNTAIN TO ALM-UNCLE",
+      "ttsText": "Chapter I. Up the Mountain to Alm-Uncle",
       "role": "heading"
     },
     {
@@ -453,6 +458,7 @@
       "order": 66,
       "chapterIndex": 0,
       "text": "\"I should very much like to know,\" continued Barbel, in an inquiring tone of voice, \"what the old man has on his conscience that he looks as he does, and lives up there on the mountain like a hermit, hardly ever allowing himself to be seen. All kinds of things are said about him. You, Dete, however, must certainly have learnt a good deal concerning him from your sister—am I not right?\"",
+      "ttsText": "\"I should very much like to know,\" continued Barbel, in an inquiring tone of voice, \"what the old man has on his conscience that he looks as he does, and lives up there on the mountain like a hermit, hardly ever allowing himself to be seen. All kinds of things are said about him. You, Dete, however, must certainly have learnt a good deal concerning him from your sister, am I not right?\"",
       "role": "paragraph"
     },
     {
@@ -483,6 +489,7 @@
       "order": 71,
       "chapterIndex": 0,
       "text": "\"Very well then, I will tell you—but just wait a moment,\" said Dete in a warning voice, and she looked back to make sure that the child was not near enough to hear all she was going to relate; but the child was nowhere to be seen, and must have turned aside from following her companions some time before, while these were too eagerly occupied with their conversation to notice it. Dete stood still and looked around her in all directions. The footpath wound a little here and there, but could nevertheless be seen along its whole length nearly to Dorfli; no one, however, was visible upon it at this moment.",
+      "ttsText": "\"Very well then, I will tell you, but just wait a moment,\" said Dete in a warning voice, and she looked back to make sure that the child was not near enough to hear all she was going to relate; but the child was nowhere to be seen, and must have turned aside from following her companions some time before, while these were too eagerly occupied with their conversation to notice it. Dete stood still and looked around her in all directions. The footpath wound a little here and there, but could nevertheless be seen along its whole length nearly to Dorfli; no one, however, was visible upon it at this moment.",
       "role": "paragraph"
     },
     {
@@ -561,6 +568,7 @@
       "order": 84,
       "chapterIndex": 0,
       "text": "Dete had been standing for a good ten minutes looking about her in every direction for some sign of the children and the goats. Not a glimpse of them, however, was to be seen, so she climbed to a higher spot, whence she could get a fuller view of the mountain as it sloped beneath her to the valley, while, with ever-increasing anxiety on her face and in her movements, she continued to scan the surrounding slopes. Meanwhile the children were climbing up by a far and roundabout way, for Peter knew many spots where all kinds of good food, in the shape of shrubs and plants, grew for his goats, and he was in the habit of leading his flock aside from the beaten track. The child, exhausted with the heat and weight of her thick armor of clothes, panted and struggled after him at first with some difficulty. She said nothing, but her little eyes kept watching first Peter, as he sprang nimbly hither and thither on his bare feet, clad only in his short light breeches, and then the slim-legged goats that went leaping over rocks and shrubs and up the steep ascents with even greater ease. All at once she sat herself down on the ground, and as fast as her little fingers could move, began pulling off her shoes and stockings. This done she rose, unwound the hot red shawl and threw it away, and then proceeded to undo her frock. It was off in a second, but there was still another to unfasten, for Dete had put the Sunday frock on over the everyday one, to save the trouble of carrying it. Quick as lightning the everyday frock followed the other, and now the child stood up, clad only in her light short-sleeved under garment, stretching out her little bare arms with glee. She put all her clothes together in a tidy little heap, and then went jumping and climbing up after Peter and the goats as nimbly as any one of the party. Peter had taken no heed of what the child was about when she stayed behind, but when she ran up to him in her new attire, his face broke into a grin, which grew broader still as he looked back and saw the small heap of clothes lying on the ground, until his mouth stretched almost from ear to ear; he said nothing, however. The child, able now to move at her ease, began to enter into conversation with Peter, who had many questions to answer, for his companion wanted to know how many goats he had, where he was going to with them, and what he had to do when he arrived there. At last, after some time, they and the goats approached the hut and came within view of Cousin Dete. Hardly had the latter caught sight of the little company climbing up towards her when she shrieked out: \"Heidi, what have you been doing! What a sight you have made of yourself! And where are your two frocks and the red wrapper? And the new shoes I bought, and the new stockings I knitted for you—everything gone! not a thing left! What can you have been thinking of, Heidi; where are all your clothes?\"",
+      "ttsText": "Dete had been standing for a good ten minutes looking about her in every direction for some sign of the children and the goats. Not a glimpse of them, however, was to be seen, so she climbed to a higher spot, whence she could get a fuller view of the mountain as it sloped beneath her to the valley, while, with ever-increasing anxiety on her face and in her movements, she continued to scan the surrounding slopes. Meanwhile the children were climbing up by a far and roundabout way, for Peter knew many spots where all kinds of good food, in the shape of shrubs and plants, grew for his goats, and he was in the habit of leading his flock aside from the beaten track. The child, exhausted with the heat and weight of her thick armor of clothes, panted and struggled after him at first with some difficulty. She said nothing, but her little eyes kept watching first Peter, as he sprang nimbly hither and thither on his bare feet, clad only in his short light breeches, and then the slim-legged goats that went leaping over rocks and shrubs and up the steep ascents with even greater ease. All at once she sat herself down on the ground, and as fast as her little fingers could move, began pulling off her shoes and stockings. This done she rose, unwound the hot red shawl and threw it away, and then proceeded to undo her frock. It was off in a second, but there was still another to unfasten, for Dete had put the Sunday frock on over the everyday one, to save the trouble of carrying it. Quick as lightning the everyday frock followed the other, and now the child stood up, clad only in her light short-sleeved under garment, stretching out her little bare arms with glee. She put all her clothes together in a tidy little heap, and then went jumping and climbing up after Peter and the goats as nimbly as any one of the party. Peter had taken no heed of what the child was about when she stayed behind, but when she ran up to him in her new attire, his face broke into a grin, which grew broader still as he looked back and saw the small heap of clothes lying on the ground, until his mouth stretched almost from ear to ear; he said nothing, however. The child, able now to move at her ease, began to enter into conversation with Peter, who had many questions to answer, for his companion wanted to know how many goats he had, where he was going to with them, and what he had to do when he arrived there. At last, after some time, they and the goats approached the hut and came within view of Cousin Dete. Hardly had the latter caught sight of the little company climbing up towards her when she shrieked out: \"Heidi, what have you been doing! What a sight you have made of yourself! And where are your two frocks and the red wrapper? And the new shoes I bought, and the new stockings I knitted for you, everything gone! not a thing left! What can you have been thinking of, Heidi; where are all your clothes?\"",
       "role": "paragraph"
     },
     {
@@ -669,12 +677,14 @@
       "order": 102,
       "chapterIndex": 0,
       "text": "Then the women began to hurl reproaches at her; first one cried out, \"How could you do such a thing!\" then another, \"To think of leaving a helpless little thing up there,\"—while again and again came the words, \"The poor mite! the poor mite!\" pursuing her as she went along. Unable at last to bear it any longer Dete ran forward as fast as she could until she was beyond reach of their voices. She was far from happy at the thought of what she had done, for the child had been left in her care by her dying mother. She quieted herself, however, with the idea that she would be better able to do something for the child if she was earning plenty of money, and it was a relief to her to think that she would soon be far away from all these people who were making such a fuss about the matter, and she rejoiced further still that she was at liberty now to take such a good place.",
+      "ttsText": "Then the women began to hurl reproaches at her; first one cried out, \"How could you do such a thing!\" then another, \"To think of leaving a helpless little thing up there,\", while again and again came the words, \"The poor mite! the poor mite!\" pursuing her as she went along. Unable at last to bear it any longer Dete ran forward as fast as she could until she was beyond reach of their voices. She was far from happy at the thought of what she had done, for the child had been left in her care by her dying mother. She quieted herself, however, with the idea that she would be better able to do something for the child if she was earning plenty of money, and it was a relief to her to think that she would soon be far away from all these people who were making such a fuss about the matter, and she rejoiced further still that she was at liberty now to take such a good place.",
       "role": "paragraph"
     },
     {
       "order": 103,
       "chapterIndex": 0,
       "text": "CHAPTER II. AT HOME WITH GRANDFATHER",
+      "ttsText": "Chapter II. At Home with Grandfather",
       "role": "heading"
     },
     {
@@ -729,6 +739,7 @@
       "order": 112,
       "chapterIndex": 0,
       "text": "Heidi did as she was told. The old man now opened the door and Heidi stepped inside after him; she found herself in a good- sized room, which covered the whole ground floor of the hut. A table and a chair were the only furniture; in one corner stood the grandfather's bed, in another was the hearth with a large kettle hanging above it; and on the further side was a large door in the wall—this was the cupboard. The grandfather opened it; inside were his clothes, some hanging up, others, a couple of shirts, and some socks and handkerchiefs, lying on a shelf; on a second shelf were some plates and cups and glasses, and on a higher one still, a round loaf, smoked meat, and cheese, for everything that Alm-Uncle needed for his food and clothing was kept in this cupboard. Heidi, as soon as it was opened, ran quickly forward and thrust in her bundle of clothes, as far back behind her grandfather's things as possible, so that they might not easily be found again. She then looked carefully round the room, and asked, \"Where am I to sleep, grandfather?\"",
+      "ttsText": "Heidi did as she was told. The old man now opened the door and Heidi stepped inside after him; she found herself in a good- sized room, which covered the whole ground floor of the hut. A table and a chair were the only furniture; in one corner stood the grandfather's bed, in another was the hearth with a large kettle hanging above it; and on the further side was a large door in the wall, this was the cupboard. The grandfather opened it; inside were his clothes, some hanging up, others, a couple of shirts, and some socks and handkerchiefs, lying on a shelf; on a second shelf were some plates and cups and glasses, and on a higher one still, a round loaf, smoked meat, and cheese, for everything that Alm-Uncle needed for his food and clothing was kept in this cupboard. Heidi, as soon as it was opened, ran quickly forward and thrust in her bundle of clothes, as far back behind her grandfather's things as possible, so that they might not easily be found again. She then looked carefully round the room, and asked, \"Where am I to sleep, grandfather?\"",
       "role": "paragraph"
     },
     {
@@ -777,6 +788,7 @@
       "order": 120,
       "chapterIndex": 0,
       "text": "\"That is capital,\" said her grandfather; \"now we must put on the sheet, but wait a moment first,\" and he went and fetched another large bundle of hay to make the bed thicker, so that the child should not feel the hard floor under her—\"there, now bring it here.\" Heidi had got hold of the sheet, but it was almost too heavy for her to carry; this was a good thing, however, as the close thick stuff would prevent the sharp stalks of the hay running through and pricking her. The two together now spread the sheet over the bed, and where it was too long or too broad, Heidi quickly tucked it in under the hay. It looked now as tidy and comfortable a bed as you could wish for, and Heidi stood gazing thoughtfully at her handiwork.",
+      "ttsText": "\"That is capital,\" said her grandfather; \"now we must put on the sheet, but wait a moment first,\" and he went and fetched another large bundle of hay to make the bed thicker, so that the child should not feel the hard floor under her, \"there, now bring it here.\" Heidi had got hold of the sheet, but it was almost too heavy for her to carry; this was a good thing, however, as the close thick stuff would prevent the sharp stalks of the hay running through and pricking her. The two together now spread the sheet over the bed, and where it was too long or too broad, Heidi quickly tucked it in under the hay. It looked now as tidy and comfortable a bed as you could wish for, and Heidi stood gazing thoughtfully at her handiwork.",
       "role": "paragraph"
     },
     {
@@ -861,6 +873,7 @@
       "order": 134,
       "chapterIndex": 0,
       "text": "With that he stood up, filled the bowl with milk, and placing it on the chair, pushed it in front of Heidi on her little three- legged stool, so that she now had a table to herself. Then he brought her a large slice of bread and a piece of the golden cheese, and told her to eat. After which he went and sat down on the corner of the table and began his own meal. Heidi lifted the bowl with both hands and drank without pause till it was empty, for the thirst of all her long hot journey had returned upon her. Then she drew a deep breath—in the eagerness of her thirst she had not stopped to breathe—and put down the bowl.",
+      "ttsText": "With that he stood up, filled the bowl with milk, and placing it on the chair, pushed it in front of Heidi on her little three- legged stool, so that she now had a table to herself. Then he brought her a large slice of bread and a piece of the golden cheese, and told her to eat. After which he went and sat down on the corner of the table and began his own meal. Heidi lifted the bowl with both hands and drank without pause till it was empty, for the thirst of all her long hot journey had returned upon her. Then she drew a deep breath, in the eagerness of her thirst she had not stopped to breathe, and put down the bowl.",
       "role": "paragraph"
     },
     {
@@ -963,6 +976,7 @@
       "order": 151,
       "chapterIndex": 0,
       "text": "CHAPTER III. OUT WITH THE GOATS",
+      "ttsText": "Chapter III. Out with the Goats",
       "role": "heading"
     },
     {
@@ -1005,6 +1019,7 @@
       "order": 158,
       "chapterIndex": 0,
       "text": "\"No, there is nothing for him to laugh at now,\" he assured her. \"But I tell you what—when you come home this evening, you will have to get right into the tub, like a fish, for if you run about like the goats you will get your feet dirty. Now you can be off.\"",
+      "ttsText": "\"No, there is nothing for him to laugh at now,\" he assured her. \"But I tell you what, when you come home this evening, you will have to get right into the tub, like a fish, for if you run about like the goats you will get your feet dirty. Now you can be off.\"",
       "role": "paragraph"
     },
     {
@@ -1077,6 +1092,7 @@
       "order": 170,
       "chapterIndex": 0,
       "text": "\"Peter, Peter, wake up!\" called out Heidi. \"See, the great bird is there—look, look!\"",
+      "ttsText": "\"Peter, Peter, wake up!\" called out Heidi. \"See, the great bird is there, look, look!\"",
       "role": "paragraph"
     },
     {
@@ -1179,6 +1195,7 @@
       "order": 187,
       "chapterIndex": 0,
       "text": "Peter knew these by heart, for having very little else to carry in his head he had no difficulty in remembering them. So he began, telling Heidi the name of each goat in turn as he pointed it out to her. Heidi listened with great attention, and it was not long before she could herself distinguish the goats from one another and could call each by name, for every goat had its own peculiarities which could not easily be mistaken; only one had to watch them closely, and this Heidi did. There was the great Turk with his big horns, who was always wanting to butt the others, so that most of them ran away when they saw him coming and would have nothing to do with their rough companion. Only Greenfinch, the slender nimble little goat, was brave enough to face him, and would make a rush at him, three or four times in succession, with such agility and dexterity, that the great Turk often stood still quite astounded not venturing to attack her again, for Greenfinch was fronting him, prepared for more warlike action, and her horns were sharp. Then there was little White Snowflake, who bleated in such a plaintive and beseeching manner that Heidi already had several times run to it and taken its head in her hands to comfort it. Just at this moment the pleading young cry was heard again, and Heidi jumped up running and, putting her arms round the little creature's neck, asked in a sympathetic voice, \"What is it, little Snowflake? Why do you call like that as if in trouble?\" The goat pressed closer to Heidi in a confiding way and left off bleating. Peter called out from where he was sitting—for he had not yet got to the end of his bread and cheese, \"She cries like that because the old goat is not with her; she was sold at Mayenfeld the day before yesterday, and so will not come up the mountain any more.\"",
+      "ttsText": "Peter knew these by heart, for having very little else to carry in his head he had no difficulty in remembering them. So he began, telling Heidi the name of each goat in turn as he pointed it out to her. Heidi listened with great attention, and it was not long before she could herself distinguish the goats from one another and could call each by name, for every goat had its own peculiarities which could not easily be mistaken; only one had to watch them closely, and this Heidi did. There was the great Turk with his big horns, who was always wanting to butt the others, so that most of them ran away when they saw him coming and would have nothing to do with their rough companion. Only Greenfinch, the slender nimble little goat, was brave enough to face him, and would make a rush at him, three or four times in succession, with such agility and dexterity, that the great Turk often stood still quite astounded not venturing to attack her again, for Greenfinch was fronting him, prepared for more warlike action, and her horns were sharp. Then there was little White Snowflake, who bleated in such a plaintive and beseeching manner that Heidi already had several times run to it and taken its head in her hands to comfort it. Just at this moment the pleading young cry was heard again, and Heidi jumped up running and, putting her arms round the little creature's neck, asked in a sympathetic voice, \"What is it, little Snowflake? Why do you call like that as if in trouble?\" The goat pressed closer to Heidi in a confiding way and left off bleating. Peter called out from where he was sitting, for he had not yet got to the end of his bread and cheese, \"She cries like that because the old goat is not with her; she was sold at Mayenfeld the day before yesterday, and so will not come up the mountain any more.\"",
       "role": "paragraph"
     },
     {
@@ -1467,6 +1484,7 @@
       "order": 235,
       "chapterIndex": 0,
       "text": "CHAPTER IV. THE VISIT TO GRANDMOTHER",
+      "ttsText": "Chapter IV. The Visit to Grandmother",
       "role": "heading"
     },
     {
@@ -1647,6 +1665,7 @@
       "order": 265,
       "chapterIndex": 0,
       "text": "\"Alas, child, it is not only that I cannot see—I can see, nothing, nothing,\" said the grandmother in a voice of lamentation.",
+      "ttsText": "\"Alas, child, it is not only that I cannot see, I can see, nothing, nothing,\" said the grandmother in a voice of lamentation.",
       "role": "paragraph"
     },
     {
@@ -1839,6 +1858,7 @@
       "order": 297,
       "chapterIndex": 0,
       "text": "Brigitta went outside and found Alm-Uncle in the act of fastening some heavy pieces of new wood along the wall. She stepped up to him and said, \"Good-evening, Uncle, mother and I have to thank you for doing us such a kind service, and she would like to tell you herself how grateful she is; I do not know who else would have done it for us; we shall not forget your kindness, for I am sure—\"",
+      "ttsText": "Brigitta went outside and found Alm-Uncle in the act of fastening some heavy pieces of new wood along the wall. She stepped up to him and said, \"Good-evening, Uncle, mother and I have to thank you for doing us such a kind service, and she would like to tell you herself how grateful she is; I do not know who else would have done it for us; we shall not forget your kindness, for I am sure, \"",
       "role": "paragraph"
     },
     {
@@ -1875,6 +1895,7 @@
       "order": 303,
       "chapterIndex": 0,
       "text": "CHAPTER V. TWO VISITS AND WHAT CAME OF THEM",
+      "ttsText": "Chapter V. Two Visits and What Came of Them",
       "role": "heading"
     },
     {
@@ -2037,6 +2058,7 @@
       "order": 330,
       "chapterIndex": 0,
       "text": "The grandfather looked her up and down without uttering a word. But Dete was prepared with an exceedingly amiable speech and began at once to praise the looks of the child. She was looking so well she should hardly have known her again, and it was evident that she had been happy and well-cared for with her grandfather; but she had never lost sight of the idea of taking the child back again, for she well understood that the little one must be much in his way, but she had not been able to do it at first. Day and night, however, she had thought over the means of placing the child somewhere, and that was why she had come to- day, for she had just heard of something that would be a lucky chance for Heidi beyond her most ambitious hopes. Some immensely wealthy relatives of the people she was serving, who had the most splendid house almost in Frankfurt, had an only daughter, young and an invalid, who was always obliged to go about in a wheeled chair; she was therefore very much alone and had no one to share her lessons, and so the little girl felt dull. Her father had spoken to Dete's mistress about finding a companion for her, and her mistress was anxious to help in the matter, as she felt so sympathetic about it. The lady-housekeeper had described the sort of child they wanted, simple-minded and unspoilt, and not like most of the children that one saw now-a- days. Dete had thought at once of Heidi and had gone off without delay to see the lady-housekeeper, and after Dete had given her a description of Heidi, she had immediately agreed to take her. And no one could tell what good fortune there might not be in store for Heidi, for if she was once with these people and they took a fancy to her, and anything happened to their own daughter—one could never tell, the child was so weakly—and they did not feel they could live without a child, why then the most unheard of luck—",
+      "ttsText": "The grandfather looked her up and down without uttering a word. But Dete was prepared with an exceedingly amiable speech and began at once to praise the looks of the child. She was looking so well she should hardly have known her again, and it was evident that she had been happy and well-cared for with her grandfather; but she had never lost sight of the idea of taking the child back again, for she well understood that the little one must be much in his way, but she had not been able to do it at first. Day and night, however, she had thought over the means of placing the child somewhere, and that was why she had come to- day, for she had just heard of something that would be a lucky chance for Heidi beyond her most ambitious hopes. Some immensely wealthy relatives of the people she was serving, who had the most splendid house almost in Frankfurt, had an only daughter, young and an invalid, who was always obliged to go about in a wheeled chair; she was therefore very much alone and had no one to share her lessons, and so the little girl felt dull. Her father had spoken to Dete's mistress about finding a companion for her, and her mistress was anxious to help in the matter, as she felt so sympathetic about it. The lady-housekeeper had described the sort of child they wanted, simple-minded and unspoilt, and not like most of the children that one saw now-a- days. Dete had thought at once of Heidi and had gone off without delay to see the lady-housekeeper, and after Dete had given her a description of Heidi, she had immediately agreed to take her. And no one could tell what good fortune there might not be in store for Heidi, for if she was once with these people and they took a fancy to her, and anything happened to their own daughter, one could never tell, the child was so weakly, and they did not feel they could live without a child, why then the most unheard of luck,",
       "role": "paragraph"
     },
     {
@@ -2223,7 +2245,7 @@
       "order": 361,
       "chapterIndex": 0,
       "text": "CHAPTER VI. A NEW CHAPTER ABOUT NEW THINGS",
-      "ttsText": "CHAPTER VI. Anew CHAPTER ABOUT NEW THINGS",
+      "ttsText": "Chapter VI. A New Chapter About New Things",
       "role": "heading"
     },
     {
@@ -2356,6 +2378,7 @@
       "order": 383,
       "chapterIndex": 0,
       "text": "\"What—only eight!\" cried Fraulein Rottenmeier angrily. \"Four years too young! Of what use is such a child! And what have you learnt? What books did you have to learn from?\"",
+      "ttsText": "\"What, only eight!\" cried Fraulein Rottenmeier angrily. \"Four years too young! Of what use is such a child! And what have you learnt? What books did you have to learn from?\"",
       "role": "paragraph"
     },
     {
@@ -2380,6 +2403,7 @@
       "order": 387,
       "chapterIndex": 0,
       "text": "\"Mercy upon us! you do not know how to read! Is it really so?\" exclaimed Fraulein Rottenmeier, greatly horrified. \"Is it possible—not able to read? What have you learnt then?\"",
+      "ttsText": "\"Mercy upon us! you do not know how to read! Is it really so?\" exclaimed Fraulein Rottenmeier, greatly horrified. \"Is it possible, not able to read? What have you learnt then?\"",
       "role": "paragraph"
     },
     {
@@ -2536,12 +2560,14 @@
       "order": 413,
       "chapterIndex": 0,
       "text": "CHAPTER VII. FRAULEIN ROTTENMEIER SPENDS AN UNCOMFORTABLE DAY",
+      "ttsText": "Chapter VII. Fraulein Rottenmeier Spends an Uncomfortable Day",
       "role": "heading"
     },
     {
       "order": 414,
       "chapterIndex": 0,
       "text": "When Heidi opened her eyes on her first morning in Frankfurt she could not think where she was. Then she rubbed them and looked about her. She was sitting up in a high white bed, on one side of a large, wide room, into which the light was falling through very, very long white curtains; near the window stood two chairs covered with large flowers, and then came a sofa with the same flowers, in front of which was a round table; in the corner was a washstand, with things upon it that Heidi had never seen in her life before. But now all at once she remembered that she was in Frankfurt; everything that had happened the day before came back to her, and finally she recalled clearly the instructions that had been given her by the lady-housekeeper, as far as she had heard them. Heidi jumped out of bed and dressed herself; then she ran first to one window and then another; she wanted to see the sky and country outside; she felt like a bird in a cage behind those great curtains. But they were too heavy for her to put aside, so she crept underneath them to get to the window. But these again were so high that she could only just get her head above the sill to peer out. Even then she could not see what she longed for. In vain she went first to one and then the other of the windows—she could see nothing but walls and windows and again walls and windows. Heidi felt quite frightened. It was still early, for Heidi was accustomed to get up early and run out at once to see how everything was looking, if the sky was blue and if the sun was already above the mountains, or if the fir trees were waving and the flowers had opened their eyes. As a bird, when it first finds itself in its bright new cage, darts hither and thither, trying the bars in turn to see if it cannot get through them and fly again into the open, so Heidi continued to run backwards and forwards, trying to open first one and then the other of the windows, for she felt she could not bear to see nothing but walls and windows, and somewhere outside there must be the green grass, and the last unmelted snows on the mountain slopes, which Heidi so longed to see. But the windows remained immovable, try what Heidi would to open them, even endeavoring to push her little fingers under them to lift them up; but it was all no use. When after a while Heidi saw that her efforts were fruitless, she gave up trying, and began to think whether she would not go out and round the house till she came to the grass, but then she remembered that the night before she had only seen stones in front of the house. At that moment a knock came to the door, and immediately after Tinette put her head inside and said, \"Breakfast is ready.\" Heidi had no idea what an invitation so worded meant, and Tinette's face did not encourage any questioning on Heidi's part, but rather the reverse. Heidi was sharp enough to read its expression, and acted accordingly. So she drew the little stool out from under the table, put it in the corner and sat down upon it, and there silently awaited what would happen next. Shortly after, with a good deal of rustling and bustling Fraulein Rottenmeier appeared, who again seemed very much put out and called to Heidi, \"What is the matter with you, Adelheid? Don't you understand what breakfast is? Come along at once!\"",
+      "ttsText": "When Heidi opened her eyes on her first morning in Frankfurt she could not think where she was. Then she rubbed them and looked about her. She was sitting up in a high white bed, on one side of a large, wide room, into which the light was falling through very, very long white curtains; near the window stood two chairs covered with large flowers, and then came a sofa with the same flowers, in front of which was a round table; in the corner was a washstand, with things upon it that Heidi had never seen in her life before. But now all at once she remembered that she was in Frankfurt; everything that had happened the day before came back to her, and finally she recalled clearly the instructions that had been given her by the lady-housekeeper, as far as she had heard them. Heidi jumped out of bed and dressed herself; then she ran first to one window and then another; she wanted to see the sky and country outside; she felt like a bird in a cage behind those great curtains. But they were too heavy for her to put aside, so she crept underneath them to get to the window. But these again were so high that she could only just get her head above the sill to peer out. Even then she could not see what she longed for. In vain she went first to one and then the other of the windows, she could see nothing but walls and windows and again walls and windows. Heidi felt quite frightened. It was still early, for Heidi was accustomed to get up early and run out at once to see how everything was looking, if the sky was blue and if the sun was already above the mountains, or if the fir trees were waving and the flowers had opened their eyes. As a bird, when it first finds itself in its bright new cage, darts hither and thither, trying the bars in turn to see if it cannot get through them and fly again into the open, so Heidi continued to run backwards and forwards, trying to open first one and then the other of the windows, for she felt she could not bear to see nothing but walls and windows, and somewhere outside there must be the green grass, and the last unmelted snows on the mountain slopes, which Heidi so longed to see. But the windows remained immovable, try what Heidi would to open them, even endeavoring to push her little fingers under them to lift them up; but it was all no use. When after a while Heidi saw that her efforts were fruitless, she gave up trying, and began to think whether she would not go out and round the house till she came to the grass, but then she remembered that the night before she had only seen stones in front of the house. At that moment a knock came to the door, and immediately after Tinette put her head inside and said, \"Breakfast is ready.\" Heidi had no idea what an invitation so worded meant, and Tinette's face did not encourage any questioning on Heidi's part, but rather the reverse. Heidi was sharp enough to read its expression, and acted accordingly. So she drew the little stool out from under the table, put it in the corner and sat down upon it, and there silently awaited what would happen next. Shortly after, with a good deal of rustling and bustling Fraulein Rottenmeier appeared, who again seemed very much put out and called to Heidi, \"What is the matter with you, Adelheid? Don't you understand what breakfast is? Come along at once!\"",
       "role": "paragraph"
     },
     {
@@ -2812,6 +2838,7 @@
       "order": 459,
       "chapterIndex": 0,
       "text": "\"Show me first what you will give me for it,\" and the boy held out his hand as he spoke. Heidi searched about in her pockets and presently drew out a card on which was painted a garland of beautiful red roses; she looked at it first for a moment or two, for she felt rather sorry to part with it; Clara had only that morning made her a present of it—but then, to look down into the valley and see all the lovely green slopes! \"There,\" said Heidi, holding out the card, \"would you like to have that?\"",
+      "ttsText": "\"Show me first what you will give me for it,\" and the boy held out his hand as he spoke. Heidi searched about in her pockets and presently drew out a card on which was painted a garland of beautiful red roses; she looked at it first for a moment or two, for she felt rather sorry to part with it; Clara had only that morning made her a present of it, but then, to look down into the valley and see all the lovely green slopes! \"There,\" said Heidi, holding out the card, \"would you like to have that?\"",
       "role": "paragraph"
     },
     {
@@ -3004,6 +3031,7 @@
       "order": 491,
       "chapterIndex": 0,
       "text": "\"Yes, of course, more than one if you like—in short, you can take away the whole lot if you have room for them,\" for the old man was only too glad to think he could get rid of his kittens without more trouble.",
+      "ttsText": "\"Yes, of course, more than one if you like, in short, you can take away the whole lot if you have room for them,\" for the old man was only too glad to think he could get rid of his kittens without more trouble.",
       "role": "paragraph"
     },
     {
@@ -3040,6 +3068,7 @@
       "order": 497,
       "chapterIndex": 0,
       "text": "\"I know the house,\" he said, \"but when shall I bring them, and who shall I ask for?—you are not one of the family, I am sure.\"",
+      "ttsText": "\"I know the house,\" he said, \"but when shall I bring them, and who shall I ask for?, you are not one of the family, I am sure.\"",
       "role": "paragraph"
     },
     {
@@ -3088,6 +3117,7 @@
       "order": 505,
       "chapterIndex": 0,
       "text": "\"Well, look here,\" continued Heidi, \"from one window you can see a very, very large grey house, and the roof runs like this—\" and Heidi drew a zigzag line in the air with her forefinger.",
+      "ttsText": "\"Well, look here,\" continued Heidi, \"from one window you can see a very, very large grey house, and the roof runs like this, \" and Heidi drew a zigzag line in the air with her forefinger.",
       "role": "paragraph"
     },
     {
@@ -3130,6 +3160,7 @@
       "order": 512,
       "chapterIndex": 0,
       "text": "\"I did not—\" began Heidi—\"Miau! miau!\"",
+      "ttsText": "\"I did not, \" began Heidi, \"Miau! miau!\"",
       "role": "paragraph"
     },
     {
@@ -3154,6 +3185,7 @@
       "order": 516,
       "chapterIndex": 0,
       "text": "\"I really did not—\" \"Miau! miau! miau!\"",
+      "ttsText": "\"I really did not, \" \"Miau! miau! miau!\"",
       "role": "paragraph"
     },
     {
@@ -3220,6 +3252,7 @@
       "order": 527,
       "chapterIndex": 0,
       "text": "CHAPTER VIII. THERE IS GREAT COMMOTION IN THE LARGE HOUSE",
+      "ttsText": "Chapter VIII. There Is Great Commotion in the Large House",
       "role": "heading"
     },
     {
@@ -3304,12 +3337,14 @@
       "order": 541,
       "chapterIndex": 0,
       "text": "The boy was already inside the room, and according to Sebastian's directions immediately began to play his organ. Fraulein Rottenmeier, wishing to escape the A B C, had retired with her work to the dining-room. All at once she stopped and listened. Did those sounds come up from the street? And yet they seemed so near! But how could there be an organ playing in the study? And yet—it surely was so. She rushed to the other end of the long dining-room and tore open the door. She could hardly believe her eyes. There, in the middle of the study, stood a ragged boy turning away at his organ in the most energetic manner. The tutor appeared to be making efforts to speak, but his voice could not be heard. Both children were listening delightedly to the music.",
+      "ttsText": "The boy was already inside the room, and according to Sebastian's directions immediately began to play his organ. Fraulein Rottenmeier, wishing to escape the A B C, had retired with her work to the dining-room. All at once she stopped and listened. Did those sounds come up from the street? And yet they seemed so near! But how could there be an organ playing in the study? And yet, it surely was so. She rushed to the other end of the long dining-room and tore open the door. She could hardly believe her eyes. There, in the middle of the study, stood a ragged boy turning away at his organ in the most energetic manner. The tutor appeared to be making efforts to speak, but his voice could not be heard. Both children were listening delightedly to the music.",
       "role": "paragraph"
     },
     {
       "order": 542,
       "chapterIndex": 0,
       "text": "\"Leave off! leave off at once!\" screamed Fraulein Rottenmeier. But her voice was drowned by the music. She was making a dash for the boy, when she saw something on the ground crawling towards her feet—a dreadful dark object—a tortoise. At this sight she jumped higher than she had for many long years before, shrieking with all her might, \"Sebastian! Sebastian!\"",
+      "ttsText": "\"Leave off! leave off at once!\" screamed Fraulein Rottenmeier. But her voice was drowned by the music. She was making a dash for the boy, when she saw something on the ground crawling towards her feet, a dreadful dark object, a tortoise. At this sight she jumped higher than she had for many long years before, shrieking with all her might, \"Sebastian! Sebastian!\"",
       "role": "paragraph"
     },
     {
@@ -3370,6 +3405,7 @@
       "order": 552,
       "chapterIndex": 0,
       "text": "\"On some considerations I am for it, on others against it,\" he began in answer; \"for it, on the ground that if your whole attention is directed to the basket—\" but the speech remained unfinished. The cover of the basket was loose, and at this moment one, two, three, and then two more, and again more kittens came suddenly tumbling on to the floor and racing about the room in every direction, and with such indescribable rapidity that it seemed as if the whole room was full of them. They jumped over the tutor's boots, bit at his trousers, climbed up Fraulein Rottenmeier's dress, rolled about her feet, sprang up on to Clara's couch, scratching, scrambling, and mewing: it was a sad scene of confusion. Clara, meanwhile, pleased with their gambols, kept on exclaiming, \"Oh, the dear little things! how pretty they are! Look, Heidi, at this one; look, look, at that one over there!\" And Heidi in her delight kept running after them first into one corner and then into the other. The tutor stood up by the table not knowing what to do, lifting first his right foot and then his left to get it away from the scrambling, scratching kittens. Fraulein Rottenmeier was unable at first to speak at all, so overcome was she with horror, and she did not dare rise from her chair for fear that all the dreadful little animals should jump upon her at once. At last she found voice to call loudly, \"Tinette! Tinette! Sebastian! Sebastian!\"",
+      "ttsText": "\"On some considerations I am for it, on others against it,\" he began in answer; \"for it, on the ground that if your whole attention is directed to the basket, \" but the speech remained unfinished. The cover of the basket was loose, and at this moment one, two, three, and then two more, and again more kittens came suddenly tumbling on to the floor and racing about the room in every direction, and with such indescribable rapidity that it seemed as if the whole room was full of them. They jumped over the tutor's boots, bit at his trousers, climbed up Fraulein Rottenmeier's dress, rolled about her feet, sprang up on to Clara's couch, scratching, scrambling, and mewing: it was a sad scene of confusion. Clara, meanwhile, pleased with their gambols, kept on exclaiming, \"Oh, the dear little things! how pretty they are! Look, Heidi, at this one; look, look, at that one over there!\" And Heidi in her delight kept running after them first into one corner and then into the other. The tutor stood up by the table not knowing what to do, lifting first his right foot and then his left to get it away from the scrambling, scratching kittens. Fraulein Rottenmeier was unable at first to speak at all, so overcome was she with horror, and she did not dare rise from her chair for fear that all the dreadful little animals should jump upon her at once. At last she found voice to call loudly, \"Tinette! Tinette! Sebastian! Sebastian!\"",
       "role": "paragraph"
     },
     {
@@ -3382,6 +3418,7 @@
       "order": 554,
       "chapterIndex": 0,
       "text": "To-day again there had been no opportunity for gaping. Late that evening, when Fraulein Rottenmeier had somewhat recovered from the excitement of the morning, she sent for the two servants, and examined them closely concerning the events of the morning. And then it came out that Heidi was at the bottom of them, everything being the result of her excursion of the day before. Fraulein Rottenmeier sat pale with indignation and did not know at first how to express her anger. Then she made a sign to Tinette and Sebastian to withdraw, and turning to Heidi, who was standing by Clara's couch, quite unable to understand of what sin she had been guilty, began in a severe voice,—",
+      "ttsText": "To-day again there had been no opportunity for gaping. Late that evening, when Fraulein Rottenmeier had somewhat recovered from the excitement of the morning, she sent for the two servants, and examined them closely concerning the events of the morning. And then it came out that Heidi was at the bottom of them, everything being the result of her excursion of the day before. Fraulein Rottenmeier sat pale with indignation and did not know at first how to express her anger. Then she made a sign to Tinette and Sebastian to withdraw, and turning to Heidi, who was standing by Clara's couch, quite unable to understand of what sin she had been guilty, began in a severe voice,,",
       "role": "paragraph"
     },
     {
@@ -3418,6 +3455,7 @@
       "order": 560,
       "chapterIndex": 0,
       "text": "Fraulein Rottenmeier stood still a moment, looking at her from top to toe in blank astonishment, her eye resting particularly on the red bundle. Then she broke out,—",
+      "ttsText": "Fraulein Rottenmeier stood still a moment, looking at her from top to toe in blank astonishment, her eye resting particularly on the red bundle. Then she broke out,,",
       "role": "paragraph"
     },
     {
@@ -3556,6 +3594,7 @@
       "order": 583,
       "chapterIndex": 0,
       "text": "CHAPTER IX. HERR SESEMANN HEARS OF THINGS WHICH ARE NEW TO HIM",
+      "ttsText": "Chapter IX. Herr Sesemann Hears of Things Which Are New to Him",
       "role": "heading"
     },
     {
@@ -3664,18 +3703,21 @@
       "order": 601,
       "chapterIndex": 0,
       "text": "Herr Sesemann had attached very little importance to what was told him up till now—but not in her right mind! that was more serious and might be prejudicial to his own child. Herr Sesemann looked very narrowly at the lady opposite to assure himself that the mental aberration was not on her side. At that moment the door opened and the tutor was announced.",
+      "ttsText": "Herr Sesemann had attached very little importance to what was told him up till now, but not in her right mind! that was more serious and might be prejudicial to his own child. Herr Sesemann looked very narrowly at the lady opposite to assure himself that the mental aberration was not on her side. At that moment the door opened and the tutor was announced.",
       "role": "paragraph"
     },
     {
       "order": 602,
       "chapterIndex": 0,
       "text": "\"Ah! here is some one,\" exclaimed Herr Sesemann, \"who will help to clear up matters for me. Take a seat,\" he continued, as he held out his hand to the tutor. \"You will drink a cup of coffee with me—no ceremony, I pray! And now tell me, what is the matter with this child that has come to be a companion to my daughter? What is this strange thing I hear about her bringing animals into the house, and is she in her right senses?\"",
+      "ttsText": "\"Ah! here is some one,\" exclaimed Herr Sesemann, \"who will help to clear up matters for me. Take a seat,\" he continued, as he held out his hand to the tutor. \"You will drink a cup of coffee with me, no ceremony, I pray! And now tell me, what is the matter with this child that has come to be a companion to my daughter? What is this strange thing I hear about her bringing animals into the house, and is she in her right senses?\"",
       "role": "paragraph"
     },
     {
       "order": 603,
       "chapterIndex": 0,
       "text": "The tutor felt he must begin with expressing his pleasure at Herr Sesemann's return, and with explaining that he had come in on purpose to give him welcome, but Herr Sesemann begged him to explain without delay the meaning of all he had heard about Heidi. The tutor started in his usual style. \"If I must give my opinion about this little girl, I should like first to state that, if on one side, there is a lack of development which has been caused by the more or less careless way in which she has been brought up, or rather, by the neglect of her education, when young, and by the solitary life she has led on the mountain, which is not wholly to be condemned; on the contrary, such a life has undoubtedly some advantages in it, if not allowed to overstep a certain limit of time—\"",
+      "ttsText": "The tutor felt he must begin with expressing his pleasure at Herr Sesemann's return, and with explaining that he had come in on purpose to give him welcome, but Herr Sesemann begged him to explain without delay the meaning of all he had heard about Heidi. The tutor started in his usual style. \"If I must give my opinion about this little girl, I should like first to state that, if on one side, there is a lack of development which has been caused by the more or less careless way in which she has been brought up, or rather, by the neglect of her education, when young, and by the solitary life she has led on the mountain, which is not wholly to be condemned; on the contrary, such a life has undoubtedly some advantages in it, if not allowed to overstep a certain limit of time, \"",
       "role": "paragraph"
     },
     {
@@ -3688,12 +3730,14 @@
       "order": 605,
       "chapterIndex": 0,
       "text": "\"I should not like in any way to prejudice you against her,\" began the tutor once more; \"for if on the one hand there is a certain inexperience of the ways of society, owing to the uncivilised life she led up to the time of her removal to Frankfurt, on the other hand she is endowed with certain good qualities, and, taken on the whole—\"",
+      "ttsText": "\"I should not like in any way to prejudice you against her,\" began the tutor once more; \"for if on the one hand there is a certain inexperience of the ways of society, owing to the uncivilised life she led up to the time of her removal to Frankfurt, on the other hand she is endowed with certain good qualities, and, taken on the whole, \"",
       "role": "paragraph"
     },
     {
       "order": 606,
       "chapterIndex": 0,
       "text": "\"Excuse me, my dear sir, do not disturb yourself, but I must—I think my daughter will be wanting me,\" and with that Herr Sesemann quickly left the room and took care not to return. He sat himself down beside his daughter in the study, and then turning to Heidi, who had risen, \"Little one, will you fetch me,\" he began, and then paused, for he could not think what to ask for, but he wanted to get the child out of the room for a little while, \"fetch me a glass of water.\"",
+      "ttsText": "\"Excuse me, my dear sir, do not disturb yourself, but I must, I think my daughter will be wanting me,\" and with that Herr Sesemann quickly left the room and took care not to return. He sat himself down beside his daughter in the study, and then turning to Heidi, who had risen, \"Little one, will you fetch me,\" he began, and then paused, for he could not think what to ask for, but he wanted to get the child out of the room for a little while, \"fetch me a glass of water.\"",
       "role": "paragraph"
     },
     {
@@ -3706,6 +3750,7 @@
       "order": 608,
       "chapterIndex": 0,
       "text": "\"Yes—Yes—as fresh as you can get it,\" he answered. Heidi disappeared on the spot.",
+      "ttsText": "\"Yes, Yes, as fresh as you can get it,\" he answered. Heidi disappeared on the spot.",
       "role": "paragraph"
     },
     {
@@ -3730,6 +3775,7 @@
       "order": 612,
       "chapterIndex": 0,
       "text": "\"That's all right then—and here comes your little friend. Have you brought me some nice fresh water?\" he asked as Heidi handed him a glass.",
+      "ttsText": "\"That's all right then, and here comes your little friend. Have you brought me some nice fresh water?\" he asked as Heidi handed him a glass.",
       "role": "paragraph"
     },
     {
@@ -3766,6 +3812,7 @@
       "order": 618,
       "chapterIndex": 0,
       "text": "\"Oh, and who was it, I wonder, who sent me such good wishes— tell me what he was like,\" said Herr Sesemann.",
+      "ttsText": "\"Oh, and who was it, I wonder, who sent me such good wishes, tell me what he was like,\" said Herr Sesemann.",
       "role": "paragraph"
     },
     {
@@ -3778,6 +3825,7 @@
       "order": 620,
       "chapterIndex": 0,
       "text": "\"It's the doctor—my old friend the doctor,\" exclaimed Clara and her father at the same moment, and Herr Sesemann smiled to himself at the thought of what his friend's opinion must have been of this new way of satisfying his thirst for water.",
+      "ttsText": "\"It's the doctor, my old friend the doctor,\" exclaimed Clara and her father at the same moment, and Herr Sesemann smiled to himself at the thought of what his friend's opinion must have been of this new way of satisfying his thirst for water.",
       "role": "paragraph"
     },
     {
@@ -3802,6 +3850,7 @@
       "order": 624,
       "chapterIndex": 0,
       "text": "CHAPTER X. ANOTHER GRANDMOTHER",
+      "ttsText": "Chapter X. Another Grandmother",
       "role": "heading"
     },
     {
@@ -3868,6 +3917,7 @@
       "order": 635,
       "chapterIndex": 0,
       "text": "\"I am always called Heidi; but as I am now to be called Adelaide, I will try and take care—\" Heidi stopped short, for she felt a little guilty; she had not yet grown accustomed to this name; she continued not to respond when Fraulein Rottenmeier suddenly addressed her by it, and the lady was at this moment entering the room.",
+      "ttsText": "\"I am always called Heidi; but as I am now to be called Adelaide, I will try and take care, \" Heidi stopped short, for she felt a little guilty; she had not yet grown accustomed to this name; she continued not to respond when Fraulein Rottenmeier suddenly addressed her by it, and the lady was at this moment entering the room.",
       "role": "paragraph"
     },
     {
@@ -3934,6 +3984,7 @@
       "order": 646,
       "chapterIndex": 0,
       "text": "Heidi now appeared and gazed with open-eyed delight and wonder at the beautiful colored pictures in the books which the grandmother gave her to look at. All of a sudden, as the latter turned over one of the pages to a fresh picture, the child gave a cry. For a moment or two she looked at it with brightening eyes, then the tears began to fall, and at last she burst into sobs. The grandmother looked at the picture—it represented a green pasture, full of young animals, some grazing and others nibbling at the shrubs. In the middle was a shepherd leaning upon his staff and looking on at his happy flock. The whole scene was bathed in golden light, for the sun was just sinking below the horizon.",
+      "ttsText": "Heidi now appeared and gazed with open-eyed delight and wonder at the beautiful colored pictures in the books which the grandmother gave her to look at. All of a sudden, as the latter turned over one of the pages to a fresh picture, the child gave a cry. For a moment or two she looked at it with brightening eyes, then the tears began to fall, and at last she burst into sobs. The grandmother looked at the picture, it represented a green pasture, full of young animals, some grazing and others nibbling at the shrubs. In the middle was a shepherd leaning upon his staff and looking on at his happy flock. The whole scene was bathed in golden light, for the sun was just sinking below the horizon.",
       "role": "paragraph"
     },
     {
@@ -3946,6 +3997,7 @@
       "order": 648,
       "chapterIndex": 0,
       "text": "\"Don't cry, dear child, don't cry,\" she said, \"the picture has reminded you perhaps of something. But see, there is a beautiful tale to the picture which I will tell you this evening. And there are other nice tales of all kinds to read and to tell again. But now we must have a little talk together, so dry your tears and come and stand in front of me, so that I may see you well—there, now we are happy again.\"",
+      "ttsText": "\"Don't cry, dear child, don't cry,\" she said, \"the picture has reminded you perhaps of something. But see, there is a beautiful tale to the picture which I will tell you this evening. And there are other nice tales of all kinds to read and to tell again. But now we must have a little talk together, so dry your tears and come and stand in front of me, so that I may see you well, there, now we are happy again.\"",
       "role": "paragraph"
     },
     {
@@ -4006,6 +4058,7 @@
       "order": 658,
       "chapterIndex": 0,
       "text": "\"Listen to what I have to say,\" continued the grandmother. \"You have not been able to learn your alphabet because you believed what Peter said; but now you must believe what I tell you—and I tell you that you can learn to read in a very little while, as many other children do, who are made like you and not like Peter. And now hear what comes after—you see that picture with the shepherd and the animals—well, as soon as you are able to read you shall have that book for your own, and then you will know all about the sheep and the goats, and what the shepherd did, and the wonderful things that happened to him, just as if some one were telling you the whole tale. You will like to hear about all that, won't you?\"",
+      "ttsText": "\"Listen to what I have to say,\" continued the grandmother. \"You have not been able to learn your alphabet because you believed what Peter said; but now you must believe what I tell you, and I tell you that you can learn to read in a very little while, as many other children do, who are made like you and not like Peter. And now hear what comes after, you see that picture with the shepherd and the animals, well, as soon as you are able to read you shall have that book for your own, and then you will know all about the sheep and the goats, and what the shepherd did, and the wonderful things that happened to him, just as if some one were telling you the whole tale. You will like to hear about all that, won't you?\"",
       "role": "paragraph"
     },
     {
@@ -4024,6 +4077,7 @@
       "order": 661,
       "chapterIndex": 0,
       "text": "Since the day when Heidi had so longed to go home, and Fraulein Rottenmeier had met her and scolded her on the steps, and told her how wicked and ungrateful she was to try and run away, and what a good thing it was that Herr Sesemann knew nothing about it, a change had come over the child. She had at last understood that day that she could not go home when she wished as Dete had told her, but that she would have to stay on in Frankfurt for a long, long time, perhaps for ever. She had also understood that Herr Sesemann would think it ungrateful of her if she wished to leave, and she believed that the grandmother and Clara would think the same. So there was nobody to whom she dared confide her longing to go home, for she would not for the world have given the grandmother, who was so kind to her, any reason for being as angry with her as Fraulein Rottenmeier had been. But the weight of trouble on the little heart grew heavier and heavier; she could no longer eat her food, and every day she grew a little paler. She lay awake for long hours at night, for as soon as she was alone and everything was still around her, the picture of the mountain with its sunshine and flowers rose vividly before her eyes; and when at last she fell asleep it was to dream of the rocks and the snow-field turning crimson in the evening light, and waking in the morning she would think herself back at the hut and prepare to run joyfully out into—the sun—and then— there was her large bed, and here she was in Frankfurt far, far away from home. And Heidi would often lay her face down on the pillow and weep long and quietly so that no one might hear her.",
+      "ttsText": "Since the day when Heidi had so longed to go home, and Fraulein Rottenmeier had met her and scolded her on the steps, and told her how wicked and ungrateful she was to try and run away, and what a good thing it was that Herr Sesemann knew nothing about it, a change had come over the child. She had at last understood that day that she could not go home when she wished as Dete had told her, but that she would have to stay on in Frankfurt for a long, long time, perhaps for ever. She had also understood that Herr Sesemann would think it ungrateful of her if she wished to leave, and she believed that the grandmother and Clara would think the same. So there was nobody to whom she dared confide her longing to go home, for she would not for the world have given the grandmother, who was so kind to her, any reason for being as angry with her as Fraulein Rottenmeier had been. But the weight of trouble on the little heart grew heavier and heavier; she could no longer eat her food, and every day she grew a little paler. She lay awake for long hours at night, for as soon as she was alone and everything was still around her, the picture of the mountain with its sunshine and flowers rose vividly before her eyes; and when at last she fell asleep it was to dream of the rocks and the snow-field turning crimson in the evening light, and waking in the morning she would think herself back at the hut and prepare to run joyfully out into, the sun, and then, there was her large bed, and here she was in Frankfurt far, far away from home. And Heidi would often lay her face down on the pillow and weep long and quietly so that no one might hear her.",
       "role": "paragraph"
     },
     {
@@ -4114,6 +4168,7 @@
       "order": 676,
       "chapterIndex": 0,
       "text": "\"Quite the reverse,\" began the tutor. \"Something has happened that I had given up hoping for, and which no one, knowing what has gone before, could have guessed, for, according to all expectations, that which has taken place could only be looked upon as a miracle, and yet it really has come to pass and in the most extraordinary manner, quite contrary to all that one could anticipate—\"",
+      "ttsText": "\"Quite the reverse,\" began the tutor. \"Something has happened that I had given up hoping for, and which no one, knowing what has gone before, could have guessed, for, according to all expectations, that which has taken place could only be looked upon as a miracle, and yet it really has come to pass and in the most extraordinary manner, quite contrary to all that one could anticipate, \"",
       "role": "paragraph"
     },
     {
@@ -4192,6 +4247,7 @@
       "order": 689,
       "chapterIndex": 1,
       "text": "CHAPTER XI. HEIDI GAINS IN ONE WAY AND LOSES IN ANOTHER",
+      "ttsText": "Chapter XI. Heidi Gains in One Way and Loses in Another",
       "role": "heading"
     },
     {
@@ -4294,6 +4350,7 @@
       "order": 706,
       "chapterIndex": 1,
       "text": "The day came for grandmother's departure—a sad one for Clara and Heidi. But the grandmother was determined to make it as much like a holiday as possible and not to let them mope, and she kept them so lively and amused that they had no time to think about their sorrow at her going until she really drove away. Then the house seemed so silent and empty that Heidi and Clara did not know what to do with themselves, and sat during the remainder of the day like two lost children.",
+      "ttsText": "The day came for grandmother's departure, a sad one for Clara and Heidi. But the grandmother was determined to make it as much like a holiday as possible and not to let them mope, and she kept them so lively and amused that they had no time to think about their sorrow at her going until she really drove away. Then the house seemed so silent and empty that Heidi and Clara did not know what to do with themselves, and sat during the remainder of the day like two lost children.",
       "role": "paragraph"
     },
     {
@@ -4336,7 +4393,7 @@
       "order": 713,
       "chapterIndex": 1,
       "text": "CHAPTER XII. A GHOST IN THE HOUSE",
-      "ttsText": "CHAPTER XII. Aghost IN THE HOUSE",
+      "ttsText": "Chapter XII. A Ghost in the House",
       "role": "heading"
     },
     {
@@ -4349,6 +4406,7 @@
       "order": 715,
       "chapterIndex": 1,
       "text": "For something very strange and mysterious was going on in Herr Sesemann's house. Every morning, when the servants went downstairs, they found the front door wide open, although nobody could be seen far or near to account for it. During the first few days that this happened every room and corner was searched in great alarm, to see if anything had been stolen, for the general idea was that a thief had been hiding in the house and had gone off in the night with the stolen goods; but not a thing in the house had been touched, everything was safe in its place. The door was doubly locked at night, and for further security the wooden bar was fastened across it; but it was no good—next morning the door again stood open. The servants in their fear and excitement got up extra early, but not so early but what the door had been opened before they got downstairs, although everything and everybody around were still wrapped in slumber, and the doors and windows of the adjoining houses all fast shut. At last, after a great deal of persuasion from Fraulein Rottenmeier, Sebastian and John plucked up courage and agreed to sit up one night in the room next to the large council-chamber and to watch and see what would happen. Fraulein Rottenmeier looked up several weapons belonging to the master, and gave these and a bottle of spirits to Sebastian, so that their courage might not faint if it came to a fight.",
+      "ttsText": "For something very strange and mysterious was going on in Herr Sesemann's house. Every morning, when the servants went downstairs, they found the front door wide open, although nobody could be seen far or near to account for it. During the first few days that this happened every room and corner was searched in great alarm, to see if anything had been stolen, for the general idea was that a thief had been hiding in the house and had gone off in the night with the stolen goods; but not a thing in the house had been touched, everything was safe in its place. The door was doubly locked at night, and for further security the wooden bar was fastened across it; but it was no good, next morning the door again stood open. The servants in their fear and excitement got up extra early, but not so early but what the door had been opened before they got downstairs, although everything and everybody around were still wrapped in slumber, and the doors and windows of the adjoining houses all fast shut. At last, after a great deal of persuasion from Fraulein Rottenmeier, Sebastian and John plucked up courage and agreed to sit up one night in the room next to the large council-chamber and to watch and see what would happen. Fraulein Rottenmeier looked up several weapons belonging to the master, and gave these and a bottle of spirits to Sebastian, so that their courage might not faint if it came to a fight.",
       "role": "paragraph"
     },
     {
@@ -4367,6 +4425,7 @@
       "order": 718,
       "chapterIndex": 1,
       "text": "\"The door partly open,\" gasped John, \"and a white figure standing at the top of the steps—there it stood, and then all in a minute it disappeared.\"",
+      "ttsText": "\"The door partly open,\" gasped John, \"and a white figure standing at the top of the steps, there it stood, and then all in a minute it disappeared.\"",
       "role": "paragraph"
     },
     {
@@ -4433,6 +4492,7 @@
       "order": 729,
       "chapterIndex": 1,
       "text": "\"Come here, lad,\" he said as Sebastian appeared, \"and tell me frankly—have you been playing at ghosts to amuse yourself at Fraulein Rottenmeier's expense?\"",
+      "ttsText": "\"Come here, lad,\" he said as Sebastian appeared, \"and tell me frankly, have you been playing at ghosts to amuse yourself at Fraulein Rottenmeier's expense?\"",
       "role": "paragraph"
     },
     {
@@ -4499,6 +4559,7 @@
       "order": 740,
       "chapterIndex": 1,
       "text": "So Herr Sesemann recounted to him how the front door was nightly opened by somebody, according to the testimony of the combined household, and he had therefore provided two loaded revolvers, so as to be prepared for anything that happened; for either the whole thing was a joke got up by some friend of the servants, just to alarm the household while he was away—and in that case a pistol fired into the air would procure him a wholesome fright— or else it was a thief, who, by leading everybody at first to think there was a ghost, made it safe for himself when he came later to steal, as no one would venture to run out if they heard him, and in that case too a good weapon would not be amiss.",
+      "ttsText": "So Herr Sesemann recounted to him how the front door was nightly opened by somebody, according to the testimony of the combined household, and he had therefore provided two loaded revolvers, so as to be prepared for anything that happened; for either the whole thing was a joke got up by some friend of the servants, just to alarm the household while he was away, and in that case a pistol fired into the air would procure him a wholesome fright, or else it was a thief, who, by leading everybody at first to think there was a ghost, made it safe for himself when he came later to steal, as no one would venture to run out if they heard him, and in that case too a good weapon would not be amiss.",
       "role": "paragraph"
     },
     {
@@ -4733,6 +4794,7 @@
       "order": 779,
       "chapterIndex": 1,
       "text": "\"Sesemann,\" replied the doctor, \"consider what you are doing! This illness of the child's is not one to be cured with pills and powders. The child has not a tough constitution, but if you send her back at once she may recover in the mountain air, if not—you would rather she went back ill than not at all?\"",
+      "ttsText": "\"Sesemann,\" replied the doctor, \"consider what you are doing! This illness of the child's is not one to be cured with pills and powders. The child has not a tough constitution, but if you send her back at once she may recover in the mountain air, if not, you would rather she went back ill than not at all?\"",
       "role": "paragraph"
     },
     {
@@ -4745,13 +4807,14 @@
       "order": 781,
       "chapterIndex": 1,
       "text": "\"If you put it so, doctor, there is assuredly only one way—and the thing must be seen to at once.\" And then he and the doctor walked up and down for a while arranging what to do, after which the doctor said good-bye, for some time had passed since they first sat down together, and as the master himself opened the hall door this time the morning light shone down through it into the house.",
+      "ttsText": "\"If you put it so, doctor, there is assuredly only one way, and the thing must be seen to at once.\" And then he and the doctor walked up and down for a while arranging what to do, after which the doctor said good-bye, for some time had passed since they first sat down together, and as the master himself opened the hall door this time the morning light shone down through it into the house.",
       "role": "paragraph"
     },
     {
       "order": 782,
       "chapterIndex": 1,
       "text": "CHAPTER XIII. A SUMMER EVENING ON THE MOUNTAIN",
-      "ttsText": "CHAPTER XIII. Asummer EVENING ON THE MOUNTAIN",
+      "ttsText": "Chapter XIII. A Summer Evening on the Mountain",
       "role": "heading"
     },
     {
@@ -4764,6 +4827,7 @@
       "order": 784,
       "chapterIndex": 1,
       "text": "Meanwhile Herr Sesemann had gone on farther and rung the bells in turn which communicated with the several servants' rooms, causing frightened figures to leap out of bed, convinced that the ghost had attacked the master and that he was calling for help. One by one they made their appearance in the dining-room, each with a more terrified face than the last, and were astonished to see their master walking up and down, looking well and cheerful, and with no appearance of having had an encounter with a ghost. John was sent off without delay to get the horses and carriage ready; Tinette was ordered to wake Heidi and get her dressed for a journey; Sebastian was hurried off to the house where Dete was in service to bring the latter round. Then Fraulein Rottenmeier, having at last accomplished her toilet, came down, with everything well adjusted about her except her cap, which was put on hind side before. Herr Sesemann put down her flurried appearance to the early awakening he had caused her, and began without delay to give her directions. She was to get out a trunk at once and pack up all the things belonging to the Swiss child— for so he usually spoke of Heidi, being unaccustomed to her name— and a good part of Clara's clothes as well, so that the child might take home proper apparel; but everything was to be done immediately, as there was no time for consideration.",
+      "ttsText": "Meanwhile Herr Sesemann had gone on farther and rung the bells in turn which communicated with the several servants' rooms, causing frightened figures to leap out of bed, convinced that the ghost had attacked the master and that he was calling for help. One by one they made their appearance in the dining-room, each with a more terrified face than the last, and were astonished to see their master walking up and down, looking well and cheerful, and with no appearance of having had an encounter with a ghost. John was sent off without delay to get the horses and carriage ready; Tinette was ordered to wake Heidi and get her dressed for a journey; Sebastian was hurried off to the house where Dete was in service to bring the latter round. Then Fraulein Rottenmeier, having at last accomplished her toilet, came down, with everything well adjusted about her except her cap, which was put on hind side before. Herr Sesemann put down her flurried appearance to the early awakening he had caused her, and began without delay to give her directions. She was to get out a trunk at once and pack up all the things belonging to the Swiss child, for so he usually spoke of Heidi, being unaccustomed to her name, and a good part of Clara's clothes as well, so that the child might take home proper apparel; but everything was to be done immediately, as there was no time for consideration.",
       "role": "paragraph"
     },
     {
@@ -4884,6 +4948,7 @@
       "order": 804,
       "chapterIndex": 1,
       "text": "\"Come along, Heidi,\" cried Clara, as she entered; \"see all the things I have had put in for you—aren't you pleased?\"",
+      "ttsText": "\"Come along, Heidi,\" cried Clara, as she entered; \"see all the things I have had put in for you, aren't you pleased?\"",
       "role": "paragraph"
     },
     {
@@ -4896,6 +4961,7 @@
       "order": 806,
       "chapterIndex": 1,
       "text": "Heidi ran to her room to fetch her darling book; she knew no one could have packed that, as it lay under her pillow, for Heidi had kept it by her night and day. This was put in the basket with the rolls. Then she opened her wardrobe to look for another treasure, which perhaps no one would have thought of packing—and she was right—the old red shawl had been left behind, Fraulein Rottenmeier not considering it worth putting in with the other things. Heidi wrapped it round something else which she laid on the top of the basket, so that the red package was quite conspicuous. Then she put on her pretty hat and left the room. The children could not spend much time over their farewells, for Herr Sesemann was waiting to put Heidi in the carriage. Fraulein Rottenmeier was waiting at the top of the stairs to say good-bye to her. When she caught sight of the strange little red bundle, she took it out of the basket and threw it on the ground. \"No, no, Adelaide,\" she exclaimed, \"you cannot leave the house with that thing. What can you possibly want with it!\" And then she said good-bye to the child. Heidi did not dare take up her little bundle, but she gave the master of the house an imploring look, as if her greatest treasure had been taken from her.",
+      "ttsText": "Heidi ran to her room to fetch her darling book; she knew no one could have packed that, as it lay under her pillow, for Heidi had kept it by her night and day. This was put in the basket with the rolls. Then she opened her wardrobe to look for another treasure, which perhaps no one would have thought of packing, and she was right, the old red shawl had been left behind, Fraulein Rottenmeier not considering it worth putting in with the other things. Heidi wrapped it round something else which she laid on the top of the basket, so that the red package was quite conspicuous. Then she put on her pretty hat and left the room. The children could not spend much time over their farewells, for Herr Sesemann was waiting to put Heidi in the carriage. Fraulein Rottenmeier was waiting at the top of the stairs to say good-bye to her. When she caught sight of the strange little red bundle, she took it out of the basket and threw it on the ground. \"No, no, Adelaide,\" she exclaimed, \"you cannot leave the house with that thing. What can you possibly want with it!\" And then she said good-bye to the child. Heidi did not dare take up her little bundle, but she gave the master of the house an imploring look, as if her greatest treasure had been taken from her.",
       "role": "paragraph"
     },
     {
@@ -5040,6 +5106,7 @@
       "order": 830,
       "chapterIndex": 1,
       "text": "Heidi climbed up the steep path from Dorfli as quickly as she could; she was obliged, however, to pause now and again to take breath, for the basket she carried was rather heavy, and the way got steeper as she drew nearer the top. One thought alone filled Heidi's mind, \"Would she find the grandmother sitting in her usual corner by the spinning-wheel, was she still alive?\" At last Heidi caught sight of the grandmother's house in the hollow of the mountain and her heart began to beat; she ran faster and faster and her heart beat louder and louder—and now she had reached the house, but she trembled so she could hardly open the door—and then she was standing inside, unable in her breathlessness to utter a sound.",
+      "ttsText": "Heidi climbed up the steep path from Dorfli as quickly as she could; she was obliged, however, to pause now and again to take breath, for the basket she carried was rather heavy, and the way got steeper as she drew nearer the top. One thought alone filled Heidi's mind, \"Would she find the grandmother sitting in her usual corner by the spinning-wheel, was she still alive?\" At last Heidi caught sight of the grandmother's house in the hollow of the mountain and her heart began to beat; she ran faster and faster and her heart beat louder and louder, and now she had reached the house, but she trembled so she could hardly open the door, and then she was standing inside, unable in her breathlessness to utter a sound.",
       "role": "paragraph"
     },
     {
@@ -5124,6 +5191,7 @@
       "order": 844,
       "chapterIndex": 1,
       "text": "Heidi bid her good-night and continued her way up the mountain, her basket on her arm. All around her the steep green slopes shone bright in the evening sun, and soon the great gleaming snow- field up above came in sight. Heidi was obliged to keep on pausing to look behind her, for the higher peaks were behind her as she climbed. Suddenly a warm red glow fell on the grass at her feet; she looked back again—she had not remembered how splendid it was, nor seen anything to compare to it in her dreams— for there the two high mountain peeks rose into the air like two great flames, the whole snow-field had turned crimson, and rosy- colored clouds floated in the sky above. The grass upon the mountain sides had turned to gold, the rocks were all aglow, and the whole valley was bathed in golden mist. And as Heidi stood gazing around her at all this splendor the tears ran down her cheeks for very delight and happiness, and impulsively she put her hands together, and lifting her eyes to heaven, thanked God aloud for having brought her home, thanked Him that everything was as beautiful as ever, more beautiful even than she had thought, and that it was all hers again once more. And she was so overflowing with joy and thankfulness that she could not find words to thank Him enough. Not until the glory began to fade could she tear herself away. Then she ran on so quickly that in a very little while she caught sight of the tops of the fir trees above the hut roof, then the roof itself, and at last the whole hut, and there was grandfather sitting as in old days smoking his pipe, and she could see the fir trees waving in the wind. Quicker and quicker went her little feet, and before Alm-Uncle had time to see who was coming, Heidi had rushed up to him, thrown down her basket and flung her arms round his neck, unable in the excitement of seeing him again to say more than \"Grandfather! grandfather! grandfather!\" over and over again.",
+      "ttsText": "Heidi bid her good-night and continued her way up the mountain, her basket on her arm. All around her the steep green slopes shone bright in the evening sun, and soon the great gleaming snow- field up above came in sight. Heidi was obliged to keep on pausing to look behind her, for the higher peaks were behind her as she climbed. Suddenly a warm red glow fell on the grass at her feet; she looked back again, she had not remembered how splendid it was, nor seen anything to compare to it in her dreams, for there the two high mountain peeks rose into the air like two great flames, the whole snow-field had turned crimson, and rosy- colored clouds floated in the sky above. The grass upon the mountain sides had turned to gold, the rocks were all aglow, and the whole valley was bathed in golden mist. And as Heidi stood gazing around her at all this splendor the tears ran down her cheeks for very delight and happiness, and impulsively she put her hands together, and lifting her eyes to heaven, thanked God aloud for having brought her home, thanked Him that everything was as beautiful as ever, more beautiful even than she had thought, and that it was all hers again once more. And she was so overflowing with joy and thankfulness that she could not find words to thank Him enough. Not until the glory began to fade could she tear herself away. Then she ran on so quickly that in a very little while she caught sight of the tops of the fir trees above the hut roof, then the roof itself, and at last the whole hut, and there was grandfather sitting as in old days smoking his pipe, and she could see the fir trees waving in the wind. Quicker and quicker went her little feet, and before Alm-Uncle had time to see who was coming, Heidi had rushed up to him, thrown down her basket and flung her arms round his neck, unable in the excitement of seeing him again to say more than \"Grandfather! grandfather! grandfather!\" over and over again.",
       "role": "paragraph"
     },
     {
@@ -5136,6 +5204,7 @@
       "order": 846,
       "chapterIndex": 1,
       "text": "\"Oh, no, grandfather,\" said Heidi eagerly, \"you must not think that; they were all so kind—Clara, and grandmamma, and Herr Sesemann. But you see, grandfather, I did not know how to bear myself till I got home again to you. I used to think I should die, for I felt as if I could not breathe; but I never said anything because it would have been ungrateful. And then suddenly one morning quite early Herr Sesemann said to me—but I think it was partly the doctor's doing—but perhaps it's all in the letter—\" and Heidi jumped down and fetched the roll and the letter and handed them both to her grandfather.",
+      "ttsText": "\"Oh, no, grandfather,\" said Heidi eagerly, \"you must not think that; they were all so kind, Clara, and grandmamma, and Herr Sesemann. But you see, grandfather, I did not know how to bear myself till I got home again to you. I used to think I should die, for I felt as if I could not breathe; but I never said anything because it would have been ungrateful. And then suddenly one morning quite early Herr Sesemann said to me, but I think it was partly the doctor's doing, but perhaps it's all in the letter, \" and Heidi jumped down and fetched the roll and the letter and handed them both to her grandfather.",
       "role": "paragraph"
     },
     {
@@ -5166,6 +5235,7 @@
       "order": 851,
       "chapterIndex": 1,
       "text": "Heidi obeyed and skipped happily after her grandfather into the house; she ran into all the corners, delighted to see everything again, and then went up the ladder—but there she came to a pause and called down in a tone of surprise and distress, \"Oh, grandfather, my bed's gone.\"",
+      "ttsText": "Heidi obeyed and skipped happily after her grandfather into the house; she ran into all the corners, delighted to see everything again, and then went up the ladder, but there she came to a pause and called down in a tone of surprise and distress, \"Oh, grandfather, my bed's gone.\"",
       "role": "paragraph"
     },
     {
@@ -5220,6 +5290,7 @@
       "order": 860,
       "chapterIndex": 1,
       "text": "CHAPTER XIV. SUNDAY BELLS",
+      "ttsText": "Chapter XIV. Sunday Bells",
       "role": "heading"
     },
     {
@@ -5250,6 +5321,7 @@
       "order": 865,
       "chapterIndex": 1,
       "text": "\"That is a good idea,\" said Brigitta; \"but then, they would get hard and stale. The baker in Dorfli makes the white rolls, and if we could get some of those he has over now and then—but I can only just manage to pay for the black bread.\"",
+      "ttsText": "\"That is a good idea,\" said Brigitta; \"but then, they would get hard and stale. The baker in Dorfli makes the white rolls, and if we could get some of those he has over now and then, but I can only just manage to pay for the black bread.\"",
       "role": "paragraph"
     },
     {
@@ -5268,6 +5340,7 @@
       "order": 868,
       "chapterIndex": 1,
       "text": "But Heidi was not to be hindered in her kind intentions, and she continued to jump about, saying over and over again in a tone of exultation, \"Now, grandmother can have a roll every day and will grow quite strong again—and, Oh, grandmother,\" she suddenly exclaimed with an increase of jubilation in her voice, \"if you get strong everything will grow light again for you; perhaps it's only because you are weak that it is dark.\" The grandmother said nothing, she did not wish to spoil the child's pleasure. As she went jumping about Heidi suddenly caught sight of the grandmother's song book, and another happy idea struck her, \"Grandmother, I can also read now, would you like me to read you one of your hymns from your old book?\"",
+      "ttsText": "But Heidi was not to be hindered in her kind intentions, and she continued to jump about, saying over and over again in a tone of exultation, \"Now, grandmother can have a roll every day and will grow quite strong again, and, Oh, grandmother,\" she suddenly exclaimed with an increase of jubilation in her voice, \"if you get strong everything will grow light again for you; perhaps it's only because you are weak that it is dark.\" The grandmother said nothing, she did not wish to spoil the child's pleasure. As she went jumping about Heidi suddenly caught sight of the grandmother's song book, and another happy idea struck her, \"Grandmother, I can also read now, would you like me to read you one of your hymns from your old book?\"",
       "role": "paragraph"
     },
     {
@@ -5292,6 +5365,7 @@
       "order": 872,
       "chapterIndex": 1,
       "text": "\"Here is one about the sun, grandmother, I will read you that.\" And Heidi began, reading with more and more warmth of expression as she went on,—",
+      "ttsText": "\"Here is one about the sun, grandmother, I will read you that.\" And Heidi began, reading with more and more warmth of expression as she went on,,",
       "role": "paragraph"
     },
     {
@@ -5316,6 +5390,7 @@
       "order": 876,
       "chapterIndex": 1,
       "text": "In the golden light—",
+      "ttsText": "In the golden light,",
       "role": "paragraph"
     },
     {
@@ -5346,6 +5421,7 @@
       "order": 881,
       "chapterIndex": 1,
       "text": "To His praise abound—",
+      "ttsText": "To His praise abound,",
       "role": "paragraph"
     },
     {
@@ -5376,6 +5452,7 @@
       "order": 886,
       "chapterIndex": 1,
       "text": "His will fulfil—",
+      "ttsText": "His will fulfil,",
       "role": "paragraph"
     },
     {
@@ -5406,6 +5483,7 @@
       "order": 891,
       "chapterIndex": 1,
       "text": "The heart assail—",
+      "ttsText": "The heart assail,",
       "role": "paragraph"
     },
     {
@@ -5436,12 +5514,14 @@
       "order": 896,
       "chapterIndex": 1,
       "text": "We find our rest—",
+      "ttsText": "We find our rest,",
       "role": "paragraph"
     },
     {
       "order": 897,
       "chapterIndex": 1,
       "text": "I wait in peace—God's time is best.",
+      "ttsText": "I wait in peace, God's time is best.",
       "role": "paragraph"
     },
     {
@@ -5454,6 +5534,7 @@
       "order": 899,
       "chapterIndex": 1,
       "text": "And the child began again, with as much pleasure in the verses as the grandmother,—",
+      "ttsText": "And the child began again, with as much pleasure in the verses as the grandmother,,",
       "role": "paragraph"
     },
     {
@@ -5478,12 +5559,14 @@
       "order": 903,
       "chapterIndex": 1,
       "text": "We find our rest—",
+      "ttsText": "We find our rest,",
       "role": "paragraph"
     },
     {
       "order": 904,
       "chapterIndex": 1,
       "text": "I wait in peace—God's time is best.",
+      "ttsText": "I wait in peace, God's time is best.",
       "role": "paragraph"
     },
     {
@@ -5556,12 +5639,14 @@
       "order": 916,
       "chapterIndex": 1,
       "text": "\"Oh, no, grandfather, we can go back, for grandmamma told me so, and so it was in the beautiful tale in my book—but you have not heard that yet; but we shall be home directly now, and then I will read it you, and you will see how beautiful it is.\" And in her eagerness Heidi struggled faster and faster up the steep ascent, and they were no sooner at the top than she let go her grandfather's hand and ran into the hut. The grandfather slung the basket off his shoulders in which he had brought up a part of the contents of the trunk which was too heavy to carry up as it was. Then he sat down on his seat and began thinking.",
+      "ttsText": "\"Oh, no, grandfather, we can go back, for grandmamma told me so, and so it was in the beautiful tale in my book, but you have not heard that yet; but we shall be home directly now, and then I will read it you, and you will see how beautiful it is.\" And in her eagerness Heidi struggled faster and faster up the steep ascent, and they were no sooner at the top than she let go her grandfather's hand and ran into the hut. The grandfather slung the basket off his shoulders in which he had brought up a part of the contents of the trunk which was too heavy to carry up as it was. Then he sat down on his seat and began thinking.",
       "role": "paragraph"
     },
     {
       "order": 917,
       "chapterIndex": 1,
       "text": "Heidi soon came running out with her book under her arm. \"That's right, grandfather,\" she exclaimed as she saw he had already taken his seat, and in a second she was beside him and had her book open at the particular tale, for she had read it so often that the leaves fell open at it of their own accord. And now in a sympathetic voice Heidi began to read of the son when he was happily at home, and went out into the fields with his father's flocks, and was dressed in a fine cloak, and stood leaning on his shepherd's staff watching as the sun went down, just as he was to be seen in the picture. But then all at once he wanted to have his own goods and money and to be his own master, and so he asked his father to give him his portion, and he left his home and went and wasted all his substance. And when he had nothing left he hired himself out to a master who had no flocks and fields like his father, but only swine to keep; and so he was obliged to watch these, and he only had rags to wear and a few husks to eat such as the swine fed upon. And then he thought of his old happy life at home and of how kindly his father had treated him and how ungrateful he had been, and he wept for sorrow and longing. And he thought to himself, \"I will arise and go to my father, and will say to him, 'Father, I am not worthy to be called thy son; make me as one of thy hired servants.'\" And when he was yet a great way off his father saw him . . . Here Heidi paused in her reading. \"What do you think happens now, grandfather?\" she said. \"Do you think the father is still angry and will say to him, 'I told you so!' Well, listen now to what comes next.\" His father saw him, and had compassion, and ran, and fell on his neck and kissed him. And the son said to him, \"Father, I have sinned against heaven and in thy sight, and am no more worthy to be called thy son.\" But the father said to his servants, \"Bring forth the best robe, and put it on him; and put a ring on his hand and shoes on his feet: and bring hither the fatted calf and kill it; and let us eat and be merry, for this my son was dead and is alive again; he was lost and is found.\" And they began to be merry.",
+      "ttsText": "Heidi soon came running out with her book under her arm. \"That's right, grandfather,\" she exclaimed as she saw he had already taken his seat, and in a second she was beside him and had her book open at the particular tale, for she had read it so often that the leaves fell open at it of their own accord. And now in a sympathetic voice Heidi began to read of the son when he was happily at home, and went out into the fields with his father's flocks, and was dressed in a fine cloak, and stood leaning on his shepherd's staff watching as the sun went down, just as he was to be seen in the picture. But then all at once he wanted to have his own goods and money and to be his own master, and so he asked his father to give him his portion, and he left his home and went and wasted all his substance. And when he had nothing left he hired himself out to a master who had no flocks and fields like his father, but only swine to keep; and so he was obliged to watch these, and he only had rags to wear and a few husks to eat such as the swine fed upon. And then he thought of his old happy life at home and of how kindly his father had treated him and how ungrateful he had been, and he wept for sorrow and longing. And he thought to himself, \"I will arise and go to my father, and will say to him, 'Father, I am not worthy to be called thy son; make me as one of thy hired servants.'\" And when he was yet a great way off his father saw him … Here Heidi paused in her reading. \"What do you think happens now, grandfather?\" she said. \"Do you think the father is still angry and will say to him, 'I told you so!' Well, listen now to what comes next.\" His father saw him, and had compassion, and ran, and fell on his neck and kissed him. And the son said to him, \"Father, I have sinned against heaven and in thy sight, and am no more worthy to be called thy son.\" But the father said to his servants, \"Bring forth the best robe, and put it on him; and put a ring on his hand and shoes on his feet: and bring hither the fatted calf and kill it; and let us eat and be merry, for this my son was dead and is alive again; he was lost and is found.\" And they began to be merry.",
       "role": "paragraph"
     },
     {
@@ -5682,6 +5767,7 @@
       "order": 937,
       "chapterIndex": 1,
       "text": "There were exclamations of pleasure and astonishment on hearing all this news, and so much to talk and ask about that even the grandfather did not notice how the time was passing; there was general delight at the thought of the coming days, and even more at the meeting which had taken place on this one, and the grandmother spoke and said, \"The happiest of all things is when an old friend comes and greets us as in former times; the heart is comforted with the assurance that some day everything that we have loved will be given back to us.—You will come soon again, uncle, and you child, to-morrow?\"",
+      "ttsText": "There were exclamations of pleasure and astonishment on hearing all this news, and so much to talk and ask about that even the grandfather did not notice how the time was passing; there was general delight at the thought of the coming days, and even more at the meeting which had taken place on this one, and the grandmother spoke and said, \"The happiest of all things is when an old friend comes and greets us as in former times; the heart is comforted with the assurance that some day everything that we have loved will be given back to us., You will come soon again, uncle, and you child, to-morrow?\"",
       "role": "paragraph"
     },
     {
@@ -5700,7 +5786,7 @@
       "order": 940,
       "chapterIndex": 1,
       "text": "CHAPTER XV. PREPARATIONS FOR A JOURNEY",
-      "ttsText": "CHAPTER XV. PREPARATIONS FOR Ajourney",
+      "ttsText": "Chapter XV. Preparations for A Journey",
       "role": "heading"
     },
     {
@@ -5755,6 +5841,7 @@
       "order": 949,
       "chapterIndex": 1,
       "text": "\"Yes, I know, it's enough to make you out of patience with me; but you must understand, dear friend\"—and Herr Sesemann laid his hand imploringly on the doctor's shoulder—\"that I feel I have not the courage to refuse the child what I have been promising her all along, and for months now she has been living on the thought of it day and night. She bore this last bad attack so patiently because she was buoyed up with the hope that she should soon start on her Swiss journey, and see her friend Heidi again; and now must I tell the poor child, who has to give up so many pleasures, that this visit she has so long looked forward to must also be cancelled? I really have not the courage to do it.\"",
+      "ttsText": "\"Yes, I know, it's enough to make you out of patience with me; but you must understand, dear friend\", and Herr Sesemann laid his hand imploringly on the doctor's shoulder, \"that I feel I have not the courage to refuse the child what I have been promising her all along, and for months now she has been living on the thought of it day and night. She bore this last bad attack so patiently because she was buoyed up with the hope that she should soon start on her Swiss journey, and see her friend Heidi again; and now must I tell the poor child, who has to give up so many pleasures, that this visit she has so long looked forward to must also be cancelled? I really have not the courage to do it.\"",
       "role": "paragraph"
     },
     {
@@ -5773,6 +5860,7 @@
       "order": 952,
       "chapterIndex": 1,
       "text": "The doctor shrugged his shoulders. \"Very little,\" he replied quietly. \"But, friend, think of my trouble. You have still a beloved child to look for you and greet you on your return home. You do not come back to an empty house and sit down to a solitary meal. And the child is happy and comfortable at home too. If there is much that she has to give up, she has on the other hand many advantages. No, Sesemann, you are not so greatly to be pitied—you have still the happiness of being together. Think of my lonely house!\"",
+      "ttsText": "The doctor shrugged his shoulders. \"Very little,\" he replied quietly. \"But, friend, think of my trouble. You have still a beloved child to look for you and greet you on your return home. You do not come back to an empty house and sit down to a solitary meal. And the child is happy and comfortable at home too. If there is much that she has to give up, she has on the other hand many advantages. No, Sesemann, you are not so greatly to be pitied, you have still the happiness of being together. Think of my lonely house!\"",
       "role": "paragraph"
     },
     {
@@ -5791,6 +5879,7 @@
       "order": 955,
       "chapterIndex": 1,
       "text": "The tears were indeed swimming in the blue eyes, although Clara struggled to keep them down for her father's sake, but it was a bitter disappointment to give up the journey, the thought of which had been her only joy and solace during the lonely hours of her long illness. She knew, however, that her father would never refuse her a thing unless he was certain that it would be harmful for her. So she swallowed her tears as well as she could and turned her thoughts to the one hope still left her. Taking the doctor's hand and stroking it, she said pleadingly,—",
+      "ttsText": "The tears were indeed swimming in the blue eyes, although Clara struggled to keep them down for her father's sake, but it was a bitter disappointment to give up the journey, the thought of which had been her only joy and solace during the lonely hours of her long illness. She knew, however, that her father would never refuse her a thing unless he was certain that it would be harmful for her. So she swallowed her tears as well as she could and turned her thoughts to the one hope still left her. Taking the doctor's hand and stroking it, she said pleadingly,,",
       "role": "paragraph"
     },
     {
@@ -5803,6 +5892,7 @@
       "order": 957,
       "chapterIndex": 1,
       "text": "Whether this promise finally decided the doctor it is impossible to say, but it is certain that he smiled and said,—",
+      "ttsText": "Whether this promise finally decided the doctor it is impossible to say, but it is certain that he smiled and said,,",
       "role": "paragraph"
     },
     {
@@ -5815,6 +5905,7 @@
       "order": 959,
       "chapterIndex": 1,
       "text": "\"To-morrow morning—early if possible,\" replied Clara.",
+      "ttsText": "\"To-morrow morning, early if possible,\" replied Clara.",
       "role": "paragraph"
     },
     {
@@ -5869,6 +5960,7 @@
       "order": 968,
       "chapterIndex": 1,
       "text": "Sebastian hesitated and gave an awkward little cough. \"I am—I have—I hardly know myself. O yes, I remember; I happened to pass through the dining-room and caught little miss's name, and I put two and two together—and so I thought—\"",
+      "ttsText": "Sebastian hesitated and gave an awkward little cough. \"I am, I have, I hardly know myself. O yes, I remember; I happened to pass through the dining-room and caught little miss's name, and I put two and two together, and so I thought, \"",
       "role": "paragraph"
     },
     {
@@ -5899,7 +5991,7 @@
       "order": 973,
       "chapterIndex": 1,
       "text": "CHAPTER XVI. A VISITOR",
-      "ttsText": "CHAPTER XVI. Avisitor",
+      "ttsText": "Chapter XVI. A Visitor",
       "role": "heading"
     },
     {
@@ -6164,6 +6256,7 @@
       "order": 1017,
       "chapterIndex": 1,
       "text": "Heidi now ran in to the grandmother; she first, with some effort, managed to carry in the box of cakes; then she ran out again and brought in the sausage—for her grandfather had put the presents down by the door—and then a third time for the shawl. She had placed them as close as she could to the grandmother, so that the latter might be able to feel them and understand what was there. The shawl she laid over the old woman's knees.",
+      "ttsText": "Heidi now ran in to the grandmother; she first, with some effort, managed to carry in the box of cakes; then she ran out again and brought in the sausage, for her grandfather had put the presents down by the door, and then a third time for the shawl. She had placed them as close as she could to the grandmother, so that the latter might be able to feel them and understand what was there. The shawl she laid over the old woman's knees.",
       "role": "paragraph"
     },
     {
@@ -6194,13 +6287,14 @@
       "order": 1022,
       "chapterIndex": 1,
       "text": "Peter came tumbling in at this minute. \"Uncle is just behind me, he is coming—\" he began, and then stopped short, for his eye had caught sight of the sausage, and he was too much taken aback to say more. But Heidi understood that her grandfather was near and so said good-bye to grandmother. The old man now never passed the door without going in to wish the old woman good-day, and she liked to hear his footstep approaching, for he always had a cheery word for her. But to-day it was growing late for Heidi, who was always up with the lark, and the grandfather would never let her go to bed after hours; so this evening he only called good-night through the open door and started home at once with the child, and the two climbed under the starlit sky back to their peaceful dwelling.",
+      "ttsText": "Peter came tumbling in at this minute. \"Uncle is just behind me, he is coming, \" he began, and then stopped short, for his eye had caught sight of the sausage, and he was too much taken aback to say more. But Heidi understood that her grandfather was near and so said good-bye to grandmother. The old man now never passed the door without going in to wish the old woman good-day, and she liked to hear his footstep approaching, for he always had a cheery word for her. But to-day it was growing late for Heidi, who was always up with the lark, and the grandfather would never let her go to bed after hours; so this evening he only called good-night through the open door and started home at once with the child, and the two climbed under the starlit sky back to their peaceful dwelling.",
       "role": "paragraph"
     },
     {
       "order": 1023,
       "chapterIndex": 1,
       "text": "CHAPTER XVII. A COMPENSATION",
-      "ttsText": "CHAPTER XVII. Acompensation",
+      "ttsText": "Chapter XVII. A Compensation",
       "role": "heading"
     },
     {
@@ -6237,6 +6331,7 @@
       "order": 1029,
       "chapterIndex": 1,
       "text": "Heidi now led her friend to her favorite spot where she was accustomed to sit and enjoy the beauty around her; the doctor followed her example and took his seat beside her on the warm grass. Over the heights and over the far green valley hung the golden glory of the autumn day. The great snow-field sparkled in the bright sunlight, and the two grey rocky peaks rose in their ancient majesty against the dark blue sky. A soft, light morning breeze blew deliciously across the mountain, gently stirring the bluebells that still remained of the summer's wealth of flowers, their slender heads nodding cheerfully in the sunshine. Overhead the great bird was flying round and round in wide circles, but to- day he made no sound; poised on his large wings he floated contentedly in the blue ether. Heidi looked about her first at one thing and then at another. The waving flowers, the blue sky, the bright sunshine, the happy bird—everything was so beautiful! so beautiful! Her eyes were alight with joy. And now she turned to her friend to see if he too were enjoying the beauty. The doctor had been sitting thoughtfully gazing around him. As he met her glad bright eyes, \"Yes, Heidi,\" he responded, \"I see how lovely it all is, but tell me—if one brings a sad heart up here, how may it be healed so that it can rejoice in all this beauty?\"",
+      "ttsText": "Heidi now led her friend to her favorite spot where she was accustomed to sit and enjoy the beauty around her; the doctor followed her example and took his seat beside her on the warm grass. Over the heights and over the far green valley hung the golden glory of the autumn day. The great snow-field sparkled in the bright sunlight, and the two grey rocky peaks rose in their ancient majesty against the dark blue sky. A soft, light morning breeze blew deliciously across the mountain, gently stirring the bluebells that still remained of the summer's wealth of flowers, their slender heads nodding cheerfully in the sunshine. Overhead the great bird was flying round and round in wide circles, but to- day he made no sound; poised on his large wings he floated contentedly in the blue ether. Heidi looked about her first at one thing and then at another. The waving flowers, the blue sky, the bright sunshine, the happy bird, everything was so beautiful! so beautiful! Her eyes were alight with joy. And now she turned to her friend to see if he too were enjoying the beauty. The doctor had been sitting thoughtfully gazing around him. As he met her glad bright eyes, \"Yes, Heidi,\" he responded, \"I see how lovely it all is, but tell me, if one brings a sad heart up here, how may it be healed so that it can rejoice in all this beauty?\"",
       "role": "paragraph"
     },
     {
@@ -6285,6 +6380,7 @@
       "order": 1037,
       "chapterIndex": 1,
       "text": "\"That is a beautiful faith, child, and be sure you hold it fast,\" replied the doctor. Then he sat on a while in silence, looking at the great overshadowing mountains and the green, sunlit valley below before he spoke again,—",
+      "ttsText": "\"That is a beautiful faith, child, and be sure you hold it fast,\" replied the doctor. Then he sat on a while in silence, looking at the great overshadowing mountains and the green, sunlit valley below before he spoke again,,",
       "role": "paragraph"
     },
     {
@@ -6297,6 +6393,7 @@
       "order": 1039,
       "chapterIndex": 1,
       "text": "A pain shot through the child's young happy heart. The shadow over the eyes brought to her remembrance the grandmother, who would never again be able to see the sunlight and the beauty up here. This was Heidi's great sorrow, which re-awoke each time she thought about the darkness. She did not speak for a few minutes, for her happiness was interrupted by this sudden pang. Then in a grave voice she said,—",
+      "ttsText": "A pain shot through the child's young happy heart. The shadow over the eyes brought to her remembrance the grandmother, who would never again be able to see the sunlight and the beauty up here. This was Heidi's great sorrow, which re-awoke each time she thought about the darkness. She did not speak for a few minutes, for her happiness was interrupted by this sudden pang. Then in a grave voice she said,,",
       "role": "paragraph"
     },
     {
@@ -6333,6 +6430,7 @@
       "order": 1045,
       "chapterIndex": 1,
       "text": "The doctor nodded his assent, and Heidi began,—",
+      "ttsText": "The doctor nodded his assent, and Heidi began,,",
       "role": "paragraph"
     },
     {
@@ -6435,6 +6533,7 @@
       "order": 1062,
       "chapterIndex": 1,
       "text": "Heidi suddenly paused; she was not sure if the doctor was still listening. He was sitting motionless with his hand before his eyes. She thought he had fallen asleep; when he awoke, if he wanted to hear more verses, she would go on. There was no sound anywhere. The doctor sat in silence, but he was certainly not asleep. His thoughts had carried him back to a long past time: he saw himself as a little boy standing by his dear mother's chair; she had her arm round his neck and was saying the very verses to him that Heidi had just recited—words which he had not heard now for years. He could hear his mother's voice and see her loving eyes resting upon him, and as Heidi ceased the old dear voice seemed to be saying other things to him; and the words he heard again must have carried him far, far away, for it was a long time before he stirred or took his hand from his eyes. When at last he roused himself he met Heidi's eyes looking wonderingly at him.",
+      "ttsText": "Heidi suddenly paused; she was not sure if the doctor was still listening. He was sitting motionless with his hand before his eyes. She thought he had fallen asleep; when he awoke, if he wanted to hear more verses, she would go on. There was no sound anywhere. The doctor sat in silence, but he was certainly not asleep. His thoughts had carried him back to a long past time: he saw himself as a little boy standing by his dear mother's chair; she had her arm round his neck and was saying the very verses to him that Heidi had just recited, words which he had not heard now for years. He could hear his mother's voice and see her loving eyes resting upon him, and as Heidi ceased the old dear voice seemed to be saying other things to him; and the words he heard again must have carried him far, far away, for it was a long time before he stirred or took his hand from his eyes. When at last he roused himself he met Heidi's eyes looking wonderingly at him.",
       "role": "paragraph"
     },
     {
@@ -6561,6 +6660,7 @@
       "order": 1083,
       "chapterIndex": 1,
       "text": "CHAPTER XVIII. WINTER IN DORFLI",
+      "ttsText": "Chapter XVIII. Winter in Dorfli",
       "role": "heading"
     },
     {
@@ -6627,6 +6727,7 @@
       "order": 1094,
       "chapterIndex": 1,
       "text": "At last, after some days, the sun again appeared and shone brightly over the white ground, but he went to bed again behind the mountains at a very early hour, as if he did not find such pleasure in looking down on the earth as when everything was green and flowery. But then the moon came out clear and large and lit up the great white snowfield all through the night, and the next morning the whole mountain glistened and sparkled like a huge crystal. When Peter got out of his window as usual, he was taken by surprise, for instead of sinking into the soft snow he fell on the hard ground and went sliding some way down the mountain side like a sleigh before he could stop himself. He picked himself up and tested the hardness of the ground by stamping on it and trying with all his might to dig his heels into it, but even then he could not break off a single little splinter of ice; the Alm was frozen hard as iron. This was just what Peter had been hoping for, as he knew now that Heidi would be able to come up to them. He quickly got back into the house, swallowed the milk which his mother had put ready for him, thrust a piece of bread in his pocket, and said, \"I must be off to school.\" \"That's right, go and learn all you can,\" said the grandmother encouragingly. Peter crept through the window again— the door was quite blocked by the frozen snow outside—pulling his little sleigh after him, and in another minute was shooting down the mountain.",
+      "ttsText": "At last, after some days, the sun again appeared and shone brightly over the white ground, but he went to bed again behind the mountains at a very early hour, as if he did not find such pleasure in looking down on the earth as when everything was green and flowery. But then the moon came out clear and large and lit up the great white snowfield all through the night, and the next morning the whole mountain glistened and sparkled like a huge crystal. When Peter got out of his window as usual, he was taken by surprise, for instead of sinking into the soft snow he fell on the hard ground and went sliding some way down the mountain side like a sleigh before he could stop himself. He picked himself up and tested the hardness of the ground by stamping on it and trying with all his might to dig his heels into it, but even then he could not break off a single little splinter of ice; the Alm was frozen hard as iron. This was just what Peter had been hoping for, as he knew now that Heidi would be able to come up to them. He quickly got back into the house, swallowed the milk which his mother had put ready for him, thrust a piece of bread in his pocket, and said, \"I must be off to school.\" \"That's right, go and learn all you can,\" said the grandmother encouragingly. Peter crept through the window again, the door was quite blocked by the frozen snow outside, pulling his little sleigh after him, and in another minute was shooting down the mountain.",
       "role": "paragraph"
     },
     {
@@ -6813,6 +6914,7 @@
       "order": 1125,
       "chapterIndex": 1,
       "text": "The child read on, and when she came to the last words:—",
+      "ttsText": "The child read on, and when she came to the last words:,",
       "role": "paragraph"
     },
     {
@@ -6861,6 +6963,7 @@
       "order": 1133,
       "chapterIndex": 1,
       "text": "CHAPTER XIX. THE WINTER CONTINUES",
+      "ttsText": "Chapter XIX. The Winter Continues",
       "role": "heading"
     },
     {
@@ -6933,6 +7036,7 @@
       "order": 1145,
       "chapterIndex": 1,
       "text": "This hard-hearted way of refusing to agree to what was right and kind, and to what Heidi had so much at heart, aroused her anger. With flashing eyes she stood facing the boy and said threateningly, \"If you won't learn as I want you to, I will tell you what will happen; you know your mother has often spoken of sending you to Frankfurt, that you may learn a lot of things, and I know where the boys there have to go to school; Clara pointed out the great house to me when we were driving together. And they don't only go when they are boys, but have more lessons still when they are grown men. I have seen them myself, and you mustn't think they have only one kind teacher like we have. There are ever so many of them, all in the school at the same time, and they are all dressed in black, as if they were going to church, and have black hats on their heads as high as that—\" and Heidi held out her hand to show their height from the floor.",
+      "ttsText": "This hard-hearted way of refusing to agree to what was right and kind, and to what Heidi had so much at heart, aroused her anger. With flashing eyes she stood facing the boy and said threateningly, \"If you won't learn as I want you to, I will tell you what will happen; you know your mother has often spoken of sending you to Frankfurt, that you may learn a lot of things, and I know where the boys there have to go to school; Clara pointed out the great house to me when we were driving together. And they don't only go when they are boys, but have more lessons still when they are grown men. I have seen them myself, and you mustn't think they have only one kind teacher like we have. There are ever so many of them, all in the school at the same time, and they are all dressed in black, as if they were going to church, and have black hats on their heads as high as that, \" and Heidi held out her hand to show their height from the floor.",
       "role": "paragraph"
     },
     {
@@ -6969,6 +7073,7 @@
       "order": 1151,
       "chapterIndex": 1,
       "text": "Peter was made to spell out the first sentence two or three times over, for Heidi wished him to get it correct and fluent. At last she said, \"You don't seem able to get it right, but I will read it aloud to you once; when you know what it ought to be you will find it easier.\" And she read out:—",
+      "ttsText": "Peter was made to spell out the first sentence two or three times over, for Heidi wished him to get it correct and fluent. At last she said, \"You don't seem able to get it right, but I will read it aloud to you once; when you know what it ought to be you will find it easier.\" And she read out:,",
       "role": "paragraph"
     },
     {
@@ -7011,6 +7116,7 @@
       "order": 1158,
       "chapterIndex": 1,
       "text": "Peter went at his task again and repeated the three letters so many times and with such determination that she said at last,—",
+      "ttsText": "Peter went at his task again and repeated the three letters so many times and with such determination that she said at last,,",
       "role": "paragraph"
     },
     {
@@ -7035,6 +7141,7 @@
       "order": 1162,
       "chapterIndex": 1,
       "text": "And she began in a clear slow voice:—",
+      "ttsText": "And she began in a clear slow voice:,",
       "role": "paragraph"
     },
     {
@@ -7125,6 +7232,7 @@
       "order": 1177,
       "chapterIndex": 1,
       "text": "He had got at last to U. Heidi read out:—",
+      "ttsText": "He had got at last to U. Heidi read out:,",
       "role": "paragraph"
     },
     {
@@ -7143,6 +7251,7 @@
       "order": 1180,
       "chapterIndex": 1,
       "text": "Peter growled, \"Yes, but I shan't go!\" But he was very diligent that day, as if under the impression that some one would seize him suddenly by the collar and drag him where he would rather not go. The next evening Heidi read:—",
+      "ttsText": "Peter growled, \"Yes, but I shan't go!\" But he was very diligent that day, as if under the impression that some one would seize him suddenly by the collar and drag him where he would rather not go. The next evening Heidi read:,",
       "role": "paragraph"
     },
     {
@@ -7173,6 +7282,7 @@
       "order": 1185,
       "chapterIndex": 1,
       "text": "Peter knew that thick hazel stick, and immediately bent his head over the W and struggled to master it. Another day the lines ran:—",
+      "ttsText": "Peter knew that thick hazel stick, and immediately bent his head over the W and struggled to master it. Another day the lines ran:,",
       "role": "paragraph"
     },
     {
@@ -7203,6 +7313,7 @@
       "order": 1190,
       "chapterIndex": 1,
       "text": "Peter did not quite understand, but when Heidi went on and read:—",
+      "ttsText": "Peter did not quite understand, but when Heidi went on and read:,",
       "role": "paragraph"
     },
     {
@@ -7227,6 +7338,7 @@
       "order": 1194,
       "chapterIndex": 1,
       "text": "He arrived on the following day in a somewhat lofty frame of mind, for there was now only one letter to struggle over, and when Heidi began the lesson with reading aloud:—",
+      "ttsText": "He arrived on the following day in a somewhat lofty frame of mind, for there was now only one letter to struggle over, and when Heidi began the lesson with reading aloud:,",
       "role": "paragraph"
     },
     {
@@ -7251,6 +7363,7 @@
       "order": 1198,
       "chapterIndex": 1,
       "text": "\"I assure you, Peter,\" replied Heidi, \"grandfather knows all about them. Wait a second and I will run and ask him, for he is only over the way with the pastor.\" And she rose and ran to the door to put her words into action, but Peter cried out in a voice of agony,—",
+      "ttsText": "\"I assure you, Peter,\" replied Heidi, \"grandfather knows all about them. Wait a second and I will run and ask him, for he is only over the way with the pastor.\" And she rose and ran to the door to put her words into action, but Peter cried out in a voice of agony,,",
       "role": "paragraph"
     },
     {
@@ -7317,12 +7430,14 @@
       "order": 1209,
       "chapterIndex": 1,
       "text": "It happened on the day following this that there was a reading lesson in Peter's class. When it came to his turn, the teacher said,—",
+      "ttsText": "It happened on the day following this that there was a reading lesson in Peter's class. When it came to his turn, the teacher said,,",
       "role": "paragraph"
     },
     {
       "order": 1210,
       "chapterIndex": 1,
       "text": "\"We must pass over Peter as usual, or will you try again once more—I will not say to read, but to stammer through a sentence.\"",
+      "ttsText": "\"We must pass over Peter as usual, or will you try again once more, I will not say to read, but to stammer through a sentence.\"",
       "role": "paragraph"
     },
     {
@@ -7335,6 +7450,7 @@
       "order": 1212,
       "chapterIndex": 1,
       "text": "The teacher put down his book and stared at Peter as at some out- of-the-way and marvellous thing unseen before. At last he spoke,—",
+      "ttsText": "The teacher put down his book and stared at Peter as at some out- of-the-way and marvellous thing unseen before. At last he spoke,,",
       "role": "paragraph"
     },
     {
@@ -7371,6 +7487,7 @@
       "order": 1218,
       "chapterIndex": 1,
       "text": "\"We will try once more,\" he said cautiously, and Peter had again to show off his accomplishment by reading another three lines. There was no mistake about it—Peter could read. As soon as school was over the teacher went over to the pastor to tell him this piece of news, and to inform him of the happy result of Heidi's and the grandfather's combined efforts.",
+      "ttsText": "\"We will try once more,\" he said cautiously, and Peter had again to show off his accomplishment by reading another three lines. There was no mistake about it, Peter could read. As soon as school was over the teacher went over to the pastor to tell him this piece of news, and to inform him of the happy result of Heidi's and the grandfather's combined efforts.",
       "role": "paragraph"
     },
     {
@@ -7395,6 +7512,7 @@
       "order": 1222,
       "chapterIndex": 1,
       "text": "CHAPTER XX. NEWS FROM DISTANT FRIENDS",
+      "ttsText": "Chapter XX. News from Distant Friends",
       "role": "heading"
     },
     {
@@ -7413,6 +7531,7 @@
       "order": 1225,
       "chapterIndex": 1,
       "text": "\"Oh, I know what these are for,\" exclaimed Heidi in great glee. \"We shall want them when they all come from Frankfurt. This one is for Grandmamma, and the one you are now making is for Clara, and then—then, there will, I suppose, have to be another,\" continued Heidi with more hesitation in her voice, \"or do you think, grandfather, that perhaps Fraulein Rottenmeier will not come with them?\"",
+      "ttsText": "\"Oh, I know what these are for,\" exclaimed Heidi in great glee. \"We shall want them when they all come from Frankfurt. This one is for Grandmamma, and the one you are now making is for Clara, and then, then, there will, I suppose, have to be another,\" continued Heidi with more hesitation in her voice, \"or do you think, grandfather, that perhaps Fraulein Rottenmeier will not come with them?\"",
       "role": "paragraph"
     },
     {
@@ -7491,6 +7610,7 @@
       "order": 1238,
       "chapterIndex": 1,
       "text": "\"Dearest Heidi,— Everything is packed and we shall start now in two or three days, as soon as papa himself is ready to leave; he is not coming with us as he has first to go to Paris. The doctor comes every day, and as soon as he is inside the door, he cries, 'Off now as quickly as you can, off to the mountain.' He is most impatient about our going. You cannot think how much he enjoyed himself when he was with you! He has called nearly every day this winter, and each time he has come in to my room and said he must tell me about everything again. And then he sits down and describes all he did with you and the grandfather, and talks of the mountains and the flowers and of the great silence up there far above all towns and the villages, and of the fresh delicious air, and often adds, 'No one can help getting well up there.' He himself is quite a different man since his visit, and looks quite young again and happy, which he had not been for a long time before. Oh, how I am looking forward to seeing everything and to being with you on the mountain, and to making the acquaintance of Peter and the goats.",
+      "ttsText": "\"Dearest Heidi,, Everything is packed and we shall start now in two or three days, as soon as papa himself is ready to leave; he is not coming with us as he has first to go to Paris. The doctor comes every day, and as soon as he is inside the door, he cries, 'Off now as quickly as you can, off to the mountain.' He is most impatient about our going. You cannot think how much he enjoyed himself when he was with you! He has called nearly every day this winter, and each time he has come in to my room and said he must tell me about everything again. And then he sits down and describes all he did with you and the grandfather, and talks of the mountains and the flowers and of the great silence up there far above all towns and the villages, and of the fresh delicious air, and often adds, 'No one can help getting well up there.' He himself is quite a different man since his visit, and looks quite young again and happy, which he had not been for a long time before. Oh, how I am looking forward to seeing everything and to being with you on the mountain, and to making the acquaintance of Peter and the goats.",
       "role": "paragraph"
     },
     {
@@ -7503,6 +7623,7 @@
       "order": 1240,
       "chapterIndex": 1,
       "text": "\"I can hardly bear waiting till I see you again. Good-bye, dearest Heidi; grandmamma sends you her best love and all good wishes.—Your affectionate friend, \"Clara.\"",
+      "ttsText": "\"I can hardly bear waiting till I see you again. Good-bye, dearest Heidi; grandmamma sends you her best love and all good wishes., Your affectionate friend, \"Clara.\"",
       "role": "paragraph"
     },
     {
@@ -7557,6 +7678,7 @@
       "order": 1249,
       "chapterIndex": 1,
       "text": "Heidi found the place at once and read out in her clear young voice:—",
+      "ttsText": "Heidi found the place at once and read out in her clear young voice:,",
       "role": "paragraph"
     },
     {
@@ -7647,6 +7769,7 @@
       "order": 1264,
       "chapterIndex": 1,
       "text": "After the first words of greeting had been exchanged grandmamma broke out into lively expressions of admiration. \"What a magnificent residence you have, Uncle! I could hardly have believed it was so beautiful! A king might well envy you! And how well my little Heidi looks—like a wild rose!\" she continued, drawing the child towards her and stroking her fresh pink cheeks. \"I don't know which way to look first, it is all so lovely! What do you say to it, Clara, what do you say?\"",
+      "ttsText": "After the first words of greeting had been exchanged grandmamma broke out into lively expressions of admiration. \"What a magnificent residence you have, Uncle! I could hardly have believed it was so beautiful! A king might well envy you! And how well my little Heidi looks, like a wild rose!\" she continued, drawing the child towards her and stroking her fresh pink cheeks. \"I don't know which way to look first, it is all so lovely! What do you say to it, Clara, what do you say?\"",
       "role": "paragraph"
     },
     {
@@ -7785,6 +7908,7 @@
       "order": 1287,
       "chapterIndex": 1,
       "text": "\"Oh, it does taste so nice, grandmamma—better than all the dishes we have at Ragatz,\" replied Clara, as she continued eating with appetite.",
+      "ttsText": "\"Oh, it does taste so nice, grandmamma, better than all the dishes we have at Ragatz,\" replied Clara, as she continued eating with appetite.",
       "role": "paragraph"
     },
     {
@@ -7797,6 +7921,7 @@
       "order": 1289,
       "chapterIndex": 1,
       "text": "And so the meal went on. Grandmamma and Alm-Uncle got on very well together, and their conversation became more and more lively. They were so thoroughly agreed in their opinions of men and things and the world in general that they might have been taken for old cronies. The time passed merrily, and then grandmamma looked towards the west and said,—",
+      "ttsText": "And so the meal went on. Grandmamma and Alm-Uncle got on very well together, and their conversation became more and more lively. They were so thoroughly agreed in their opinions of men and things and the world in general that they might have been taken for old cronies. The time passed merrily, and then grandmamma looked towards the west and said,,",
       "role": "paragraph"
     },
     {
@@ -7917,6 +8042,7 @@
       "order": 1309,
       "chapterIndex": 1,
       "text": "As she lay on the large soft bed in the hay loft, with Heidi near her, she looked out through the round open window right into the middle of the shining clusters of stars, and she exclaimed in delight,—",
+      "ttsText": "As she lay on the large soft bed in the hay loft, with Heidi near her, she looked out through the round open window right into the middle of the shining clusters of stars, and she exclaimed in delight,,",
       "role": "paragraph"
     },
     {
@@ -7953,6 +8079,7 @@
       "order": 1315,
       "chapterIndex": 1,
       "text": "CHAPTER XXI. HOW LIFE WENT ON AT GRANDFATHER'S",
+      "ttsText": "Chapter XXI. How Life Went on at Grandfather's",
       "role": "heading"
     },
     {
@@ -8007,6 +8134,7 @@
       "order": 1324,
       "chapterIndex": 1,
       "text": "The latter at that moment appeared coming from the goat shed and bringing two small foaming bowls of snow-white milk—one for Clara and one for Heidi.",
+      "ttsText": "The latter at that moment appeared coming from the goat shed and bringing two small foaming bowls of snow-white milk, one for Clara and one for Heidi.",
       "role": "paragraph"
     },
     {
@@ -8049,6 +8177,7 @@
       "order": 1331,
       "chapterIndex": 1,
       "text": "\"I cannot,\" Heidi called back from the midst of her friends, \"and I shall not be able to come for a long, long time—not as long as Clara is with me. Grandfather, however, has promised to go up the mountain with both of us one day.\"",
+      "ttsText": "\"I cannot,\" Heidi called back from the midst of her friends, \"and I shall not be able to come for a long, long time, not as long as Clara is with me. Grandfather, however, has promised to go up the mountain with both of us one day.\"",
       "role": "paragraph"
     },
     {
@@ -8109,6 +8238,7 @@
       "order": 1341,
       "chapterIndex": 1,
       "text": "That night, when Clara lay down in her bed and prepared to watch the stars, her eyes would not keep open, and she fell asleep as soon as Heidi and slept soundly all night—a thing she never remembered having done before. The following day and the day after passed in the same pleasant fashion, and the third day there came a surprise for the children. Two stout porters came up the mountain, each carrying a bed on his shoulders with bedding of all kinds and two beautiful new white coverlids. The men also had a letter with them from grandmamma, in which she said that these were for Clara and Heidi, and that Heidi in future was always to sleep in a proper bed, and when she went down to Dorfli in the winter she was to take one with her and leave the other at the hut, so that Clara might always know there was a bed ready for her when she paid a visit to the mountain. She went on to thank the children for their long letters and encouraged them to continue writing daily, so that she might be able to picture all they were doing.",
+      "ttsText": "That night, when Clara lay down in her bed and prepared to watch the stars, her eyes would not keep open, and she fell asleep as soon as Heidi and slept soundly all night, a thing she never remembered having done before. The following day and the day after passed in the same pleasant fashion, and the third day there came a surprise for the children. Two stout porters came up the mountain, each carrying a bed on his shoulders with bedding of all kinds and two beautiful new white coverlids. The men also had a letter with them from grandmamma, in which she said that these were for Clara and Heidi, and that Heidi in future was always to sleep in a proper bed, and when she went down to Dorfli in the winter she was to take one with her and leave the other at the hut, so that Clara might always know there was a bed ready for her when she paid a visit to the mountain. She went on to thank the children for their long letters and encouraged them to continue writing daily, so that she might be able to picture all they were doing.",
       "role": "paragraph"
     },
     {
@@ -8163,6 +8293,7 @@
       "order": 1350,
       "chapterIndex": 2,
       "text": "She had just been expatiating on the flowers as she sat with Clara under the fir trees one evening, and had been telling her again of the wonderful light from the evening sun, when such an irrepressible longing came over her to see it all once more that she jumped up and ran to her grandfather, who was in the shed, calling out almost before she was inside,—",
+      "ttsText": "She had just been expatiating on the flowers as she sat with Clara under the fir trees one evening, and had been telling her again of the wonderful light from the evening sun, when such an irrepressible longing came over her to see it all once more that she jumped up and ran to her grandfather, who was in the shed, calling out almost before she was inside,,",
       "role": "paragraph"
     },
     {
@@ -8181,6 +8312,7 @@
       "order": 1353,
       "chapterIndex": 2,
       "text": "Heidi ran back with the good news to Clara, and the latter promised to try her very best as the grandfather wished, for she looked forward immensely to the next day's excursion. Heidi was so pleased and excited that she called out to Peter as soon as she caught sight of him that evening,—",
+      "ttsText": "Heidi ran back with the good news to Clara, and the latter promised to try her very best as the grandfather wished, for she looked forward immensely to the next day's excursion. Heidi was so pleased and excited that she called out to Peter as soon as she caught sight of him that evening,,",
       "role": "paragraph"
     },
     {
@@ -8205,6 +8337,7 @@
       "order": 1357,
       "chapterIndex": 2,
       "text": "CHAPTER XXII. SOMETHING UNEXPECTED HAPPENS",
+      "ttsText": "Chapter XXII. Something Unexpected Happens",
       "role": "heading"
     },
     {
@@ -8217,6 +8350,7 @@
       "order": 1359,
       "chapterIndex": 2,
       "text": "The old man stood and watched the green slopes under the higher peaks gradually growing brighter with the coming day and the dark shadows lifting from the valley, until at first a rosy light filled its hollows, and then the morning gold flooded every height and depth—the sun had risen.",
+      "ttsText": "The old man stood and watched the green slopes under the higher peaks gradually growing brighter with the coming day and the dark shadows lifting from the valley, until at first a rosy light filled its hollows, and then the morning gold flooded every height and depth, the sun had risen.",
       "role": "paragraph"
     },
     {
@@ -8229,12 +8363,14 @@
       "order": 1361,
       "chapterIndex": 2,
       "text": "Peter came up at this moment. The goats did not gather round him so trustfully as usual, but seemed to avoid him timidly, for Peter had reached a high pitch of anger and bitterness, and was laying about him with his stick very unnecessarily, and where it fell the blow was no light one. For weeks now he had not had Heidi all to himself as formerly. When he came up in the morning the invalid child was always already in her chair and Heidi fully occupied with her. And it was the same thing over again when he came down in the evening. She had not come out with the goats once this summer, and now to-day she was only coming in company with her friend and the chair, and would stick by the latter's side the whole time. It was the thought of this which was making him particularly cross this morning. There stood the chair on its high wheels; Peter seemed to see something proud and disdainful about it, and he glared at it as at an enemy that had done him harm and was likely to do him more still to-day. He glanced round—there was no sound anywhere, no one to see him. He sprang forward like a wild creature, caught hold of it, and gave it a violent and angry push in the direction of the slope. The chair rolled swiftly forward and in another minute had disappeared.",
+      "ttsText": "Peter came up at this moment. The goats did not gather round him so trustfully as usual, but seemed to avoid him timidly, for Peter had reached a high pitch of anger and bitterness, and was laying about him with his stick very unnecessarily, and where it fell the blow was no light one. For weeks now he had not had Heidi all to himself as formerly. When he came up in the morning the invalid child was always already in her chair and Heidi fully occupied with her. And it was the same thing over again when he came down in the evening. She had not come out with the goats once this summer, and now to-day she was only coming in company with her friend and the chair, and would stick by the latter's side the whole time. It was the thought of this which was making him particularly cross this morning. There stood the chair on its high wheels; Peter seemed to see something proud and disdainful about it, and he glared at it as at an enemy that had done him harm and was likely to do him more still to-day. He glanced round, there was no sound anywhere, no one to see him. He sprang forward like a wild creature, caught hold of it, and gave it a violent and angry push in the direction of the slope. The chair rolled swiftly forward and in another minute had disappeared.",
       "role": "paragraph"
     },
     {
       "order": 1362,
       "chapterIndex": 2,
       "text": "Peter now sped up the mountain as if on wings, not pausing till he was well in shelter of a large blackberry bush, for he had no wish to be seen by Uncle. But he was anxious to see what had become of the chair, and his bush was well placed for that. Himself hidden, he could watch what happened below and see what Uncle did without being discovered himself. So he looked, and there he saw his enemy running faster and faster down hill, then it turned head over heels several times, and finally, after one great bound, rolled over and over to its complete destruction. The pieces flew in every direction—feet, arms, and torn fragments of the padded seat and bolster—and Peter experienced a feeling of such unbounded delight at the sight that he leapt in the air, laughing aloud and stamping for joy; then he took a run round, jumping over bushes on the way, only to return to the same spot and fall into fresh fits of laughter. He was beside himself with satisfaction, for he could see only good results for himself in this disaster to his enemy. Now Heidi's friend would be obliged to go away, for she would have no means of going about, and when Heidi was alone again she would come out with him as in the old days, and everything would go on in the proper way again. But Peter did not consider, or did not know, that when we do a wrong thing trouble is sure to follow.",
+      "ttsText": "Peter now sped up the mountain as if on wings, not pausing till he was well in shelter of a large blackberry bush, for he had no wish to be seen by Uncle. But he was anxious to see what had become of the chair, and his bush was well placed for that. Himself hidden, he could watch what happened below and see what Uncle did without being discovered himself. So he looked, and there he saw his enemy running faster and faster down hill, then it turned head over heels several times, and finally, after one great bound, rolled over and over to its complete destruction. The pieces flew in every direction, feet, arms, and torn fragments of the padded seat and bolster, and Peter experienced a feeling of such unbounded delight at the sight that he leapt in the air, laughing aloud and stamping for joy; then he took a run round, jumping over bushes on the way, only to return to the same spot and fall into fresh fits of laughter. He was beside himself with satisfaction, for he could see only good results for himself in this disaster to his enemy. Now Heidi's friend would be obliged to go away, for she would have no means of going about, and when Heidi was alone again she would come out with him as in the old days, and everything would go on in the proper way again. But Peter did not consider, or did not know, that when we do a wrong thing trouble is sure to follow.",
       "role": "paragraph"
     },
     {
@@ -8379,6 +8515,7 @@
       "order": 1386,
       "chapterIndex": 2,
       "text": "\"Would you think me unkind, Clara,\" she said rather hesitatingly, \"if I left you for a few minutes? I should run there and back very quickly. I want so to see how the flowers are looking—but wait—\" for an idea had come into Heidi's head. She ran and picked a bunch or two of green leaves, and then took hold of Snowflake and led her up to Clara.",
+      "ttsText": "\"Would you think me unkind, Clara,\" she said rather hesitatingly, \"if I left you for a few minutes? I should run there and back very quickly. I want so to see how the flowers are looking, but wait, \" for an idea had come into Heidi's head. She ran and picked a bunch or two of green leaves, and then took hold of Snowflake and led her up to Clara.",
       "role": "paragraph"
     },
     {
@@ -8715,6 +8852,7 @@
       "order": 1442,
       "chapterIndex": 2,
       "text": "CHAPTER XXIII. \"GOOD-BYE TILL WE MEET AGAIN\"",
+      "ttsText": "Chapter XXIII. \"Good-Bye Till We Meet Again\"",
       "role": "heading"
     },
     {
@@ -8787,12 +8925,14 @@
       "order": 1454,
       "chapterIndex": 2,
       "text": "But no—Clara was actually walking steadily and uprightly beside Heidi—and now the two children turned and came towards her with beaming faces and rosy cheeks. Laughing and crying she ran to them and embraced first Clara and then Heidi, and then Clara again, unable to speak for joy. All at once she caught sight of Uncle standing by the seat and looking on smiling at the meeting. She took Clara's arm in hers, and with continual expressions of delight at the fact that the child could now really walk about with her, she went up to the old man, and then letting go Clara's arm she seized his hands.",
+      "ttsText": "But no, Clara was actually walking steadily and uprightly beside Heidi, and now the two children turned and came towards her with beaming faces and rosy cheeks. Laughing and crying she ran to them and embraced first Clara and then Heidi, and then Clara again, unable to speak for joy. All at once she caught sight of Uncle standing by the seat and looking on smiling at the meeting. She took Clara's arm in hers, and with continual expressions of delight at the fact that the child could now really walk about with her, she went up to the old man, and then letting go Clara's arm she seized his hands.",
       "role": "paragraph"
     },
     {
       "order": 1455,
       "chapterIndex": 2,
       "text": "\"My dear Uncle! my dear Uncle! how much we have to thank you for! It is all your doing! it is your caring and nursing——\"",
+      "ttsText": "\"My dear Uncle! my dear Uncle! how much we have to thank you for! It is all your doing! it is your caring and nursing, \"",
       "role": "paragraph"
     },
     {
@@ -8865,6 +9005,7 @@
       "order": 1467,
       "chapterIndex": 2,
       "text": "There were traces of climbers to be seen on all sides; the narrow footpaths seemed to run in every direction, and Herr Sesemann began to wonder if he was on the right one, and whether the hut lay perhaps on the other side of the mountain. He looked round to see if any one was in sight of whom he could ask the way; but far and wide there was not a soul to be seen or a sound to be heard. Only at moments the mountain wind whistled through the air, and the insects hummed in the sunshine or a happy bird sang out from the branches of a solitary larch tree. Herr Sesemann stood still for a while to let the cool Alpine wind blow on his hot face. But now some one came running down the mountain- side—it was Peter with the telegram in his hand. He ran straight down the steep slope, not following the path on which Herr Sesemann was standing. As soon as the latter caught sight of him he beckoned to him to come. Peter advanced towards him slowly and timidly, with a sort of sidelong movement, as if he could only move one leg properly and had to drag the other after him. \"Hurry up, lad,\" called Herr Sesemann, and when Peter was near enough, \"Tell me,\" he said, \"is this the way to the hut where the old man and the child Heidi live, and where the visitors from Frankfurt are staying?\"",
+      "ttsText": "There were traces of climbers to be seen on all sides; the narrow footpaths seemed to run in every direction, and Herr Sesemann began to wonder if he was on the right one, and whether the hut lay perhaps on the other side of the mountain. He looked round to see if any one was in sight of whom he could ask the way; but far and wide there was not a soul to be seen or a sound to be heard. Only at moments the mountain wind whistled through the air, and the insects hummed in the sunshine or a happy bird sang out from the branches of a solitary larch tree. Herr Sesemann stood still for a while to let the cool Alpine wind blow on his hot face. But now some one came running down the mountain- side, it was Peter with the telegram in his hand. He ran straight down the steep slope, not following the path on which Herr Sesemann was standing. As soon as the latter caught sight of him he beckoned to him to come. Peter advanced towards him slowly and timidly, with a sort of sidelong movement, as if he could only move one leg properly and had to drag the other after him. \"Hurry up, lad,\" called Herr Sesemann, and when Peter was near enough, \"Tell me,\" he said, \"is this the way to the hut where the old man and the child Heidi live, and where the visitors from Frankfurt are staying?\"",
       "role": "paragraph"
     },
     {
@@ -9039,6 +9180,7 @@
       "order": 1496,
       "chapterIndex": 2,
       "text": "Peter did not lift his eyes and therefore did not see at what grandmamma was pointing. But he knew that Uncle was standing at the corner of the hut, fixing him with his grey eyes, while beside him stood the most terrible person that Peter could conceive—the police-constable from Frankfurt. Quaking in every limb, and with trembling lips he muttered a low, \"Yes.\"",
+      "ttsText": "Peter did not lift his eyes and therefore did not see at what grandmamma was pointing. But he knew that Uncle was standing at the corner of the hut, fixing him with his grey eyes, while beside him stood the most terrible person that Peter could conceive, the police-constable from Frankfurt. Quaking in every limb, and with trembling lips he muttered a low, \"Yes.\"",
       "role": "paragraph"
     },
     {
@@ -9051,6 +9193,7 @@
       "order": 1498,
       "chapterIndex": 2,
       "text": "\"Because—because—it is all broken to pieces and no one can put it together again.\" Peter brought out his words with difficulty, and his knees knocked together so that he could hardly stand.",
+      "ttsText": "\"Because, because, it is all broken to pieces and no one can put it together again.\" Peter brought out his words with difficulty, and his knees knocked together so that he could hardly stand.",
       "role": "paragraph"
     },
     {
@@ -9075,6 +9218,7 @@
       "order": 1502,
       "chapterIndex": 2,
       "text": "\"No, no, dear Uncle, we will not punish the poor boy any further. One must be fair to him. Here are all these strangers from Frankfurt who come and carry away Heidi, his one sole possession, and a possession well worth having too, and he is left to sit alone day after day for weeks, with nothing to do but brood over his wrongs. No, no, let us be fair to him; his anger got the upper hand and drove him an act of revenge—a foolish one, I own, but then we all behave foolishly when we are angry.\" And saying this she went back to Peter, who still stood frightened and trembling. She sat down on the seat under the fir trees and called him to her kindly,—",
+      "ttsText": "\"No, no, dear Uncle, we will not punish the poor boy any further. One must be fair to him. Here are all these strangers from Frankfurt who come and carry away Heidi, his one sole possession, and a possession well worth having too, and he is left to sit alone day after day for weeks, with nothing to do but brood over his wrongs. No, no, let us be fair to him; his anger got the upper hand and drove him an act of revenge, a foolish one, I own, but then we all behave foolishly when we are angry.\" And saying this she went back to Peter, who still stood frightened and trembling. She sat down on the seat under the fir trees and called him to her kindly,,",
       "role": "paragraph"
     },
     {
@@ -9129,6 +9273,7 @@
       "order": 1511,
       "chapterIndex": 2,
       "text": "Grandmamma had to consider a moment what he meant, but soon recalled his connection with her telegram, and answered kindly,—",
+      "ttsText": "Grandmamma had to consider a moment what he meant, but soon recalled his connection with her telegram, and answered kindly,,",
       "role": "paragraph"
     },
     {
@@ -9177,6 +9322,7 @@
       "order": 1519,
       "chapterIndex": 2,
       "text": "\"Yes, boy, you shall have it all your life—I will put it down in my will. Do you hear, my son? and you are to put it down in yours as well: a penny a week to Peter as long as he lives.\"",
+      "ttsText": "\"Yes, boy, you shall have it all your life, I will put it down in my will. Do you hear, my son? and you are to put it down in yours as well: a penny a week to Peter as long as he lives.\"",
       "role": "paragraph"
     },
     {
@@ -9201,6 +9347,7 @@
       "order": 1523,
       "chapterIndex": 2,
       "text": "As later, after dinner, the party were sitting together chatting, Clara drew her father a little aside, and said with an eagerness that had been unknown to the little tired invalid,—",
+      "ttsText": "As later, after dinner, the party were sitting together chatting, Clara drew her father a little aside, and said with an eagerness that had been unknown to the little tired invalid,,",
       "role": "paragraph"
     },
     {
@@ -9219,6 +9366,7 @@
       "order": 1526,
       "chapterIndex": 2,
       "text": "Herr Sesemann now went over to where Uncle and grandmamma were engaged in lively conversation. Uncle stood up as he approached, and Herr Sesemann, taking him by the hand said,—",
+      "ttsText": "Herr Sesemann now went over to where Uncle and grandmamma were engaged in lively conversation. Uncle stood up as he approached, and Herr Sesemann, taking him by the hand said,,",
       "role": "paragraph"
     },
     {
@@ -9255,6 +9403,7 @@
       "order": 1532,
       "chapterIndex": 2,
       "text": "\"There could never be any question of such a thing as that, my dear friend,\" said Herr Sesemann quickly. \"I look upon the child as our own. Ask my mother, my daughter; you may be sure that they will never allow the child to be left in any one else's care! But if it will make you happier I give you here my hand upon it. I promise you: Heidi shall never have to go and earn her living among strangers; I will make provision against this both during my life and after. But now I have something else to say. Independent of her circumstances, the child is totally unfitted to live a life away from home; we found out that when she was with us. But she has made friends, and among them I know one who is at this moment in Frankfurt; he is winding up his affairs there, that he may be free to go where he likes and take his rest. I am speaking of my friend, the doctor, who came over here in the autumn and who, having well considered your advice, intends to settle in this neighborhood, for he has never felt so well and happy anywhere as in the company of you and Heidi. So you see the child will henceforth have two protectors near her— and may they both live long to share the task!\"",
+      "ttsText": "\"There could never be any question of such a thing as that, my dear friend,\" said Herr Sesemann quickly. \"I look upon the child as our own. Ask my mother, my daughter; you may be sure that they will never allow the child to be left in any one else's care! But if it will make you happier I give you here my hand upon it. I promise you: Heidi shall never have to go and earn her living among strangers; I will make provision against this both during my life and after. But now I have something else to say. Independent of her circumstances, the child is totally unfitted to live a life away from home; we found out that when she was with us. But she has made friends, and among them I know one who is at this moment in Frankfurt; he is winding up his affairs there, that he may be free to go where he likes and take his rest. I am speaking of my friend, the doctor, who came over here in the autumn and who, having well considered your advice, intends to settle in this neighborhood, for he has never felt so well and happy anywhere as in the company of you and Heidi. So you see the child will henceforth have two protectors near her, and may they both live long to share the task!\"",
       "role": "paragraph"
     },
     {
@@ -9369,6 +9518,7 @@
       "order": 1551,
       "chapterIndex": 2,
       "text": "\"Grandmother! grandmother! my bed is to be sent from Frankfurt with all the three pillows and the thick coverlid; grandmamma says it will be here in two days.\" Heidi could not get out her words quickly enough, for she was impatient to see grandmother's great joy at the news. The latter smiled, but said a little sadly,—",
+      "ttsText": "\"Grandmother! grandmother! my bed is to be sent from Frankfurt with all the three pillows and the thick coverlid; grandmamma says it will be here in two days.\" Heidi could not get out her words quickly enough, for she was impatient to see grandmother's great joy at the news. The latter smiled, but said a little sadly,,",
       "role": "paragraph"
     },
     {

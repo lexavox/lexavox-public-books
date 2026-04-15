@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:06.0312776Z",
+  "generatedAt": "2026-04-07T14:53:00.3999774Z",
   "source": {
     "id": "pg1661",
     "title": "The Adventures of Sherlock Holmes",
@@ -288,6 +288,7 @@
       "order": 31,
       "chapterIndex": 1,
       "text": "T o Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer—excellent for drawing the veil from men’s motives and actions. But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory.",
+      "ttsText": "T o Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer, excellent for drawing the veil from men’s motives and actions. But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory.",
       "role": "paragraph"
     },
     {
@@ -300,6 +301,7 @@
       "order": 33,
       "chapterIndex": 1,
       "text": "One night—it was on the twentieth of March, 1888—I was returning from a journey to a patient (for I had now returned to civil practice), when my way led me through Baker Street. As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see Holmes again, and to know how he was employing his extraordinary powers. His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him. To me, who knew his every mood and habit, his attitude and manner told their own story. He was at work again. He had risen out of his drug-created dreams and was hot upon the scent of some new problem. I rang the bell and was shown up to the chamber which had formerly been in part my own.",
+      "ttsText": "One night, it was on the twentieth of March, 1888, I was returning from a journey to a patient (for I had now returned to civil practice), when my way led me through Baker Street. As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see Holmes again, and to know how he was employing his extraordinary powers. His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind. He was pacing the room swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him. To me, who knew his every mood and habit, his attitude and manner told their own story. He was at work again. He had risen out of his drug-created dreams and was hot upon the scent of some new problem. I rang the bell and was shown up to the chamber which had formerly been in part my own.",
       "role": "paragraph"
     },
     {
@@ -444,6 +446,7 @@
       "order": 57,
       "chapterIndex": 1,
       "text": "“Peculiar—that is the very word,” said Holmes. “It is not an English paper at all. Hold it up to the light.”",
+      "ttsText": "“Peculiar, that is the very word,” said Holmes. “It is not an English paper at all. Hold it up to the light.”",
       "role": "paragraph"
     },
     {
@@ -468,6 +471,7 @@
       "order": 61,
       "chapterIndex": 1,
       "text": "“Not at all. The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’ which is the German for ‘Company.’ It is a customary contraction like our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.” He took down a heavy brown volume from his shelves. “Eglow, Eglonitz—here we are, Egria. It is in a German-speaking country—in Bohemia, not far from Carlsbad. ‘Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette.",
+      "ttsText": "“Not at all. The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’ which is the German for ‘Company.’ It is a customary contraction like our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.” He took down a heavy brown volume from his shelves. “Eglow, Eglonitz, here we are, Egria. It is in a German-speaking country, in Bohemia, not far from Carlsbad. ‘Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette.",
       "role": "paragraph"
     },
     {
@@ -480,6 +484,7 @@
       "order": 63,
       "chapterIndex": 1,
       "text": "“Precisely. And the man who wrote the note is a German. Do you note the peculiar construction of the sentence—‘This account of you we have from all quarters received.’ A Frenchman or Russian could not have written that. It is the German who is so uncourteous to his verbs. It only remains, therefore, to discover what is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face. And here he comes, if I am not mistaken, to resolve all our doubts.”",
+      "ttsText": "“Precisely. And the man who wrote the note is a German. Do you note the peculiar construction of the sentence, ‘This account of you we have from all quarters received.’ A Frenchman or Russian could not have written that. It is the German who is so uncourteous to his verbs. It only remains, therefore, to discover what is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face. And here he comes, if I am not mistaken, to resolve all our doubts.”",
       "role": "paragraph"
     },
     {
@@ -510,6 +515,7 @@
       "order": 68,
       "chapterIndex": 1,
       "text": "“But your client—”",
+      "ttsText": "“But your client, ”",
       "role": "paragraph"
     },
     {
@@ -654,12 +660,14 @@
       "order": 92,
       "chapterIndex": 1,
       "text": "“Let me see!” said Holmes. “Hum! Born in New Jersey in the year 1858. Contralto—hum! La Scala, hum! Prima donna Imperial Opera of Warsaw—yes! Retired from operatic stage—ha! Living in London—quite so! Your Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back.”",
+      "ttsText": "“Let me see!” said Holmes. “Hum! Born in New Jersey in the year 1858. Contralto, hum! La Scala, hum! Prima donna Imperial Opera of Warsaw, yes! Retired from operatic stage, ha! Living in London, quite so! Your Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back.”",
       "role": "paragraph"
     },
     {
       "order": 93,
       "chapterIndex": 1,
       "text": "“Precisely so. But how—”",
+      "ttsText": "“Precisely so. But how, ”",
       "role": "paragraph"
     },
     {
@@ -756,6 +764,7 @@
       "order": 109,
       "chapterIndex": 1,
       "text": "“I was mad—insane.”",
+      "ttsText": "“I was mad, insane.”",
       "role": "paragraph"
     },
     {
@@ -876,6 +885,7 @@
       "order": 129,
       "chapterIndex": 1,
       "text": "“Threatens to send them the photograph. And she will do it. I know that she will do it. You do not know her, but she has a soul of steel. She has the face of the most beautiful of women, and the mind of the most resolute of men. Rather than I should marry another woman, there are no lengths to which she would not go—none.”",
+      "ttsText": "“Threatens to send them the photograph. And she will do it. I know that she will do it. You do not know her, but she has a soul of steel. She has the face of the most beautiful of women, and the mind of the most resolute of men. Rather than I should marry another woman, there are no lengths to which she would not go, none.”",
       "role": "paragraph"
     },
     {
@@ -936,6 +946,7 @@
       "order": 139,
       "chapterIndex": 1,
       "text": "“You have carte blanche .”",
+      "ttsText": "“You have carte blanche.”",
       "role": "paragraph"
     },
     {
@@ -1086,12 +1097,14 @@
       "order": 164,
       "chapterIndex": 1,
       "text": "“I was still balancing the matter in my mind when a hansom cab drove up to Briony Lodge, and a gentleman sprang out. He was a remarkably handsome man, dark, aquiline, and moustached—evidently the man of whom I had heard. He appeared to be in a great hurry, shouted to the cabman to wait, and brushed past the maid who opened the door with the air of a man who was thoroughly at home.",
+      "ttsText": "“I was still balancing the matter in my mind when a hansom cab drove up to Briony Lodge, and a gentleman sprang out. He was a remarkably handsome man, dark, aquiline, and moustached, evidently the man of whom I had heard. He appeared to be in a great hurry, shouted to the cabman to wait, and brushed past the maid who opened the door with the air of a man who was thoroughly at home.",
       "role": "paragraph"
     },
     {
       "order": 165,
       "chapterIndex": 1,
       "text": "“He was in the house about half an hour, and I could catch glimpses of him in the windows of the sitting-room, pacing up and down, talking excitedly, and waving his arms. Of her I could see nothing. Presently he emerged, looking even more flurried than before. As he stepped up to the cab, he pulled a gold watch from his pocket and looked at it earnestly, ‘Drive like the devil,’ he shouted, ‘first to Gross & Hankey’s in Regent Street, and then to the Church of St. Monica in the Edgeware Road. Half a guinea if you do it in twenty minutes!’",
+      "ttsText": "“He was in the house about half an hour, and I could catch glimpses of him in the windows of the sitting-room, pacing up and down, talking excitedly, and waving his arms. Of her I could see nothing. Presently he emerged, looking even more flurried than before. As he stepped up to the cab, he pulled a gold watch from his pocket and looked at it earnestly, ‘Drive like the devil,’ he shouted, ‘first to Gross and Hankey’s in Regent Street, and then to the Church of St. Monica in the Edgeware Road. Half a guinea if you do it in twenty minutes!’",
       "role": "paragraph"
     },
     {
@@ -1272,6 +1285,7 @@
       "order": 195,
       "chapterIndex": 1,
       "text": "“And when I raise my hand—so—you will throw into the room what I give you to throw, and will, at the same time, raise the cry of fire. You quite follow me?”",
+      "ttsText": "“And when I raise my hand, so, you will throw into the room what I give you to throw, and will, at the same time, raise the cry of fire. You quite follow me?”",
       "role": "paragraph"
     },
     {
@@ -1452,6 +1466,7 @@
       "order": 225,
       "chapterIndex": 1,
       "text": "Holmes had sat up upon the couch, and I saw him motion like a man who is in need of air. A maid rushed across and threw open the window. At the same instant I saw him raise his hand and at the signal I tossed my rocket into the room with a cry of “Fire!” The word was no sooner out of my mouth than the whole crowd of spectators, well dressed and ill—gentlemen, ostlers, and servant maids—joined in a general shriek of “Fire!” Thick clouds of smoke curled through the room and out at the open window. I caught a glimpse of rushing figures, and a moment later the voice of Holmes from within assuring them that it was a false alarm. Slipping through the shouting crowd I made my way to the corner of the street, and in ten minutes was rejoiced to find my friend’s arm in mine, and to get away from the scene of uproar. He walked swiftly and in silence for some few minutes until we had turned down one of the quiet streets which lead towards the Edgeware Road.",
+      "ttsText": "Holmes had sat up upon the couch, and I saw him motion like a man who is in need of air. A maid rushed across and threw open the window. At the same instant I saw him raise his hand and at the signal I tossed my rocket into the room with a cry of “Fire!” The word was no sooner out of my mouth than the whole crowd of spectators, well dressed and ill, gentlemen, ostlers, and servant maids, joined in a general shriek of “Fire!” Thick clouds of smoke curled through the room and out at the open window. I caught a glimpse of rushing figures, and a moment later the voice of Holmes from within assuring them that it was a false alarm. Slipping through the shouting crowd I made my way to the corner of the street, and in ten minutes was rejoiced to find my friend’s arm in mine, and to get away from the scene of uproar. He walked swiftly and in silence for some few minutes until we had turned down one of the quiet streets which lead towards the Edgeware Road.",
       "role": "paragraph"
     },
     {
@@ -1698,6 +1713,7 @@
       "order": 266,
       "chapterIndex": 1,
       "text": "“It is true. And yet—! Well! I wish she had been of my own station! What a queen she would have made!” He relapsed into a moody silence, which was not broken until we drew up in Serpentine Avenue.",
+      "ttsText": "“It is true. And yet,! Well! I wish she had been of my own station! What a queen she would have made!” He relapsed into a moody silence, which was not broken until we drew up in Serpentine Avenue.",
       "role": "paragraph"
     },
     {
@@ -1752,6 +1768,7 @@
       "order": 275,
       "chapterIndex": 1,
       "text": "“MY DEAR MR. SHERLOCK HOLMES,—You really did it very well. You took me in completely. Until after the alarm of fire, I had not a suspicion. But then, when I found how I had betrayed myself, I began to think. I had been warned against you months ago. I had been told that, if the King employed an agent, it would certainly be you. And your address had been given me. Yet, with all this, you made me reveal what you wanted to know. Even after I became suspicious, I found it hard to think evil of such a dear, kind old clergyman. But, you know, I have been trained as an actress myself. Male costume is nothing new to me. I often take advantage of the freedom which it gives. I sent John, the coachman, to watch you, ran upstairs, got into my walking clothes, as I call them, and came down just as you departed.",
+      "ttsText": "“My Dear Mr. Sherlock Holmes,, You really did it very well. You took me in completely. Until after the alarm of fire, I had not a suspicion. But then, when I found how I had betrayed myself, I began to think. I had been warned against you months ago. I had been told that, if the King employed an agent, it would certainly be you. And your address had been given me. Yet, with all this, you made me reveal what you wanted to know. Even after I became suspicious, I found it hard to think evil of such a dear, kind old clergyman. But, you know, I have been trained as an actress myself. Male costume is nothing new to me. I often take advantage of the freedom which it gives. I sent John, the coachman, to watch you, ran upstairs, got into my walking clothes, as I call them, and came down just as you departed.",
       "role": "paragraph"
     },
     {
@@ -1776,12 +1793,14 @@
       "order": 279,
       "chapterIndex": 1,
       "text": "“IRENE NORTON, née ADLER.”",
+      "ttsText": "“Irene Norton, née Adler.”",
       "role": "paragraph"
     },
     {
       "order": 280,
       "chapterIndex": 1,
       "text": "“What a woman—oh, what a woman!” cried the King of Bohemia, when we had all three read this epistle. “Did I not tell you how quick and resolute she was? Would she not have made an admirable queen? Is it not a pity that she was not on my level?”",
+      "ttsText": "“What a woman, oh, what a woman!” cried the King of Bohemia, when we had all three read this epistle. “Did I not tell you how quick and resolute she was? Would she not have made an admirable queen? Is it not a pity that she was not on my level?”",
       "role": "paragraph"
     },
     {
@@ -1806,6 +1825,7 @@
       "order": 284,
       "chapterIndex": 1,
       "text": "“I am immensely indebted to you. Pray tell me in what way I can reward you. This ring—” He slipped an emerald snake ring from his finger and held it out upon the palm of his hand.",
+      "ttsText": "“I am immensely indebted to you. Pray tell me in what way I can reward you. This ring, ” He slipped an emerald snake ring from his finger and held it out upon the palm of his hand.",
       "role": "paragraph"
     },
     {
@@ -1866,6 +1886,7 @@
       "order": 294,
       "chapterIndex": 2,
       "text": "THE ADVENTURE OF THE NOBLE BACHELOR",
+      "ttsText": "The Adventure of the Noble Bachelor",
       "role": "title"
     },
     {
@@ -1968,12 +1989,14 @@
       "order": 311,
       "chapterIndex": 2,
       "text": "“‘MY DEAR MR. SHERLOCK HOLMES,—Lord Backwater tells me that I may place implicit reliance upon your judgment and discretion. I have determined, therefore, to call upon you and to consult you in reference to the very painful event which has occurred in connection with my wedding. Mr. Lestrade, of Scotland Yard, is acting already in the matter, but he assures me that he sees no objection to your co-operation, and that he even thinks that it might be of some assistance. I will call at four o’clock in the afternoon, and, should you have any other engagement at that time, I hope that you will postpone it, as this matter is of paramount importance. Yours faithfully,",
+      "ttsText": "“‘My Dear Mr. Sherlock Holmes,, Lord Backwater tells me that I may place implicit reliance upon your judgment and discretion. I have determined, therefore, to call upon you and to consult you in reference to the very painful event which has occurred in connection with my wedding. Mr. Lestrade, of Scotland Yard, is acting already in the matter, but he assures me that he sees no objection to your co-operation, and that he even thinks that it might be of some assistance. I will call at four o’clock in the afternoon, and, should you have any other engagement at that time, I hope that you will postpone it, as this matter is of paramount importance. Yours faithfully,",
       "role": "paragraph"
     },
     {
       "order": 312,
       "chapterIndex": 2,
       "text": "“‘ROBERT ST. SIMON.’",
+      "ttsText": "“‘Robert St. Simon.’",
       "role": "title"
     },
     {
@@ -2004,12 +2027,14 @@
       "order": 317,
       "chapterIndex": 2,
       "text": "“Oh, you mean the little problem of the Grosvenor Square furniture van. That is quite cleared up now—though, indeed, it was obvious from the first. Pray give me the results of your newspaper selections.”",
+      "ttsText": "“Oh, you mean the little problem of the Grosvenor Square furniture van. That is quite cleared up now, though, indeed, it was obvious from the first. Pray give me the results of your newspaper selections.”",
       "role": "paragraph"
     },
     {
       "order": 318,
       "chapterIndex": 2,
       "text": "“Here is the first notice which I can find. It is in the personal column of the Morning Post , and dates, as you see, some weeks back: ‘A marriage has been arranged,’ it says, ‘and will, if rumour is correct, very shortly take place, between Lord Robert St. Simon, second son of the Duke of Balmoral, and Miss Hatty Doran, the only daughter of Aloysius Doran. Esq., of San Francisco, Cal., U.S.A.’ That is all.”",
+      "ttsText": "“Here is the first notice which I can find. It is in the personal column of the Morning Post, and dates, as you see, some weeks back: ‘A marriage has been arranged,’ it says, ‘and will, if rumour is correct, very shortly take place, between Lord Robert St. Simon, second son of the Duke of Balmoral, and Miss Hatty Doran, the only daughter of Aloysius Doran. Esq., of San Francisco, Cal., U.S.A.’ That is all.”",
       "role": "paragraph"
     },
     {
@@ -2034,6 +2059,7 @@
       "order": 322,
       "chapterIndex": 2,
       "text": "“Oh, yes; plenty. Then there is another note in the Morning Post to say that the marriage would be an absolutely quiet one, that it would be at St. George’s, Hanover Square, that only half a dozen intimate friends would be invited, and that the party would return to the furnished house at Lancaster Gate which has been taken by Mr. Aloysius Doran. Two days later—that is, on Wednesday last—there is a curt announcement that the wedding had taken place, and that the honeymoon would be passed at Lord Backwater’s place, near Petersfield. Those are all the notices which appeared before the disappearance of the bride.”",
+      "ttsText": "“Oh, yes; plenty. Then there is another note in the Morning Post to say that the marriage would be an absolutely quiet one, that it would be at St. George’s, Hanover Square, that only half a dozen intimate friends would be invited, and that the party would return to the furnished house at Lancaster Gate which has been taken by Mr. Aloysius Doran. Two days later, that is, on Wednesday last, there is a curt announcement that the wedding had taken place, and that the honeymoon would be passed at Lord Backwater’s place, near Petersfield. Those are all the notices which appeared before the disappearance of the bride.”",
       "role": "paragraph"
     },
     {
@@ -2124,12 +2150,14 @@
       "order": 337,
       "chapterIndex": 2,
       "text": "“And it is—”",
+      "ttsText": "“And it is, ”",
       "role": "paragraph"
     },
     {
       "order": 338,
       "chapterIndex": 2,
       "text": "“That Miss Flora Millar, the lady who had caused the disturbance, has actually been arrested. It appears that she was formerly a danseuse at the Allegro, and that she has known the bridegroom for some years. There are no further particulars, and the whole case is in your hands now—so far as it has been set forth in the public press.”",
+      "ttsText": "“That Miss Flora Millar, the lady who had caused the disturbance, has actually been arrested. It appears that she was formerly a danseuse at the Allegro, and that she has known the bridegroom for some years. There are no further particulars, and the whole case is in your hands now, so far as it has been set forth in the public press.”",
       "role": "paragraph"
     },
     {
@@ -2208,6 +2236,7 @@
       "order": 351,
       "chapterIndex": 2,
       "text": "“Thank you. I have already learned all that is in the public prints, nothing more. I presume that I may take it as correct—this article, for example, as to the disappearance of the bride.”",
+      "ttsText": "“Thank you. I have already learned all that is in the public prints, nothing more. I presume that I may take it as correct, this article, for example, as to the disappearance of the bride.”",
       "role": "paragraph"
     },
     {
@@ -2304,12 +2333,14 @@
       "order": 367,
       "chapterIndex": 2,
       "text": "“Now, what is your own impression as to the young lady’s—your wife’s character?”",
+      "ttsText": "“Now, what is your own impression as to the young lady’s, your wife’s character?”",
       "role": "paragraph"
     },
     {
       "order": 368,
       "chapterIndex": 2,
       "text": "The nobleman swung his glasses a little faster and stared down into the fire. “You see, Mr. Holmes,” said he, “my wife was twenty before her father became a rich man. During that time she ran free in a mining camp and wandered through woods or mountains, so that her education has come from Nature rather than from the schoolmaster. She is what we call in England a tomboy, with a strong nature, wild and free, unfettered by any sort of traditions. She is impetuous—volcanic, I was about to say. She is swift in making up her mind and fearless in carrying out her resolutions. On the other hand, I would not have given her the name which I have the honour to bear”—he gave a little stately cough—“had I not thought her to be at bottom a noble woman. I believe that she is capable of heroic self-sacrifice and that anything dishonourable would be repugnant to her.”",
+      "ttsText": "The nobleman swung his glasses a little faster and stared down into the fire. “You see, Mr. Holmes,” said he, “my wife was twenty before her father became a rich man. During that time she ran free in a mining camp and wandered through woods or mountains, so that her education has come from Nature rather than from the schoolmaster. She is what we call in England a tomboy, with a strong nature, wild and free, unfettered by any sort of traditions. She is impetuous, volcanic, I was about to say. She is swift in making up her mind and fearless in carrying out her resolutions. On the other hand, I would not have given her the name which I have the honour to bear”, he gave a little stately cough, “had I not thought her to be at bottom a noble woman. I believe that she is capable of heroic self-sacrifice and that anything dishonourable would be repugnant to her.”",
       "role": "paragraph"
     },
     {
@@ -2352,6 +2383,7 @@
       "order": 375,
       "chapterIndex": 2,
       "text": "“And this, of course, remains to you, since the marriage is a fait accompli ?”",
+      "ttsText": "“And this, of course, remains to you, since the marriage is a fait accompli?”",
       "role": "paragraph"
     },
     {
@@ -2394,6 +2426,7 @@
       "order": 382,
       "chapterIndex": 2,
       "text": "“She was as bright as possible—at least until after the ceremony.”",
+      "ttsText": "“She was as bright as possible, at least until after the ceremony.”",
       "role": "paragraph"
     },
     {
@@ -2550,6 +2583,7 @@
       "order": 408,
       "chapterIndex": 2,
       "text": "Lord St. Simon shrugged his shoulders and raised his eyebrows. “We have been on a friendly footing for some years—I may say on a very friendly footing. She used to be at the Allegro. I have not treated her ungenerously, and she had no just cause of complaint against me, but you know what women are, Mr. Holmes. Flora was a dear little thing, but exceedingly hot-headed and devotedly attached to me. She wrote me dreadful letters when she heard that I was about to be married, and, to tell the truth, the reason why I had the marriage celebrated so quietly was that I feared lest there might be a scandal in the church. She came to Mr. Doran’s door just after we returned, and she endeavoured to push her way in, uttering very abusive expressions towards my wife, and even threatening her, but I had foreseen the possibility of something of the sort, and I had two police fellows there in private clothes, who soon pushed her out again. She was quiet when she saw that there was no good in making a row.”",
+      "ttsText": "Lord St. Simon shrugged his shoulders and raised his eyebrows. “We have been on a friendly footing for some years, I may say on a very friendly footing. She used to be at the Allegro. I have not treated her ungenerously, and she had no just cause of complaint against me, but you know what women are, Mr. Holmes. Flora was a dear little thing, but exceedingly hot-headed and devotedly attached to me. She wrote me dreadful letters when she heard that I was about to be married, and, to tell the truth, the reason why I had the marriage celebrated so quietly was that I feared lest there might be a scandal in the church. She came to Mr. Doran’s door just after we returned, and she endeavoured to push her way in, uttering very abusive expressions towards my wife, and even threatening her, but I had foreseen the possibility of something of the sort, and I had two police fellows there in private clothes, who soon pushed her out again. She was quiet when she saw that there was no good in making a row.”",
       "role": "paragraph"
     },
     {
@@ -2622,6 +2656,7 @@
       "order": 420,
       "chapterIndex": 2,
       "text": "“Well, really, when I consider that she has turned her back—I will not say upon me, but upon so much that many have aspired to without success—I can hardly explain it in any other fashion.”",
+      "ttsText": "“Well, really, when I consider that she has turned her back, I will not say upon me, but upon so much that many have aspired to without success, I can hardly explain it in any other fashion.”",
       "role": "paragraph"
     },
     {
@@ -2712,6 +2747,7 @@
       "order": 435,
       "chapterIndex": 2,
       "text": "“Without, however, the knowledge of pre-existing cases which serves me so well. There was a parallel instance in Aberdeen some years back, and something on very much the same lines at Munich the year after the Franco-Prussian War. It is one of these cases—but, hullo, here is Lestrade! Good-afternoon, Lestrade! You will find an extra tumbler upon the sideboard, and there are cigars in the box.”",
+      "ttsText": "“Without, however, the knowledge of pre-existing cases which serves me so well. There was a parallel instance in Aberdeen some years back, and something on very much the same lines at Munich the year after the Franco-Prussian War. It is one of these cases, but, hullo, here is Lestrade! Good-afternoon, Lestrade! You will find an extra tumbler upon the sideboard, and there are cigars in the box.”",
       "role": "paragraph"
     },
     {
@@ -2868,7 +2904,8 @@
       "order": 461,
       "chapterIndex": 2,
       "text": "“In the dress is a pocket. In the pocket is a card-case. In the card-case is a note. And here is the very note.” He slapped it down upon the table in front of him. “Listen to this: ‘You will see me when all is ready. Come at once. F. H. M.’ Now my theory all along has been that Lady St. Simon was decoyed away by Flora Millar, and that she, with confederates, no doubt, was responsible for her disappearance. Here, signed with her initials, is the very note which was no doubt quietly slipped into her hand at the door and which lured her within their reach.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "“In the dress is a pocket. In the pocket is a card-case. In the card-case is a note. And here is the very note.” He slapped it down upon the table in front of him. “Listen to this: ‘You will see me when all is ready. Come at once. F.H.M.’ Now my theory all along has been that Lady St. Simon was decoyed away by Flora Millar, and that she, with confederates, no doubt, was responsible for her disappearance. Here, signed with her initials, is the very note which was no doubt quietly slipped into her hand at the door and which lured her within their reach.”"
     },
     {
       "order": 462,
@@ -2916,6 +2953,7 @@
       "order": 469,
       "chapterIndex": 2,
       "text": "“There’s nothing in it. I looked at it before,” said Lestrade. “‘Oct. 4th, rooms 8 s ., breakfast 2 s . 6 d ., cocktail 1 s ., lunch 2 s . 6 d ., glass sherry, 8 d .’ I see nothing in that.”",
+      "ttsText": "“There’s nothing in it. I looked at it before,” said Lestrade. “‘Oct. 4th, rooms 8 s., breakfast 2 s. 6 d., cocktail 1 s., lunch 2 s. 6 d., glass sherry, 8 d.’ I see nothing in that.”",
       "role": "paragraph"
     },
     {
@@ -3114,6 +3152,7 @@
       "order": 502,
       "chapterIndex": 2,
       "text": "“When I got back I told my maid, who had known him in California, and had always been his friend. I ordered her to say nothing, but to get a few things packed and my ulster ready. I know I ought to have spoken to Lord St. Simon, but it was dreadful hard before his mother and all those great people. I just made up my mind to run away and explain afterwards. I hadn’t been at the table ten minutes before I saw Frank out of the window at the other side of the road. He beckoned to me and then began walking into the Park. I slipped out, put on my things, and followed him. Some woman came talking something or other about Lord St. Simon to me—seemed to me from the little I heard as if he had a little secret of his own before marriage also—but I managed to get away from her and soon overtook Frank. We got into a cab together, and away we drove to some lodgings he had taken in Gordon Square, and that was my true wedding after all those years of waiting. Frank had been a prisoner among the Apaches, had escaped, came on to ’Frisco, found that I had given him up for dead and had gone to England, followed me there, and had come upon me at last on the very morning of my second wedding.”",
+      "ttsText": "“When I got back I told my maid, who had known him in California, and had always been his friend. I ordered her to say nothing, but to get a few things packed and my ulster ready. I know I ought to have spoken to Lord St. Simon, but it was dreadful hard before his mother and all those great people. I just made up my mind to run away and explain afterwards. I hadn’t been at the table ten minutes before I saw Frank out of the window at the other side of the road. He beckoned to me and then began walking into the Park. I slipped out, put on my things, and followed him. Some woman came talking something or other about Lord St. Simon to me, seemed to me from the little I heard as if he had a little secret of his own before marriage also, but I managed to get away from her and soon overtook Frank. We got into a cab together, and away we drove to some lodgings he had taken in Gordon Square, and that was my true wedding after all those years of waiting. Frank had been a prisoner among the Apaches, had escaped, came on to ’Frisco, found that I had given him up for dead and had gone to England, followed me there, and had come upon me at last on the very morning of my second wedding.”",
       "role": "paragraph"
     },
     {
@@ -3126,6 +3165,7 @@
       "order": 504,
       "chapterIndex": 2,
       "text": "“Then we had a talk as to what we should do, and Frank was all for openness, but I was so ashamed of it all that I felt as if I should like to vanish away and never see any of them again—just sending a line to Pa, perhaps, to show him that I was alive. It was awful to me to think of all those lords and ladies sitting round that breakfast-table and waiting for me to come back. So Frank took my wedding-clothes and things and made a bundle of them, so that I should not be traced, and dropped them away somewhere where no one could find them. It is likely that we should have gone on to Paris to-morrow, only that this good gentleman, Mr. Holmes, came round to us this evening, though how he found us is more than I can think, and he showed us very clearly and kindly that I was wrong and that Frank was right, and that we should be putting ourselves in the wrong if we were so secret. Then he offered to give us a chance of talking to Lord St. Simon alone, and so we came right away round to his rooms at once. Now, Robert, you have heard it all, and I am very sorry if I have given you pain, and I hope that you do not think very meanly of me.”",
+      "ttsText": "“Then we had a talk as to what we should do, and Frank was all for openness, but I was so ashamed of it all that I felt as if I should like to vanish away and never see any of them again, just sending a line to Pa, perhaps, to show him that I was alive. It was awful to me to think of all those lords and ladies sitting round that breakfast-table and waiting for me to come back. So Frank took my wedding-clothes and things and made a bundle of them, so that I should not be traced, and dropped them away somewhere where no one could find them. It is likely that we should have gone on to Paris to-morrow, only that this good gentleman, Mr. Holmes, came round to us this evening, though how he found us is more than I can think, and he showed us very clearly and kindly that I was wrong and that Frank was right, and that we should be putting ourselves in the wrong if we were so secret. Then he offered to give us a chance of talking to Lord St. Simon alone, and so we came right away round to his rooms at once. Now, Robert, you have heard it all, and I am very sorry if I have given you pain, and I hope that you do not think very meanly of me.”",
       "role": "paragraph"
     },
     {
@@ -3186,6 +3226,7 @@
       "order": 514,
       "chapterIndex": 2,
       "text": "“From the first, two facts were very obvious to me, the one that the lady had been quite willing to undergo the wedding ceremony, the other that she had repented of it within a few minutes of returning home. Obviously something had occurred during the morning, then, to cause her to change her mind. What could that something be? She could not have spoken to anyone when she was out, for she had been in the company of the bridegroom. Had she seen someone, then? If she had, it must be someone from America because she had spent so short a time in this country that she could hardly have allowed anyone to acquire so deep an influence over her that the mere sight of him would induce her to change her plans so completely. You see we have already arrived, by a process of exclusion, at the idea that she might have seen an American. Then who could this American be, and why should he possess so much influence over her? It might be a lover; it might be a husband. Her young womanhood had, I knew, been spent in rough scenes and under strange conditions. So far I had got before I ever heard Lord St. Simon’s narrative. When he told us of a man in a pew, of the change in the bride’s manner, of so transparent a device for obtaining a note as the dropping of a bouquet, of her resort to her confidential maid, and of her very significant allusion to claim-jumping—which in miners’ parlance means taking possession of that which another person has a prior claim to—the whole situation became absolutely clear. She had gone off with a man, and the man was either a lover or was a previous husband—the chances being in favour of the latter.”",
+      "ttsText": "“From the first, two facts were very obvious to me, the one that the lady had been quite willing to undergo the wedding ceremony, the other that she had repented of it within a few minutes of returning home. Obviously something had occurred during the morning, then, to cause her to change her mind. What could that something be? She could not have spoken to anyone when she was out, for she had been in the company of the bridegroom. Had she seen someone, then? If she had, it must be someone from America because she had spent so short a time in this country that she could hardly have allowed anyone to acquire so deep an influence over her that the mere sight of him would induce her to change her plans so completely. You see we have already arrived, by a process of exclusion, at the idea that she might have seen an American. Then who could this American be, and why should he possess so much influence over her? It might be a lover; it might be a husband. Her young womanhood had, I knew, been spent in rough scenes and under strange conditions. So far I had got before I ever heard Lord St. Simon’s narrative. When he told us of a man in a pew, of the change in the bride’s manner, of so transparent a device for obtaining a note as the dropping of a bouquet, of her resort to her confidential maid, and of her very significant allusion to claim-jumping, which in miners’ parlance means taking possession of that which another person has a prior claim to, the whole situation became absolutely clear. She had gone off with a man, and the man was either a lover or was a previous husband, the chances being in favour of the latter.”",
       "role": "paragraph"
     },
     {
@@ -3240,6 +3281,7 @@
       "order": 523,
       "chapterIndex": 3,
       "text": "THE ADVENTURE OF THE BERYL CORONET",
+      "ttsText": "The Adventure of the Beryl Coronet",
       "role": "title"
     },
     {
@@ -3318,6 +3360,7 @@
       "order": 536,
       "chapterIndex": 3,
       "text": "“God knows I have!—a trouble which is enough to unseat my reason, so sudden and so terrible is it. Public disgrace I might have faced, although I am a man whose character has never yet borne a stain. Private affliction also is the lot of every man; but the two coming together, and in so frightful a form, have been enough to shake my very soul. Besides, it is not I alone. The very noblest in the land may suffer unless some way be found out of this horrible affair.”",
+      "ttsText": "“God knows I have!, a trouble which is enough to unseat my reason, so sudden and so terrible is it. Public disgrace I might have faced, although I am a man whose character has never yet borne a stain. Private affliction also is the lot of every man; but the two coming together, and in so frightful a form, have been enough to shake my very soul. Besides, it is not I alone. The very noblest in the land may suffer unless some way be found out of this horrible affair.”",
       "role": "paragraph"
     },
     {
@@ -3330,6 +3373,7 @@
       "order": 538,
       "chapterIndex": 3,
       "text": "“My name,” answered our visitor, “is probably familiar to your ears. I am Alexander Holder, of the banking firm of Holder & Stevenson, of Threadneedle Street.”",
+      "ttsText": "“My name,” answered our visitor, “is probably familiar to your ears. I am Alexander Holder, of the banking firm of Holder and Stevenson, of Threadneedle Street.”",
       "role": "paragraph"
     },
     {
@@ -3354,6 +3398,7 @@
       "order": 542,
       "chapterIndex": 3,
       "text": "“Yesterday morning I was seated in my office at the bank when a card was brought in to me by one of the clerks. I started when I saw the name, for it was that of none other than—well, perhaps even to you I had better say no more than that it was a name which is a household word all over the earth—one of the highest, noblest, most exalted names in England. I was overwhelmed by the honour and attempted, when he entered, to say so, but he plunged at once into business with the air of a man who wishes to hurry quickly through a disagreeable task.",
+      "ttsText": "“Yesterday morning I was seated in my office at the bank when a card was brought in to me by one of the clerks. I started when I saw the name, for it was that of none other than, well, perhaps even to you I had better say no more than that it was a name which is a household word all over the earth, one of the highest, noblest, most exalted names in England. I was overwhelmed by the honour and attempted, when he entered, to say so, but he plunged at once into business with the air of a man who wishes to hurry quickly through a disagreeable task.",
       "role": "paragraph"
     },
     {
@@ -3426,6 +3471,7 @@
       "order": 554,
       "chapterIndex": 3,
       "text": "“‘Not at all. I only doubt—’",
+      "ttsText": "“‘Not at all. I only doubt, ’",
       "role": "paragraph"
     },
     {
@@ -3468,6 +3514,7 @@
       "order": 561,
       "chapterIndex": 3,
       "text": "“So much for the servants. My family itself is so small that it will not take me long to describe it. I am a widower and have an only son, Arthur. He has been a disappointment to me, Mr. Holmes—a grievous disappointment. I have no doubt that I am myself to blame. People tell me that I have spoiled him. Very likely I have. When my dear wife died I felt that he was all I had to love. I could not bear to see the smile fade even for a moment from his face. I have never denied him a wish. Perhaps it would have been better for both of us had I been sterner, but I meant it for the best.",
+      "ttsText": "“So much for the servants. My family itself is so small that it will not take me long to describe it. I am a widower and have an only son, Arthur. He has been a disappointment to me, Mr. Holmes, a grievous disappointment. I have no doubt that I am myself to blame. People tell me that I have spoiled him. Very likely I have. When my dear wife died I felt that he was all I had to love. I could not bear to see the smile fade even for a moment from his face. I have never denied him a wish. Perhaps it would have been better for both of us had I been sterner, but I meant it for the best.",
       "role": "paragraph"
     },
     {
@@ -3486,6 +3533,7 @@
       "order": 564,
       "chapterIndex": 3,
       "text": "“And now there is only she to be described. She is my niece; but when my brother died five years ago and left her alone in the world I adopted her, and have looked upon her ever since as my daughter. She is a sunbeam in my house—sweet, loving, beautiful, a wonderful manager and housekeeper, yet as tender and quiet and gentle as a woman could be. She is my right hand. I do not know what I could do without her. In only one matter has she ever gone against my wishes. Twice my boy has asked her to marry him, for he loves her devotedly, but each time she has refused him. I think that if anyone could have drawn him into the right path it would have been she, and that his marriage might have changed his whole life; but now, alas! it is too late—forever too late!",
+      "ttsText": "“And now there is only she to be described. She is my niece; but when my brother died five years ago and left her alone in the world I adopted her, and have looked upon her ever since as my daughter. She is a sunbeam in my house, sweet, loving, beautiful, a wonderful manager and housekeeper, yet as tender and quiet and gentle as a woman could be. She is my right hand. I do not know what I could do without her. In only one matter has she ever gone against my wishes. Twice my boy has asked her to marry him, for he loves her devotedly, but each time she has refused him. I think that if anyone could have drawn him into the right path it would have been she, and that his marriage might have changed his whole life; but now, alas! it is too late, forever too late!",
       "role": "paragraph"
     },
     {
@@ -3576,6 +3624,7 @@
       "order": 579,
       "chapterIndex": 3,
       "text": "“When he was gone I unlocked my bureau, made sure that my treasure was safe, and locked it again. Then I started to go round the house to see that all was secure—a duty which I usually leave to Mary but which I thought it well to perform myself that night. As I came down the stairs I saw Mary herself at the side window of the hall, which she closed and fastened as I approached.",
+      "ttsText": "“When he was gone I unlocked my bureau, made sure that my treasure was safe, and locked it again. Then I started to go round the house to see that all was secure, a duty which I usually leave to Mary but which I thought it well to perform myself that night. As I came down the stairs I saw Mary herself at the side window of the hall, which she closed and fastened as I approached.",
       "role": "paragraph"
     },
     {
@@ -3930,6 +3979,7 @@
       "order": 638,
       "chapterIndex": 3,
       "text": "“I shall never let it drop until the gems are found—never, Mary! Your affection for Arthur blinds you as to the awful consequences to me. Far from hushing the thing up, I have brought a gentleman down from London to inquire more deeply into it.”",
+      "ttsText": "“I shall never let it drop until the gems are found, never, Mary! Your affection for Arthur blinds you as to the awful consequences to me. Far from hushing the thing up, I have brought a gentleman down from London to inquire more deeply into it.”",
       "role": "paragraph"
     },
     {
@@ -4050,6 +4100,7 @@
       "order": 658,
       "chapterIndex": 3,
       "text": "“He stood,” said Holmes, “to the left of the door—that is to say, farther up the path than is necessary to reach the door?”",
+      "ttsText": "“He stood,” said Holmes, “to the left of the door, that is to say, farther up the path than is necessary to reach the door?”",
       "role": "paragraph"
     },
     {
@@ -4098,6 +4149,7 @@
       "order": 666,
       "chapterIndex": 3,
       "text": "“That which my son himself indicated—that of the cupboard of the lumber-room.”",
+      "ttsText": "“That which my son himself indicated, that of the cupboard of the lumber-room.”",
       "role": "paragraph"
     },
     {
@@ -4338,12 +4390,14 @@
       "order": 706,
       "chapterIndex": 3,
       "text": "“‘MY DEAREST UNCLE,—I feel that I have brought trouble upon you, and that if I had acted differently this terrible misfortune might never have occurred. I cannot, with this thought in my mind, ever again be happy under your roof, and I feel that I must leave you forever. Do not worry about my future, for that is provided for; and, above all, do not search for me, for it will be fruitless labour and an ill-service to me. In life or in death, I am ever your loving,",
+      "ttsText": "“‘My Dearest Uncle,, I feel that I have brought trouble upon you, and that if I had acted differently this terrible misfortune might never have occurred. I cannot, with this thought in my mind, ever again be happy under your roof, and I feel that I must leave you forever. Do not worry about my future, for that is provided for; and, above all, do not search for me, for it will be fruitless labour and an ill-service to me. In life or in death, I am ever your loving,",
       "role": "paragraph"
     },
     {
       "order": 707,
       "chapterIndex": 3,
       "text": "“‘MARY.’",
+      "ttsText": "“‘Mary.’",
       "role": "title"
     },
     {
@@ -4470,6 +4524,7 @@
       "order": 728,
       "chapterIndex": 3,
       "text": "“It is unfortunately more than possible; it is certain. Neither you nor your son knew the true character of this man when you admitted him into your family circle. He is one of the most dangerous men in England—a ruined gambler, an absolutely desperate villain, a man without heart or conscience. Your niece knew nothing of such men. When he breathed his vows to her, as he had done to a hundred before her, she flattered herself that she alone had touched his heart. The devil knows best what he said, but at least she became his tool and was in the habit of seeing him nearly every evening.”",
+      "ttsText": "“It is unfortunately more than possible; it is certain. Neither you nor your son knew the true character of this man when you admitted him into your family circle. He is one of the most dangerous men in England, a ruined gambler, an absolutely desperate villain, a man without heart or conscience. Your niece knew nothing of such men. When he breathed his vows to her, as he had done to a hundred before her, she flattered herself that she alone had touched his heart. The devil knows best what he said, but at least she became his tool and was in the habit of seeing him nearly every evening.”",
       "role": "paragraph"
     },
     {
@@ -4536,6 +4591,7 @@
       "order": 739,
       "chapterIndex": 3,
       "text": "“It is an old maxim of mine that when you have excluded the impossible, whatever remains, however improbable, must be the truth. Now, I knew that it was not you who had brought it down, so there only remained your niece and the maids. But if it were the maids, why should your son allow himself to be accused in their place? There could be no possible reason. As he loved his cousin, however, there was an excellent explanation why he should retain her secret—the more so as the secret was a disgraceful one. When I remembered that you had seen her at that window, and how she had fainted on seeing the coronet again, my conjecture became a certainty.",
+      "ttsText": "“It is an old maxim of mine that when you have excluded the impossible, whatever remains, however improbable, must be the truth. Now, I knew that it was not you who had brought it down, so there only remained your niece and the maids. But if it were the maids, why should your son allow himself to be accused in their place? There could be no possible reason. As he loved his cousin, however, there was an excellent explanation why he should retain her secret, the more so as the secret was a disgraceful one. When I remembered that you had seen her at that window, and how she had fainted on seeing the coronet again, my conjecture became a certainty.",
       "role": "paragraph"
     },
     {
@@ -4560,6 +4616,7 @@
       "order": 743,
       "chapterIndex": 3,
       "text": "“Precisely. It was I. I found that I had my man, so I came home and changed my clothes. It was a delicate part which I had to play then, for I saw that a prosecution must be avoided to avert scandal, and I knew that so astute a villain would see that our hands were tied in the matter. I went and saw him. At first, of course, he denied everything. But when I gave him every particular that had occurred, he tried to bluster and took down a life-preserver from the wall. I knew my man, however, and I clapped a pistol to his head before he could strike. Then he became a little more reasonable. I told him that we would give him a price for the stones he held—£ 1000 apiece. That brought out the first signs of grief that he had shown. ‘Why, dash it all!’ said he, ‘I’ve let them go at six hundred for the three!’ I soon managed to get the address of the receiver who had them, on promising him that there would be no prosecution. Off I set to him, and after much chaffering I got our stones at £ 1000 apiece. Then I looked in upon your son, told him that all was right, and eventually got to my bed about two o’clock, after what I may call a really hard day’s work.”",
+      "ttsText": "“Precisely. It was I. I found that I had my man, so I came home and changed my clothes. It was a delicate part which I had to play then, for I saw that a prosecution must be avoided to avert scandal, and I knew that so astute a villain would see that our hands were tied in the matter. I went and saw him. At first, of course, he denied everything. But when I gave him every particular that had occurred, he tried to bluster and took down a life-preserver from the wall. I knew my man, however, and I clapped a pistol to his head before he could strike. Then he became a little more reasonable. I told him that we would give him a price for the stones he held, £ 1000 apiece. That brought out the first signs of grief that he had shown. ‘Why, dash it all!’ said he, ‘I’ve let them go at six hundred for the three!’ I soon managed to get the address of the receiver who had them, on promising him that there would be no prosecution. Off I set to him, and after much chaffering I got our stones at £ 1000 apiece. Then I looked in upon your son, told him that all was right, and eventually got to my bed about two o’clock, after what I may call a really hard day’s work.”",
       "role": "paragraph"
     },
     {
@@ -4590,12 +4647,14 @@
       "order": 748,
       "chapterIndex": 4,
       "text": "THE ADVENTURE OF THE COPPER BEECHES",
+      "ttsText": "The Adventure of the Copper Beeches",
       "role": "title"
     },
     {
       "order": 749,
       "chapterIndex": 4,
       "text": "“T o the man who loves art for its own sake,” remarked Sherlock Holmes, tossing aside the advertisement sheet of The Daily Telegraph , “it is frequently in its least important and lowliest manifestations that the keenest pleasure is to be derived. It is pleasant to me to observe, Watson, that you have so far grasped this truth that in these little records of our cases which you have been good enough to draw up, and, I am bound to say, occasionally to embellish, you have given prominence not so much to the many causes célèbres and sensational trials in which I have figured but rather to those incidents which may have been trivial in themselves, but which have given room for those faculties of deduction and of logical synthesis which I have made my special province.”",
+      "ttsText": "“T o the man who loves art for its own sake,” remarked Sherlock Holmes, tossing aside the advertisement sheet of The Daily Telegraph, “it is frequently in its least important and lowliest manifestations that the keenest pleasure is to be derived. It is pleasant to me to observe, Watson, that you have so far grasped this truth that in these little records of our cases which you have been good enough to draw up, and, I am bound to say, occasionally to embellish, you have given prominence not so much to the many causes célèbres and sensational trials in which I have figured but rather to those incidents which may have been trivial in themselves, but which have given room for those faculties of deduction and of logical synthesis which I have made my special province.”",
       "role": "paragraph"
     },
     {
@@ -4608,6 +4667,7 @@
       "order": 751,
       "chapterIndex": 4,
       "text": "“You have erred, perhaps,” he observed, taking up a glowing cinder with the tongs and lighting with it the long cherry-wood pipe which was wont to replace his clay when he was in a disputatious rather than a meditative mood—“you have erred perhaps in attempting to put colour and life into each of your statements instead of confining yourself to the task of placing upon record that severe reasoning from cause to effect which is really the only notable feature about the thing.”",
+      "ttsText": "“You have erred, perhaps,” he observed, taking up a glowing cinder with the tongs and lighting with it the long cherry-wood pipe which was wont to replace his clay when he was in a disputatious rather than a meditative mood, “you have erred perhaps in attempting to put colour and life into each of your statements instead of confining yourself to the task of placing upon record that severe reasoning from cause to effect which is really the only notable feature about the thing.”",
       "role": "paragraph"
     },
     {
@@ -4620,6 +4680,7 @@
       "order": 753,
       "chapterIndex": 4,
       "text": "“No, it is not selfishness or conceit,” said he, answering, as was his wont, my thoughts rather than my words. “If I claim full justice for my art, it is because it is an impersonal thing—a thing beyond myself. Crime is common. Logic is rare. Therefore it is upon the logic rather than upon the crime that you should dwell. You have degraded what should have been a course of lectures into a series of tales.”",
+      "ttsText": "“No, it is not selfishness or conceit,” said he, answering, as was his wont, my thoughts rather than my words. “If I claim full justice for my art, it is because it is an impersonal thing, a thing beyond myself. Crime is common. Logic is rare. Therefore it is upon the logic rather than upon the crime that you should dwell. You have degraded what should have been a course of lectures into a series of tales.”",
       "role": "paragraph"
     },
     {
@@ -4656,12 +4717,14 @@
       "order": 759,
       "chapterIndex": 4,
       "text": "“DEAR MR. HOLMES,—I am very anxious to consult you as to whether I should or should not accept a situation which has been offered to me as governess. I shall call at half-past ten to-morrow if I do not inconvenience you. Yours faithfully,",
+      "ttsText": "“Dear Mr. Holmes,, I am very anxious to consult you as to whether I should or should not accept a situation which has been offered to me as governess. I shall call at half-past ten to-morrow if I do not inconvenience you. Yours faithfully,",
       "role": "paragraph"
     },
     {
       "order": 760,
       "chapterIndex": 4,
       "text": "“VIOLET HUNTER.”",
+      "ttsText": "“Violet Hunter.”",
       "role": "title"
     },
     {
@@ -4788,12 +4851,14 @@
       "order": 781,
       "chapterIndex": 4,
       "text": "“‘Oh, tut, tut! sweating—rank sweating!’ he cried, throwing his fat hands out into the air like a man who is in a boiling passion. ‘How could anyone offer so pitiful a sum to a lady with such attractions and accomplishments?’",
+      "ttsText": "“‘Oh, tut, tut! sweating, rank sweating!’ he cried, throwing his fat hands out into the air like a man who is in a boiling passion. ‘How could anyone offer so pitiful a sum to a lady with such attractions and accomplishments?’",
       "role": "paragraph"
     },
     {
       "order": 782,
       "chapterIndex": 4,
       "text": "“‘My accomplishments, sir, may be less than you imagine,’ said I. ‘A little French, a little German, music, and drawing—’",
+      "ttsText": "“‘My accomplishments, sir, may be less than you imagine,’ said I. ‘A little French, a little German, music, and drawing, ’",
       "role": "paragraph"
     },
     {
@@ -4842,6 +4907,7 @@
       "order": 790,
       "chapterIndex": 4,
       "text": "“‘One child—one dear little romper just six years old. Oh, if you could see him killing cockroaches with a slipper! Smack! smack! smack! Three gone before you could wink!’ He leaned back in his chair and laughed his eyes into his head again.",
+      "ttsText": "“‘One child, one dear little romper just six years old. Oh, if you could see him killing cockroaches with a slipper! Smack! smack! smack! Three gone before you could wink!’ He leaned back in his chair and laughed his eyes into his head again.",
       "role": "paragraph"
     },
     {
@@ -4872,6 +4938,7 @@
       "order": 795,
       "chapterIndex": 4,
       "text": "“‘Quite so. In dress now, for example. We are faddy people, you know—faddy but kind-hearted. If you were asked to wear any dress which we might give you, you would not object to our little whim. Heh?’",
+      "ttsText": "“‘Quite so. In dress now, for example. We are faddy people, you know, faddy but kind-hearted. If you were asked to wear any dress which we might give you, you would not object to our little whim. Heh?’",
       "role": "paragraph"
     },
     {
@@ -4968,12 +5035,14 @@
       "order": 811,
       "chapterIndex": 4,
       "text": "“‘DEAR MISS HUNTER,—Miss Stoper has very kindly given me your address, and I write from here to ask you whether you have reconsidered your decision. My wife is very anxious that you should come, for she has been much attracted by my description of you. We are willing to give £ 30 a quarter, or £ 120 a year, so as to recompense you for any little inconvenience which our fads may cause you. They are not very exacting, after all. My wife is fond of a particular shade of electric blue and would like you to wear such a dress indoors in the morning. You need not, however, go to the expense of purchasing one, as we have one belonging to my dear daughter Alice (now in Philadelphia), which would, I should think, fit you very well. Then, as to sitting here or there, or amusing yourself in any manner indicated, that need cause you no inconvenience. As regards your hair, it is no doubt a pity, especially as I could not help remarking its beauty during our short interview, but I am afraid that I must remain firm upon this point, and I only hope that the increased salary may recompense you for the loss. Your duties, as far as the child is concerned, are very light. Now do try to come, and I shall meet you with the dog-cart at Winchester. Let me know your train. Yours faithfully,",
+      "ttsText": "“‘Dear Miss Hunter,, Miss Stoper has very kindly given me your address, and I write from here to ask you whether you have reconsidered your decision. My wife is very anxious that you should come, for she has been much attracted by my description of you. We are willing to give £ 30 a quarter, or £ 120 a year, so as to recompense you for any little inconvenience which our fads may cause you. They are not very exacting, after all. My wife is fond of a particular shade of electric blue and would like you to wear such a dress indoors in the morning. You need not, however, go to the expense of purchasing one, as we have one belonging to my dear daughter Alice (now in Philadelphia), which would, I should think, fit you very well. Then, as to sitting here or there, or amusing yourself in any manner indicated, that need cause you no inconvenience. As regards your hair, it is no doubt a pity, especially as I could not help remarking its beauty during our short interview, but I am afraid that I must remain firm upon this point, and I only hope that the increased salary may recompense you for the loss. Your duties, as far as the child is concerned, are very light. Now do try to come, and I shall meet you with the dog-cart at Winchester. Let me know your train. Yours faithfully,",
       "role": "paragraph"
     },
     {
       "order": 812,
       "chapterIndex": 4,
       "text": "“‘JEPHRO RUCASTLE.’",
+      "ttsText": "“‘Jephro Rucastle.’",
       "role": "title"
     },
     {
@@ -5022,6 +5091,7 @@
       "order": 820,
       "chapterIndex": 4,
       "text": "“That is a possible solution—in fact, as matters stand, it is the most probable one. But in any case it does not seem to be a nice household for a young lady.”",
+      "ttsText": "“That is a possible solution, in fact, as matters stand, it is the most probable one. But in any case it does not seem to be a nice household for a young lady.”",
       "role": "paragraph"
     },
     {
@@ -5034,6 +5104,7 @@
       "order": 822,
       "chapterIndex": 4,
       "text": "“Well, yes, of course the pay is good—too good. That is what makes me uneasy. Why should they give you £ 120 a year, when they could have their pick for £ 40? There must be some strong reason behind.”",
+      "ttsText": "“Well, yes, of course the pay is good, too good. That is what makes me uneasy. Why should they give you £ 120 a year, when they could have their pick for £ 40? There must be some strong reason behind.”",
       "role": "paragraph"
     },
     {
@@ -5046,6 +5117,7 @@
       "order": 824,
       "chapterIndex": 4,
       "text": "“Oh, you may carry that feeling away with you. I assure you that your little problem promises to be the most interesting which has come my way for some months. There is something distinctly novel about some of the features. If you should find yourself in doubt or in danger—”",
+      "ttsText": "“Oh, you may carry that feeling away with you. I assure you that your little problem promises to be the most interesting which has come my way for some months. There is something distinctly novel about some of the features. If you should find yourself in doubt or in danger, ”",
       "role": "paragraph"
     },
     {
@@ -5112,6 +5184,7 @@
       "order": 835,
       "chapterIndex": 4,
       "text": "“HUNTER.”",
+      "ttsText": "“Hunter.”",
       "role": "title"
     },
     {
@@ -5310,6 +5383,7 @@
       "order": 868,
       "chapterIndex": 4,
       "text": "“Two days later this same performance was gone through under exactly similar circumstances. Again I changed my dress, again I sat in the window, and again I laughed very heartily at the funny stories of which my employer had an immense répertoire , and which he told inimitably. Then he handed me a yellow-backed novel, and moving my chair a little sideways, that my own shadow might not fall upon the page, he begged me to read aloud to him. I read for about ten minutes, beginning in the heart of a chapter, and then suddenly, in the middle of a sentence, he ordered me to cease and to change my dress.",
+      "ttsText": "“Two days later this same performance was gone through under exactly similar circumstances. Again I changed my dress, again I sat in the window, and again I laughed very heartily at the funny stories of which my employer had an immense répertoire, and which he told inimitably. Then he handed me a yellow-backed novel, and moving my chair a little sideways, that my own shadow might not fall upon the page, he begged me to read aloud to him. I read for about ten minutes, beginning in the heart of a chapter, and then suddenly, in the middle of a sentence, he ordered me to cease and to change my dress.",
       "role": "paragraph"
     },
     {
@@ -5448,6 +5522,7 @@
       "order": 891,
       "chapterIndex": 4,
       "text": "“Well, Mr. Holmes, from the moment that I understood that there was something about that suite of rooms which I was not to know, I was all on fire to go over them. It was not mere curiosity, though I have my share of that. It was more a feeling of duty—a feeling that some good might come from my penetrating to this place. They talk of woman’s instinct; perhaps it was woman’s instinct which gave me that feeling. At any rate, it was there, and I was keenly on the lookout for any chance to pass the forbidden door.",
+      "ttsText": "“Well, Mr. Holmes, from the moment that I understood that there was something about that suite of rooms which I was not to know, I was all on fire to go over them. It was not mere curiosity, though I have my share of that. It was more a feeling of duty, a feeling that some good might come from my penetrating to this place. They talk of woman’s instinct; perhaps it was woman’s instinct which gave me that feeling. At any rate, it was there, and I was keenly on the lookout for any chance to pass the forbidden door.",
       "role": "paragraph"
     },
     {
@@ -5460,6 +5535,7 @@
       "order": 893,
       "chapterIndex": 4,
       "text": "“There was a little passage in front of me, unpapered and uncarpeted, which turned at a right angle at the farther end. Round this corner were three doors in a line, the first and third of which were open. They each led into an empty room, dusty and cheerless, with two windows in the one and one in the other, so thick with dirt that the evening light glimmered dimly through them. The centre door was closed, and across the outside of it had been fastened one of the broad bars of an iron bed, padlocked at one end to a ring in the wall, and fastened at the other with stout cord. The door itself was locked as well, and the key was not there. This barricaded door corresponded clearly with the shuttered window outside, and yet I could see by the glimmer from beneath it that the room was not in darkness. Evidently there was a skylight which let in light from above. As I stood in the passage gazing at the sinister door and wondering what secret it might veil, I suddenly heard the sound of steps within the room and saw a shadow pass backward and forward against the little slit of dim light which shone out from under the door. A mad, unreasoning terror rose up in me at the sight, Mr. Holmes. My overstrung nerves failed me suddenly, and I turned and ran—ran as though some dreadful hand were behind me clutching at the skirt of my dress. I rushed down the passage, through the door, and straight into the arms of Mr. Rucastle, who was waiting outside.",
+      "ttsText": "“There was a little passage in front of me, unpapered and uncarpeted, which turned at a right angle at the farther end. Round this corner were three doors in a line, the first and third of which were open. They each led into an empty room, dusty and cheerless, with two windows in the one and one in the other, so thick with dirt that the evening light glimmered dimly through them. The centre door was closed, and across the outside of it had been fastened one of the broad bars of an iron bed, padlocked at one end to a ring in the wall, and fastened at the other with stout cord. The door itself was locked as well, and the key was not there. This barricaded door corresponded clearly with the shuttered window outside, and yet I could see by the glimmer from beneath it that the room was not in darkness. Evidently there was a skylight which let in light from above. As I stood in the passage gazing at the sinister door and wondering what secret it might veil, I suddenly heard the sound of steps within the room and saw a shadow pass backward and forward against the little slit of dim light which shone out from under the door. A mad, unreasoning terror rose up in me at the sight, Mr. Holmes. My overstrung nerves failed me suddenly, and I turned and ran, ran as though some dreadful hand were behind me clutching at the skirt of my dress. I rushed down the passage, through the door, and straight into the arms of Mr. Rucastle, who was waiting outside.",
       "role": "paragraph"
     },
     {
@@ -5478,6 +5554,7 @@
       "order": 896,
       "chapterIndex": 4,
       "text": "“‘My dear young lady! my dear young lady!’—you cannot think how caressing and soothing his manner was—‘and what has frightened you, my dear young lady?’",
+      "ttsText": "“‘My dear young lady! my dear young lady!’, you cannot think how caressing and soothing his manner was, ‘and what has frightened you, my dear young lady?’",
       "role": "paragraph"
     },
     {
@@ -5526,12 +5603,14 @@
       "order": 904,
       "chapterIndex": 4,
       "text": "“‘I am sure if I had known—’",
+      "ttsText": "“‘I am sure if I had known, ’",
       "role": "paragraph"
     },
     {
       "order": 905,
       "chapterIndex": 4,
       "text": "“‘Well, then, you know now. And if you ever put your foot over that threshold again’—here in an instant the smile hardened into a grin of rage, and he glared down at me with the face of a demon—‘I’ll throw you to the mastiff.’",
+      "ttsText": "“‘Well, then, you know now. And if you ever put your foot over that threshold again’, here in an instant the smile hardened into a grin of rage, and he glared down at me with the face of a demon, ‘I’ll throw you to the mastiff.’",
       "role": "paragraph"
     },
     {
@@ -5610,6 +5689,7 @@
       "order": 918,
       "chapterIndex": 4,
       "text": "“Excellent! We shall then look thoroughly into the affair. Of course there is only one feasible explanation. You have been brought there to personate someone, and the real person is imprisoned in this chamber. That is obvious. As to who this prisoner is, I have no doubt that it is the daughter, Miss Alice Rucastle, if I remember right, who was said to have gone to America. You were chosen, doubtless, as resembling her in height, figure, and the colour of your hair. Hers had been cut off, very possibly in some illness through which she has passed, and so, of course, yours had to be sacrificed also. By a curious chance you came upon her tresses. The man in the road was undoubtedly some friend of hers—possibly her fiancé —and no doubt, as you wore the girl’s dress and were so like her, he was convinced from your laughter, whenever he saw you, and afterwards from your gesture, that Miss Rucastle was perfectly happy, and that she no longer desired his attentions. The dog is let loose at night to prevent him from endeavouring to communicate with her. So much is fairly clear. The most serious point in the case is the disposition of the child.”",
+      "ttsText": "“Excellent! We shall then look thoroughly into the affair. Of course there is only one feasible explanation. You have been brought there to personate someone, and the real person is imprisoned in this chamber. That is obvious. As to who this prisoner is, I have no doubt that it is the daughter, Miss Alice Rucastle, if I remember right, who was said to have gone to America. You were chosen, doubtless, as resembling her in height, figure, and the colour of your hair. Hers had been cut off, very possibly in some illness through which she has passed, and so, of course, yours had to be sacrificed also. By a curious chance you came upon her tresses. The man in the road was undoubtedly some friend of hers, possibly her fiancé, and no doubt, as you wore the girl’s dress and were so like her, he was convinced from your laughter, whenever he saw you, and afterwards from your gesture, that Miss Rucastle was perfectly happy, and that she no longer desired his attentions. The dog is let loose at night to prevent him from endeavouring to communicate with her. So much is fairly clear. The most serious point in the case is the disposition of the child.”",
       "role": "paragraph"
     },
     {

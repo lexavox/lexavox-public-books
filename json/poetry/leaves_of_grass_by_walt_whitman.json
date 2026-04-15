@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:42.1552569Z",
+  "generatedAt": "2026-04-07T14:54:53.7079706Z",
   "source": {
     "id": "pg1322",
     "title": "Leaves of Grass",
@@ -1993,6 +1993,7 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "LEAVES OF GRASS",
+      "ttsText": "Leaves of Grass",
       "role": "title"
     },
     {
@@ -2047,6 +2048,7 @@
       "order": 20,
       "chapterIndex": 0,
       "text": "Ever and ever yet the verses owning—as, first, I here and now",
+      "ttsText": "Ever and ever yet the verses owning, as, first, I here and now",
       "role": "paragraph"
     },
     {
@@ -2221,18 +2223,21 @@
       "order": 49,
       "chapterIndex": 0,
       "text": "BOOK II.",
+      "ttsText": "Book II.",
       "role": "heading"
     },
     {
       "order": 50,
       "chapterIndex": 0,
       "text": "BOOK III.",
+      "ttsText": "Book III.",
       "role": "heading"
     },
     {
       "order": 51,
       "chapterIndex": 0,
       "text": "BOOK IV. CHILDREN OF ADAM",
+      "ttsText": "Book IV. Children of Adam",
       "role": "heading"
     },
     {
@@ -2329,6 +2334,7 @@
       "order": 67,
       "chapterIndex": 0,
       "text": "BOOK V. CALAMUS",
+      "ttsText": "Book V. Calamus",
       "role": "heading"
     },
     {
@@ -2563,66 +2569,77 @@
       "order": 106,
       "chapterIndex": 0,
       "text": "BOOK VI.",
+      "ttsText": "Book VI.",
       "role": "heading"
     },
     {
       "order": 107,
       "chapterIndex": 0,
       "text": "BOOK VII.",
+      "ttsText": "Book VII.",
       "role": "heading"
     },
     {
       "order": 108,
       "chapterIndex": 0,
       "text": "BOOK VIII.",
+      "ttsText": "Book VIII.",
       "role": "heading"
     },
     {
       "order": 109,
       "chapterIndex": 0,
       "text": "BOOK IX.",
+      "ttsText": "Book IX.",
       "role": "heading"
     },
     {
       "order": 110,
       "chapterIndex": 0,
       "text": "BOOK X.",
+      "ttsText": "Book X.",
       "role": "heading"
     },
     {
       "order": 111,
       "chapterIndex": 0,
       "text": "BOOK XI.",
+      "ttsText": "Book XI.",
       "role": "heading"
     },
     {
       "order": 112,
       "chapterIndex": 0,
       "text": "BOOK XII.",
+      "ttsText": "Book XII.",
       "role": "heading"
     },
     {
       "order": 113,
       "chapterIndex": 0,
       "text": "BOOK XIII.",
+      "ttsText": "Book XIII.",
       "role": "heading"
     },
     {
       "order": 114,
       "chapterIndex": 0,
       "text": "BOOK XIV.",
+      "ttsText": "Book XIV.",
       "role": "heading"
     },
     {
       "order": 115,
       "chapterIndex": 0,
       "text": "BOOK XV.",
+      "ttsText": "Book XV.",
       "role": "heading"
     },
     {
       "order": 116,
       "chapterIndex": 0,
       "text": "BOOK XVI.",
+      "ttsText": "Book XVI.",
       "role": "heading"
     },
     {
@@ -2635,6 +2652,7 @@
       "order": 118,
       "chapterIndex": 0,
       "text": "BOOK XVII. BIRDS OF PASSAGE",
+      "ttsText": "Book XVII. Birds of Passage",
       "role": "heading"
     },
     {
@@ -2677,12 +2695,14 @@
       "order": 125,
       "chapterIndex": 0,
       "text": "BOOK XVIII",
+      "ttsText": "Book XVIII",
       "role": "heading"
     },
     {
       "order": 126,
       "chapterIndex": 0,
       "text": "BOOK XIX. SEA-DRIFT",
+      "ttsText": "Book XIX. Sea-Drift",
       "role": "heading"
     },
     {
@@ -2749,6 +2769,7 @@
       "order": 137,
       "chapterIndex": 0,
       "text": "BOOK XX. BY THE ROADSIDE",
+      "ttsText": "Book XX. By the Roadside",
       "role": "heading"
     },
     {
@@ -2917,6 +2938,7 @@
       "order": 165,
       "chapterIndex": 0,
       "text": "BOOK XXI. DRUM-TAPS",
+      "ttsText": "Book XXI. Drum-Taps",
       "role": "heading"
     },
     {
@@ -2953,6 +2975,7 @@
       "order": 171,
       "chapterIndex": 0,
       "text": "Virginia—The West",
+      "ttsText": "Virginia, The West",
       "role": "paragraph"
     },
     {
@@ -3175,6 +3198,7 @@
       "order": 208,
       "chapterIndex": 0,
       "text": "BOOK XXII. MEMORIES OF PRESIDENT LINCOLN",
+      "ttsText": "Book XXII. Memories of President Lincoln",
       "role": "heading"
     },
     {
@@ -3199,6 +3223,7 @@
       "order": 212,
       "chapterIndex": 0,
       "text": "BOOK XXIII.",
+      "ttsText": "Book XXIII.",
       "role": "heading"
     },
     {
@@ -3211,6 +3236,7 @@
       "order": 214,
       "chapterIndex": 0,
       "text": "BOOK XXIV. AUTUMN RIVULETS",
+      "ttsText": "Book XXIV. Autumn Rivulets",
       "role": "heading"
     },
     {
@@ -3277,7 +3303,8 @@
       "order": 225,
       "chapterIndex": 0,
       "text": "Outlines for a Tomb [G. P., Buried 1870]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Outlines for a Tomb [G.P., Buried 1870]"
     },
     {
       "order": 226,
@@ -3427,24 +3454,28 @@
       "order": 250,
       "chapterIndex": 0,
       "text": "BOOK XXV.",
+      "ttsText": "Book XXV.",
       "role": "heading"
     },
     {
       "order": 251,
       "chapterIndex": 0,
       "text": "BOOK XXVI.",
+      "ttsText": "Book XXVI.",
       "role": "heading"
     },
     {
       "order": 252,
       "chapterIndex": 0,
       "text": "BOOK XXVII.",
+      "ttsText": "Book XXVII.",
       "role": "heading"
     },
     {
       "order": 253,
       "chapterIndex": 0,
       "text": "BOOK XXVIII.",
+      "ttsText": "Book XXVIII.",
       "role": "heading"
     },
     {
@@ -3457,12 +3488,14 @@
       "order": 255,
       "chapterIndex": 0,
       "text": "BOOK XXIX.",
+      "ttsText": "Book XXIX.",
       "role": "heading"
     },
     {
       "order": 256,
       "chapterIndex": 0,
       "text": "BOOK XXX. WHISPERS OF HEAVENLY DEATH",
+      "ttsText": "Book XXX. Whispers of Heavenly Death",
       "role": "heading"
     },
     {
@@ -3571,6 +3604,7 @@
       "order": 274,
       "chapterIndex": 0,
       "text": "BOOK XXXI.",
+      "ttsText": "Book XXXI.",
       "role": "heading"
     },
     {
@@ -3583,6 +3617,7 @@
       "order": 276,
       "chapterIndex": 0,
       "text": "BOOK XXXII. FROM NOON TO STARRY NIGHT",
+      "ttsText": "Book XXXII. From Noon to Starry Night",
       "role": "heading"
     },
     {
@@ -3703,6 +3738,7 @@
       "order": 296,
       "chapterIndex": 0,
       "text": "BOOK XXXIII. SONGS OF PARTING",
+      "ttsText": "Book XXXIII. Songs of Parting",
       "role": "heading"
     },
     {
@@ -3805,6 +3841,7 @@
       "order": 313,
       "chapterIndex": 0,
       "text": "BOOK XXXIV. SANDS AT SEVENTY",
+      "ttsText": "Book XXXIV. Sands at Seventy",
       "role": "heading"
     },
     {
@@ -4147,6 +4184,7 @@
       "order": 370,
       "chapterIndex": 0,
       "text": "BOOKXXXV. GOOD-BYE MY FANCY",
+      "ttsText": "Bookxxxv. Good-Bye My Fancy",
       "role": "title"
     },
     {
@@ -4171,6 +4209,7 @@
       "order": 374,
       "chapterIndex": 0,
       "text": "MY 71st Year",
+      "ttsText": "My 71st Year",
       "role": "paragraph"
     },
     {
@@ -4195,6 +4234,7 @@
       "order": 378,
       "chapterIndex": 0,
       "text": "Old Age’s Ship & Crafty Death’s",
+      "ttsText": "Old Age’s Ship and Crafty Death’s",
       "role": "paragraph"
     },
     {
@@ -4339,6 +4379,7 @@
       "order": 402,
       "chapterIndex": 1,
       "text": "BOOK I. INSCRIPTIONS",
+      "ttsText": "Book I. Inscriptions",
       "role": "heading"
     },
     {
@@ -4645,6 +4686,7 @@
       "order": 453,
       "chapterIndex": 3,
       "text": "Of such, and fitful as they, I sing—with gleams from them would",
+      "ttsText": "Of such, and fitful as they, I sing, with gleams from them would",
       "role": "paragraph"
     },
     {
@@ -4657,12 +4699,14 @@
       "order": 455,
       "chapterIndex": 3,
       "text": "Your chants, O year all mottled with evil and good—year of forebodings!",
+      "ttsText": "Your chants, O year all mottled with evil and good, year of forebodings!",
       "role": "paragraph"
     },
     {
       "order": 456,
       "chapterIndex": 3,
       "text": "Year of comets and meteors transient and strange—lo! even here one",
+      "ttsText": "Year of comets and meteors transient and strange, lo! even here one",
       "role": "paragraph"
     },
     {
@@ -4789,6 +4833,7 @@
       "order": 477,
       "chapterIndex": 4,
       "text": "You and me arrived—America arrived and making this year,",
+      "ttsText": "You and me arrived, America arrived and making this year,",
       "role": "paragraph"
     },
     {
@@ -4807,6 +4852,7 @@
       "order": 480,
       "chapterIndex": 4,
       "text": "O but it is not the years—it is I, it is You,",
+      "ttsText": "O but it is not the years, it is I, it is You,",
       "role": "paragraph"
     },
     {
@@ -5005,6 +5051,7 @@
       "order": 513,
       "chapterIndex": 5,
       "text": "BOOK XVIII",
+      "ttsText": "Book XVIII",
       "role": "heading"
     },
     {
@@ -5347,6 +5394,7 @@
       "order": 570,
       "chapterIndex": 5,
       "text": "The coast you henceforth are facing—you Libertad! from your Western",
+      "ttsText": "The coast you henceforth are facing, you Libertad! from your Western",
       "role": "paragraph"
     },
     {
@@ -5539,6 +5587,7 @@
       "order": 602,
       "chapterIndex": 5,
       "text": "Lives, works resumed—the object I know not—but the old, the Asiatic",
+      "ttsText": "Lives, works resumed, the object I know not, but the old, the Asiatic",
       "role": "paragraph"
     },
     {
@@ -5695,6 +5744,7 @@
       "order": 628,
       "chapterIndex": 6,
       "text": "BOOK XIX. SEA-DRIFT",
+      "ttsText": "Book XIX. Sea-Drift",
       "role": "heading"
     },
     {
@@ -6181,6 +6231,7 @@
       "order": 709,
       "chapterIndex": 6,
       "text": "It is lagging—O I think it is heavy with love, with love.",
+      "ttsText": "It is lagging, O I think it is heavy with love, with love.",
       "role": "paragraph"
     },
     {
@@ -6733,6 +6784,7 @@
       "order": 801,
       "chapterIndex": 6,
       "text": "Subtle, sent up—what is it?—I listen;",
+      "ttsText": "Subtle, sent up, what is it?, I listen;",
       "role": "paragraph"
     },
     {
@@ -7459,6 +7511,7 @@
       "order": 922,
       "chapterIndex": 8,
       "text": "O wild and dismal night storm, with wind—O belching and desperate!",
+      "ttsText": "O wild and dismal night storm, with wind, O belching and desperate!",
       "role": "paragraph"
     },
     {
@@ -7477,6 +7530,7 @@
       "order": 925,
       "chapterIndex": 8,
       "text": "But away at night as you fly, none looking—O then the unloosen’d ocean,",
+      "ttsText": "But away at night as you fly, none looking, O then the unloosen’d ocean,",
       "role": "paragraph"
     },
     {
@@ -7657,6 +7711,7 @@
       "order": 955,
       "chapterIndex": 10,
       "text": "An ocean-bell—O a warning bell, rock’d by the waves.",
+      "ttsText": "An ocean-bell, O a warning bell, rock’d by the waves.",
       "role": "paragraph"
     },
     {
@@ -8089,6 +8144,7 @@
       "order": 1027,
       "chapterIndex": 13,
       "text": "How they inure to themselves as much as to any—what a paradox",
+      "ttsText": "How they inure to themselves as much as to any, what a paradox",
       "role": "paragraph"
     },
     {
@@ -8269,6 +8325,7 @@
       "order": 1057,
       "chapterIndex": 15,
       "text": "Of unnamed heroes in the ships—of waves spreading and spreading",
+      "ttsText": "Of unnamed heroes in the ships, of waves spreading and spreading",
       "role": "paragraph"
     },
     {
@@ -8617,6 +8674,7 @@
       "order": 1115,
       "chapterIndex": 18,
       "text": "BOOK XX. BY THE ROADSIDE",
+      "ttsText": "Book XX. By the Roadside",
       "role": "heading"
     },
     {
@@ -8647,6 +8705,7 @@
       "order": 1120,
       "chapterIndex": 18,
       "text": "Way for the President’s marshal—way for the government cannon!",
+      "ttsText": "Way for the President’s marshal, way for the government cannon!",
       "role": "paragraph"
     },
     {
@@ -8701,6 +8760,7 @@
       "order": 1129,
       "chapterIndex": 18,
       "text": "Why this is indeed a show—it has called the dead out of the earth!",
+      "ttsText": "Why this is indeed a show, it has called the dead out of the earth!",
       "role": "paragraph"
     },
     {
@@ -8719,12 +8779,14 @@
       "order": 1132,
       "chapterIndex": 18,
       "text": "Cock’d hats of mothy mould—crutches made of mist!",
+      "ttsText": "Cock’d hats of mothy mould, crutches made of mist!",
       "role": "paragraph"
     },
     {
       "order": 1133,
       "chapterIndex": 18,
       "text": "Arms in slings—old men leaning on young men’s shoulders.",
+      "ttsText": "Arms in slings, old men leaning on young men’s shoulders.",
       "role": "paragraph"
     },
     {
@@ -8767,6 +8829,7 @@
       "order": 1140,
       "chapterIndex": 18,
       "text": "For shame old maniacs—bring down those toss’d arms, and let your",
+      "ttsText": "For shame old maniacs, bring down those toss’d arms, and let your",
       "role": "paragraph"
     },
     {
@@ -8791,6 +8854,7 @@
       "order": 1144,
       "chapterIndex": 18,
       "text": "Worse and worse—can’t you stand it? are you retreating?",
+      "ttsText": "Worse and worse, can’t you stand it? are you retreating?",
       "role": "paragraph"
     },
     {
@@ -8803,12 +8867,14 @@
       "order": 1146,
       "chapterIndex": 18,
       "text": "Retreat then—pell-mell!",
+      "ttsText": "Retreat then, pell-mell!",
       "role": "paragraph"
     },
     {
       "order": 1147,
       "chapterIndex": 18,
       "text": "To your graves—back—back to the hills old limpers!",
+      "ttsText": "To your graves, back, back to the hills old limpers!",
       "role": "paragraph"
     },
     {
@@ -8821,6 +8887,7 @@
       "order": 1149,
       "chapterIndex": 18,
       "text": "But there is one thing that belongs here—shall I tell you what it",
+      "ttsText": "But there is one thing that belongs here, shall I tell you what it",
       "role": "paragraph"
     },
     {
@@ -8863,12 +8930,14 @@
       "order": 1156,
       "chapterIndex": 18,
       "text": "Find a swift Yankee clipper—here is freight for you, black-bellied clipper,",
+      "ttsText": "Find a swift Yankee clipper, here is freight for you, black-bellied clipper,",
       "role": "paragraph"
     },
     {
       "order": 1157,
       "chapterIndex": 18,
       "text": "Up with your anchor—shake out your sails—steer straight toward",
+      "ttsText": "Up with your anchor, shake out your sails, steer straight toward",
       "role": "paragraph"
     },
     {
@@ -8905,6 +8974,7 @@
       "order": 1163,
       "chapterIndex": 18,
       "text": "Look, all orderly citizens—look from the windows, women!",
+      "ttsText": "Look, all orderly citizens, look from the windows, women!",
       "role": "paragraph"
     },
     {
@@ -8929,6 +8999,7 @@
       "order": 1167,
       "chapterIndex": 18,
       "text": "You have got your revenge, old buster—the crown is come to its own,",
+      "ttsText": "You have got your revenge, old buster, the crown is come to its own,",
       "role": "paragraph"
     },
     {
@@ -8941,6 +9012,7 @@
       "order": 1169,
       "chapterIndex": 18,
       "text": "Stick your hands in your pockets, Jonathan—you are a made man from",
+      "ttsText": "Stick your hands in your pockets, Jonathan, you are a made man from",
       "role": "paragraph"
     },
     {
@@ -8953,6 +9025,7 @@
       "order": 1171,
       "chapterIndex": 18,
       "text": "You are mighty cute—and here is one of your bargains.",
+      "ttsText": "You are mighty cute, and here is one of your bargains.",
       "role": "paragraph"
     },
     {
@@ -9019,6 +9092,7 @@
       "order": 1182,
       "chapterIndex": 19,
       "text": "And you, paid to defile the People—you liars, mark!",
+      "ttsText": "And you, paid to defile the People, you liars, mark!",
       "role": "paragraph"
     },
     {
@@ -9235,6 +9309,7 @@
       "order": 1218,
       "chapterIndex": 19,
       "text": "Liberty, let others despair of you—I never despair of you.",
+      "ttsText": "Liberty, let others despair of you, I never despair of you.",
       "role": "paragraph"
     },
     {
@@ -9271,6 +9346,7 @@
       "order": 1224,
       "chapterIndex": 20,
       "text": "Hold it up sternly—see this it sends back, (who is it? is it you?)",
+      "ttsText": "Hold it up sternly, see this it sends back, (who is it? is it you?)",
       "role": "paragraph"
     },
     {
@@ -9337,6 +9413,7 @@
       "order": 1235,
       "chapterIndex": 20,
       "text": "Such a result so soon—and from such a beginning!",
+      "ttsText": "Such a result so soon, and from such a beginning!",
       "role": "paragraph"
     },
     {
@@ -9421,6 +9498,7 @@
       "order": 1249,
       "chapterIndex": 21,
       "text": "(To break the stagnant tie—thee, thee to free, O soul,)",
+      "ttsText": "(To break the stagnant tie, thee, thee to free, O soul,)",
       "role": "paragraph"
     },
     {
@@ -9565,6 +9643,7 @@
       "order": 1273,
       "chapterIndex": 23,
       "text": "Of ownership—as if one fit to own things could not at pleasure enter",
+      "ttsText": "Of ownership, as if one fit to own things could not at pleasure enter",
       "role": "paragraph"
     },
     {
@@ -9577,6 +9656,7 @@
       "order": 1275,
       "chapterIndex": 23,
       "text": "Of vista—suppose some sight in arriere through the formative chaos,",
+      "ttsText": "Of vista, suppose some sight in arriere through the formative chaos,",
       "role": "paragraph"
     },
     {
@@ -9601,6 +9681,7 @@
       "order": 1279,
       "chapterIndex": 23,
       "text": "supplied—and of what will yet be supplied,",
+      "ttsText": "supplied, and of what will yet be supplied,",
       "role": "paragraph"
     },
     {
@@ -9811,6 +9892,7 @@
       "order": 1314,
       "chapterIndex": 26,
       "text": "The question, O me! so sad, recurring—What good amid these, O me, O life?",
+      "ttsText": "The question, O me! so sad, recurring, What good amid these, O me, O life?",
       "role": "paragraph"
     },
     {
@@ -9823,6 +9905,7 @@
       "order": 1316,
       "chapterIndex": 26,
       "text": "That you are here—that life exists and identity,",
+      "ttsText": "That you are here, that life exists and identity,",
       "role": "paragraph"
     },
     {
@@ -9853,6 +9936,7 @@
       "order": 1321,
       "chapterIndex": 27,
       "text": "You have not learn’d of Nature—of the politics of Nature you have",
+      "ttsText": "You have not learn’d of Nature, of the politics of Nature you have",
       "role": "paragraph"
     },
     {
@@ -9991,6 +10075,7 @@
       "order": 1344,
       "chapterIndex": 28,
       "text": "All these—all the meanness and agony without end I sitting look out upon,",
+      "ttsText": "All these, all the meanness and agony without end I sitting look out upon,",
       "role": "paragraph"
     },
     {
@@ -10033,6 +10118,7 @@
       "order": 1351,
       "chapterIndex": 29,
       "text": "A traveler’s lodging and breakfast as journey through the States,—",
+      "ttsText": "A traveler’s lodging and breakfast as journey through the States,,",
       "role": "paragraph"
     },
     {
@@ -10399,6 +10485,7 @@
       "order": 1412,
       "chapterIndex": 36,
       "text": "The young are beautiful—but the old are more beautiful than the young.",
+      "ttsText": "The young are beautiful, but the old are more beautiful than the young.",
       "role": "paragraph"
     },
     {
@@ -10423,6 +10510,7 @@
       "order": 1416,
       "chapterIndex": 37,
       "text": "The sleeping mother and babe—hush’d, I study them long and long.",
+      "ttsText": "The sleeping mother and babe, hush’d, I study them long and long.",
       "role": "paragraph"
     },
     {
@@ -10513,6 +10601,7 @@
       "order": 1431,
       "chapterIndex": 40,
       "text": "Of justice—as If could be any thing but the same ample law,",
+      "ttsText": "Of justice, as If could be any thing but the same ample law,",
       "role": "paragraph"
     },
     {
@@ -10561,6 +10650,7 @@
       "order": 1439,
       "chapterIndex": 41,
       "text": "The voyage of the soul—not life alone,",
+      "ttsText": "The voyage of the soul, not life alone,",
       "role": "paragraph"
     },
     {
@@ -10603,6 +10693,7 @@
       "order": 1446,
       "chapterIndex": 42,
       "text": "These eager business aims—books, politics, art, amours,",
+      "ttsText": "These eager business aims, books, politics, art, amours,",
       "role": "paragraph"
     },
     {
@@ -10627,12 +10718,14 @@
       "order": 1450,
       "chapterIndex": 43,
       "text": "Of Equality—as if it harm’d me, giving others the same chances and",
+      "ttsText": "Of Equality, as if it harm’d me, giving others the same chances and",
       "role": "paragraph"
     },
     {
       "order": 1451,
       "chapterIndex": 43,
       "text": "rights as myself—as if it were not indispensable to my own",
+      "ttsText": "rights as myself, as if it were not indispensable to my own",
       "role": "paragraph"
     },
     {
@@ -10681,6 +10774,7 @@
       "order": 1459,
       "chapterIndex": 45,
       "text": "Locations and times—what is it in me that meets them all, whenever",
+      "ttsText": "Locations and times, what is it in me that meets them all, whenever",
       "role": "paragraph"
     },
     {
@@ -10693,6 +10787,7 @@
       "order": 1461,
       "chapterIndex": 45,
       "text": "Forms, colors, densities, odors—what is it in me that corresponds",
+      "ttsText": "Forms, colors, densities, odors, what is it in me that corresponds",
       "role": "paragraph"
     },
     {
@@ -10873,6 +10968,7 @@
       "order": 1491,
       "chapterIndex": 49,
       "text": "BOOK XXI. DRUM-TAPS",
+      "ttsText": "Book XXI. Drum-Taps",
       "role": "heading"
     },
     {
@@ -10921,6 +11017,7 @@
       "order": 1499,
       "chapterIndex": 49,
       "text": "How you sprang—how you threw off the costumes of peace with",
+      "ttsText": "How you sprang, how you threw off the costumes of peace with",
       "role": "paragraph"
     },
     {
@@ -11257,6 +11354,7 @@
       "order": 1555,
       "chapterIndex": 49,
       "text": "Mannahatta a-march—and it’s O to sing it well!",
+      "ttsText": "Mannahatta a-march, and it’s O to sing it well!",
       "role": "paragraph"
     },
     {
@@ -11341,6 +11439,7 @@
       "order": 1569,
       "chapterIndex": 50,
       "text": "Arm’d year—year of the struggle,",
+      "ttsText": "Arm’d year, year of the struggle,",
       "role": "paragraph"
     },
     {
@@ -11491,12 +11590,14 @@
       "order": 1594,
       "chapterIndex": 51,
       "text": "Beat! beat! drums!—blow! bugles! blow!",
+      "ttsText": "Beat! beat! drums!, blow! bugles! blow!",
       "role": "paragraph"
     },
     {
       "order": 1595,
       "chapterIndex": 51,
       "text": "Through the windows—through doors—burst like a ruthless force,",
+      "ttsText": "Through the windows, through doors, burst like a ruthless force,",
       "role": "paragraph"
     },
     {
@@ -11515,6 +11616,7 @@
       "order": 1598,
       "chapterIndex": 51,
       "text": "Leave not the bridegroom quiet—no happiness must he have now with",
+      "ttsText": "Leave not the bridegroom quiet, no happiness must he have now with",
       "role": "paragraph"
     },
     {
@@ -11539,18 +11641,21 @@
       "order": 1602,
       "chapterIndex": 51,
       "text": "So fierce you whirr and pound you drums—so shrill you bugles blow.",
+      "ttsText": "So fierce you whirr and pound you drums, so shrill you bugles blow.",
       "role": "paragraph"
     },
     {
       "order": 1603,
       "chapterIndex": 51,
       "text": "Beat! beat! drums!—blow! bugles! blow!",
+      "ttsText": "Beat! beat! drums!, blow! bugles! blow!",
       "role": "paragraph"
     },
     {
       "order": 1604,
       "chapterIndex": 51,
       "text": "Over the traffic of cities—over the rumble of wheels in the streets;",
+      "ttsText": "Over the traffic of cities, over the rumble of wheels in the streets;",
       "role": "paragraph"
     },
     {
@@ -11569,6 +11674,7 @@
       "order": 1607,
       "chapterIndex": 51,
       "text": "No bargainers’ bargains by day—no brokers or speculators—would",
+      "ttsText": "No bargainers’ bargains by day, no brokers or speculators, would",
       "role": "paragraph"
     },
     {
@@ -11593,24 +11699,28 @@
       "order": 1611,
       "chapterIndex": 51,
       "text": "Then rattle quicker, heavier drums—you bugles wilder blow.",
+      "ttsText": "Then rattle quicker, heavier drums, you bugles wilder blow.",
       "role": "paragraph"
     },
     {
       "order": 1612,
       "chapterIndex": 51,
       "text": "Beat! beat! drums!—blow! bugles! blow!",
+      "ttsText": "Beat! beat! drums!, blow! bugles! blow!",
       "role": "paragraph"
     },
     {
       "order": 1613,
       "chapterIndex": 51,
       "text": "Make no parley—stop for no expostulation,",
+      "ttsText": "Make no parley, stop for no expostulation,",
       "role": "paragraph"
     },
     {
       "order": 1614,
       "chapterIndex": 51,
       "text": "Mind not the timid—mind not the weeper or prayer,",
+      "ttsText": "Mind not the timid, mind not the weeper or prayer,",
       "role": "paragraph"
     },
     {
@@ -11641,6 +11751,7 @@
       "order": 1619,
       "chapterIndex": 51,
       "text": "So strong you thump O terrible drums—so loud you bugles blow.",
+      "ttsText": "So strong you thump O terrible drums, so loud you bugles blow.",
       "role": "paragraph"
     },
     {
@@ -11929,6 +12040,7 @@
       "order": 1667,
       "chapterIndex": 53,
       "text": "And nothing at all to you it says—but look you my babe,",
+      "ttsText": "And nothing at all to you it says, but look you my babe,",
       "role": "paragraph"
     },
     {
@@ -12061,6 +12173,7 @@
       "order": 1689,
       "chapterIndex": 53,
       "text": "O father it is alive—it is full of people—it has children,",
+      "ttsText": "O father it is alive, it is full of people, it has children,",
       "role": "paragraph"
     },
     {
@@ -12073,12 +12186,14 @@
       "order": 1691,
       "chapterIndex": 53,
       "text": "I hear it—it talks to me—O it is wonderful!",
+      "ttsText": "I hear it, it talks to me, O it is wonderful!",
       "role": "paragraph"
     },
     {
       "order": 1692,
       "chapterIndex": 53,
       "text": "O it stretches—it spreads and runs so fast—O my father,",
+      "ttsText": "O it stretches, it spreads and runs so fast, O my father,",
       "role": "paragraph"
     },
     {
@@ -12139,6 +12254,7 @@
       "order": 1702,
       "chapterIndex": 53,
       "text": "Point this day, leaving all the rest, to us over all—and yet we know",
+      "ttsText": "Point this day, leaving all the rest, to us over all, and yet we know",
       "role": "paragraph"
     },
     {
@@ -12319,6 +12435,7 @@
       "order": 1732,
       "chapterIndex": 53,
       "text": "Runs swiftly up indicating war and defiance—and now the halyards",
+      "ttsText": "Runs swiftly up indicating war and defiance, and now the halyards",
       "role": "paragraph"
     },
     {
@@ -12409,6 +12526,7 @@
       "order": 1747,
       "chapterIndex": 53,
       "text": "Bays and channels and ships sailing in and out are ours—while we over all,",
+      "ttsText": "Bays and channels and ships sailing in and out are ours, while we over all,",
       "role": "paragraph"
     },
     {
@@ -12427,6 +12545,7 @@
       "order": 1750,
       "chapterIndex": 53,
       "text": "The forty millions of people,—O bard! in life and death supreme,",
+      "ttsText": "The forty millions of people,, O bard! in life and death supreme,",
       "role": "paragraph"
     },
     {
@@ -12511,6 +12630,7 @@
       "order": 1764,
       "chapterIndex": 53,
       "text": "Forward to stand in front of wars—and O, such wars!—what have you",
+      "ttsText": "Forward to stand in front of wars, and O, such wars!, what have you",
       "role": "paragraph"
     },
     {
@@ -12763,6 +12883,7 @@
       "order": 1806,
       "chapterIndex": 53,
       "text": "Nor machinery, vehicles, trade, nor revenues—but you as henceforth",
+      "ttsText": "Nor machinery, vehicles, trade, nor revenues, but you as henceforth",
       "role": "paragraph"
     },
     {
@@ -12841,30 +12962,35 @@
       "order": 1819,
       "chapterIndex": 53,
       "text": "So loved—O you banner leading the day with stars brought from the night!",
+      "ttsText": "So loved, O you banner leading the day with stars brought from the night!",
       "role": "paragraph"
     },
     {
       "order": 1820,
       "chapterIndex": 53,
       "text": "Valueless, object of eyes, over all and demanding all—(absolute",
+      "ttsText": "Valueless, object of eyes, over all and demanding all, (absolute",
       "role": "paragraph"
     },
     {
       "order": 1821,
       "chapterIndex": 53,
       "text": "owner of all)—O banner and pennant!",
+      "ttsText": "owner of all), O banner and pennant!",
       "role": "paragraph"
     },
     {
       "order": 1822,
       "chapterIndex": 53,
       "text": "I too leave the rest—great as it is, it is nothing—houses, machines",
+      "ttsText": "I too leave the rest, great as it is, it is nothing, houses, machines",
       "role": "paragraph"
     },
     {
       "order": 1823,
       "chapterIndex": 53,
       "text": "are nothing—I see them not,",
+      "ttsText": "are nothing, I see them not,",
       "role": "paragraph"
     },
     {
@@ -12997,6 +13123,7 @@
       "order": 1845,
       "chapterIndex": 54,
       "text": "These, and such as these, I, elate, saw—saw with wonder, yet pensive",
+      "ttsText": "These, and such as these, I, elate, saw, saw with wonder, yet pensive",
       "role": "paragraph"
     },
     {
@@ -13027,6 +13154,7 @@
       "order": 1850,
       "chapterIndex": 54,
       "text": "’Twas well, O soul—’twas a good preparation you gave me,",
+      "ttsText": "’Twas well, O soul, ’twas a good preparation you gave me,",
       "role": "paragraph"
     },
     {
@@ -13099,6 +13227,7 @@
       "order": 1862,
       "chapterIndex": 54,
       "text": "Manhattan rising, advancing with menacing front—Cincinnati, Chicago,",
+      "ttsText": "Manhattan rising, advancing with menacing front, Cincinnati, Chicago,",
       "role": "paragraph"
     },
     {
@@ -13117,12 +13246,14 @@
       "order": 1865,
       "chapterIndex": 54,
       "text": "How it climbs with daring feet and hands—how it dashes!",
+      "ttsText": "How it climbs with daring feet and hands, how it dashes!",
       "role": "paragraph"
     },
     {
       "order": 1866,
       "chapterIndex": 54,
       "text": "How the true thunder bellows after the lightning—how bright the",
+      "ttsText": "How the true thunder bellows after the lightning, how bright the",
       "role": "paragraph"
     },
     {
@@ -13243,6 +13374,7 @@
       "order": 1886,
       "chapterIndex": 54,
       "text": "I waited the bursting forth of the pent fire—on the water and air",
+      "ttsText": "I waited the bursting forth of the pent fire, on the water and air",
       "role": "paragraph"
     },
     {
@@ -13291,6 +13423,7 @@
       "order": 1894,
       "chapterIndex": 55,
       "text": "Virginia—The West",
+      "ttsText": "Virginia, The West",
       "role": "paragraph"
     },
     {
@@ -13369,6 +13502,7 @@
       "order": 1907,
       "chapterIndex": 55,
       "text": "For you provided me Washington—and now these also.",
+      "ttsText": "For you provided me Washington, and now these also.",
       "role": "paragraph"
     },
     {
@@ -13435,48 +13569,56 @@
       "order": 1918,
       "chapterIndex": 56,
       "text": "City of wharves and stores—city of tall facades of marble and iron!",
+      "ttsText": "City of wharves and stores, city of tall facades of marble and iron!",
       "role": "paragraph"
     },
     {
       "order": 1919,
       "chapterIndex": 56,
       "text": "Proud and passionate city—mettlesome, mad, extravagant city!",
+      "ttsText": "Proud and passionate city, mettlesome, mad, extravagant city!",
       "role": "paragraph"
     },
     {
       "order": 1920,
       "chapterIndex": 56,
       "text": "Spring up O city—not for peace alone, but be indeed yourself, warlike!",
+      "ttsText": "Spring up O city, not for peace alone, but be indeed yourself, warlike!",
       "role": "paragraph"
     },
     {
       "order": 1921,
       "chapterIndex": 56,
       "text": "Fear not—submit to no models but your own O city!",
+      "ttsText": "Fear not, submit to no models but your own O city!",
       "role": "paragraph"
     },
     {
       "order": 1922,
       "chapterIndex": 56,
       "text": "Behold me—incarnate me as I have incarnated you!",
+      "ttsText": "Behold me, incarnate me as I have incarnated you!",
       "role": "paragraph"
     },
     {
       "order": 1923,
       "chapterIndex": 56,
       "text": "I have rejected nothing you offer’d me—whom you adopted I have adopted,",
+      "ttsText": "I have rejected nothing you offer’d me, whom you adopted I have adopted,",
       "role": "paragraph"
     },
     {
       "order": 1924,
       "chapterIndex": 56,
       "text": "Good or bad I never question you—I love all—I do not condemn any thing,",
+      "ttsText": "Good or bad I never question you, I love all, I do not condemn any thing,",
       "role": "paragraph"
     },
     {
       "order": 1925,
       "chapterIndex": 56,
       "text": "I chant and celebrate all that is yours—yet peace no more,",
+      "ttsText": "I chant and celebrate all that is yours, yet peace no more,",
       "role": "paragraph"
     },
     {
@@ -13723,12 +13865,14 @@
       "order": 1966,
       "chapterIndex": 58,
       "text": "As wending the crowds now part and disperse—but we old man,",
+      "ttsText": "As wending the crowds now part and disperse, but we old man,",
       "role": "paragraph"
     },
     {
       "order": 1967,
       "chapterIndex": 58,
       "text": "Not for nothing have I brought you hither—we must remain,",
+      "ttsText": "Not for nothing have I brought you hither, we must remain,",
       "role": "paragraph"
     },
     {
@@ -13801,6 +13945,7 @@
       "order": 1979,
       "chapterIndex": 58,
       "text": "But a battle which I took part in myself—aye, long ago as it is, I",
+      "ttsText": "But a battle which I took part in myself, aye, long ago as it is, I",
       "role": "paragraph"
     },
     {
@@ -13891,6 +14036,7 @@
       "order": 1994,
       "chapterIndex": 58,
       "text": "’Twas a bold act then—the English war-ships had just arrived,",
+      "ttsText": "’Twas a bold act then, the English war-ships had just arrived,",
       "role": "paragraph"
     },
     {
@@ -14311,6 +14457,7 @@
       "order": 2064,
       "chapterIndex": 58,
       "text": "See—as the annual round returns the phantoms return,",
+      "ttsText": "See, as the annual round returns the phantoms return,",
       "role": "paragraph"
     },
     {
@@ -14413,6 +14560,7 @@
       "order": 2081,
       "chapterIndex": 59,
       "text": "They take a serpentine course, their arms flash in the sun—hark to",
+      "ttsText": "They take a serpentine course, their arms flash in the sun, hark to",
       "role": "paragraph"
     },
     {
@@ -14449,6 +14597,7 @@
       "order": 2087,
       "chapterIndex": 59,
       "text": "Some emerge on the opposite bank, others are just entering the ford—while,",
+      "ttsText": "Some emerge on the opposite bank, others are just entering the ford, while,",
       "role": "paragraph"
     },
     {
@@ -14521,6 +14670,7 @@
       "order": 2099,
       "chapterIndex": 60,
       "text": "And over all the sky—the sky! far, far out of reach, studded,",
+      "ttsText": "And over all the sky, the sky! far, far out of reach, studded,",
       "role": "paragraph"
     },
     {
@@ -14569,6 +14719,7 @@
       "order": 2107,
       "chapterIndex": 61,
       "text": "Glittering dimly, toiling under the sun—the dust-cover’d men,",
+      "ttsText": "Glittering dimly, toiling under the sun, the dust-cover’d men,",
       "role": "paragraph"
     },
     {
@@ -14581,6 +14732,7 @@
       "order": 2109,
       "chapterIndex": 61,
       "text": "With artillery interspers’d—the wheels rumble, the horses sweat,",
+      "ttsText": "With artillery interspers’d, the wheels rumble, the horses sweat,",
       "role": "paragraph"
     },
     {
@@ -14611,6 +14763,7 @@
       "order": 2114,
       "chapterIndex": 62,
       "text": "A procession winding around me, solemn and sweet and slow—but",
+      "ttsText": "A procession winding around me, solemn and sweet and slow, but",
       "role": "paragraph"
     },
     {
@@ -15073,6 +15226,7 @@
       "order": 2191,
       "chapterIndex": 64,
       "text": "comrade—not a tear, not a word,",
+      "ttsText": "comrade, not a tear, not a word,",
       "role": "paragraph"
     },
     {
@@ -15475,6 +15629,7 @@
       "order": 2258,
       "chapterIndex": 66,
       "text": "Then to the second I step—and who are you my child and darling?",
+      "ttsText": "Then to the second I step, and who are you my child and darling?",
       "role": "paragraph"
     },
     {
@@ -15487,6 +15642,7 @@
       "order": 2260,
       "chapterIndex": 66,
       "text": "Then to the third—a face nor child nor old, very calm, as of",
+      "ttsText": "Then to the third, a face nor child nor old, very calm, as of",
       "role": "paragraph"
     },
     {
@@ -15499,6 +15655,7 @@
       "order": 2262,
       "chapterIndex": 66,
       "text": "Young man I think I know you—I think this face is the face of the",
+      "ttsText": "Young man I think I know you, I think this face is the face of the",
       "role": "paragraph"
     },
     {
@@ -15559,6 +15716,7 @@
       "order": 2272,
       "chapterIndex": 67,
       "text": "The halt of a mid-day hour, when up! no time to lose—yet this sign left,",
+      "ttsText": "The halt of a mid-day hour, when up! no time to lose, yet this sign left,",
       "role": "paragraph"
     },
     {
@@ -15643,6 +15801,7 @@
       "order": 2286,
       "chapterIndex": 68,
       "text": "Thither hours, months, years—thither trades, compacts,",
+      "ttsText": "Thither hours, months, years, thither trades, compacts,",
       "role": "paragraph"
     },
     {
@@ -15907,12 +16066,14 @@
       "order": 2330,
       "chapterIndex": 71,
       "text": "Enter the captur’d works—yet lo, like a swift-running river they fade,",
+      "ttsText": "Enter the captur’d works, yet lo, like a swift-running river they fade,",
       "role": "paragraph"
     },
     {
       "order": 2331,
       "chapterIndex": 71,
       "text": "Pass and are gone they fade—I dwell not on soldiers’ perils or",
+      "ttsText": "Pass and are gone they fade, I dwell not on soldiers’ perils or",
       "role": "paragraph"
     },
     {
@@ -15925,6 +16086,7 @@
       "order": 2333,
       "chapterIndex": 71,
       "text": "(Both I remember well—many the hardships, few the joys, yet I was content.)",
+      "ttsText": "(Both I remember well, many the hardships, few the joys, yet I was content.)",
       "role": "paragraph"
     },
     {
@@ -16033,6 +16195,7 @@
       "order": 2351,
       "chapterIndex": 71,
       "text": "One turns to me his appealing eyes—poor boy! I never knew you,",
+      "ttsText": "One turns to me his appealing eyes, poor boy! I never knew you,",
       "role": "paragraph"
     },
     {
@@ -16513,6 +16676,7 @@
       "order": 2431,
       "chapterIndex": 73,
       "text": "Give me faces and streets—give me these phantoms incessant and",
+      "ttsText": "Give me faces and streets, give me these phantoms incessant and",
       "role": "paragraph"
     },
     {
@@ -16525,6 +16689,7 @@
       "order": 2433,
       "chapterIndex": 73,
       "text": "Give me interminable eyes—give me women—give me comrades and",
+      "ttsText": "Give me interminable eyes, give me women, give me comrades and",
       "role": "paragraph"
     },
     {
@@ -16537,18 +16702,21 @@
       "order": 2435,
       "chapterIndex": 73,
       "text": "Let me see new ones every day—let me hold new ones by the hand every day!",
+      "ttsText": "Let me see new ones every day, let me hold new ones by the hand every day!",
       "role": "paragraph"
     },
     {
       "order": 2436,
       "chapterIndex": 73,
       "text": "Give me such shows—give me the streets of Manhattan!",
+      "ttsText": "Give me such shows, give me the streets of Manhattan!",
       "role": "paragraph"
     },
     {
       "order": 2437,
       "chapterIndex": 73,
       "text": "Give me Broadway, with the soldiers marching—give me the sound of",
+      "ttsText": "Give me Broadway, with the soldiers marching, give me the sound of",
       "role": "paragraph"
     },
     {
@@ -16561,6 +16729,7 @@
       "order": 2439,
       "chapterIndex": 73,
       "text": "(The soldiers in companies or regiments—some starting away, flush’d",
+      "ttsText": "(The soldiers in companies or regiments, some starting away, flush’d",
       "role": "paragraph"
     },
     {
@@ -17491,6 +17660,7 @@
       "order": 2594,
       "chapterIndex": 79,
       "text": "The pennant is flying aloft as she speeds she speeds so stately—",
+      "ttsText": "The pennant is flying aloft as she speeds she speeds so stately,",
       "role": "paragraph"
     },
     {
@@ -17551,6 +17721,7 @@
       "order": 2604,
       "chapterIndex": 80,
       "text": "Beauty, knowledge, inure not to me—yet there are two or three things",
+      "ttsText": "Beauty, knowledge, inure not to me, yet there are two or three things",
       "role": "paragraph"
     },
     {
@@ -17593,12 +17764,14 @@
       "order": 2611,
       "chapterIndex": 81,
       "text": "Race of veterans—race of victors!",
+      "ttsText": "Race of veterans, race of victors!",
       "role": "paragraph"
     },
     {
       "order": 2612,
       "chapterIndex": 81,
       "text": "Race of the soil, ready for conflict—race of the conquering march!",
+      "ttsText": "Race of the soil, ready for conflict, race of the conquering march!",
       "role": "paragraph"
     },
     {
@@ -17701,6 +17874,7 @@
       "order": 2629,
       "chapterIndex": 83,
       "text": "You came, taciturn, with nothing to give—we but look’d on each other,",
+      "ttsText": "You came, taciturn, with nothing to give, we but look’d on each other,",
       "role": "paragraph"
     },
     {
@@ -17797,6 +17971,7 @@
       "order": 2645,
       "chapterIndex": 85,
       "text": "I look where he lies white-faced and still in the coffin—I draw near,",
+      "ttsText": "I look where he lies white-faced and still in the coffin, I draw near,",
       "role": "paragraph"
     },
     {
@@ -18025,6 +18200,7 @@
       "order": 2683,
       "chapterIndex": 88,
       "text": "Covering all my lands—all my seashores lining!",
+      "ttsText": "Covering all my lands, all my seashores lining!",
       "role": "paragraph"
     },
     {
@@ -18043,12 +18219,14 @@
       "order": 2686,
       "chapterIndex": 88,
       "text": "Flag cerulean—sunny flag, with the orbs of night dappled!",
+      "ttsText": "Flag cerulean, sunny flag, with the orbs of night dappled!",
       "role": "paragraph"
     },
     {
       "order": 2687,
       "chapterIndex": 88,
       "text": "Ah my silvery beauty—ah my woolly white and crimson!",
+      "ttsText": "Ah my silvery beauty, ah my woolly white and crimson!",
       "role": "paragraph"
     },
     {
@@ -18097,6 +18275,7 @@
       "order": 2695,
       "chapterIndex": 89,
       "text": "Why I was not singing erewhile for you to follow, to understand—nor",
+      "ttsText": "Why I was not singing erewhile for you to follow, to understand, nor",
       "role": "paragraph"
     },
     {
@@ -18241,6 +18420,7 @@
       "order": 2719,
       "chapterIndex": 90,
       "text": "The day what belongs to the day—at night the party of young",
+      "ttsText": "The day what belongs to the day, at night the party of young",
       "role": "paragraph"
     },
     {
@@ -18301,6 +18481,7 @@
       "order": 2729,
       "chapterIndex": 91,
       "text": "Flauntest now unharm’d in immortal soundness and bloom—lo, in",
+      "ttsText": "Flauntest now unharm’d in immortal soundness and bloom, lo, in",
       "role": "paragraph"
     },
     {
@@ -18343,6 +18524,7 @@
       "order": 2736,
       "chapterIndex": 92,
       "text": "Spirit whose work is done—spirit of dreadful hours!",
+      "ttsText": "Spirit whose work is done, spirit of dreadful hours!",
       "role": "paragraph"
     },
     {
@@ -18367,6 +18549,7 @@
       "order": 2740,
       "chapterIndex": 92,
       "text": "Spirit of many a solemn day and many a savage scene—electric spirit,",
+      "ttsText": "Spirit of many a solemn day and many a savage scene, electric spirit,",
       "role": "paragraph"
     },
     {
@@ -18457,6 +18640,7 @@
       "order": 2755,
       "chapterIndex": 92,
       "text": "Leave me your pulses of rage—bequeath them to me—fill me with",
+      "ttsText": "Leave me your pulses of rage, bequeath them to me, fill me with",
       "role": "paragraph"
     },
     {
@@ -18547,6 +18731,7 @@
       "order": 2770,
       "chapterIndex": 93,
       "text": "Your mission is fulfill’d—but I, more warlike,",
+      "ttsText": "Your mission is fulfill’d, but I, more warlike,",
       "role": "paragraph"
     },
     {
@@ -18577,6 +18762,7 @@
       "order": 2775,
       "chapterIndex": 93,
       "text": "Here marching, ever marching on, a war fight out—aye here,",
+      "ttsText": "Here marching, ever marching on, a war fight out, aye here,",
       "role": "paragraph"
     },
     {
@@ -18637,6 +18823,7 @@
       "order": 2785,
       "chapterIndex": 94,
       "text": "Turn to the world, the triumphs reserv’d and to come—give up that",
+      "ttsText": "Turn to the world, the triumphs reserv’d and to come, give up that",
       "role": "paragraph"
     },
     {
@@ -18655,6 +18842,7 @@
       "order": 2788,
       "chapterIndex": 94,
       "text": "But what remains remains for singers for you—wars to come are for you,",
+      "ttsText": "But what remains remains for singers for you, wars to come are for you,",
       "role": "paragraph"
     },
     {
@@ -18673,6 +18861,7 @@
       "order": 2791,
       "chapterIndex": 94,
       "text": "Then turn, and be not alarm’d O Libertad—turn your undying face,",
+      "ttsText": "Then turn, and be not alarm’d O Libertad, turn your undying face,",
       "role": "paragraph"
     },
     {
@@ -18805,6 +18994,7 @@
       "order": 2813,
       "chapterIndex": 96,
       "text": "BOOK XXII. MEMORIES OF PRESIDENT LINCOLN",
+      "ttsText": "Book XXII. Memories of President Lincoln",
       "role": "heading"
     },
     {
@@ -18871,18 +19061,21 @@
       "order": 2824,
       "chapterIndex": 96,
       "text": "O shades of night—O moody, tearful night!",
+      "ttsText": "O shades of night, O moody, tearful night!",
       "role": "paragraph"
     },
     {
       "order": 2825,
       "chapterIndex": 96,
       "text": "O great star disappear’d—O the black murk that hides the star!",
+      "ttsText": "O great star disappear’d, O the black murk that hides the star!",
       "role": "paragraph"
     },
     {
       "order": 2826,
       "chapterIndex": 96,
       "text": "O cruel hands that hold me powerless—O helpless soul of me!",
+      "ttsText": "O cruel hands that hold me powerless, O helpless soul of me!",
       "role": "paragraph"
     },
     {
@@ -18919,6 +19112,7 @@
       "order": 2832,
       "chapterIndex": 96,
       "text": "With every leaf a miracle—and from this bush in the dooryard,",
+      "ttsText": "With every leaf a miracle, and from this bush in the dooryard,",
       "role": "paragraph"
     },
     {
@@ -19129,6 +19323,7 @@
       "order": 2867,
       "chapterIndex": 96,
       "text": "The dim-lit churches and the shuddering organs—where amid these",
+      "ttsText": "The dim-lit churches and the shuddering organs, where amid these",
       "role": "paragraph"
     },
     {
@@ -19519,6 +19714,7 @@
       "order": 2932,
       "chapterIndex": 96,
       "text": "Lo, body and soul—this land,",
+      "ttsText": "Lo, body and soul, this land,",
       "role": "paragraph"
     },
     {
@@ -19633,12 +19829,14 @@
       "order": 2951,
       "chapterIndex": 96,
       "text": "O wild and loose to my soul—O wondrous singer!",
+      "ttsText": "O wild and loose to my soul, O wondrous singer!",
       "role": "paragraph"
     },
     {
       "order": 2952,
       "chapterIndex": 96,
       "text": "You only I hear—yet the star holds me, (but will soon depart,)",
+      "ttsText": "You only I hear, yet the star holds me, (but will soon depart,)",
       "role": "paragraph"
     },
     {
@@ -19729,6 +19927,7 @@
       "order": 2967,
       "chapterIndex": 96,
       "text": "And the streets how their throbbings throbb’d, and the cities pent—",
+      "ttsText": "And the streets how their throbbings throbb’d, and the cities pent,",
       "role": "paragraph"
     },
     {
@@ -19891,6 +20090,7 @@
       "order": 2994,
       "chapterIndex": 96,
       "text": "And for love, sweet love—but praise! praise! praise!",
+      "ttsText": "And for love, sweet love, but praise! praise! praise!",
       "role": "paragraph"
     },
     {
@@ -20305,6 +20505,7 @@
       "order": 3063,
       "chapterIndex": 96,
       "text": "For the sweetest, wisest soul of all my days and lands—and this for",
+      "ttsText": "For the sweetest, wisest soul of all my days and lands, and this for",
       "role": "paragraph"
     },
     {
@@ -20395,12 +20596,14 @@
       "order": 3078,
       "chapterIndex": 97,
       "text": "Rise up—for you the flag is flung—for you the bugle trills,",
+      "ttsText": "Rise up, for you the flag is flung, for you the bugle trills,",
       "role": "paragraph"
     },
     {
       "order": 3079,
       "chapterIndex": 97,
       "text": "For you bouquets and ribbon’d wreaths—for you the shores a-crowding,",
+      "ttsText": "For you bouquets and ribbon’d wreaths, for you the shores a-crowding,",
       "role": "paragraph"
     },
     {
@@ -20527,6 +20730,7 @@
       "order": 3100,
       "chapterIndex": 98,
       "text": "Nor victory, nor defeat—no more time’s dark events,",
+      "ttsText": "Nor victory, nor defeat, no more time’s dark events,",
       "role": "paragraph"
     },
     {
@@ -20545,6 +20749,7 @@
       "order": 3103,
       "chapterIndex": 98,
       "text": "Sing of the love we bore him—because you, dweller in camps, know it truly.",
+      "ttsText": "Sing of the love we bore him, because you, dweller in camps, know it truly.",
       "role": "paragraph"
     },
     {
@@ -20557,6 +20762,7 @@
       "order": 3105,
       "chapterIndex": 98,
       "text": "Sing—as they close the doors of earth upon him—one verse,",
+      "ttsText": "Sing, as they close the doors of earth upon him, one verse,",
       "role": "paragraph"
     },
     {
@@ -20611,6 +20817,7 @@
       "order": 3114,
       "chapterIndex": 100,
       "text": "BOOK XXIII",
+      "ttsText": "Book XXIII",
       "role": "heading"
     },
     {
@@ -20779,6 +20986,7 @@
       "order": 3142,
       "chapterIndex": 100,
       "text": "(O Mother—O Sisters dear!",
+      "ttsText": "(O Mother, O Sisters dear!",
       "role": "paragraph"
     },
     {
@@ -20809,6 +21017,7 @@
       "order": 3147,
       "chapterIndex": 100,
       "text": "There can be any number of supremes—one does not countervail",
+      "ttsText": "There can be any number of supremes, one does not countervail",
       "role": "paragraph"
     },
     {
@@ -20941,6 +21150,7 @@
       "order": 3169,
       "chapterIndex": 100,
       "text": "Fear the mellow sweet, the sucking of honey—juice,",
+      "ttsText": "Fear the mellow sweet, the sucking of honey, juice,",
       "role": "paragraph"
     },
     {
@@ -21475,6 +21685,7 @@
       "order": 3258,
       "chapterIndex": 100,
       "text": "Slavery—the murderous, treacherous conspiracy to raise it upon the",
+      "ttsText": "Slavery, the murderous, treacherous conspiracy to raise it upon the",
       "role": "paragraph"
     },
     {
@@ -21487,6 +21698,7 @@
       "order": 3260,
       "chapterIndex": 100,
       "text": "On and on to the grapple with it—Assassin! then your life or ours",
+      "ttsText": "On and on to the grapple with it, Assassin! then your life or ours",
       "role": "paragraph"
     },
     {
@@ -21613,6 +21825,7 @@
       "order": 3281,
       "chapterIndex": 100,
       "text": "O days of the future I believe in you—I isolate myself for your sake,",
+      "ttsText": "O days of the future I believe in you, I isolate myself for your sake,",
       "role": "paragraph"
     },
     {
@@ -22003,6 +22216,7 @@
       "order": 3346,
       "chapterIndex": 100,
       "text": "I sing you over all, flying beckoning through the fight—O the",
+      "ttsText": "I sing you over all, flying beckoning through the fight, O the",
       "role": "paragraph"
     },
     {
@@ -22015,12 +22229,14 @@
       "order": 3348,
       "chapterIndex": 100,
       "text": "The cannons ope their rosy-flashing muzzles—the hurtled balls scream,",
+      "ttsText": "The cannons ope their rosy-flashing muzzles, the hurtled balls scream,",
       "role": "paragraph"
     },
     {
       "order": 3349,
       "chapterIndex": 100,
       "text": "The battle-front forms amid the smoke—the volleys pour incessant",
+      "ttsText": "The battle-front forms amid the smoke, the volleys pour incessant",
       "role": "paragraph"
     },
     {
@@ -22033,6 +22249,7 @@
       "order": 3351,
       "chapterIndex": 100,
       "text": "Hark, the ringing word Charge!—now the tussle and the furious",
+      "ttsText": "Hark, the ringing word Charge!, now the tussle and the furious",
       "role": "paragraph"
     },
     {
@@ -22267,6 +22484,7 @@
       "order": 3390,
       "chapterIndex": 100,
       "text": "Is it not a mere tale? a rhyme? a prettiness?—Is the good old cause in it?",
+      "ttsText": "Is it not a mere tale? a rhyme? a prettiness?, Is the good old cause in it?",
       "role": "paragraph"
     },
     {
@@ -22579,6 +22797,7 @@
       "order": 3442,
       "chapterIndex": 100,
       "text": "A man before all—myself, typical, before all.",
+      "ttsText": "A man before all, myself, typical, before all.",
       "role": "paragraph"
     },
     {
@@ -22783,6 +23002,7 @@
       "order": 3476,
       "chapterIndex": 100,
       "text": "single individual—namely to You.",
+      "ttsText": "single individual, namely to You.",
       "role": "paragraph"
     },
     {
@@ -23059,6 +23279,7 @@
       "order": 3522,
       "chapterIndex": 100,
       "text": "This is what I have learnt from America—it is the amount, and it I",
+      "ttsText": "This is what I have learnt from America, it is the amount, and it I",
       "role": "paragraph"
     },
     {
@@ -23347,6 +23568,7 @@
       "order": 3570,
       "chapterIndex": 100,
       "text": "Ample Ohio’s, Kanada’s bards—bards of California! inland bards—",
+      "ttsText": "Ample Ohio’s, Kanada’s bards, bards of California! inland bards,",
       "role": "paragraph"
     },
     {
@@ -23455,6 +23677,7 @@
       "order": 3588,
       "chapterIndex": 103,
       "text": "BOOK XXIV. AUTUMN RIVULETS",
+      "ttsText": "Book XXIV. Autumn Rivulets",
       "role": "heading"
     },
     {
@@ -23653,6 +23876,7 @@
       "order": 3621,
       "chapterIndex": 103,
       "text": "(For not my life and years alone I give—all, all I give,)",
+      "ttsText": "(For not my life and years alone I give, all, all I give,)",
       "role": "paragraph"
     },
     {
@@ -23725,12 +23949,14 @@
       "order": 3633,
       "chapterIndex": 104,
       "text": "O harvest of my lands—O boundless summer growths,",
+      "ttsText": "O harvest of my lands, O boundless summer growths,",
       "role": "paragraph"
     },
     {
       "order": 3634,
       "chapterIndex": 104,
       "text": "O lavish brown parturient earth—O infinite teeming womb,",
+      "ttsText": "O lavish brown parturient earth, O infinite teeming womb,",
       "role": "paragraph"
     },
     {
@@ -23839,6 +24065,7 @@
       "order": 3652,
       "chapterIndex": 104,
       "text": "Fecund America—today,",
+      "ttsText": "Fecund America, today,",
       "role": "paragraph"
     },
     {
@@ -23929,6 +24156,7 @@
       "order": 3667,
       "chapterIndex": 104,
       "text": "Thou all-acceptress—thou hospitable, (thou only art hospitable as",
+      "ttsText": "Thou all-acceptress, thou hospitable, (thou only art hospitable as",
       "role": "paragraph"
     },
     {
@@ -24031,6 +24259,7 @@
       "order": 3684,
       "chapterIndex": 104,
       "text": "Pass—then rattle drums again,",
+      "ttsText": "Pass, then rattle drums again,",
       "role": "paragraph"
     },
     {
@@ -24199,6 +24428,7 @@
       "order": 3712,
       "chapterIndex": 104,
       "text": "No holiday soldiers—youthful, yet veterans,",
+      "ttsText": "No holiday soldiers, youthful, yet veterans,",
       "role": "paragraph"
     },
     {
@@ -24223,6 +24453,7 @@
       "order": 3716,
       "chapterIndex": 104,
       "text": "A pause—the armies wait,",
+      "ttsText": "A pause, the armies wait,",
       "role": "paragraph"
     },
     {
@@ -24265,6 +24496,7 @@
       "order": 3723,
       "chapterIndex": 104,
       "text": "Melt, melt away ye armies—disperse ye blue-clad soldiers,",
+      "ttsText": "Melt, melt away ye armies, disperse ye blue-clad soldiers,",
       "role": "paragraph"
     },
     {
@@ -25171,12 +25403,14 @@
       "order": 3874,
       "chapterIndex": 107,
       "text": "But the house alone—that wondrous house—that delicate fair house",
+      "ttsText": "But the house alone, that wondrous house, that delicate fair house",
       "role": "paragraph"
     },
     {
       "order": 3875,
       "chapterIndex": 107,
       "text": "—that ruin!",
+      "ttsText": ", that ruin!",
       "role": "paragraph"
     },
     {
@@ -25201,18 +25435,21 @@
       "order": 3879,
       "chapterIndex": 107,
       "text": "That little house alone more than them all—poor, desperate house!",
+      "ttsText": "That little house alone more than them all, poor, desperate house!",
       "role": "paragraph"
     },
     {
       "order": 3880,
       "chapterIndex": 107,
       "text": "Fair, fearful wreck—tenement of a soul—itself a soul,",
+      "ttsText": "Fair, fearful wreck, tenement of a soul, itself a soul,",
       "role": "paragraph"
     },
     {
       "order": 3881,
       "chapterIndex": 107,
       "text": "Unclaim’d, avoided house—take one breath from my tremulous lips,",
+      "ttsText": "Unclaim’d, avoided house, take one breath from my tremulous lips,",
       "role": "paragraph"
     },
     {
@@ -25225,12 +25462,14 @@
       "order": 3883,
       "chapterIndex": 107,
       "text": "Dead house of love—house of madness and sin, crumbled, crush’d,",
+      "ttsText": "Dead house of love, house of madness and sin, crumbled, crush’d,",
       "role": "paragraph"
     },
     {
       "order": 3884,
       "chapterIndex": 107,
       "text": "House of life, erewhile talking and laughing—but ah, poor house,",
+      "ttsText": "House of life, erewhile talking and laughing, but ah, poor house,",
       "role": "paragraph"
     },
     {
@@ -25243,6 +25482,7 @@
       "order": 3886,
       "chapterIndex": 107,
       "text": "Months, years, an echoing, garnish’d house—but dead, dead, dead.",
+      "ttsText": "Months, years, an echoing, garnish’d house, but dead, dead, dead.",
       "role": "paragraph"
     },
     {
@@ -25381,6 +25621,7 @@
       "order": 3909,
       "chapterIndex": 108,
       "text": "Perhaps every mite has once form’d part of a sick person—yet behold!",
+      "ttsText": "Perhaps every mite has once form’d part of a sick person, yet behold!",
       "role": "paragraph"
     },
     {
@@ -25639,6 +25880,7 @@
       "order": 3952,
       "chapterIndex": 109,
       "text": "Keep on—Liberty is to be subserv’d whatever occurs;",
+      "ttsText": "Keep on, Liberty is to be subserv’d whatever occurs;",
       "role": "paragraph"
     },
     {
@@ -25873,6 +26115,7 @@
       "order": 3991,
       "chapterIndex": 109,
       "text": "In defeat, poverty, misconception, imprisonment—for they too are great.",
+      "ttsText": "In defeat, poverty, misconception, imprisonment, for they too are great.",
       "role": "paragraph"
     },
     {
@@ -25885,6 +26128,7 @@
       "order": 3993,
       "chapterIndex": 109,
       "text": "So it is—but now it seems to me, when it cannot be help’d, that",
+      "ttsText": "So it is, but now it seems to me, when it cannot be help’d, that",
       "role": "paragraph"
     },
     {
@@ -25993,6 +26237,7 @@
       "order": 4011,
       "chapterIndex": 110,
       "text": "Not a mark, not a record remains—and yet all remains.",
+      "ttsText": "Not a mark, not a record remains, and yet all remains.",
       "role": "paragraph"
     },
     {
@@ -26185,6 +26430,7 @@
       "order": 4043,
       "chapterIndex": 111,
       "text": "On Time, Space, Reality—on such as these, and abreast with them Prudence.",
+      "ttsText": "On Time, Space, Reality, on such as these, and abreast with them Prudence.",
       "role": "paragraph"
     },
     {
@@ -26347,6 +26593,7 @@
       "order": 4070,
       "chapterIndex": 111,
       "text": "The interest will come round—all will come round.",
+      "ttsText": "The interest will come round, all will come round.",
       "role": "paragraph"
     },
     {
@@ -26869,6 +27116,7 @@
       "order": 4157,
       "chapterIndex": 114,
       "text": "O fearful thought—a convict soul.",
+      "ttsText": "O fearful thought, a convict soul.",
       "role": "paragraph"
     },
     {
@@ -27079,6 +27327,7 @@
       "order": 4192,
       "chapterIndex": 114,
       "text": "Depart—a God-enfranchis’d soul!",
+      "ttsText": "Depart, a God-enfranchis’d soul!",
       "role": "paragraph"
     },
     {
@@ -27175,6 +27424,7 @@
       "order": 4208,
       "chapterIndex": 114,
       "text": "A wondrous minute then—but after in the solitary night, to many,",
+      "ttsText": "A wondrous minute then, but after in the solitary night, to many,",
       "role": "paragraph"
     },
     {
@@ -27217,6 +27467,7 @@
       "order": 4215,
       "chapterIndex": 114,
       "text": "O fearful thought—a convict soul.",
+      "ttsText": "O fearful thought, a convict soul.",
       "role": "paragraph"
     },
     {
@@ -27343,6 +27594,7 @@
       "order": 4236,
       "chapterIndex": 115,
       "text": "Thou, soul, unloosen’d—the restlessness after I know not what;",
+      "ttsText": "Thou, soul, unloosen’d, the restlessness after I know not what;",
       "role": "paragraph"
     },
     {
@@ -27403,6 +27655,7 @@
       "order": 4246,
       "chapterIndex": 115,
       "text": "To grace the bush I love—to sing with the birds,",
+      "ttsText": "To grace the bush I love, to sing with the birds,",
       "role": "paragraph"
     },
     {
@@ -27421,7 +27674,8 @@
       "order": 4249,
       "chapterIndex": 116,
       "text": "Outlines for a Tomb [G. P., Buried 1870]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Outlines for a Tomb [G.P., Buried 1870]"
     },
     {
       "order": 4250,
@@ -27733,6 +27987,7 @@
       "order": 4301,
       "chapterIndex": 116,
       "text": "You Hudson, you endless Mississippi—nor you alone,",
+      "ttsText": "You Hudson, you endless Mississippi, nor you alone,",
       "role": "paragraph"
     },
     {
@@ -27787,6 +28042,7 @@
       "order": 4310,
       "chapterIndex": 117,
       "text": "(Tragedies, sorrows, laughter, tears—0 heaven!",
+      "ttsText": "(Tragedies, sorrows, laughter, tears, 0 heaven!",
       "role": "paragraph"
     },
     {
@@ -27859,6 +28115,7 @@
       "order": 4322,
       "chapterIndex": 117,
       "text": "To you whoe’er you are—a look.",
+      "ttsText": "To you whoe’er you are, a look.",
       "role": "paragraph"
     },
     {
@@ -28033,6 +28290,7 @@
       "order": 4351,
       "chapterIndex": 118,
       "text": "Then toward that man or that woman swiftly hasten all—none",
+      "ttsText": "Then toward that man or that woman swiftly hasten all, none",
       "role": "paragraph"
     },
     {
@@ -28333,18 +28591,21 @@
       "order": 4401,
       "chapterIndex": 120,
       "text": "O culpable! I acknowledge—I expose!",
+      "ttsText": "O culpable! I acknowledge, I expose!",
       "role": "paragraph"
     },
     {
       "order": 4402,
       "chapterIndex": 120,
       "text": "(O admirers, praise not me—compliment not me—you make me wince,",
+      "ttsText": "(O admirers, praise not me, compliment not me, you make me wince,",
       "role": "paragraph"
     },
     {
       "order": 4403,
       "chapterIndex": 120,
       "text": "I see what you do not—I know what you do not.)",
+      "ttsText": "I see what you do not, I know what you do not.)",
       "role": "paragraph"
     },
     {
@@ -28375,12 +28636,14 @@
       "order": 4408,
       "chapterIndex": 120,
       "text": "I feel I am of them—I belong to those convicts and prostitutes myself,",
+      "ttsText": "I feel I am of them, I belong to those convicts and prostitutes myself,",
       "role": "paragraph"
     },
     {
       "order": 4409,
       "chapterIndex": 120,
       "text": "And henceforth I will not deny them—for how can I deny myself?",
+      "ttsText": "And henceforth I will not deny them, for how can I deny myself?",
       "role": "paragraph"
     },
     {
@@ -28435,6 +28698,7 @@
       "order": 4418,
       "chapterIndex": 121,
       "text": "There shall be no subject too pronounced—all works shall illustrate",
+      "ttsText": "There shall be no subject too pronounced, all works shall illustrate",
       "role": "paragraph"
     },
     {
@@ -28507,6 +28771,7 @@
       "order": 4430,
       "chapterIndex": 122,
       "text": "Be composed—be at ease with me—I am Walt Whitman, liberal and",
+      "ttsText": "Be composed, be at ease with me, I am Walt Whitman, liberal and",
       "role": "paragraph"
     },
     {
@@ -28585,6 +28850,7 @@
       "order": 4443,
       "chapterIndex": 123,
       "text": "chants—and now I have found it,",
+      "ttsText": "chants, and now I have found it,",
       "role": "paragraph"
     },
     {
@@ -28609,18 +28875,21 @@
       "order": 4447,
       "chapterIndex": 123,
       "text": "It is in the present—it is this earth to-day,",
+      "ttsText": "It is in the present, it is this earth to-day,",
       "role": "paragraph"
     },
     {
       "order": 4448,
       "chapterIndex": 123,
       "text": "It is in Democracy—(the purport and aim of all the past,)",
+      "ttsText": "It is in Democracy, (the purport and aim of all the past,)",
       "role": "paragraph"
     },
     {
       "order": 4449,
       "chapterIndex": 123,
       "text": "It is the life of one man or one woman to-day—the average man of to-day,",
+      "ttsText": "It is the life of one man or one woman to-day, the average man of to-day,",
       "role": "paragraph"
     },
     {
@@ -28645,6 +28914,7 @@
       "order": 4453,
       "chapterIndex": 123,
       "text": "All for the modern—all for the average man of to-day.",
+      "ttsText": "All for the modern, all for the average man of to-day.",
       "role": "paragraph"
     },
     {
@@ -28945,6 +29215,7 @@
       "order": 4503,
       "chapterIndex": 126,
       "text": "The fishes that swim—the rocks—the motion of the waves—the",
+      "ttsText": "The fishes that swim, the rocks, the motion of the waves, the",
       "role": "paragraph"
     },
     {
@@ -29335,6 +29606,7 @@
       "order": 4568,
       "chapterIndex": 130,
       "text": "I stand apart to hear—it never tires me.",
+      "ttsText": "I stand apart to hear, it never tires me.",
       "role": "paragraph"
     },
     {
@@ -29557,12 +29829,14 @@
       "order": 4605,
       "chapterIndex": 133,
       "text": "Editor, author, artist, and schoolboy—draw nigh and commence;",
+      "ttsText": "Editor, author, artist, and schoolboy, draw nigh and commence;",
       "role": "paragraph"
     },
     {
       "order": 4606,
       "chapterIndex": 133,
       "text": "It is no lesson—it lets down the bars to a good lesson,",
+      "ttsText": "It is no lesson, it lets down the bars to a good lesson,",
       "role": "paragraph"
     },
     {
@@ -29611,6 +29885,7 @@
       "order": 4614,
       "chapterIndex": 133,
       "text": "I cannot say to any person what I hear—I cannot say it to myself—",
+      "ttsText": "I cannot say to any person what I hear, I cannot say it to myself,",
       "role": "paragraph"
     },
     {
@@ -29707,6 +29982,7 @@
       "order": 4630,
       "chapterIndex": 133,
       "text": "summers and winters to articulate and walk—all this is",
+      "ttsText": "summers and winters to articulate and walk, all this is",
       "role": "paragraph"
     },
     {
@@ -30037,6 +30313,7 @@
       "order": 4685,
       "chapterIndex": 137,
       "text": "Star crucified—by traitors sold,",
+      "ttsText": "Star crucified, by traitors sold,",
       "role": "paragraph"
     },
     {
@@ -30277,6 +30554,7 @@
       "order": 4725,
       "chapterIndex": 138,
       "text": "Yet see you! how soon his rage subsides—how soon this tamer tames him;",
+      "ttsText": "Yet see you! how soon his rage subsides, how soon this tamer tames him;",
       "role": "paragraph"
     },
     {
@@ -30319,12 +30597,14 @@
       "order": 4732,
       "chapterIndex": 138,
       "text": "Some have wide flaring horns (a good sign)—see you! the bright hides,",
+      "ttsText": "Some have wide flaring horns (a good sign), see you! the bright hides,",
       "role": "paragraph"
     },
     {
       "order": 4733,
       "chapterIndex": 138,
       "text": "See, the two with stars on their foreheads—see, the round bodies",
+      "ttsText": "See, the two with stars on their foreheads, see, the round bodies",
       "role": "paragraph"
     },
     {
@@ -30337,12 +30617,14 @@
       "order": 4735,
       "chapterIndex": 138,
       "text": "How straight and square they stand on their legs—what fine sagacious eyes!",
+      "ttsText": "How straight and square they stand on their legs, what fine sagacious eyes!",
       "role": "paragraph"
     },
     {
       "order": 4736,
       "chapterIndex": 138,
       "text": "How straight they watch their tamer—they wish him near them—how",
+      "ttsText": "How straight they watch their tamer, they wish him near them, how",
       "role": "paragraph"
     },
     {
@@ -30367,12 +30649,14 @@
       "order": 4740,
       "chapterIndex": 138,
       "text": "poems, depart—all else departs,)",
+      "ttsText": "poems, depart, all else departs,)",
       "role": "paragraph"
     },
     {
       "order": 4741,
       "chapterIndex": 138,
       "text": "I confess I envy only his fascination—my silent, illiterate friend,",
+      "ttsText": "I confess I envy only his fascination, my silent, illiterate friend,",
       "role": "paragraph"
     },
     {
@@ -30421,6 +30705,7 @@
       "order": 4749,
       "chapterIndex": 138,
       "text": "O fair auroral skies—O morning dew upon the grass!",
+      "ttsText": "O fair auroral skies, O morning dew upon the grass!",
       "role": "paragraph"
     },
     {
@@ -30493,6 +30778,7 @@
       "order": 4761,
       "chapterIndex": 138,
       "text": "Why this is not the church at all—the church is living, ever living",
+      "ttsText": "Why this is not the church at all, the church is living, ever living",
       "role": "paragraph"
     },
     {
@@ -30571,6 +30857,7 @@
       "order": 4774,
       "chapterIndex": 139,
       "text": "This common marvel I beheld—the parent thrush I watch’d feeding its young,",
+      "ttsText": "This common marvel I beheld, the parent thrush I watch’d feeding its young,",
       "role": "paragraph"
     },
     {
@@ -30637,6 +30924,7 @@
       "order": 4785,
       "chapterIndex": 139,
       "text": "[\"The Seventeenth—the finest Regimental Band I ever heard.”]",
+      "ttsText": "[\"The Seventeenth, the finest Regimental Band I ever heard.”]",
       "role": "paragraph"
     },
     {
@@ -30769,6 +31057,7 @@
       "order": 4807,
       "chapterIndex": 140,
       "text": "Power, wealth, extent, vouchsafed to thee—with these and like of",
+      "ttsText": "Power, wealth, extent, vouchsafed to thee, with these and like of",
       "role": "paragraph"
     },
     {
@@ -30787,6 +31076,7 @@
       "order": 4810,
       "chapterIndex": 140,
       "text": "The gift of perfect women fit for thee—what if that gift of gifts",
+      "ttsText": "The gift of perfect women fit for thee, what if that gift of gifts",
       "role": "paragraph"
     },
     {
@@ -30889,6 +31179,7 @@
       "order": 4827,
       "chapterIndex": 142,
       "text": "By all the world contributed—freedom’s and law’s and thrift’s society,",
+      "ttsText": "By all the world contributed, freedom’s and law’s and thrift’s society,",
       "role": "paragraph"
     },
     {
@@ -30913,6 +31204,7 @@
       "order": 4831,
       "chapterIndex": 143,
       "text": "BOOK XXV",
+      "ttsText": "Book XXV",
       "role": "heading"
     },
     {
@@ -30943,12 +31235,14 @@
       "order": 4836,
       "chapterIndex": 143,
       "text": "Strong hum of forest tree-tops—wind of the mountains,",
+      "ttsText": "Strong hum of forest tree-tops, wind of the mountains,",
       "role": "paragraph"
     },
     {
       "order": 4837,
       "chapterIndex": 143,
       "text": "Personified dim shapes—you hidden orchestras,",
+      "ttsText": "Personified dim shapes, you hidden orchestras,",
       "role": "paragraph"
     },
     {
@@ -30967,12 +31261,14 @@
       "order": 4840,
       "chapterIndex": 143,
       "text": "You chords left as by vast composers—you choruses,",
+      "ttsText": "You chords left as by vast composers, you choruses,",
       "role": "paragraph"
     },
     {
       "order": 4841,
       "chapterIndex": 143,
       "text": "You formless, free, religious dances—you from the Orient,",
+      "ttsText": "You formless, free, religious dances, you from the Orient,",
       "role": "paragraph"
     },
     {
@@ -32017,6 +32313,7 @@
       "order": 5015,
       "chapterIndex": 144,
       "text": "BOOK XXVI",
+      "ttsText": "Book XXVI",
       "role": "heading"
     },
     {
@@ -32089,18 +32386,21 @@
       "order": 5027,
       "chapterIndex": 144,
       "text": "The Past—the dark unfathom’d retrospect!",
+      "ttsText": "The Past, the dark unfathom’d retrospect!",
       "role": "paragraph"
     },
     {
       "order": 5028,
       "chapterIndex": 144,
       "text": "The teeming gulf—the sleepers and the shadows!",
+      "ttsText": "The teeming gulf, the sleepers and the shadows!",
       "role": "paragraph"
     },
     {
       "order": 5029,
       "chapterIndex": 144,
       "text": "The past—the infinite greatness of the past!",
+      "ttsText": "The past, the infinite greatness of the past!",
       "role": "paragraph"
     },
     {
@@ -32545,6 +32845,7 @@
       "order": 5103,
       "chapterIndex": 144,
       "text": "A ceaseless thought, a varied train—lo, soul, to thee, thy sight,",
+      "ttsText": "A ceaseless thought, a varied train, lo, soul, to thee, thy sight,",
       "role": "paragraph"
     },
     {
@@ -33373,12 +33674,14 @@
       "order": 5241,
       "chapterIndex": 144,
       "text": "Thou moral, spiritual fountain—affection’s source—thou reservoir,",
+      "ttsText": "Thou moral, spiritual fountain, affection’s source, thou reservoir,",
       "role": "paragraph"
     },
     {
       "order": 5242,
       "chapterIndex": 144,
       "text": "(O pensive soul of me—O thirst unsatisfied—waitest not there?",
+      "ttsText": "(O pensive soul of me, O thirst unsatisfied, waitest not there?",
       "role": "paragraph"
     },
     {
@@ -33391,6 +33694,7 @@
       "order": 5244,
       "chapterIndex": 144,
       "text": "Thou pulse—thou motive of the stars, suns, systems,",
+      "ttsText": "Thou pulse, thou motive of the stars, suns, systems,",
       "role": "paragraph"
     },
     {
@@ -33661,6 +33965,7 @@
       "order": 5289,
       "chapterIndex": 144,
       "text": "Cut the hawsers—haul out—shake out every sail!",
+      "ttsText": "Cut the hawsers, haul out, shake out every sail!",
       "role": "paragraph"
     },
     {
@@ -33685,6 +33990,7 @@
       "order": 5293,
       "chapterIndex": 144,
       "text": "Sail forth—steer for the deep waters only,",
+      "ttsText": "Sail forth, steer for the deep waters only,",
       "role": "paragraph"
     },
     {
@@ -33739,6 +34045,7 @@
       "order": 5302,
       "chapterIndex": 145,
       "text": "BOOK XXVII",
+      "ttsText": "Book XXVII",
       "role": "heading"
     },
     {
@@ -33955,6 +34262,7 @@
       "order": 5338,
       "chapterIndex": 145,
       "text": "Or small or great I know not—haply what broad fields, what lands,",
+      "ttsText": "Or small or great I know not, haply what broad fields, what lands,",
       "role": "paragraph"
     },
     {
@@ -34189,6 +34497,7 @@
       "order": 5377,
       "chapterIndex": 147,
       "text": "BOOK XXVIII",
+      "ttsText": "Book XXVIII",
       "role": "heading"
     },
     {
@@ -34435,12 +34744,14 @@
       "order": 5418,
       "chapterIndex": 147,
       "text": "I am a dance—play up there! the fit is whirling me fast!",
+      "ttsText": "I am a dance, play up there! the fit is whirling me fast!",
       "role": "paragraph"
     },
     {
       "order": 5419,
       "chapterIndex": 147,
       "text": "I am the ever-laughing—it is new moon and twilight,",
+      "ttsText": "I am the ever-laughing, it is new moon and twilight,",
       "role": "paragraph"
     },
     {
@@ -35125,6 +35436,7 @@
       "order": 5533,
       "chapterIndex": 147,
       "text": "A show of the summer softness—a contact of something unseen—an",
+      "ttsText": "A show of the summer softness, a contact of something unseen, an",
       "role": "paragraph"
     },
     {
@@ -35329,6 +35641,7 @@
       "order": 5567,
       "chapterIndex": 147,
       "text": "I swear they are averaged now—one is no better than the other,",
+      "ttsText": "I swear they are averaged now, one is no better than the other,",
       "role": "paragraph"
     },
     {
@@ -35479,6 +35792,7 @@
       "order": 5592,
       "chapterIndex": 147,
       "text": "The diverse shall be no less diverse, but they shall flow and unite—",
+      "ttsText": "The diverse shall be no less diverse, but they shall flow and unite,",
       "role": "paragraph"
     },
     {
@@ -35749,18 +36063,21 @@
       "order": 5637,
       "chapterIndex": 148,
       "text": "bawling—let an idiot or insane person appear on each of the stands;",
+      "ttsText": "bawling, let an idiot or insane person appear on each of the stands;",
       "role": "paragraph"
     },
     {
       "order": 5638,
       "chapterIndex": 148,
       "text": "Let judges and criminals be transposed—let the prison-keepers be",
+      "ttsText": "Let judges and criminals be transposed, let the prison-keepers be",
       "role": "paragraph"
     },
     {
       "order": 5639,
       "chapterIndex": 148,
       "text": "put in prison—let those that were prisoners take the keys;",
+      "ttsText": "put in prison, let those that were prisoners take the keys;",
       "role": "paragraph"
     },
     {
@@ -35779,6 +36096,7 @@
       "order": 5642,
       "chapterIndex": 149,
       "text": "BOOK XXIX",
+      "ttsText": "Book XXIX",
       "role": "heading"
     },
     {
@@ -35797,6 +36115,7 @@
       "order": 5645,
       "chapterIndex": 149,
       "text": "To think of time—of all that retrospection,",
+      "ttsText": "To think of time, of all that retrospection,",
       "role": "paragraph"
     },
     {
@@ -35839,12 +36158,14 @@
       "order": 5652,
       "chapterIndex": 149,
       "text": "To think that the sun rose in the east—that men and women were",
+      "ttsText": "To think that the sun rose in the east, that men and women were",
       "role": "paragraph"
     },
     {
       "order": 5653,
       "chapterIndex": 149,
       "text": "flexible, real, alive—that every thing was alive,",
+      "ttsText": "flexible, real, alive, that every thing was alive,",
       "role": "paragraph"
     },
     {
@@ -36031,12 +36352,14 @@
       "order": 5684,
       "chapterIndex": 149,
       "text": "Slow-moving and black lines creep over the whole earth—they never",
+      "ttsText": "Slow-moving and black lines creep over the whole earth, they never",
       "role": "paragraph"
     },
     {
       "order": 5685,
       "chapterIndex": 149,
       "text": "cease—they are the burial lines,",
+      "ttsText": "cease, they are the burial lines,",
       "role": "paragraph"
     },
     {
@@ -36139,18 +36462,21 @@
       "order": 5702,
       "chapterIndex": 149,
       "text": "The mound above is flatted with the spades—silence,",
+      "ttsText": "The mound above is flatted with the spades, silence,",
       "role": "paragraph"
     },
     {
       "order": 5703,
       "chapterIndex": 149,
       "text": "A minute—no one moves or speaks—it is done,",
+      "ttsText": "A minute, no one moves or speaks, it is done,",
       "role": "paragraph"
     },
     {
       "order": 5704,
       "chapterIndex": 149,
       "text": "He is decently put away—is there any thing more?",
+      "ttsText": "He is decently put away, is there any thing more?",
       "role": "paragraph"
     },
     {
@@ -36187,6 +36513,7 @@
       "order": 5710,
       "chapterIndex": 149,
       "text": "Died, aged forty-one years—and that was his funeral.",
+      "ttsText": "Died, aged forty-one years, and that was his funeral.",
       "role": "paragraph"
     },
     {
@@ -36337,6 +36664,7 @@
       "order": 5735,
       "chapterIndex": 149,
       "text": "Your farm, profits, crops—to think how engross’d you are,",
+      "ttsText": "Your farm, profits, crops, to think how engross’d you are,",
       "role": "paragraph"
     },
     {
@@ -36847,6 +37175,7 @@
       "order": 5820,
       "chapterIndex": 149,
       "text": "And all preparation is for it—and identity is for it—and life and",
+      "ttsText": "And all preparation is for it, and identity is for it, and life and",
       "role": "paragraph"
     },
     {
@@ -36865,6 +37194,7 @@
       "order": 5823,
       "chapterIndex": 150,
       "text": "BOOK XXX. WHISPERS OF HEAVENLY DEATH",
+      "ttsText": "Book XXX. Whispers of Heavenly Death",
       "role": "heading"
     },
     {
@@ -37093,6 +37423,7 @@
       "order": 5861,
       "chapterIndex": 152,
       "text": "Not Time affects me—I am Time, old, modern as any,",
+      "ttsText": "Not Time affects me, I am Time, old, modern as any,",
       "role": "paragraph"
     },
     {
@@ -37117,12 +37448,14 @@
       "order": 5865,
       "chapterIndex": 152,
       "text": "Relentless I forgive no man—whoever sins dies—I will have that man’s life;",
+      "ttsText": "Relentless I forgive no man, whoever sins dies, I will have that man’s life;",
       "role": "paragraph"
     },
     {
       "order": 5866,
       "chapterIndex": 152,
       "text": "Therefore let none expect mercy—have the seasons, gravitation, the",
+      "ttsText": "Therefore let none expect mercy, have the seasons, gravitation, the",
       "role": "paragraph"
     },
     {
@@ -37177,6 +37510,7 @@
       "order": 5875,
       "chapterIndex": 152,
       "text": "From this side, lo! the Lord Christ gazes—lo! Hermes I—lo! mine is",
+      "ttsText": "From this side, lo! the Lord Christ gazes, lo! Hermes I, lo! mine is",
       "role": "paragraph"
     },
     {
@@ -37261,6 +37595,7 @@
       "order": 5889,
       "chapterIndex": 152,
       "text": "But my charity has no death—my wisdom dies not, neither early nor late,",
+      "ttsText": "But my charity has no death, my wisdom dies not, neither early nor late,",
       "role": "paragraph"
     },
     {
@@ -37585,6 +37920,7 @@
       "order": 5943,
       "chapterIndex": 154,
       "text": "Earth to a chamber of mourning turns—I hear the o’erweening, mocking",
+      "ttsText": "Earth to a chamber of mourning turns, I hear the o’erweening, mocking",
       "role": "paragraph"
     },
     {
@@ -37597,6 +37933,7 @@
       "order": 5945,
       "chapterIndex": 154,
       "text": "Matter is conqueror—matter, triumphant only, continues onward.",
+      "ttsText": "Matter is conqueror, matter, triumphant only, continues onward.",
       "role": "paragraph"
     },
     {
@@ -37645,12 +37982,14 @@
       "order": 5953,
       "chapterIndex": 154,
       "text": "Whither I go from the bed I recline on, come tell me,—",
+      "ttsText": "Whither I go from the bed I recline on, come tell me,,",
       "role": "paragraph"
     },
     {
       "order": 5954,
       "chapterIndex": 154,
       "text": "Old age, alarm’d, uncertain—a young woman’s voice, appealing to",
+      "ttsText": "Old age, alarm’d, uncertain, a young woman’s voice, appealing to",
       "role": "paragraph"
     },
     {
@@ -37951,6 +38290,7 @@
       "order": 6004,
       "chapterIndex": 158,
       "text": "One’s-self must never give way—that is the final substance—that",
+      "ttsText": "One’s-self must never give way, that is the final substance, that",
       "role": "paragraph"
     },
     {
@@ -38065,6 +38405,7 @@
       "order": 6023,
       "chapterIndex": 159,
       "text": "I do not think the performers know themselves—but now I think",
+      "ttsText": "I do not think the performers know themselves, but now I think",
       "role": "paragraph"
     },
     {
@@ -38269,12 +38610,14 @@
       "order": 6057,
       "chapterIndex": 163,
       "text": "You are to die—let others tell you what they please, I cannot prevaricate,",
+      "ttsText": "You are to die, let others tell you what they please, I cannot prevaricate,",
       "role": "paragraph"
     },
     {
       "order": 6058,
       "chapterIndex": 163,
       "text": "I am exact and merciless, but I love you—there is no escape for you.",
+      "ttsText": "I am exact and merciless, but I love you, there is no escape for you.",
       "role": "paragraph"
     },
     {
@@ -38395,6 +38738,7 @@
       "order": 6078,
       "chapterIndex": 164,
       "text": "I walk by myself—I stand and look at the stars, which I think now",
+      "ttsText": "I walk by myself, I stand and look at the stars, which I think now",
       "role": "paragraph"
     },
     {
@@ -38425,6 +38769,7 @@
       "order": 6083,
       "chapterIndex": 164,
       "text": "The same old man and soul—the same old aspirations, and the same content.",
+      "ttsText": "The same old man and soul, the same old aspirations, and the same content.",
       "role": "paragraph"
     },
     {
@@ -38557,6 +38902,7 @@
       "order": 6105,
       "chapterIndex": 165,
       "text": "off the Northeast coast and going down—of the steamship Arctic",
+      "ttsText": "off the Northeast coast and going down, of the steamship Arctic",
       "role": "paragraph"
     },
     {
@@ -38575,12 +38921,14 @@
       "order": 6108,
       "chapterIndex": 165,
       "text": "waiting the moment that draws so close—O the moment!",
+      "ttsText": "waiting the moment that draws so close, O the moment!",
       "role": "paragraph"
     },
     {
       "order": 6109,
       "chapterIndex": 165,
       "text": "A huge sob—a few bubbles—the white foam spirting up—and then the",
+      "ttsText": "A huge sob, a few bubbles, the white foam spirting up, and then the",
       "role": "paragraph"
     },
     {
@@ -38593,6 +38941,7 @@
       "order": 6111,
       "chapterIndex": 165,
       "text": "Sinking there while the passionless wet flows on—and I now",
+      "ttsText": "Sinking there while the passionless wet flows on, and I now",
       "role": "paragraph"
     },
     {
@@ -38659,6 +39008,7 @@
       "order": 6122,
       "chapterIndex": 166,
       "text": "With the key of softness unlock the locks—with a whisper,",
+      "ttsText": "With the key of softness unlock the locks, with a whisper,",
       "role": "paragraph"
     },
     {
@@ -38671,6 +39021,7 @@
       "order": 6124,
       "chapterIndex": 166,
       "text": "Tenderly—be not impatient,",
+      "ttsText": "Tenderly, be not impatient,",
       "role": "paragraph"
     },
     {
@@ -38731,6 +39082,7 @@
       "order": 6134,
       "chapterIndex": 168,
       "text": "BOOK II",
+      "ttsText": "Book II",
       "role": "heading"
     },
     {
@@ -39265,6 +39617,7 @@
       "order": 6223,
       "chapterIndex": 168,
       "text": "Forever and forever—longer than soil is brown and solid—longer",
+      "ttsText": "Forever and forever, longer than soil is brown and solid, longer",
       "role": "paragraph"
     },
     {
@@ -39511,6 +39864,7 @@
       "order": 6264,
       "chapterIndex": 168,
       "text": "I am myself just as much evil as good, and my nation is—and I say",
+      "ttsText": "I am myself just as much evil as good, and my nation is, and I say",
       "role": "paragraph"
     },
     {
@@ -39661,6 +40015,7 @@
       "order": 6289,
       "chapterIndex": 168,
       "text": "It is well—against such I say not a word, I am their poet also,",
+      "ttsText": "It is well, against such I say not a word, I am their poet also,",
       "role": "paragraph"
     },
     {
@@ -39715,6 +40070,7 @@
       "order": 6298,
       "chapterIndex": 168,
       "text": "Listen dear son—listen America, daughter or son,",
+      "ttsText": "Listen dear son, listen America, daughter or son,",
       "role": "paragraph"
     },
     {
@@ -39859,6 +40215,7 @@
       "order": 6322,
       "chapterIndex": 168,
       "text": "O such themes—equalities! O divine average!",
+      "ttsText": "O such themes, equalities! O divine average!",
       "role": "paragraph"
     },
     {
@@ -40801,6 +41158,7 @@
       "order": 6479,
       "chapterIndex": 168,
       "text": "These, my voice announcing—I will sleep no more but arise,",
+      "ttsText": "These, my voice announcing, I will sleep no more but arise,",
       "role": "paragraph"
     },
     {
@@ -40861,6 +41219,7 @@
       "order": 6489,
       "chapterIndex": 168,
       "text": "See, pastures and forests in my poems—see, animals wild and tame—see,",
+      "ttsText": "See, pastures and forests in my poems, see, animals wild and tame, see,",
       "role": "paragraph"
     },
     {
@@ -40885,6 +41244,7 @@
       "order": 6493,
       "chapterIndex": 168,
       "text": "See, the many-cylinder’d steam printing-press—see, the electric",
+      "ttsText": "See, the many-cylinder’d steam printing-press, see, the electric",
       "role": "paragraph"
     },
     {
@@ -40921,6 +41281,7 @@
       "order": 6499,
       "chapterIndex": 168,
       "text": "See, ploughmen ploughing farms—see, miners digging mines—see,",
+      "ttsText": "See, ploughmen ploughing farms, see, miners digging mines, see,",
       "role": "paragraph"
     },
     {
@@ -40933,6 +41294,7 @@
       "order": 6501,
       "chapterIndex": 168,
       "text": "See, mechanics busy at their benches with tools—see from among them",
+      "ttsText": "See, mechanics busy at their benches with tools, see from among them",
       "role": "paragraph"
     },
     {
@@ -40963,6 +41325,7 @@
       "order": 6506,
       "chapterIndex": 168,
       "text": "Hear the loud echoes of my songs there—read the hints come at last.",
+      "ttsText": "Hear the loud echoes of my songs there, read the hints come at last.",
       "role": "paragraph"
     },
     {
@@ -40993,18 +41356,21 @@
       "order": 6511,
       "chapterIndex": 168,
       "text": "O now I triumph—and you shall also;",
+      "ttsText": "O now I triumph, and you shall also;",
       "role": "paragraph"
     },
     {
       "order": 6512,
       "chapterIndex": 168,
       "text": "O hand in hand—O wholesome pleasure—O one more desirer and lover!",
+      "ttsText": "O hand in hand, O wholesome pleasure, O one more desirer and lover!",
       "role": "paragraph"
     },
     {
       "order": 6513,
       "chapterIndex": 168,
       "text": "O to haste firm holding—to haste, haste on with me.",
+      "ttsText": "O to haste firm holding, to haste, haste on with me.",
       "role": "paragraph"
     },
     {
@@ -41059,6 +41425,7 @@
       "order": 6522,
       "chapterIndex": 170,
       "text": "BOOK XXXI",
+      "ttsText": "Book XXXI",
       "role": "heading"
     },
     {
@@ -41323,6 +41690,7 @@
       "order": 6566,
       "chapterIndex": 170,
       "text": "To formulate the Modern—out of the peerless grandeur of the modern,",
+      "ttsText": "To formulate the Modern, out of the peerless grandeur of the modern,",
       "role": "paragraph"
     },
     {
@@ -41335,6 +41703,7 @@
       "order": 6568,
       "chapterIndex": 170,
       "text": "(Recast, may-be discard them, end them—maybe their work is done,",
+      "ttsText": "(Recast, may-be discard them, end them, maybe their work is done,",
       "role": "paragraph"
     },
     {
@@ -41371,6 +41740,7 @@
       "order": 6574,
       "chapterIndex": 170,
       "text": "Thou carefully prepared by it so long—haply thou but unfoldest it,",
+      "ttsText": "Thou carefully prepared by it so long, haply thou but unfoldest it,",
       "role": "paragraph"
     },
     {
@@ -41383,6 +41753,7 @@
       "order": 6576,
       "chapterIndex": 170,
       "text": "It to eventuate in thee—the essence of the by-gone time contain’d in thee,",
+      "ttsText": "It to eventuate in thee, the essence of the by-gone time contain’d in thee,",
       "role": "paragraph"
     },
     {
@@ -41557,6 +41928,7 @@
       "order": 6605,
       "chapterIndex": 170,
       "text": "World of the real—world of the twain in one,",
+      "ttsText": "World of the real, world of the twain in one,",
       "role": "paragraph"
     },
     {
@@ -41713,6 +42085,7 @@
       "order": 6631,
       "chapterIndex": 170,
       "text": "Thee in thy larger, saner brood of female, male—thee in thy",
+      "ttsText": "Thee in thy larger, saner brood of female, male, thee in thy",
       "role": "paragraph"
     },
     {
@@ -41755,6 +42128,7 @@
       "order": 6638,
       "chapterIndex": 170,
       "text": "Thee in thy all-supplying, all-enclosing worship—thee in no single",
+      "ttsText": "Thee in thy all-supplying, all-enclosing worship, thee in no single",
       "role": "paragraph"
     },
     {
@@ -42103,12 +42477,14 @@
       "order": 6696,
       "chapterIndex": 170,
       "text": "Thou mental, moral orb—thou New, indeed new, Spiritual World!",
+      "ttsText": "Thou mental, moral orb, thou New, indeed new, Spiritual World!",
       "role": "paragraph"
     },
     {
       "order": 6697,
       "chapterIndex": 170,
       "text": "The Present holds thee not—for such vast growth as thine,",
+      "ttsText": "The Present holds thee not, for such vast growth as thine,",
       "role": "paragraph"
     },
     {
@@ -42121,6 +42497,7 @@
       "order": 6699,
       "chapterIndex": 170,
       "text": "The FUTURE only holds thee and can hold thee.",
+      "ttsText": "The Future only holds thee and can hold thee.",
       "role": "paragraph"
     },
     {
@@ -42145,12 +42522,14 @@
       "order": 6703,
       "chapterIndex": 171,
       "text": "Ten fishermen waiting—they discover a thick school of mossbonkers",
+      "ttsText": "Ten fishermen waiting, they discover a thick school of mossbonkers",
       "role": "paragraph"
     },
     {
       "order": 6704,
       "chapterIndex": 171,
       "text": "—they drop the join’d seine-ends in the water,",
+      "ttsText": ", they drop the join’d seine-ends in the water,",
       "role": "paragraph"
     },
     {
@@ -42211,6 +42590,7 @@
       "order": 6714,
       "chapterIndex": 172,
       "text": "BOOK XXXII. FROM NOON TO STARRY NIGHT",
+      "ttsText": "Book XXXII. From Noon to Starry Night",
       "role": "heading"
     },
     {
@@ -42295,6 +42675,7 @@
       "order": 6728,
       "chapterIndex": 172,
       "text": "Though answering not in words, the skies, trees, hear his voice—and",
+      "ttsText": "Though answering not in words, the skies, trees, hear his voice, and",
       "role": "paragraph"
     },
     {
@@ -42391,6 +42772,7 @@
       "order": 6744,
       "chapterIndex": 172,
       "text": "Prepare the later afternoon of me myself—prepare my lengthening shadows,",
+      "ttsText": "Prepare the later afternoon of me myself, prepare my lengthening shadows,",
       "role": "paragraph"
     },
     {
@@ -42793,6 +43175,7 @@
       "order": 6811,
       "chapterIndex": 173,
       "text": "Out of this face emerge banners and horses—O superb! I see what is coming,",
+      "ttsText": "Out of this face emerge banners and horses, O superb! I see what is coming,",
       "role": "paragraph"
     },
     {
@@ -42847,6 +43230,7 @@
       "order": 6820,
       "chapterIndex": 173,
       "text": "Off the word I have spoken I except not one—red, white, black, are",
+      "ttsText": "Off the word I have spoken I except not one, red, white, black, are",
       "role": "paragraph"
     },
     {
@@ -43249,6 +43633,7 @@
       "order": 6887,
       "chapterIndex": 174,
       "text": "I see the Crusaders’ tumultuous armies—hark, how the cymbals clang,",
+      "ttsText": "I see the Crusaders’ tumultuous armies, hark, how the cymbals clang,",
       "role": "paragraph"
     },
     {
@@ -43291,6 +43676,7 @@
       "order": 6894,
       "chapterIndex": 174,
       "text": "No other theme but love—knitting, enclosing, all-diffusing love.",
+      "ttsText": "No other theme but love, knitting, enclosing, all-diffusing love.",
       "role": "paragraph"
     },
     {
@@ -43327,12 +43713,14 @@
       "order": 6900,
       "chapterIndex": 174,
       "text": "Love, that is all the earth to lovers—love, that mocks time and space,",
+      "ttsText": "Love, that is all the earth to lovers, love, that mocks time and space,",
       "role": "paragraph"
     },
     {
       "order": 6901,
       "chapterIndex": 174,
       "text": "Love, that is day and night—love, that is sun and moon and stars,",
+      "ttsText": "Love, that is day and night, love, that is sun and moon and stars,",
       "role": "paragraph"
     },
     {
@@ -43357,6 +43745,7 @@
       "order": 6905,
       "chapterIndex": 174,
       "text": "Blow again trumpeter—conjure war’s alarums.",
+      "ttsText": "Blow again trumpeter, conjure war’s alarums.",
       "role": "paragraph"
     },
     {
@@ -43369,6 +43758,7 @@
       "order": 6907,
       "chapterIndex": 174,
       "text": "Lo, where the arm’d men hasten—lo, mid the clouds of dust the glint",
+      "ttsText": "Lo, where the arm’d men hasten, lo, mid the clouds of dust the glint",
       "role": "paragraph"
     },
     {
@@ -43393,6 +43783,7 @@
       "order": 6911,
       "chapterIndex": 174,
       "text": "Nor war alone—thy fearful music-song, wild player, brings every",
+      "ttsText": "Nor war alone, thy fearful music-song, wild player, brings every",
       "role": "paragraph"
     },
     {
@@ -43405,6 +43796,7 @@
       "order": 6913,
       "chapterIndex": 174,
       "text": "The deeds of ruthless brigands, rapine, murder—I hear the cries for help!",
+      "ttsText": "The deeds of ruthless brigands, rapine, murder, I hear the cries for help!",
       "role": "paragraph"
     },
     {
@@ -43435,6 +43827,7 @@
       "order": 6918,
       "chapterIndex": 174,
       "text": "Thou melt’st my heart, my brain—thou movest, drawest, changest",
+      "ttsText": "Thou melt’st my heart, my brain, thou movest, drawest, changest",
       "role": "paragraph"
     },
     {
@@ -43495,6 +43888,7 @@
       "order": 6928,
       "chapterIndex": 174,
       "text": "Utter defeat upon me weighs—all lost—the foe victorious,",
+      "ttsText": "Utter defeat upon me weighs, all lost, the foe victorious,",
       "role": "paragraph"
     },
     {
@@ -43561,24 +43955,28 @@
       "order": 6939,
       "chapterIndex": 174,
       "text": "Marches of victory—man disenthral’d—the conqueror at last,",
+      "ttsText": "Marches of victory, man disenthral’d, the conqueror at last,",
       "role": "paragraph"
     },
     {
       "order": 6940,
       "chapterIndex": 174,
       "text": "Hymns to the universal God from universal man—all joy!",
+      "ttsText": "Hymns to the universal God from universal man, all joy!",
       "role": "paragraph"
     },
     {
       "order": 6941,
       "chapterIndex": 174,
       "text": "A reborn race appears—a perfect world, all joy!",
+      "ttsText": "A reborn race appears, a perfect world, all joy!",
       "role": "paragraph"
     },
     {
       "order": 6942,
       "chapterIndex": 174,
       "text": "Women and men in wisdom innocence and health—all joy!",
+      "ttsText": "Women and men in wisdom innocence and health, all joy!",
       "role": "paragraph"
     },
     {
@@ -43591,12 +43989,14 @@
       "order": 6944,
       "chapterIndex": 174,
       "text": "War, sorrow, suffering gone—the rank earth purged—nothing but joy left!",
+      "ttsText": "War, sorrow, suffering gone, the rank earth purged, nothing but joy left!",
       "role": "paragraph"
     },
     {
       "order": 6945,
       "chapterIndex": 174,
       "text": "The ocean fill’d with joy—the atmosphere all joy!",
+      "ttsText": "The ocean fill’d with joy, the atmosphere all joy!",
       "role": "paragraph"
     },
     {
@@ -43717,6 +44117,7 @@
       "order": 6965,
       "chapterIndex": 175,
       "text": "Type of the modern—emblem of motion and power—pulse of the continent,",
+      "ttsText": "Type of the modern, emblem of motion and power, pulse of the continent,",
       "role": "paragraph"
     },
     {
@@ -43837,12 +44238,14 @@
       "order": 6985,
       "chapterIndex": 176,
       "text": "O dear to me my birth-things—all moving things and the trees where",
+      "ttsText": "O dear to me my birth-things, all moving things and the trees where",
       "role": "paragraph"
     },
     {
       "order": 6986,
       "chapterIndex": 176,
       "text": "I was born—the grains, plants, rivers,",
+      "ttsText": "I was born, the grains, plants, rivers,",
       "role": "paragraph"
     },
     {
@@ -44251,6 +44654,7 @@
       "order": 7054,
       "chapterIndex": 177,
       "text": "A million people—manners free and superb—open voices—hospitality—",
+      "ttsText": "A million people, manners free and superb, open voices, hospitality,",
       "role": "paragraph"
     },
     {
@@ -44407,6 +44811,7 @@
       "order": 7080,
       "chapterIndex": 178,
       "text": "And that there is no flaw or vacuum in the amount of the truth—but",
+      "ttsText": "And that there is no flaw or vacuum in the amount of the truth, but",
       "role": "paragraph"
     },
     {
@@ -44437,6 +44842,7 @@
       "order": 7085,
       "chapterIndex": 179,
       "text": "BOOK III",
+      "ttsText": "Book III",
       "role": "heading"
     },
     {
@@ -44911,6 +45317,7 @@
       "order": 7164,
       "chapterIndex": 179,
       "text": "I am satisfied—I see, dance, laugh, sing;",
+      "ttsText": "I am satisfied, I see, dance, laugh, sing;",
       "role": "paragraph"
     },
     {
@@ -45751,6 +46158,7 @@
       "order": 7304,
       "chapterIndex": 179,
       "text": "I mind them or the show or resonance of them—I come and I depart.",
+      "ttsText": "I mind them or the show or resonance of them, I come and I depart.",
       "role": "paragraph"
     },
     {
@@ -47893,18 +48301,21 @@
       "order": 7661,
       "chapterIndex": 179,
       "text": "Press close bare-bosom’d night—press close magnetic nourishing night!",
+      "ttsText": "Press close bare-bosom’d night, press close magnetic nourishing night!",
       "role": "paragraph"
     },
     {
       "order": 7662,
       "chapterIndex": 179,
       "text": "Night of south winds—night of the large few stars!",
+      "ttsText": "Night of south winds, night of the large few stars!",
       "role": "paragraph"
     },
     {
       "order": 7663,
       "chapterIndex": 179,
       "text": "Still nodding night—mad naked summer night.",
+      "ttsText": "Still nodding night, mad naked summer night.",
       "role": "paragraph"
     },
     {
@@ -47923,6 +48334,7 @@
       "order": 7666,
       "chapterIndex": 179,
       "text": "Earth of departed sunset—earth of the mountains misty-topt!",
+      "ttsText": "Earth of departed sunset, earth of the mountains misty-topt!",
       "role": "paragraph"
     },
     {
@@ -47947,6 +48359,7 @@
       "order": 7670,
       "chapterIndex": 179,
       "text": "Far-swooping elbow’d earth—rich apple-blossom’d earth!",
+      "ttsText": "Far-swooping elbow’d earth, rich apple-blossom’d earth!",
       "role": "paragraph"
     },
     {
@@ -47959,6 +48372,7 @@
       "order": 7672,
       "chapterIndex": 179,
       "text": "Prodigal, you have given me love—therefore I to you give love!",
+      "ttsText": "Prodigal, you have given me love, therefore I to you give love!",
       "role": "paragraph"
     },
     {
@@ -47989,6 +48403,7 @@
       "order": 7677,
       "chapterIndex": 179,
       "text": "You sea! I resign myself to you also—I guess what you mean,",
+      "ttsText": "You sea! I resign myself to you also, I guess what you mean,",
       "role": "paragraph"
     },
     {
@@ -49075,6 +49490,7 @@
       "order": 7858,
       "chapterIndex": 179,
       "text": "Ah this indeed is music—this suits me.",
+      "ttsText": "Ah this indeed is music, this suits me.",
       "role": "paragraph"
     },
     {
@@ -49873,6 +50289,7 @@
       "order": 7991,
       "chapterIndex": 179,
       "text": "By the city’s quadrangular houses—in log huts, camping with lumber-men,",
+      "ttsText": "By the city’s quadrangular houses, in log huts, camping with lumber-men,",
       "role": "paragraph"
     },
     {
@@ -51127,6 +51544,7 @@
       "order": 8200,
       "chapterIndex": 179,
       "text": "He gasps through the clot Mind not me—mind—the entrenchments.",
+      "ttsText": "He gasps through the clot Mind not me, mind, the entrenchments.",
       "role": "paragraph"
     },
     {
@@ -52039,6 +52457,7 @@
       "order": 8352,
       "chapterIndex": 179,
       "text": "Flaunt of the sunshine I need not your bask—lie over!",
+      "ttsText": "Flaunt of the sunshine I need not your bask, lie over!",
       "role": "paragraph"
     },
     {
@@ -52219,6 +52638,7 @@
       "order": 8382,
       "chapterIndex": 179,
       "text": "Sleep—I and they keep guard all night,",
+      "ttsText": "Sleep, I and they keep guard all night,",
       "role": "paragraph"
     },
     {
@@ -52273,6 +52693,7 @@
       "order": 8391,
       "chapterIndex": 179,
       "text": "It is middling well as far as it goes—but is that all?",
+      "ttsText": "It is middling well as far as it goes, but is that all?",
       "role": "paragraph"
     },
     {
@@ -52699,6 +53120,7 @@
       "order": 8462,
       "chapterIndex": 180,
       "text": "How all superbest deeds since Time began are traceable to it—and",
+      "ttsText": "How all superbest deeds since Time began are traceable to it, and",
       "role": "paragraph"
     },
     {
@@ -52795,6 +53217,7 @@
       "order": 8478,
       "chapterIndex": 181,
       "text": "And who has been happiest? O I think it is I—I think no one was",
+      "ttsText": "And who has been happiest? O I think it is I, I think no one was",
       "role": "paragraph"
     },
     {
@@ -52819,6 +53242,7 @@
       "order": 8482,
       "chapterIndex": 181,
       "text": "alive—for I am the son of the brawny and tall-topt city,",
+      "ttsText": "alive, for I am the son of the brawny and tall-topt city,",
       "role": "paragraph"
     },
     {
@@ -53011,12 +53435,14 @@
       "order": 8514,
       "chapterIndex": 183,
       "text": "Of the frivolous Judge—of the corrupt Congressman, Governor,",
+      "ttsText": "Of the frivolous Judge, of the corrupt Congressman, Governor,",
       "role": "paragraph"
     },
     {
       "order": 8515,
       "chapterIndex": 183,
       "text": "Mayor—of such as these standing helpless and exposed,",
+      "ttsText": "Mayor, of such as these standing helpless and exposed,",
       "role": "paragraph"
     },
     {
@@ -53053,6 +53479,7 @@
       "order": 8521,
       "chapterIndex": 183,
       "text": "Of the true New World—of the Democracies resplendent en-masse,",
+      "ttsText": "Of the true New World, of the Democracies resplendent en-masse,",
       "role": "paragraph"
     },
     {
@@ -53065,6 +53492,7 @@
       "order": 8523,
       "chapterIndex": 183,
       "text": "Of the shining sun by them—of the inherent light, greater than the rest,",
+      "ttsText": "Of the shining sun by them, of the inherent light, greater than the rest,",
       "role": "paragraph"
     },
     {
@@ -53305,6 +53733,7 @@
       "order": 8563,
       "chapterIndex": 186,
       "text": "Lo, Freedom’s features fresh undimm’d look forth—the same immortal",
+      "ttsText": "Lo, Freedom’s features fresh undimm’d look forth, the same immortal",
       "role": "paragraph"
     },
     {
@@ -53347,6 +53776,7 @@
       "order": 8570,
       "chapterIndex": 186,
       "text": "Ah, but thou hast thyself now appear’d to us—we know thee,",
+      "ttsText": "Ah, but thou hast thyself now appear’d to us, we know thee,",
       "role": "paragraph"
     },
     {
@@ -53743,6 +54173,7 @@
       "order": 8636,
       "chapterIndex": 189,
       "text": "Onward I sped at the time—but now of their forms at night,",
+      "ttsText": "Onward I sped at the time, but now of their forms at night,",
       "role": "paragraph"
     },
     {
@@ -53803,6 +54234,7 @@
       "order": 8646,
       "chapterIndex": 190,
       "text": "Easily written loose-finger’d chords—I feel the thrum of your",
+      "ttsText": "Easily written loose-finger’d chords, I feel the thrum of your",
       "role": "paragraph"
     },
     {
@@ -54025,6 +54457,7 @@
       "order": 8683,
       "chapterIndex": 190,
       "text": "This printed and bound book—but the printer and the",
+      "ttsText": "This printed and bound book, but the printer and the",
       "role": "paragraph"
     },
     {
@@ -54037,6 +54470,7 @@
       "order": 8685,
       "chapterIndex": 190,
       "text": "The well-taken photographs—but your wife or friend close and solid",
+      "ttsText": "The well-taken photographs, but your wife or friend close and solid",
       "role": "paragraph"
     },
     {
@@ -54049,6 +54483,7 @@
       "order": 8687,
       "chapterIndex": 190,
       "text": "The black ship mail’d with iron, her mighty guns in her turrets—but",
+      "ttsText": "The black ship mail’d with iron, her mighty guns in her turrets, but",
       "role": "paragraph"
     },
     {
@@ -54061,6 +54496,7 @@
       "order": 8689,
       "chapterIndex": 190,
       "text": "In the houses the dishes and fare and furniture—but the host and",
+      "ttsText": "In the houses the dishes and fare and furniture, but the host and",
       "role": "paragraph"
     },
     {
@@ -54073,18 +54509,21 @@
       "order": 8691,
       "chapterIndex": 190,
       "text": "The sky up there—yet here or next door, or across the way?",
+      "ttsText": "The sky up there, yet here or next door, or across the way?",
       "role": "paragraph"
     },
     {
       "order": 8692,
       "chapterIndex": 190,
       "text": "The saints and sages in history—but you yourself?",
+      "ttsText": "The saints and sages in history, but you yourself?",
       "role": "paragraph"
     },
     {
       "order": 8693,
       "chapterIndex": 190,
       "text": "Sermons, creeds, theology—but the fathomless human brain,",
+      "ttsText": "Sermons, creeds, theology, but the fathomless human brain,",
       "role": "paragraph"
     },
     {
@@ -54427,6 +54866,7 @@
       "order": 8750,
       "chapterIndex": 190,
       "text": "It is time to explain myself—let us stand up.",
+      "ttsText": "It is time to explain myself, let us stand up.",
       "role": "paragraph"
     },
     {
@@ -54445,6 +54885,7 @@
       "order": 8753,
       "chapterIndex": 190,
       "text": "The clock indicates the moment—but what does eternity indicate?",
+      "ttsText": "The clock indicates the moment, but what does eternity indicate?",
       "role": "paragraph"
     },
     {
@@ -54559,6 +55000,7 @@
       "order": 8772,
       "chapterIndex": 190,
       "text": "Long I was hugg’d close—long and long.",
+      "ttsText": "Long I was hugg’d close, long and long.",
       "role": "paragraph"
     },
     {
@@ -55627,6 +56069,7 @@
       "order": 8950,
       "chapterIndex": 190,
       "text": "O suns—O grass of graves—O perpetual transfers and promotions,",
+      "ttsText": "O suns, O grass of graves, O perpetual transfers and promotions,",
       "role": "paragraph"
     },
     {
@@ -55651,6 +56094,7 @@
       "order": 8954,
       "chapterIndex": 190,
       "text": "Toss, sparkles of day and dusk—toss on the black stems that decay",
+      "ttsText": "Toss, sparkles of day and dusk, toss on the black stems that decay",
       "role": "paragraph"
     },
     {
@@ -55693,24 +56137,28 @@
       "order": 8961,
       "chapterIndex": 190,
       "text": "There is that in me—I do not know what it is—but I know it is in me.",
+      "ttsText": "There is that in me, I do not know what it is, but I know it is in me.",
       "role": "paragraph"
     },
     {
       "order": 8962,
       "chapterIndex": 190,
       "text": "Wrench’d and sweaty—calm and cool then my body becomes,",
+      "ttsText": "Wrench’d and sweaty, calm and cool then my body becomes,",
       "role": "paragraph"
     },
     {
       "order": 8963,
       "chapterIndex": 190,
       "text": "I sleep—I sleep long.",
+      "ttsText": "I sleep, I sleep long.",
       "role": "paragraph"
     },
     {
       "order": 8964,
       "chapterIndex": 190,
       "text": "I do not know it—it is without name—it is a word unsaid,",
+      "ttsText": "I do not know it, it is without name, it is a word unsaid,",
       "role": "paragraph"
     },
     {
@@ -55747,12 +56195,14 @@
       "order": 8970,
       "chapterIndex": 190,
       "text": "It is not chaos or death—it is form, union, plan—it is eternal",
+      "ttsText": "It is not chaos or death, it is form, union, plan, it is eternal",
       "role": "paragraph"
     },
     {
       "order": 8971,
       "chapterIndex": 190,
       "text": "life—it is Happiness.",
+      "ttsText": "life, it is Happiness.",
       "role": "paragraph"
     },
     {
@@ -55765,6 +56215,7 @@
       "order": 8973,
       "chapterIndex": 190,
       "text": "The past and present wilt—I have fill’d them, emptied them.",
+      "ttsText": "The past and present wilt, I have fill’d them, emptied them.",
       "role": "paragraph"
     },
     {
@@ -55963,6 +56414,7 @@
       "order": 9006,
       "chapterIndex": 191,
       "text": "Long yet your road, fateful flag—long yet your road, and lined with",
+      "ttsText": "Long yet your road, fateful flag, long yet your road, and lined with",
       "role": "paragraph"
     },
     {
@@ -55993,6 +56445,7 @@
       "order": 9011,
       "chapterIndex": 191,
       "text": "O hasten flag of man—O with sure and steady step, passing highest",
+      "ttsText": "O hasten flag of man, O with sure and steady step, passing highest",
       "role": "paragraph"
     },
     {
@@ -56005,6 +56458,7 @@
       "order": 9013,
       "chapterIndex": 191,
       "text": "Walk supreme to the heavens mighty symbol—run up above them all,",
+      "ttsText": "Walk supreme to the heavens mighty symbol, run up above them all,",
       "role": "paragraph"
     },
     {
@@ -56023,7 +56477,8 @@
       "order": 9016,
       "chapterIndex": 191,
       "text": "[To U. S. G. return’d from his World’s Tour]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "[To U.S.G.return’d from his World’s Tour]"
     },
     {
       "order": 9017,
@@ -56143,6 +56598,7 @@
       "order": 9036,
       "chapterIndex": 191,
       "text": "I know thee, savage spirit—we have communed together,",
+      "ttsText": "I know thee, savage spirit, we have communed together,",
       "role": "paragraph"
     },
     {
@@ -56167,6 +56623,7 @@
       "order": 9040,
       "chapterIndex": 191,
       "text": "The lyrist’s measur’d beat, the wrought-out temple’s grace—column",
+      "ttsText": "The lyrist’s measur’d beat, the wrought-out temple’s grace, column",
       "role": "paragraph"
     },
     {
@@ -56179,6 +56636,7 @@
       "order": 9042,
       "chapterIndex": 191,
       "text": "But thou that revelest here—spirit that form’d this scene,",
+      "ttsText": "But thou that revelest here, spirit that form’d this scene,",
       "role": "paragraph"
     },
     {
@@ -56299,6 +56757,7 @@
       "order": 9062,
       "chapterIndex": 192,
       "text": "They stand for realities—all is as it should be.",
+      "ttsText": "They stand for realities, all is as it should be.",
       "role": "paragraph"
     },
     {
@@ -56401,6 +56860,7 @@
       "order": 9079,
       "chapterIndex": 194,
       "text": "BOOK XXXIII. SONGS OF PARTING",
+      "ttsText": "Book XXXIII. Songs of Parting",
       "role": "heading"
     },
     {
@@ -56455,6 +56915,7 @@
       "order": 9088,
       "chapterIndex": 194,
       "text": "Must we barely arrive at this beginning of us? —and yet it is",
+      "ttsText": "Must we barely arrive at this beginning of us?, and yet it is",
       "role": "paragraph"
     },
     {
@@ -56467,6 +56928,7 @@
       "order": 9090,
       "chapterIndex": 194,
       "text": "O soul, we have positively appear’d—that is enough.",
+      "ttsText": "O soul, we have positively appear’d, that is enough.",
       "role": "paragraph"
     },
     {
@@ -56911,12 +57373,14 @@
       "order": 9164,
       "chapterIndex": 196,
       "text": "Follow me ever—desert me not while I live.",
+      "ttsText": "Follow me ever, desert me not while I live.",
       "role": "paragraph"
     },
     {
       "order": 9165,
       "chapterIndex": 196,
       "text": "Sweet are the blooming cheeks of the living—sweet are the musical",
+      "ttsText": "Sweet are the blooming cheeks of the living, sweet are the musical",
       "role": "paragraph"
     },
     {
@@ -56941,6 +57405,7 @@
       "order": 9169,
       "chapterIndex": 196,
       "text": "But love is not over—and what love, O comrades!",
+      "ttsText": "But love is not over, and what love, O comrades!",
       "role": "paragraph"
     },
     {
@@ -56971,6 +57436,7 @@
       "order": 9174,
       "chapterIndex": 196,
       "text": "Perfume all—make all wholesome,",
+      "ttsText": "Perfume all, make all wholesome,",
       "role": "paragraph"
     },
     {
@@ -57049,6 +57515,7 @@
       "order": 9187,
       "chapterIndex": 197,
       "text": "fulfilment, the absolute success, despite of people—illustrates",
+      "ttsText": "fulfilment, the absolute success, despite of people, illustrates",
       "role": "paragraph"
     },
     {
@@ -57103,6 +57570,7 @@
       "order": 9196,
       "chapterIndex": 197,
       "text": "How the great cities appear—how the Democratic masses, turbulent,",
+      "ttsText": "How the great cities appear, how the Democratic masses, turbulent,",
       "role": "paragraph"
     },
     {
@@ -57157,6 +57625,7 @@
       "order": 9205,
       "chapterIndex": 197,
       "text": "And how the States are complete in themselves—and how all triumphs",
+      "ttsText": "And how the States are complete in themselves, and how all triumphs",
       "role": "paragraph"
     },
     {
@@ -57187,6 +57656,7 @@
       "order": 9210,
       "chapterIndex": 197,
       "text": "serve—and how every fact, and war itself, with all its horrors,",
+      "ttsText": "serve, and how every fact, and war itself, with all its horrors,",
       "role": "paragraph"
     },
     {
@@ -57253,6 +57723,7 @@
       "order": 9221,
       "chapterIndex": 197,
       "text": "Of what the feuillage of America is the preparation for—and of what",
+      "ttsText": "Of what the feuillage of America is the preparation for, and of what",
       "role": "paragraph"
     },
     {
@@ -57283,6 +57754,7 @@
       "order": 9226,
       "chapterIndex": 197,
       "text": "Of the present, passing, departing—of the growth of completer men",
+      "ttsText": "Of the present, passing, departing, of the growth of completer men",
       "role": "paragraph"
     },
     {
@@ -57367,6 +57839,7 @@
       "order": 9240,
       "chapterIndex": 197,
       "text": "(O it lurks in me night and day—what is gain after all to savageness",
+      "ttsText": "(O it lurks in me night and day, what is gain after all to savageness",
       "role": "paragraph"
     },
     {
@@ -57463,6 +57936,7 @@
       "order": 9256,
       "chapterIndex": 198,
       "text": "Illustrious the passing light—illustrious the pale reflection on",
+      "ttsText": "Illustrious the passing light, illustrious the pale reflection on",
       "role": "paragraph"
     },
     {
@@ -57547,6 +58021,7 @@
       "order": 9270,
       "chapterIndex": 198,
       "text": "To speak—to walk—to seize something by the hand!",
+      "ttsText": "To speak, to walk, to seize something by the hand!",
       "role": "paragraph"
     },
     {
@@ -57625,6 +58100,7 @@
       "order": 9283,
       "chapterIndex": 198,
       "text": "O amazement of things—even the least particle!",
+      "ttsText": "O amazement of things, even the least particle!",
       "role": "paragraph"
     },
     {
@@ -57961,6 +58437,7 @@
       "order": 9339,
       "chapterIndex": 201,
       "text": "BOOK IV. CHILDREN OF ADAM",
+      "ttsText": "Book IV. Children of Adam",
       "role": "heading"
     },
     {
@@ -58129,6 +58606,7 @@
       "order": 9367,
       "chapterIndex": 202,
       "text": "My dead absorb or South or North—my young men’s bodies absorb,",
+      "ttsText": "My dead absorb or South or North, my young men’s bodies absorb,",
       "role": "paragraph"
     },
     {
@@ -58429,6 +58907,7 @@
       "order": 9417,
       "chapterIndex": 204,
       "text": "The passionate toll and clang—city to city, joining, sounding, passing,",
+      "ttsText": "The passionate toll and clang, city to city, joining, sounding, passing,",
       "role": "paragraph"
     },
     {
@@ -58459,6 +58938,7 @@
       "order": 9422,
       "chapterIndex": 205,
       "text": "Of what underlies the precedent songs—of my aims in them,",
+      "ttsText": "Of what underlies the precedent songs, of my aims in them,",
       "role": "paragraph"
     },
     {
@@ -58495,6 +58975,7 @@
       "order": 9428,
       "chapterIndex": 205,
       "text": "To Nature encompassing these, encompassing God—to the joyous,",
+      "ttsText": "To Nature encompassing these, encompassing God, to the joyous,",
       "role": "paragraph"
     },
     {
@@ -58951,6 +59432,7 @@
       "order": 9504,
       "chapterIndex": 211,
       "text": "O thicker and faster—(So long!)",
+      "ttsText": "O thicker and faster, (So long!)",
       "role": "paragraph"
     },
     {
@@ -58981,6 +59463,7 @@
       "order": 9509,
       "chapterIndex": 211,
       "text": "Salute me—salute the days once more. Peal the old cry once more.",
+      "ttsText": "Salute me, salute the days once more. Peal the old cry once more.",
       "role": "paragraph"
     },
     {
@@ -59053,6 +59536,7 @@
       "order": 9521,
       "chapterIndex": 211,
       "text": "To young men my problems offering—no dallier I—I the muscle of",
+      "ttsText": "To young men my problems offering, no dallier I, I the muscle of",
       "role": "paragraph"
     },
     {
@@ -59149,6 +59633,7 @@
       "order": 9537,
       "chapterIndex": 211,
       "text": "I spring from the pages into your arms—decease calls me forth.",
+      "ttsText": "I spring from the pages into your arms, decease calls me forth.",
       "role": "paragraph"
     },
     {
@@ -59191,6 +59676,7 @@
       "order": 9544,
       "chapterIndex": 211,
       "text": "Enough O gliding present—enough O summ’d-up past.",
+      "ttsText": "Enough O gliding present, enough O summ’d-up past.",
       "role": "paragraph"
     },
     {
@@ -59683,6 +60169,7 @@
       "order": 9626,
       "chapterIndex": 213,
       "text": "BOOK XXXIV. SANDS AT SEVENTY",
+      "ttsText": "Book XXXIV. Sands at Seventy",
       "role": "heading"
     },
     {
@@ -59707,6 +60194,7 @@
       "order": 9630,
       "chapterIndex": 213,
       "text": "A rocky founded island—shores where ever gayly dash the coming,",
+      "ttsText": "A rocky founded island, shores where ever gayly dash the coming,",
       "role": "paragraph"
     },
     {
@@ -59749,6 +60237,7 @@
       "order": 9637,
       "chapterIndex": 214,
       "text": "And one the Atlantic’s wind caressing, fierce or gentle—mighty hulls",
+      "ttsText": "And one the Atlantic’s wind caressing, fierce or gentle, mighty hulls",
       "role": "paragraph"
     },
     {
@@ -59761,6 +60250,7 @@
       "order": 9639,
       "chapterIndex": 214,
       "text": "Isle of sweet brooks of drinking-water—healthy air and soil!",
+      "ttsText": "Isle of sweet brooks of drinking-water, healthy air and soil!",
       "role": "paragraph"
     },
     {
@@ -59803,6 +60293,7 @@
       "order": 9646,
       "chapterIndex": 215,
       "text": "The wild unrest, the snowy, curling caps—that inbound urge and urge",
+      "ttsText": "The wild unrest, the snowy, curling caps, that inbound urge and urge",
       "role": "paragraph"
     },
     {
@@ -59845,6 +60336,7 @@
       "order": 9653,
       "chapterIndex": 216,
       "text": "To calm, devoted engineers—to over-ardent travelers—to pilots on",
+      "ttsText": "To calm, devoted engineers, to over-ardent travelers, to pilots on",
       "role": "paragraph"
     },
     {
@@ -59857,6 +60349,7 @@
       "order": 9655,
       "chapterIndex": 216,
       "text": "To many a lofty song and picture without recognition—I’d rear",
+      "ttsText": "To many a lofty song and picture without recognition, I’d rear",
       "role": "paragraph"
     },
     {
@@ -59869,6 +60362,7 @@
       "order": 9657,
       "chapterIndex": 216,
       "text": "High, high above the rest—To all cut off before their time,",
+      "ttsText": "High, high above the rest, To all cut off before their time,",
       "role": "paragraph"
     },
     {
@@ -59899,6 +60393,7 @@
       "order": 9662,
       "chapterIndex": 217,
       "text": "A carol closing sixty-nine—a resume—a repetition,",
+      "ttsText": "A carol closing sixty-nine, a resume, a repetition,",
       "role": "paragraph"
     },
     {
@@ -59917,12 +60412,14 @@
       "order": 9665,
       "chapterIndex": 217,
       "text": "Of you, my Land—your rivers, prairies, States—you, mottled Flag I love,",
+      "ttsText": "Of you, my Land, your rivers, prairies, States, you, mottled Flag I love,",
       "role": "paragraph"
     },
     {
       "order": 9666,
       "chapterIndex": 217,
       "text": "Your aggregate retain’d entire—Of north, south, east and west, your",
+      "ttsText": "Your aggregate retain’d entire, Of north, south, east and west, your",
       "role": "paragraph"
     },
     {
@@ -59935,12 +60432,14 @@
       "order": 9668,
       "chapterIndex": 217,
       "text": "Of me myself—the jocund heart yet beating in my breast,",
+      "ttsText": "Of me myself, the jocund heart yet beating in my breast,",
       "role": "paragraph"
     },
     {
       "order": 9669,
       "chapterIndex": 217,
       "text": "The body wreck’d, old, poor and paralyzed—the strange inertia",
+      "ttsText": "The body wreck’d, old, poor and paralyzed, the strange inertia",
       "role": "paragraph"
     },
     {
@@ -59959,6 +60458,7 @@
       "order": 9672,
       "chapterIndex": 217,
       "text": "The undiminish’d faith—the groups of loving friends.",
+      "ttsText": "The undiminish’d faith, the groups of loving friends.",
       "role": "paragraph"
     },
     {
@@ -60007,6 +60507,7 @@
       "order": 9680,
       "chapterIndex": 219,
       "text": "This latent mine—these unlaunch’d voices—passionate powers,",
+      "ttsText": "This latent mine, these unlaunch’d voices, passionate powers,",
       "role": "paragraph"
     },
     {
@@ -60139,6 +60640,7 @@
       "order": 9702,
       "chapterIndex": 222,
       "text": "Thou dim, uncertain spectre—bringest thou life or death?",
+      "ttsText": "Thou dim, uncertain spectre, bringest thou life or death?",
       "role": "paragraph"
     },
     {
@@ -60649,6 +61151,7 @@
       "order": 9787,
       "chapterIndex": 224,
       "text": "Such-like I love—I loosen myself, pass freely, am at the mother’s",
+      "ttsText": "Such-like I love, I loosen myself, pass freely, am at the mother’s",
       "role": "paragraph"
     },
     {
@@ -60973,6 +61476,7 @@
       "order": 9841,
       "chapterIndex": 224,
       "text": "This the nucleus—after the child is born of woman, man is born of woman,",
+      "ttsText": "This the nucleus, after the child is born of woman, man is born of woman,",
       "role": "paragraph"
     },
     {
@@ -61141,6 +61645,7 @@
       "order": 9869,
       "chapterIndex": 224,
       "text": "No matter who it is, it is sacred—is it the meanest one in the",
+      "ttsText": "No matter who it is, it is sacred, is it the meanest one in the",
       "role": "paragraph"
     },
     {
@@ -61837,6 +62342,7 @@
       "order": 9985,
       "chapterIndex": 225,
       "text": "Once living men—once resolute courage, aspiration, strength,",
+      "ttsText": "Once living men, once resolute courage, aspiration, strength,",
       "role": "paragraph"
     },
     {
@@ -61873,6 +62379,7 @@
       "order": 9991,
       "chapterIndex": 226,
       "text": "Forth from its sunny nook of shelter’d grass—innocent, golden, calm",
+      "ttsText": "Forth from its sunny nook of shelter’d grass, innocent, golden, calm",
       "role": "paragraph"
     },
     {
@@ -61957,12 +62464,14 @@
       "order": 10005,
       "chapterIndex": 228,
       "text": "The wanderings as in dreams—the meditation of old times resumed",
+      "ttsText": "The wanderings as in dreams, the meditation of old times resumed",
       "role": "paragraph"
     },
     {
       "order": 10006,
       "chapterIndex": 228,
       "text": "—their loves, joys, persons, voyages.",
+      "ttsText": ", their loves, joys, persons, voyages.",
       "role": "paragraph"
     },
     {
@@ -61987,6 +62496,7 @@
       "order": 10010,
       "chapterIndex": 229,
       "text": "The course of Time and nations—Egypt, India, Greece and Rome;",
+      "ttsText": "The course of Time and nations, Egypt, India, Greece and Rome;",
       "role": "paragraph"
     },
     {
@@ -62005,6 +62515,7 @@
       "order": 10013,
       "chapterIndex": 229,
       "text": "Garner’d for now and thee—To think of it!",
+      "ttsText": "Garner’d for now and thee, To think of it!",
       "role": "paragraph"
     },
     {
@@ -62065,12 +62576,14 @@
       "order": 10023,
       "chapterIndex": 231,
       "text": "To-day, from each and all, a breath of prayer—a pulse of thought,",
+      "ttsText": "To-day, from each and all, a breath of prayer, a pulse of thought,",
       "role": "paragraph"
     },
     {
       "order": 10024,
       "chapterIndex": 231,
       "text": "To memory of Him—to birth of Him.",
+      "ttsText": "To memory of Him, to birth of Him.",
       "role": "paragraph"
     },
     {
@@ -62185,6 +62698,7 @@
       "order": 10043,
       "chapterIndex": 233,
       "text": "FANCIES AT NAVESINK",
+      "ttsText": "Fancies at Navesink",
       "role": "title"
     },
     {
@@ -62197,6 +62711,7 @@
       "order": 10045,
       "chapterIndex": 233,
       "text": "Steaming the northern rapids—(an old St. Lawrence reminiscence,",
+      "ttsText": "Steaming the northern rapids, (an old St. Lawrence reminiscence,",
       "role": "paragraph"
     },
     {
@@ -62215,12 +62730,14 @@
       "order": 10048,
       "chapterIndex": 233,
       "text": "Again ’tis just at morning—a heavy haze contends with daybreak,",
+      "ttsText": "Again ’tis just at morning, a heavy haze contends with daybreak,",
       "role": "paragraph"
     },
     {
       "order": 10049,
       "chapterIndex": 233,
       "text": "Again the trembling, laboring vessel veers me—I press through",
+      "ttsText": "Again the trembling, laboring vessel veers me, I press through",
       "role": "paragraph"
     },
     {
@@ -62263,12 +62780,14 @@
       "order": 10056,
       "chapterIndex": 233,
       "text": "Homer with all his wars and warriors—Hector, Achilles, Ajax,",
+      "ttsText": "Homer with all his wars and warriors, Hector, Achilles, Ajax,",
       "role": "paragraph"
     },
     {
       "order": 10057,
       "chapterIndex": 233,
       "text": "Or Shakspere’s woe-entangled Hamlet, Lear, Othello—Tennyson’s fair ladies,",
+      "ttsText": "Or Shakspere’s woe-entangled Hamlet, Lear, Othello, Tennyson’s fair ladies,",
       "role": "paragraph"
     },
     {
@@ -62347,6 +62866,7 @@
       "order": 10070,
       "chapterIndex": 233,
       "text": "What central heart—and you the pulse—vivifies all? what boundless",
+      "ttsText": "What central heart, and you the pulse, vivifies all? what boundless",
       "role": "paragraph"
     },
     {
@@ -62371,6 +62891,7 @@
       "order": 10074,
       "chapterIndex": 233,
       "text": "Holding the universe with all its parts as one—as sailing in a ship?",
+      "ttsText": "Holding the universe with all its parts as one, as sailing in a ship?",
       "role": "paragraph"
     },
     {
@@ -62401,6 +62922,7 @@
       "order": 10079,
       "chapterIndex": 233,
       "text": "Many a muffled confession—many a sob and whisper’d word,",
+      "ttsText": "Many a muffled confession, many a sob and whisper’d word,",
       "role": "paragraph"
     },
     {
@@ -62419,12 +62941,14 @@
       "order": 10082,
       "chapterIndex": 233,
       "text": "Poets unnamed—artists greatest of any, with cherish’d lost designs,",
+      "ttsText": "Poets unnamed, artists greatest of any, with cherish’d lost designs,",
       "role": "paragraph"
     },
     {
       "order": 10083,
       "chapterIndex": 233,
       "text": "Love’s unresponse—a chorus of age’s complaints—hope’s last words,",
+      "ttsText": "Love’s unresponse, a chorus of age’s complaints, hope’s last words,",
       "role": "paragraph"
     },
     {
@@ -62473,6 +62997,7 @@
       "order": 10091,
       "chapterIndex": 233,
       "text": "Nor you, ye lost designs alone—nor failures, aspirations;",
+      "ttsText": "Nor you, ye lost designs alone, nor failures, aspirations;",
       "role": "paragraph"
     },
     {
@@ -62485,6 +63010,7 @@
       "order": 10093,
       "chapterIndex": 233,
       "text": "Duly by you, from you, the tide and light again—duly the hinges turning,",
+      "ttsText": "Duly by you, from you, the tide and light again, duly the hinges turning,",
       "role": "paragraph"
     },
     {
@@ -62527,18 +63053,21 @@
       "order": 10100,
       "chapterIndex": 233,
       "text": "All throbs, dilates—the farms, woods, streets of cities—workmen at work,",
+      "ttsText": "All throbs, dilates, the farms, woods, streets of cities, workmen at work,",
       "role": "paragraph"
     },
     {
       "order": 10101,
       "chapterIndex": 233,
       "text": "Mainsails, topsails, jibs, appear in the offing—steamers’ pennants",
+      "ttsText": "Mainsails, topsails, jibs, appear in the offing, steamers’ pennants",
       "role": "paragraph"
     },
     {
       "order": 10102,
       "chapterIndex": 233,
       "text": "of smoke—and under the forenoon sun,",
+      "ttsText": "of smoke, and under the forenoon sun,",
       "role": "paragraph"
     },
     {
@@ -62575,12 +63104,14 @@
       "order": 10108,
       "chapterIndex": 233,
       "text": "In every crest some undulating light or shade—some retrospect,",
+      "ttsText": "In every crest some undulating light or shade, some retrospect,",
       "role": "paragraph"
     },
     {
       "order": 10109,
       "chapterIndex": 233,
       "text": "Joys, travels, studies, silent panoramas—scenes ephemeral,",
+      "ttsText": "Joys, travels, studies, silent panoramas, scenes ephemeral,",
       "role": "paragraph"
     },
     {
@@ -62593,6 +63124,7 @@
       "order": 10111,
       "chapterIndex": 233,
       "text": "Myself through every by-gone phase—my idle youth—old age at hand,",
+      "ttsText": "Myself through every by-gone phase, my idle youth, old age at hand,",
       "role": "paragraph"
     },
     {
@@ -62611,6 +63143,7 @@
       "order": 10114,
       "chapterIndex": 233,
       "text": "And haply yet some drop within God’s scheme’s ensemble—some",
+      "ttsText": "And haply yet some drop within God’s scheme’s ensemble, some",
       "role": "paragraph"
     },
     {
@@ -62677,6 +63210,7 @@
       "order": 10125,
       "chapterIndex": 234,
       "text": "’Twould not be you, Niagara—nor you, ye limitless prairies—nor",
+      "ttsText": "’Twould not be you, Niagara, nor you, ye limitless prairies, nor",
       "role": "paragraph"
     },
     {
@@ -62689,6 +63223,7 @@
       "order": 10127,
       "chapterIndex": 234,
       "text": "Nor you, Yosemite—nor Yellowstone, with all its spasmic",
+      "ttsText": "Nor you, Yosemite, nor Yellowstone, with all its spasmic",
       "role": "paragraph"
     },
     {
@@ -62701,6 +63236,7 @@
       "order": 10129,
       "chapterIndex": 234,
       "text": "Nor Oregon’s white cones—nor Huron’s belt of mighty lakes—nor",
+      "ttsText": "Nor Oregon’s white cones, nor Huron’s belt of mighty lakes, nor",
       "role": "paragraph"
     },
     {
@@ -62713,18 +63249,21 @@
       "order": 10131,
       "chapterIndex": 234,
       "text": "—This seething hemisphere’s humanity, as now, I’d name—the still",
+      "ttsText": ", This seething hemisphere’s humanity, as now, I’d name, the still",
       "role": "paragraph"
     },
     {
       "order": 10132,
       "chapterIndex": 234,
       "text": "small voice vibrating—America’s choosing day,",
+      "ttsText": "small voice vibrating, America’s choosing day,",
       "role": "paragraph"
     },
     {
       "order": 10133,
       "chapterIndex": 234,
       "text": "(The heart of it not in the chosen—the act itself the main, the",
+      "ttsText": "(The heart of it not in the chosen, the act itself the main, the",
       "role": "paragraph"
     },
     {
@@ -62737,24 +63276,28 @@
       "order": 10135,
       "chapterIndex": 234,
       "text": "The stretch of North and South arous’d—sea-board and inland—",
+      "ttsText": "The stretch of North and South arous’d, sea-board and inland,",
       "role": "paragraph"
     },
     {
       "order": 10136,
       "chapterIndex": 234,
       "text": "Texas to Maine—the Prairie States—Vermont, Virginia, California,",
+      "ttsText": "Texas to Maine, the Prairie States, Vermont, Virginia, California,",
       "role": "paragraph"
     },
     {
       "order": 10137,
       "chapterIndex": 234,
       "text": "The final ballot-shower from East to West—the paradox and conflict,",
+      "ttsText": "The final ballot-shower from East to West, the paradox and conflict,",
       "role": "paragraph"
     },
     {
       "order": 10138,
       "chapterIndex": 234,
       "text": "The countless snow-flakes falling—(a swordless conflict,",
+      "ttsText": "The countless snow-flakes falling, (a swordless conflict,",
       "role": "paragraph"
     },
     {
@@ -62773,12 +63316,14 @@
       "order": 10141,
       "chapterIndex": 234,
       "text": "Or good or ill humanity—welcoming the darker odds, the dross:",
+      "ttsText": "Or good or ill humanity, welcoming the darker odds, the dross:",
       "role": "paragraph"
     },
     {
       "order": 10142,
       "chapterIndex": 234,
       "text": "—Foams and ferments the wine? it serves to purify—while the heart",
+      "ttsText": ", Foams and ferments the wine? it serves to purify, while the heart",
       "role": "paragraph"
     },
     {
@@ -62953,6 +63498,7 @@
       "order": 10171,
       "chapterIndex": 235,
       "text": "They are ultimate in their own right—they are calm, clear,",
+      "ttsText": "They are ultimate in their own right, they are calm, clear,",
       "role": "paragraph"
     },
     {
@@ -63169,6 +63715,7 @@
       "order": 10207,
       "chapterIndex": 236,
       "text": "Thy brooding scowl and murk—thy unloos’d hurricanes,",
+      "ttsText": "Thy brooding scowl and murk, thy unloos’d hurricanes,",
       "role": "paragraph"
     },
     {
@@ -63181,6 +63728,7 @@
       "order": 10209,
       "chapterIndex": 236,
       "text": "Great as thou art above the rest, thy many tears—a lack from all",
+      "ttsText": "Great as thou art above the rest, thy many tears, a lack from all",
       "role": "paragraph"
     },
     {
@@ -63199,12 +63747,14 @@
       "order": 10212,
       "chapterIndex": 236,
       "text": "greatest—no less could make thee,)",
+      "ttsText": "greatest, no less could make thee,)",
       "role": "paragraph"
     },
     {
       "order": 10213,
       "chapterIndex": 236,
       "text": "Thy lonely state—something thou ever seek’st and seek’st, yet",
+      "ttsText": "Thy lonely state, something thou ever seek’st and seek’st, yet",
       "role": "paragraph"
     },
     {
@@ -63217,6 +63767,7 @@
       "order": 10215,
       "chapterIndex": 236,
       "text": "Surely some right withheld—some voice, in huge monotonous rage, of",
+      "ttsText": "Surely some right withheld, some voice, in huge monotonous rage, of",
       "role": "paragraph"
     },
     {
@@ -63259,6 +63810,7 @@
       "order": 10222,
       "chapterIndex": 236,
       "text": "(Sounding, appealing to the sky’s deaf ear—but now, rapport for once,",
+      "ttsText": "(Sounding, appealing to the sky’s deaf ear, but now, rapport for once,",
       "role": "paragraph"
     },
     {
@@ -63319,6 +63871,7 @@
       "order": 10232,
       "chapterIndex": 237,
       "text": "That lurid, partial act of war and peace—of old and new contending,",
+      "ttsText": "That lurid, partial act of war and peace, of old and new contending,",
       "role": "paragraph"
     },
     {
@@ -63331,24 +63884,28 @@
       "order": 10234,
       "chapterIndex": 237,
       "text": "All past—and since, in countless graves receding, mellowing,",
+      "ttsText": "All past, and since, in countless graves receding, mellowing,",
       "role": "paragraph"
     },
     {
       "order": 10235,
       "chapterIndex": 237,
       "text": "Victor’s and vanquish’d—Lincoln’s and Lee’s—now thou with them,",
+      "ttsText": "Victor’s and vanquish’d, Lincoln’s and Lee’s, now thou with them,",
       "role": "paragraph"
     },
     {
       "order": 10236,
       "chapterIndex": 237,
       "text": "Man of the mighty days—and equal to the days!",
+      "ttsText": "Man of the mighty days, and equal to the days!",
       "role": "paragraph"
     },
     {
       "order": 10237,
       "chapterIndex": 237,
       "text": "Thou from the prairies!—tangled and many-vein’d and hard has been thy part,",
+      "ttsText": "Thou from the prairies!, tangled and many-vein’d and hard has been thy part,",
       "role": "paragraph"
     },
     {
@@ -63385,6 +63942,7 @@
       "order": 10243,
       "chapterIndex": 238,
       "text": "(Nor in caprice alone—some grains of deepest meaning,)",
+      "ttsText": "(Nor in caprice alone, some grains of deepest meaning,)",
       "role": "paragraph"
     },
     {
@@ -63403,6 +63961,7 @@
       "order": 10246,
       "chapterIndex": 238,
       "text": "Product of Nature’s sun, stars, earth direct—a towering human form,",
+      "ttsText": "Product of Nature’s sun, stars, earth direct, a towering human form,",
       "role": "paragraph"
     },
     {
@@ -63445,6 +64004,7 @@
       "order": 10253,
       "chapterIndex": 239,
       "text": "Far from its base and shaft expanding—the round zones circling,",
+      "ttsText": "Far from its base and shaft expanding, the round zones circling,",
       "role": "paragraph"
     },
     {
@@ -63457,6 +64017,7 @@
       "order": 10255,
       "chapterIndex": 239,
       "text": "Thou, Washington, art all the world’s, the continents’ entire—not",
+      "ttsText": "Thou, Washington, art all the world’s, the continents’ entire, not",
       "role": "paragraph"
     },
     {
@@ -63475,6 +64036,7 @@
       "order": 10258,
       "chapterIndex": 239,
       "text": "Or frozen North, or sultry South—the African’s—the Arab’s in his tent,",
+      "ttsText": "Or frozen North, or sultry South, the African’s, the Arab’s in his tent,",
       "role": "paragraph"
     },
     {
@@ -63487,6 +64049,7 @@
       "order": 10260,
       "chapterIndex": 239,
       "text": "(Greets the antique the hero new? ’tis but the same—the heir",
+      "ttsText": "(Greets the antique the hero new? ’tis but the same, the heir",
       "role": "paragraph"
     },
     {
@@ -63499,12 +64062,14 @@
       "order": 10262,
       "chapterIndex": 239,
       "text": "The indomitable heart and arm—proofs of the never-broken line,",
+      "ttsText": "The indomitable heart and arm, proofs of the never-broken line,",
       "role": "paragraph"
     },
     {
       "order": 10263,
       "chapterIndex": 239,
       "text": "Courage, alertness, patience, faith, the same—e’en in defeat",
+      "ttsText": "Courage, alertness, patience, faith, the same, e’en in defeat",
       "role": "paragraph"
     },
     {
@@ -63529,6 +64094,7 @@
       "order": 10267,
       "chapterIndex": 239,
       "text": "Now, or to come, or past—where patriot wills existed or exist,",
+      "ttsText": "Now, or to come, or past, where patriot wills existed or exist,",
       "role": "paragraph"
     },
     {
@@ -63565,18 +64131,21 @@
       "order": 10273,
       "chapterIndex": 240,
       "text": "I’ll mind the lesson, solitary bird—let me too welcome chilling drifts,",
+      "ttsText": "I’ll mind the lesson, solitary bird, let me too welcome chilling drifts,",
       "role": "paragraph"
     },
     {
       "order": 10274,
       "chapterIndex": 240,
       "text": "E’en the profoundest chill, as now—a torpid pulse, a brain unnerv’d,",
+      "ttsText": "E’en the profoundest chill, as now, a torpid pulse, a brain unnerv’d,",
       "role": "paragraph"
     },
     {
       "order": 10275,
       "chapterIndex": 240,
       "text": "Old age land-lock’d within its winter bay—(cold, cold, O cold!)",
+      "ttsText": "Old age land-lock’d within its winter bay, (cold, cold, O cold!)",
       "role": "paragraph"
     },
     {
@@ -63595,6 +64164,7 @@
       "order": 10278,
       "chapterIndex": 240,
       "text": "Not summer’s zones alone—not chants of youth, or south’s warm tides alone,",
+      "ttsText": "Not summer’s zones alone, not chants of youth, or south’s warm tides alone,",
       "role": "paragraph"
     },
     {
@@ -63649,6 +64219,7 @@
       "order": 10287,
       "chapterIndex": 241,
       "text": "What curious questioning glances—glints of love!",
+      "ttsText": "What curious questioning glances, glints of love!",
       "role": "paragraph"
     },
     {
@@ -63661,6 +64232,7 @@
       "order": 10289,
       "chapterIndex": 241,
       "text": "Thou portal—thou arena—thou of the myriad long-drawn lines and groups!",
+      "ttsText": "Thou portal, thou arena, thou of the myriad long-drawn lines and groups!",
       "role": "paragraph"
     },
     {
@@ -63673,6 +64245,7 @@
       "order": 10291,
       "chapterIndex": 241,
       "text": "Thy windows rich, and huge hotels—thy side-walks wide;)",
+      "ttsText": "Thy windows rich, and huge hotels, thy side-walks wide;)",
       "role": "paragraph"
     },
     {
@@ -63685,6 +64258,7 @@
       "order": 10293,
       "chapterIndex": 241,
       "text": "Thou, like the parti-colored world itself—like infinite, teeming,",
+      "ttsText": "Thou, like the parti-colored world itself, like infinite, teeming,",
       "role": "paragraph"
     },
     {
@@ -63721,6 +64295,7 @@
       "order": 10299,
       "chapterIndex": 242,
       "text": "To penetrate the inmost lore of poets—to know the mighty ones,",
+      "ttsText": "To penetrate the inmost lore of poets, to know the mighty ones,",
       "role": "paragraph"
     },
     {
@@ -63733,6 +64308,7 @@
       "order": 10301,
       "chapterIndex": 242,
       "text": "To diagnose the shifting-delicate tints of love and pride and doubt—",
+      "ttsText": "To diagnose the shifting-delicate tints of love and pride and doubt,",
       "role": "paragraph"
     },
     {
@@ -63781,6 +64357,7 @@
       "order": 10309,
       "chapterIndex": 243,
       "text": "(Had been a sailor all his life—was nearly 90—lived with his",
+      "ttsText": "(Had been a sailor all his life, was nearly 90, lived with his",
       "role": "paragraph"
     },
     {
@@ -63829,6 +64406,7 @@
       "order": 10317,
       "chapterIndex": 243,
       "text": "Watching the coming, going of the vessels, he mutters to himself—",
+      "ttsText": "Watching the coming, going of the vessels, he mutters to himself,",
       "role": "paragraph"
     },
     {
@@ -63841,6 +64419,7 @@
       "order": 10319,
       "chapterIndex": 243,
       "text": "One struggling outbound brig, one day, baffled for long—cross-tides",
+      "ttsText": "One struggling outbound brig, one day, baffled for long, cross-tides",
       "role": "paragraph"
     },
     {
@@ -63871,6 +64450,7 @@
       "order": 10324,
       "chapterIndex": 243,
       "text": "“She’s free—she’s on her destination\"—these the last words—when",
+      "ttsText": "“She’s free, she’s on her destination\", these the last words, when",
       "role": "paragraph"
     },
     {
@@ -63925,12 +64505,14 @@
       "order": 10333,
       "chapterIndex": 244,
       "text": "(So firm—so liquid-soft—again that tremulous, manly timbre!",
+      "ttsText": "(So firm, so liquid-soft, again that tremulous, manly timbre!",
       "role": "paragraph"
     },
     {
       "order": 10334,
       "chapterIndex": 244,
       "text": "The perfect singing voice—deepest of all to me the lesson—trial",
+      "ttsText": "The perfect singing voice, deepest of all to me the lesson, trial",
       "role": "paragraph"
     },
     {
@@ -63943,6 +64525,7 @@
       "order": 10336,
       "chapterIndex": 244,
       "text": "How through those strains distill’d—how the rapt ears, the soul of",
+      "ttsText": "How through those strains distill’d, how the rapt ears, the soul of",
       "role": "paragraph"
     },
     {
@@ -64015,6 +64598,7 @@
       "order": 10348,
       "chapterIndex": 245,
       "text": "No birth, identity, form—no object of the world.",
+      "ttsText": "No birth, identity, form, no object of the world.",
       "role": "paragraph"
     },
     {
@@ -64033,12 +64617,14 @@
       "order": 10351,
       "chapterIndex": 245,
       "text": "Ample are time and space—ample the fields of Nature.",
+      "ttsText": "Ample are time and space, ample the fields of Nature.",
       "role": "paragraph"
     },
     {
       "order": 10352,
       "chapterIndex": 245,
       "text": "The body, sluggish, aged, cold—the embers left from earlier fires,",
+      "ttsText": "The body, sluggish, aged, cold, the embers left from earlier fires,",
       "role": "paragraph"
     },
     {
@@ -64495,6 +65081,7 @@
       "order": 10428,
       "chapterIndex": 246,
       "text": "It has done its work—I toss it carelessly to fall where it may.",
+      "ttsText": "It has done its work, I toss it carelessly to fall where it may.",
       "role": "paragraph"
     },
     {
@@ -64513,6 +65100,7 @@
       "order": 10431,
       "chapterIndex": 247,
       "text": "A song, a poem of itself—the word itself a dirge,",
+      "ttsText": "A song, a poem of itself, the word itself a dirge,",
       "role": "paragraph"
     },
     {
@@ -64531,6 +65119,7 @@
       "order": 10434,
       "chapterIndex": 247,
       "text": "Yonnondio—I see, far in the west or north, a limitless ravine, with",
+      "ttsText": "Yonnondio, I see, far in the west or north, a limitless ravine, with",
       "role": "paragraph"
     },
     {
@@ -64573,12 +65162,14 @@
       "order": 10441,
       "chapterIndex": 247,
       "text": "Yonnondio! Yonnondio!—unlimn’d they disappear;",
+      "ttsText": "Yonnondio! Yonnondio!, unlimn’d they disappear;",
       "role": "paragraph"
     },
     {
       "order": 10442,
       "chapterIndex": 247,
       "text": "To-day gives place, and fades—the cities, farms, factories fade;",
+      "ttsText": "To-day gives place, and fades, the cities, farms, factories fade;",
       "role": "paragraph"
     },
     {
@@ -64621,6 +65212,7 @@
       "order": 10449,
       "chapterIndex": 248,
       "text": "(Have former armies fail’d? then we send fresh armies—and fresh again;)",
+      "ttsText": "(Have former armies fail’d? then we send fresh armies, and fresh again;)",
       "role": "paragraph"
     },
     {
@@ -64651,6 +65243,7 @@
       "order": 10454,
       "chapterIndex": 248,
       "text": "Struggling to-day the same—battling the same.",
+      "ttsText": "Struggling to-day the same, battling the same.",
       "role": "paragraph"
     },
     {
@@ -64675,12 +65268,14 @@
       "order": 10458,
       "chapterIndex": 249,
       "text": "(Now buried in an English grave—and this a memory-leaf for her dear sake,)",
+      "ttsText": "(Now buried in an English grave, and this a memory-leaf for her dear sake,)",
       "role": "paragraph"
     },
     {
       "order": 10459,
       "chapterIndex": 249,
       "text": "Ended our talk—\"The sum, concluding all we know of old or modern",
+      "ttsText": "Ended our talk, \"The sum, concluding all we know of old or modern",
       "role": "paragraph"
     },
     {
@@ -64693,6 +65288,7 @@
       "order": 10461,
       "chapterIndex": 249,
       "text": "“Of all Geologies—Histories—of all Astronomy—of Evolution,",
+      "ttsText": "“Of all Geologies, Histories, of all Astronomy, of Evolution,",
       "role": "paragraph"
     },
     {
@@ -64723,12 +65319,14 @@
       "order": 10466,
       "chapterIndex": 249,
       "text": "“The world, the race, the soul—in space and time the universes,",
+      "ttsText": "“The world, the race, the soul, in space and time the universes,",
       "role": "paragraph"
     },
     {
       "order": 10467,
       "chapterIndex": 249,
       "text": "“All bound as is befitting each—all surely going somewhere.”",
+      "ttsText": "“All bound as is befitting each, all surely going somewhere.”",
       "role": "paragraph"
     },
     {
@@ -64747,6 +65345,7 @@
       "order": 10470,
       "chapterIndex": 250,
       "text": "Small the theme of my Chant, yet the greatest—namely, One’s-Self—",
+      "ttsText": "Small the theme of my Chant, yet the greatest, namely, One’s-Self,",
       "role": "paragraph"
     },
     {
@@ -64765,6 +65364,7 @@
       "order": 10473,
       "chapterIndex": 250,
       "text": "nor brain alone, is worthy for the Muse;—I say the Form complete",
+      "ttsText": "nor brain alone, is worthy for the Muse;, I say the Form complete",
       "role": "paragraph"
     },
     {
@@ -64789,6 +65389,7 @@
       "order": 10477,
       "chapterIndex": 250,
       "text": "My Days I sing, and the Lands—with interstice I knew of hapless War.",
+      "ttsText": "My Days I sing, and the Lands, with interstice I knew of hapless War.",
       "role": "paragraph"
     },
     {
@@ -64849,12 +65450,14 @@
       "order": 10487,
       "chapterIndex": 251,
       "text": "Enough that they’ve survived at all—long life’s unflinching ones!",
+      "ttsText": "Enough that they’ve survived at all, long life’s unflinching ones!",
       "role": "paragraph"
     },
     {
       "order": 10488,
       "chapterIndex": 251,
       "text": "Forth from their struggles, trials, fights, to have emerged at all—",
+      "ttsText": "Forth from their struggles, trials, fights, to have emerged at all,",
       "role": "paragraph"
     },
     {
@@ -64963,30 +65566,35 @@
       "order": 10506,
       "chapterIndex": 254,
       "text": "Thanks in old age—thanks ere I go,",
+      "ttsText": "Thanks in old age, thanks ere I go,",
       "role": "paragraph"
     },
     {
       "order": 10507,
       "chapterIndex": 254,
       "text": "For health, the midday sun, the impalpable air—for life, mere life,",
+      "ttsText": "For health, the midday sun, the impalpable air, for life, mere life,",
       "role": "paragraph"
     },
     {
       "order": 10508,
       "chapterIndex": 254,
       "text": "For precious ever-lingering memories, (of you my mother dear—you,",
+      "ttsText": "For precious ever-lingering memories, (of you my mother dear, you,",
       "role": "paragraph"
     },
     {
       "order": 10509,
       "chapterIndex": 254,
       "text": "father—you, brothers, sisters, friends,)",
+      "ttsText": "father, you, brothers, sisters, friends,)",
       "role": "paragraph"
     },
     {
       "order": 10510,
       "chapterIndex": 254,
       "text": "For all my days—not those of peace alone—the days of war the same,",
+      "ttsText": "For all my days, not those of peace alone, the days of war the same,",
       "role": "paragraph"
     },
     {
@@ -64999,12 +65607,14 @@
       "order": 10512,
       "chapterIndex": 254,
       "text": "For shelter, wine and meat—for sweet appreciation,",
+      "ttsText": "For shelter, wine and meat, for sweet appreciation,",
       "role": "paragraph"
     },
     {
       "order": 10513,
       "chapterIndex": 254,
       "text": "(You distant, dim unknown—or young or old—countless, unspecified,",
+      "ttsText": "(You distant, dim unknown, or young or old, countless, unspecified,",
       "role": "paragraph"
     },
     {
@@ -65017,6 +65627,7 @@
       "order": 10515,
       "chapterIndex": 254,
       "text": "We never met, and neer shall meet—and yet our souls embrace, long,",
+      "ttsText": "We never met, and neer shall meet, and yet our souls embrace, long,",
       "role": "paragraph"
     },
     {
@@ -65029,12 +65640,14 @@
       "order": 10517,
       "chapterIndex": 254,
       "text": "For beings, groups, love, deeds, words, books—for colors, forms,",
+      "ttsText": "For beings, groups, love, deeds, words, books, for colors, forms,",
       "role": "paragraph"
     },
     {
       "order": 10518,
       "chapterIndex": 254,
       "text": "For all the brave strong men—devoted, hardy men—who’ve forward",
+      "ttsText": "For all the brave strong men, devoted, hardy men, who’ve forward",
       "role": "paragraph"
     },
     {
@@ -65047,6 +65660,7 @@
       "order": 10520,
       "chapterIndex": 254,
       "text": "For braver, stronger, more devoted men—(a special laurel ere I go,",
+      "ttsText": "For braver, stronger, more devoted men, (a special laurel ere I go,",
       "role": "paragraph"
     },
     {
@@ -65059,6 +65673,7 @@
       "order": 10522,
       "chapterIndex": 254,
       "text": "The cannoneers of song and thought—the great artillerists—the",
+      "ttsText": "The cannoneers of song and thought, the great artillerists, the",
       "role": "paragraph"
     },
     {
@@ -65071,6 +65686,7 @@
       "order": 10524,
       "chapterIndex": 254,
       "text": "As soldier from an ended war return’d—As traveler out of myriads,",
+      "ttsText": "As soldier from an ended war return’d, As traveler out of myriads,",
       "role": "paragraph"
     },
     {
@@ -65083,6 +65699,7 @@
       "order": 10526,
       "chapterIndex": 254,
       "text": "Thanks—joyful thanks!—a soldier’s, traveler’s thanks.",
+      "ttsText": "Thanks, joyful thanks!, a soldier’s, traveler’s thanks.",
       "role": "paragraph"
     },
     {
@@ -65119,6 +65736,7 @@
       "order": 10532,
       "chapterIndex": 255,
       "text": "To ours to-day—and we pass on the same.",
+      "ttsText": "To ours to-day, and we pass on the same.",
       "role": "paragraph"
     },
     {
@@ -65407,6 +66025,7 @@
       "order": 10580,
       "chapterIndex": 258,
       "text": "Soon shall these icy ligatures unbind and melt—A little while,",
+      "ttsText": "Soon shall these icy ligatures unbind and melt, A little while,",
       "role": "paragraph"
     },
     {
@@ -65419,6 +66038,7 @@
       "order": 10582,
       "chapterIndex": 258,
       "text": "growth—a thousand forms shall rise",
+      "ttsText": "growth, a thousand forms shall rise",
       "role": "paragraph"
     },
     {
@@ -65431,6 +66051,7 @@
       "order": 10584,
       "chapterIndex": 258,
       "text": "Thine eyes, ears—all thy best attributes—all that takes cognizance",
+      "ttsText": "Thine eyes, ears, all thy best attributes, all that takes cognizance",
       "role": "paragraph"
     },
     {
@@ -65473,6 +66094,7 @@
       "order": 10591,
       "chapterIndex": 258,
       "text": "With these the robin, lark and thrush, singing their songs—the",
+      "ttsText": "With these the robin, lark and thrush, singing their songs, the",
       "role": "paragraph"
     },
     {
@@ -65509,6 +66131,7 @@
       "order": 10597,
       "chapterIndex": 259,
       "text": "To-day, at least, contention sunk entire—peace, brotherhood uprisen;",
+      "ttsText": "To-day, at least, contention sunk entire, peace, brotherhood uprisen;",
       "role": "paragraph"
     },
     {
@@ -65527,6 +66150,7 @@
       "order": 10600,
       "chapterIndex": 259,
       "text": "(Nor for the past alone—for meanings to the future,)",
+      "ttsText": "(Nor for the past alone, for meanings to the future,)",
       "role": "paragraph"
     },
     {
@@ -65563,12 +66187,14 @@
       "order": 10606,
       "chapterIndex": 260,
       "text": "I cast a reminiscence—(likely ’twill offend you,",
+      "ttsText": "I cast a reminiscence, (likely ’twill offend you,",
       "role": "paragraph"
     },
     {
       "order": 10607,
       "chapterIndex": 260,
       "text": "I heard it in my boyhood;)—More than a generation since,",
+      "ttsText": "I heard it in my boyhood;), More than a generation since,",
       "role": "paragraph"
     },
     {
@@ -65587,6 +66213,7 @@
       "order": 10610,
       "chapterIndex": 260,
       "text": "Had fought in the ranks—fought well—had been all through the",
+      "ttsText": "Had fought in the ranks, fought well, had been all through the",
       "role": "paragraph"
     },
     {
@@ -65599,6 +66226,7 @@
       "order": 10612,
       "chapterIndex": 260,
       "text": "Lay dying—sons, daughters, church-deacons, lovingly tending him,",
+      "ttsText": "Lay dying, sons, daughters, church-deacons, lovingly tending him,",
       "role": "paragraph"
     },
     {
@@ -65617,6 +66245,7 @@
       "order": 10615,
       "chapterIndex": 260,
       "text": "To the sights and scenes—to forming the line of battle,",
+      "ttsText": "To the sights and scenes, to forming the line of battle,",
       "role": "paragraph"
     },
     {
@@ -65653,6 +66282,7 @@
       "order": 10621,
       "chapterIndex": 260,
       "text": "Away with your life of peace!—your joys of peace!",
+      "ttsText": "Away with your life of peace!, your joys of peace!",
       "role": "paragraph"
     },
     {
@@ -65737,12 +66367,14 @@
       "order": 10635,
       "chapterIndex": 262,
       "text": "The light, the general air possess’d by them—colors till now unknown,",
+      "ttsText": "The light, the general air possess’d by them, colors till now unknown,",
       "role": "paragraph"
     },
     {
       "order": 10636,
       "chapterIndex": 262,
       "text": "No limit, confine—not the Western sky alone—the high meridian—",
+      "ttsText": "No limit, confine, not the Western sky alone, the high meridian,",
       "role": "paragraph"
     },
     {
@@ -65797,24 +66429,28 @@
       "order": 10645,
       "chapterIndex": 263,
       "text": "While he the globe was circling round and round, —and now returns:",
+      "ttsText": "While he the globe was circling round and round,, and now returns:",
       "role": "paragraph"
     },
     {
       "order": 10646,
       "chapterIndex": 263,
       "text": "How changed the place—all the old land-marks gone—the parents dead;",
+      "ttsText": "How changed the place, all the old land-marks gone, the parents dead;",
       "role": "paragraph"
     },
     {
       "order": 10647,
       "chapterIndex": 263,
       "text": "(Yes, he comes back to lay in port for good—to settle—has a",
+      "ttsText": "(Yes, he comes back to lay in port for good, to settle, has a",
       "role": "paragraph"
     },
     {
       "order": 10648,
       "chapterIndex": 263,
       "text": "well-fill’d purse—no spot will do but this;)",
+      "ttsText": "well-fill’d purse, no spot will do but this;)",
       "role": "paragraph"
     },
     {
@@ -65839,6 +66475,7 @@
       "order": 10652,
       "chapterIndex": 263,
       "text": "I scan the face all berry-brown and bearded—the stout-strong frame,",
+      "ttsText": "I scan the face all berry-brown and bearded, the stout-strong frame,",
       "role": "paragraph"
     },
     {
@@ -65929,6 +66566,7 @@
       "order": 10667,
       "chapterIndex": 265,
       "text": "The sun just gone, the eager light dispell’d—(I too will soon be",
+      "ttsText": "The sun just gone, the eager light dispell’d, (I too will soon be",
       "role": "paragraph"
     },
     {
@@ -65941,6 +66579,7 @@
       "order": 10669,
       "chapterIndex": 265,
       "text": "A haze—nirwana—rest and night—oblivion.",
+      "ttsText": "A haze, nirwana, rest and night, oblivion.",
       "role": "paragraph"
     },
     {
@@ -65971,18 +66610,21 @@
       "order": 10674,
       "chapterIndex": 266,
       "text": "You tokens diminute and lorn—(not now the flush of May, or July",
+      "ttsText": "You tokens diminute and lorn, (not now the flush of May, or July",
       "role": "paragraph"
     },
     {
       "order": 10675,
       "chapterIndex": 266,
       "text": "clover-bloom—no grain of August now;)",
+      "ttsText": "clover-bloom, no grain of August now;)",
       "role": "paragraph"
     },
     {
       "order": 10676,
       "chapterIndex": 266,
       "text": "You pallid banner-staves—you pennants valueless—you overstay’d of time,",
+      "ttsText": "You pallid banner-staves, you pennants valueless, you overstay’d of time,",
       "role": "paragraph"
     },
     {
@@ -65995,6 +66637,7 @@
       "order": 10678,
       "chapterIndex": 266,
       "text": "The faithfulest—hardiest—last.",
+      "ttsText": "The faithfulest, hardiest, last.",
       "role": "paragraph"
     },
     {
@@ -66031,18 +66674,21 @@
       "order": 10684,
       "chapterIndex": 267,
       "text": "summer—bursting forth,",
+      "ttsText": "summer, bursting forth,",
       "role": "paragraph"
     },
     {
       "order": 10685,
       "chapterIndex": 267,
       "text": "To verdant leaves, or sheltering shade—to nourishing fruit,",
+      "ttsText": "To verdant leaves, or sheltering shade, to nourishing fruit,",
       "role": "paragraph"
     },
     {
       "order": 10686,
       "chapterIndex": 267,
       "text": "Apples and grapes—the stalwart limbs of trees emerging—the fresh,",
+      "ttsText": "Apples and grapes, the stalwart limbs of trees emerging, the fresh,",
       "role": "paragraph"
     },
     {
@@ -66139,6 +66785,7 @@
       "order": 10702,
       "chapterIndex": 268,
       "text": "Be not impatient—a little space—know you I salute the air, the",
+      "ttsText": "Be not impatient, a little space, know you I salute the air, the",
       "role": "paragraph"
     },
     {
@@ -66175,6 +66822,7 @@
       "order": 10708,
       "chapterIndex": 269,
       "text": "Less for the mighty crown laid low in sorrow—less for the Emperor,",
+      "ttsText": "Less for the mighty crown laid low in sorrow, less for the Emperor,",
       "role": "paragraph"
     },
     {
@@ -66187,6 +66835,7 @@
       "order": 10710,
       "chapterIndex": 269,
       "text": "Mourning a good old man—a faithful shepherd, patriot.",
+      "ttsText": "Mourning a good old man, a faithful shepherd, patriot.",
       "role": "paragraph"
     },
     {
@@ -66301,6 +66950,7 @@
       "order": 10729,
       "chapterIndex": 272,
       "text": "Now precedent songs, farewell—by every name farewell,",
+      "ttsText": "Now precedent songs, farewell, by every name farewell,",
       "role": "paragraph"
     },
     {
@@ -66313,6 +66963,7 @@
       "order": 10731,
       "chapterIndex": 272,
       "text": "From ups and downs—with intervals—from elder years, mid-age, or youth,)",
+      "ttsText": "From ups and downs, with intervals, from elder years, mid-age, or youth,)",
       "role": "paragraph"
     },
     {
@@ -66349,6 +67000,7 @@
       "order": 10737,
       "chapterIndex": 272,
       "text": "From fibre heart of mine—from throat and tongue—(My life’s hot",
+      "ttsText": "From fibre heart of mine, from throat and tongue, (My life’s hot",
       "role": "paragraph"
     },
     {
@@ -66361,6 +67013,7 @@
       "order": 10739,
       "chapterIndex": 272,
       "text": "The personal urge and form for me—not merely paper, automatic type",
+      "ttsText": "The personal urge and form for me, not merely paper, automatic type",
       "role": "paragraph"
     },
     {
@@ -66373,6 +67026,7 @@
       "order": 10741,
       "chapterIndex": 272,
       "text": "Each song of mine—each utterance in the past—having its long, long",
+      "ttsText": "Each song of mine, each utterance in the past, having its long, long",
       "role": "paragraph"
     },
     {
@@ -66457,12 +67111,14 @@
       "order": 10755,
       "chapterIndex": 274,
       "text": "The touch of flame—the illuminating fire—the loftiest look at last,",
+      "ttsText": "The touch of flame, the illuminating fire, the loftiest look at last,",
       "role": "paragraph"
     },
     {
       "order": 10756,
       "chapterIndex": 274,
       "text": "O’er city, passion, sea—o’er prairie, mountain, wood—the earth itself,",
+      "ttsText": "O’er city, passion, sea, o’er prairie, mountain, wood, the earth itself,",
       "role": "paragraph"
     },
     {
@@ -66481,6 +67137,7 @@
       "order": 10759,
       "chapterIndex": 274,
       "text": "The calmer sight—the golden setting, clear and broad:",
+      "ttsText": "The calmer sight, the golden setting, clear and broad:",
       "role": "paragraph"
     },
     {
@@ -66499,12 +67156,14 @@
       "order": 10762,
       "chapterIndex": 274,
       "text": "Bro’t out by them alone—so much (perhaps the best) unreck’d before;",
+      "ttsText": "Bro’t out by them alone, so much (perhaps the best) unreck’d before;",
       "role": "paragraph"
     },
     {
       "order": 10763,
       "chapterIndex": 274,
       "text": "The lights indeed from them—old age’s lambent peaks.",
+      "ttsText": "The lights indeed from them, old age’s lambent peaks.",
       "role": "paragraph"
     },
     {
@@ -66523,6 +67182,7 @@
       "order": 10766,
       "chapterIndex": 275,
       "text": "After the supper and talk—after the day is done,",
+      "ttsText": "After the supper and talk, after the day is done,",
       "role": "paragraph"
     },
     {
@@ -66541,6 +67201,7 @@
       "order": 10769,
       "chapterIndex": 275,
       "text": "(So hard for his hand to release those hands—no more will they meet,",
+      "ttsText": "(So hard for his hand to release those hands, no more will they meet,",
       "role": "paragraph"
     },
     {
@@ -66559,6 +67220,7 @@
       "order": 10772,
       "chapterIndex": 275,
       "text": "Shunning, postponing severance—seeking to ward off the last word",
+      "ttsText": "Shunning, postponing severance, seeking to ward off the last word",
       "role": "paragraph"
     },
     {
@@ -66571,6 +67233,7 @@
       "order": 10774,
       "chapterIndex": 275,
       "text": "E’en at the exit-door turning—charges superfluous calling back—",
+      "ttsText": "E’en at the exit-door turning, charges superfluous calling back,",
       "role": "paragraph"
     },
     {
@@ -66583,18 +67246,21 @@
       "order": 10776,
       "chapterIndex": 275,
       "text": "Something to eke out a minute additional—shadows of nightfall deepening,",
+      "ttsText": "Something to eke out a minute additional, shadows of nightfall deepening,",
       "role": "paragraph"
     },
     {
       "order": 10777,
       "chapterIndex": 275,
       "text": "Farewells, messages lessening—dimmer the forthgoer’s visage and form,",
+      "ttsText": "Farewells, messages lessening, dimmer the forthgoer’s visage and form,",
       "role": "paragraph"
     },
     {
       "order": 10778,
       "chapterIndex": 275,
       "text": "Soon to be lost for aye in the darkness—loth, O so loth to depart!",
+      "ttsText": "Soon to be lost for aye in the darkness, loth, O so loth to depart!",
       "role": "paragraph"
     },
     {
@@ -66613,6 +67279,7 @@
       "order": 10781,
       "chapterIndex": 276,
       "text": "BOOKXXXV. GOOD-BYE MY FANCY",
+      "ttsText": "Bookxxxv. Good-Bye My Fancy",
       "role": "title"
     },
     {
@@ -66631,6 +67298,7 @@
       "order": 10784,
       "chapterIndex": 276,
       "text": "Raise main-sail and jib—steer forth,",
+      "ttsText": "Raise main-sail and jib, steer forth,",
       "role": "paragraph"
     },
     {
@@ -66655,6 +67323,7 @@
       "order": 10788,
       "chapterIndex": 276,
       "text": "Depart, depart from solid earth—no more returning to these shores,",
+      "ttsText": "Depart, depart from solid earth, no more returning to these shores,",
       "role": "paragraph"
     },
     {
@@ -66709,6 +67378,7 @@
       "order": 10797,
       "chapterIndex": 277,
       "text": "That we linger’d and lagg’d—but were wafted at last, and are now here,",
+      "ttsText": "That we linger’d and lagg’d, but were wafted at last, and are now here,",
       "role": "paragraph"
     },
     {
@@ -66733,18 +67403,21 @@
       "order": 10801,
       "chapterIndex": 278,
       "text": "Good-bye my fancy—(I had a word to say,",
+      "ttsText": "Good-bye my fancy, (I had a word to say,",
       "role": "paragraph"
     },
     {
       "order": 10802,
       "chapterIndex": 278,
       "text": "But ’tis not quite the time—The best of any man’s word or say,",
+      "ttsText": "But ’tis not quite the time, The best of any man’s word or say,",
       "role": "paragraph"
     },
     {
       "order": 10803,
       "chapterIndex": 278,
       "text": "Is when its proper place arrives—and for its meaning,",
+      "ttsText": "Is when its proper place arrives, and for its meaning,",
       "role": "paragraph"
     },
     {
@@ -66847,18 +67520,21 @@
       "order": 10820,
       "chapterIndex": 280,
       "text": "one—combining all,",
+      "ttsText": "one, combining all,",
       "role": "paragraph"
     },
     {
       "order": 10821,
       "chapterIndex": 280,
       "text": "My single soul—aims, confirmations, failures, joys—Nor single soul alone,",
+      "ttsText": "My single soul, aims, confirmations, failures, joys, Nor single soul alone,",
       "role": "paragraph"
     },
     {
       "order": 10822,
       "chapterIndex": 280,
       "text": "I chant my nation’s crucial stage, (America’s, haply humanity’s)—",
+      "ttsText": "I chant my nation’s crucial stage, (America’s, haply humanity’s),",
       "role": "paragraph"
     },
     {
@@ -66883,18 +67559,21 @@
       "order": 10826,
       "chapterIndex": 280,
       "text": "Here, here from wanderings, strayings, lessons, wars, defeats—here",
+      "ttsText": "Here, here from wanderings, strayings, lessons, wars, defeats, here",
       "role": "paragraph"
     },
     {
       "order": 10827,
       "chapterIndex": 280,
       "text": "at the west a voice triumphant—justifying all,",
+      "ttsText": "at the west a voice triumphant, justifying all,",
       "role": "paragraph"
     },
     {
       "order": 10828,
       "chapterIndex": 280,
       "text": "A gladsome pealing cry—a song for once of utmost pride and satisfaction;",
+      "ttsText": "A gladsome pealing cry, a song for once of utmost pride and satisfaction;",
       "role": "paragraph"
     },
     {
@@ -66907,6 +67586,7 @@
       "order": 10830,
       "chapterIndex": 280,
       "text": "best sooner than the worst)—And now I chant old age,",
+      "ttsText": "best sooner than the worst), And now I chant old age,",
       "role": "paragraph"
     },
     {
@@ -66961,6 +67641,7 @@
       "order": 10839,
       "chapterIndex": 281,
       "text": "MY 71st Year",
+      "ttsText": "My 71st Year",
       "role": "paragraph"
     },
     {
@@ -67105,6 +67786,7 @@
       "order": 10863,
       "chapterIndex": 283,
       "text": "No, while memories subtly play—the past vivid as ever;",
+      "ttsText": "No, while memories subtly play, the past vivid as ever;",
       "role": "paragraph"
     },
     {
@@ -67171,6 +67853,7 @@
       "order": 10874,
       "chapterIndex": 285,
       "text": "Old Age’s Ship & Crafty Death’s",
+      "ttsText": "Old Age’s Ship and Crafty Death’s",
       "role": "paragraph"
     },
     {
@@ -67189,6 +67872,7 @@
       "order": 10877,
       "chapterIndex": 285,
       "text": "But we’ll make race a-time upon the seas—a battle-contest yet! bear",
+      "ttsText": "But we’ll make race a-time upon the seas, a battle-contest yet! bear",
       "role": "paragraph"
     },
     {
@@ -67219,12 +67903,14 @@
       "order": 10882,
       "chapterIndex": 285,
       "text": "Out challenge and defiance—flags and flaunting pennants added,",
+      "ttsText": "Out challenge and defiance, flags and flaunting pennants added,",
       "role": "paragraph"
     },
     {
       "order": 10883,
       "chapterIndex": 285,
       "text": "As we take to the open—take to the deepest, freest waters.",
+      "ttsText": "As we take to the open, take to the deepest, freest waters.",
       "role": "paragraph"
     },
     {
@@ -67243,6 +67929,7 @@
       "order": 10886,
       "chapterIndex": 286,
       "text": "Have I no weapon-word for thee—some message brief and fierce?",
+      "ttsText": "Have I no weapon-word for thee, some message brief and fierce?",
       "role": "paragraph"
     },
     {
@@ -67261,12 +67948,14 @@
       "order": 10889,
       "chapterIndex": 286,
       "text": "Nor for myself—my own rebellious self in thee?",
+      "ttsText": "Nor for myself, my own rebellious self in thee?",
       "role": "paragraph"
     },
     {
       "order": 10890,
       "chapterIndex": 286,
       "text": "Down, down, proud gorge!—though choking thee;",
+      "ttsText": "Down, down, proud gorge!, though choking thee;",
       "role": "paragraph"
     },
     {
@@ -67297,30 +67986,35 @@
       "order": 10895,
       "chapterIndex": 287,
       "text": "I doubt it not—then more, far more;",
+      "ttsText": "I doubt it not, then more, far more;",
       "role": "paragraph"
     },
     {
       "order": 10896,
       "chapterIndex": 287,
       "text": "In each old song bequeath’d—in every noble page or text,",
+      "ttsText": "In each old song bequeath’d, in every noble page or text,",
       "role": "paragraph"
     },
     {
       "order": 10897,
       "chapterIndex": 287,
       "text": "(Different—something unreck’d before—some unsuspected author,)",
+      "ttsText": "(Different, something unreck’d before, some unsuspected author,)",
       "role": "paragraph"
     },
     {
       "order": 10898,
       "chapterIndex": 287,
       "text": "In every object, mountain, tree, and star—in every birth and life,",
+      "ttsText": "In every object, mountain, tree, and star, in every birth and life,",
       "role": "paragraph"
     },
     {
       "order": 10899,
       "chapterIndex": 287,
       "text": "As part of each—evolv’d from each—meaning, behind the ostent,",
+      "ttsText": "As part of each, evolv’d from each, meaning, behind the ostent,",
       "role": "paragraph"
     },
     {
@@ -67363,6 +68057,7 @@
       "order": 10906,
       "chapterIndex": 288,
       "text": "Coating, compassing, covering—after ages’ and ages’ encrustations,",
+      "ttsText": "Coating, compassing, covering, after ages’ and ages’ encrustations,",
       "role": "paragraph"
     },
     {
@@ -67603,6 +68298,7 @@
       "order": 10946,
       "chapterIndex": 291,
       "text": "To me come interpolation sounds not in the show—plainly to me,",
+      "ttsText": "To me come interpolation sounds not in the show, plainly to me,",
       "role": "paragraph"
     },
     {
@@ -67615,6 +68311,7 @@
       "order": 10948,
       "chapterIndex": 291,
       "text": "Of sudden battle’s hurry and harsh noises—war’s grim game to sight",
+      "ttsText": "Of sudden battle’s hurry and harsh noises, war’s grim game to sight",
       "role": "paragraph"
     },
     {
@@ -67627,18 +68324,21 @@
       "order": 10950,
       "chapterIndex": 291,
       "text": "The scout call’d up and forward—the general mounted and his aides",
+      "ttsText": "The scout call’d up and forward, the general mounted and his aides",
       "role": "paragraph"
     },
     {
       "order": 10951,
       "chapterIndex": 291,
       "text": "around him—the new-brought word—the instantaneous order issued;",
+      "ttsText": "around him, the new-brought word, the instantaneous order issued;",
       "role": "paragraph"
     },
     {
       "order": 10952,
       "chapterIndex": 291,
       "text": "The rifle crack—the cannon thud—the rushing forth of men from their",
+      "ttsText": "The rifle crack, the cannon thud, the rushing forth of men from their",
       "role": "paragraph"
     },
     {
@@ -67651,6 +68351,7 @@
       "order": 10954,
       "chapterIndex": 291,
       "text": "The clank of cavalry—the strange celerity of forming ranks—the",
+      "ttsText": "The clank of cavalry, the strange celerity of forming ranks, the",
       "role": "paragraph"
     },
     {
@@ -67663,6 +68364,7 @@
       "order": 10956,
       "chapterIndex": 291,
       "text": "The sound of horses’ hoofs departing—saddles, arms, accoutrements.",
+      "ttsText": "The sound of horses’ hoofs departing, saddles, arms, accoutrements.",
       "role": "paragraph"
     },
     {
@@ -67723,12 +68425,14 @@
       "order": 10966,
       "chapterIndex": 292,
       "text": "rest—and this is of them,)",
+      "ttsText": "rest, and this is of them,)",
       "role": "paragraph"
     },
     {
       "order": 10967,
       "chapterIndex": 292,
       "text": "So sweet thy primitive taste to breathe within—thy soothing fingers",
+      "ttsText": "So sweet thy primitive taste to breathe within, thy soothing fingers",
       "role": "paragraph"
     },
     {
@@ -67741,24 +68445,28 @@
       "order": 10969,
       "chapterIndex": 292,
       "text": "Thou, messenger—magical strange bringer to body and spirit of me,",
+      "ttsText": "Thou, messenger, magical strange bringer to body and spirit of me,",
       "role": "paragraph"
     },
     {
       "order": 10970,
       "chapterIndex": 292,
       "text": "(Distances balk’d—occult medicines penetrating me from head to foot,)",
+      "ttsText": "(Distances balk’d, occult medicines penetrating me from head to foot,)",
       "role": "paragraph"
     },
     {
       "order": 10971,
       "chapterIndex": 292,
       "text": "I feel the sky, the prairies vast—I feel the mighty northern lakes,",
+      "ttsText": "I feel the sky, the prairies vast, I feel the mighty northern lakes,",
       "role": "paragraph"
     },
     {
       "order": 10972,
       "chapterIndex": 292,
       "text": "I feel the ocean and the forest—somehow I feel the globe itself",
+      "ttsText": "I feel the ocean and the forest, somehow I feel the globe itself",
       "role": "paragraph"
     },
     {
@@ -67771,6 +68479,7 @@
       "order": 10974,
       "chapterIndex": 292,
       "text": "Thou blown from lips so loved, now gone—haply from endless store,",
+      "ttsText": "Thou blown from lips so loved, now gone, haply from endless store,",
       "role": "paragraph"
     },
     {
@@ -68005,12 +68714,14 @@
       "order": 11013,
       "chapterIndex": 294,
       "text": "Welcome, Brazilian brother—thy ample place is ready;",
+      "ttsText": "Welcome, Brazilian brother, thy ample place is ready;",
       "role": "paragraph"
     },
     {
       "order": 11014,
       "chapterIndex": 294,
       "text": "A loving hand—a smile from the north—a sunny instant hall!",
+      "ttsText": "A loving hand, a smile from the north, a sunny instant hall!",
       "role": "paragraph"
     },
     {
@@ -68041,6 +68752,7 @@
       "order": 11019,
       "chapterIndex": 294,
       "text": "To thee to-day our reaching arm, our turning neck—to thee from us",
+      "ttsText": "To thee to-day our reaching arm, our turning neck, to thee from us",
       "role": "paragraph"
     },
     {
@@ -68095,24 +68807,28 @@
       "order": 11028,
       "chapterIndex": 295,
       "text": "Sunshine upon the mountains—many a distant strain",
+      "ttsText": "Sunshine upon the mountains, many a distant strain",
       "role": "paragraph"
     },
     {
       "order": 11029,
       "chapterIndex": 295,
       "text": "From cheery railroad train—from nearer field, barn, house,",
+      "ttsText": "From cheery railroad train, from nearer field, barn, house,",
       "role": "paragraph"
     },
     {
       "order": 11030,
       "chapterIndex": 295,
       "text": "The whispering air—even the mute crops, garner’d apples, corn,",
+      "ttsText": "The whispering air, even the mute crops, garner’d apples, corn,",
       "role": "paragraph"
     },
     {
       "order": 11031,
       "chapterIndex": 295,
       "text": "Children’s and women’s tones—rhythm of many a farmer and of flail,",
+      "ttsText": "Children’s and women’s tones, rhythm of many a farmer and of flail,",
       "role": "paragraph"
     },
     {
@@ -68149,6 +68865,7 @@
       "order": 11037,
       "chapterIndex": 296,
       "text": "Musing on long-pass’d war-scenes—of the countless buried unknown",
+      "ttsText": "Musing on long-pass’d war-scenes, of the countless buried unknown",
       "role": "paragraph"
     },
     {
@@ -68161,6 +68878,7 @@
       "order": 11039,
       "chapterIndex": 296,
       "text": "Of the vacant names, as unindented air’s and sea’s—the unreturn’d,",
+      "ttsText": "Of the vacant names, as unindented air’s and sea’s, the unreturn’d,",
       "role": "paragraph"
     },
     {
@@ -68221,6 +68939,7 @@
       "order": 11049,
       "chapterIndex": 296,
       "text": "Again I see the stalwart ranks on-filing, rising—I hear the",
+      "ttsText": "Again I see the stalwart ranks on-filing, rising, I hear the",
       "role": "paragraph"
     },
     {
@@ -68233,12 +68952,14 @@
       "order": 11051,
       "chapterIndex": 296,
       "text": "You million unwrit names all, all—you dark bequest from all the war,",
+      "ttsText": "You million unwrit names all, all, you dark bequest from all the war,",
       "role": "paragraph"
     },
     {
       "order": 11052,
       "chapterIndex": 296,
       "text": "A special verse for you—a flash of duty long neglected—your mystic",
+      "ttsText": "A special verse for you, a flash of duty long neglected, your mystic",
       "role": "paragraph"
     },
     {
@@ -68323,6 +69044,7 @@
       "order": 11066,
       "chapterIndex": 297,
       "text": "—Then the full-grown poet stood between the two, and took each",
+      "ttsText": ", Then the full-grown poet stood between the two, and took each",
       "role": "paragraph"
     },
     {
@@ -68401,6 +69123,7 @@
       "order": 11079,
       "chapterIndex": 298,
       "text": "Put the scalp-knife carefully in his belt—then lying down, resting",
+      "ttsText": "Put the scalp-knife carefully in his belt, then lying down, resting",
       "role": "paragraph"
     },
     {
@@ -68431,6 +69154,7 @@
       "order": 11084,
       "chapterIndex": 298,
       "text": "Fix’d his look on wife and little children—the last:",
+      "ttsText": "Fix’d his look on wife and little children, the last:",
       "role": "paragraph"
     },
     {
@@ -68461,6 +69185,7 @@
       "order": 11089,
       "chapterIndex": 299,
       "text": "With sudden, indescribable blow—towns drown’d—humanity by",
+      "ttsText": "With sudden, indescribable blow, towns drown’d, humanity by",
       "role": "paragraph"
     },
     {
@@ -68479,6 +69204,7 @@
       "order": 11092,
       "chapterIndex": 299,
       "text": "Dash’d pell-mell by the blow—yet usher’d life continuing on,",
+      "ttsText": "Dash’d pell-mell by the blow, yet usher’d life continuing on,",
       "role": "paragraph"
     },
     {
@@ -68491,6 +69217,7 @@
       "order": 11094,
       "chapterIndex": 299,
       "text": "A suffering woman saved—a baby safely born!)",
+      "ttsText": "A suffering woman saved, a baby safely born!)",
       "role": "paragraph"
     },
     {
@@ -68587,6 +69314,7 @@
       "order": 11110,
       "chapterIndex": 299,
       "text": "A day—a passing moment or an hour—America itself bends low,",
+      "ttsText": "A day, a passing moment or an hour, America itself bends low,",
       "role": "paragraph"
     },
     {
@@ -68773,12 +69501,14 @@
       "order": 11141,
       "chapterIndex": 300,
       "text": "Allah is all, all, all—immanent in every life and object,",
+      "ttsText": "Allah is all, all, all, immanent in every life and object,",
       "role": "paragraph"
     },
     {
       "order": 11142,
       "chapterIndex": 300,
       "text": "May-be at many and many-a-more removes—yet Allah, Allah, Allah is there.",
+      "ttsText": "May-be at many and many-a-more removes, yet Allah, Allah, Allah is there.",
       "role": "paragraph"
     },
     {
@@ -68803,6 +69533,7 @@
       "order": 11146,
       "chapterIndex": 300,
       "text": "The something never still’d—never entirely gone? the invisible need",
+      "ttsText": "The something never still’d, never entirely gone? the invisible need",
       "role": "paragraph"
     },
     {
@@ -68917,18 +69648,21 @@
       "order": 11165,
       "chapterIndex": 302,
       "text": "(Take here the mainest lesson—less from books—less from the schools,)",
+      "ttsText": "(Take here the mainest lesson, less from books, less from the schools,)",
       "role": "paragraph"
     },
     {
       "order": 11166,
       "chapterIndex": 302,
       "text": "The common day and night—the common earth and waters,",
+      "ttsText": "The common day and night, the common earth and waters,",
       "role": "paragraph"
     },
     {
       "order": 11167,
       "chapterIndex": 302,
       "text": "Your farm—your work, trade, occupation,",
+      "ttsText": "Your farm, your work, trade, occupation,",
       "role": "paragraph"
     },
     {
@@ -69043,12 +69777,14 @@
       "order": 11186,
       "chapterIndex": 304,
       "text": "(Account for it or not—credit or not—it is all true,",
+      "ttsText": "(Account for it or not, credit or not, it is all true,",
       "role": "paragraph"
     },
     {
       "order": 11187,
       "chapterIndex": 304,
       "text": "And my mate there could tell you the like—we have often confab’d",
+      "ttsText": "And my mate there could tell you the like, we have often confab’d",
       "role": "paragraph"
     },
     {
@@ -69109,6 +69845,7 @@
       "order": 11197,
       "chapterIndex": 304,
       "text": "Show’d to me—just to the right in the sky-edge,",
+      "ttsText": "Show’d to me, just to the right in the sky-edge,",
       "role": "paragraph"
     },
     {
@@ -69145,6 +69882,7 @@
       "order": 11203,
       "chapterIndex": 305,
       "text": "But add, fuse, complete, extend—and celebrate the immortal and the good.",
+      "ttsText": "But add, fuse, complete, extend, and celebrate the immortal and the good.",
       "role": "paragraph"
     },
     {
@@ -69163,6 +69901,7 @@
       "order": 11206,
       "chapterIndex": 305,
       "text": "Evolution—the cumulative—growths and generations.",
+      "ttsText": "Evolution, the cumulative, growths and generations.",
       "role": "paragraph"
     },
     {
@@ -69175,6 +69914,7 @@
       "order": 11208,
       "chapterIndex": 305,
       "text": "Wandering, peering, dallying with all—war, peace, day and night",
+      "ttsText": "Wandering, peering, dallying with all, war, peace, day and night",
       "role": "paragraph"
     },
     {
@@ -69205,6 +69945,7 @@
       "order": 11213,
       "chapterIndex": 305,
       "text": "To-day shadowy Death dogs my steps, my seated shape, and has for years—",
+      "ttsText": "To-day shadowy Death dogs my steps, my seated shape, and has for years,",
       "role": "paragraph"
     },
     {
@@ -69241,6 +69982,7 @@
       "order": 11219,
       "chapterIndex": 306,
       "text": "Vaunted Ionia’s, India’s—Homer, Shakspere—the long, long times’",
+      "ttsText": "Vaunted Ionia’s, India’s, Homer, Shakspere, the long, long times’",
       "role": "paragraph"
     },
     {
@@ -69253,6 +69995,7 @@
       "order": 11221,
       "chapterIndex": 306,
       "text": "The shining clusters and the Milky Ways of stars—Nature’s pulses reap’d,",
+      "ttsText": "The shining clusters and the Milky Ways of stars, Nature’s pulses reap’d,",
       "role": "paragraph"
     },
     {
@@ -69271,6 +70014,7 @@
       "order": 11224,
       "chapterIndex": 306,
       "text": "All human lives, throats, wishes, brains—all experiences’ utterance;",
+      "ttsText": "All human lives, throats, wishes, brains, all experiences’ utterance;",
       "role": "paragraph"
     },
     {
@@ -69283,6 +70027,7 @@
       "order": 11226,
       "chapterIndex": 306,
       "text": "Still something not yet told in poesy’s voice or print—something lacking,",
+      "ttsText": "Still something not yet told in poesy’s voice or print, something lacking,",
       "role": "paragraph"
     },
     {
@@ -69307,6 +70052,7 @@
       "order": 11230,
       "chapterIndex": 307,
       "text": "Grand is the seen, the light, to me—grand are the sky and stars,",
+      "ttsText": "Grand is the seen, the light, to me, grand are the sky and stars,",
       "role": "paragraph"
     },
     {
@@ -69361,6 +70107,7 @@
       "order": 11239,
       "chapterIndex": 307,
       "text": "More multiform far—more lasting thou than they.",
+      "ttsText": "More multiform far, more lasting thou than they.",
       "role": "paragraph"
     },
     {
@@ -69409,6 +70156,7 @@
       "order": 11247,
       "chapterIndex": 308,
       "text": "(On earth and in the sea—the universe—the stars there in the",
+      "ttsText": "(On earth and in the sea, the universe, the stars there in the",
       "role": "paragraph"
     },
     {
@@ -69475,6 +70223,7 @@
       "order": 11258,
       "chapterIndex": 309,
       "text": "Now for my last—let me look back a moment;",
+      "ttsText": "Now for my last, let me look back a moment;",
       "role": "paragraph"
     },
     {
@@ -69499,6 +70248,7 @@
       "order": 11262,
       "chapterIndex": 309,
       "text": "Delightful!—now separation—Good-bye my Fancy.",
+      "ttsText": "Delightful!, now separation, Good-bye my Fancy.",
       "role": "paragraph"
     },
     {
@@ -69553,12 +70303,14 @@
       "order": 11271,
       "chapterIndex": 309,
       "text": "May-be it is you the mortal knob really undoing, turning—so now finally,",
+      "ttsText": "May-be it is you the mortal knob really undoing, turning, so now finally,",
       "role": "paragraph"
     },
     {
       "order": 11272,
       "chapterIndex": 309,
       "text": "Good-bye—and hail! my Fancy.",
+      "ttsText": "Good-bye, and hail! my Fancy.",
       "role": "paragraph"
     },
     {

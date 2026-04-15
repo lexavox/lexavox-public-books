@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:36.1175518Z",
+  "generatedAt": "2026-04-07T14:54:46.6953171Z",
   "source": {
     "id": "pg2376",
     "title": "Up from Slavery",
@@ -213,12 +213,14 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "UP FROM SLAVERY:",
+      "ttsText": "Up from Slavery:",
       "role": "title"
     },
     {
       "order": 12,
       "chapterIndex": 0,
       "text": "AN AUTOBIOGRAPHY",
+      "ttsText": "An Autobiography",
       "role": "title"
     },
     {
@@ -237,6 +239,7 @@
       "order": 15,
       "chapterIndex": 0,
       "text": "MRS. MARGARET JAMES WASHINGTON",
+      "ttsText": "Mrs. Margaret James Washington",
       "role": "title"
     },
     {
@@ -249,6 +252,7 @@
       "order": 17,
       "chapterIndex": 0,
       "text": "MR. JOHN H. WASHINGTON",
+      "ttsText": "Mr. John H. Washington",
       "role": "title"
     },
     {
@@ -417,7 +421,8 @@
       "order": 45,
       "chapterIndex": 2,
       "text": "During the time that I had charge of the Indians and the night-school at Hampton, I pursued some studies myself, under the direction of the instructors there. One of these instructors was the Rev. Dr. H.B. Frissell, the present Principal of the Hampton Institute, General Armstrong’s successor.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "During the time that I had charge of the Indians and the night-school at Hampton, I pursued some studies myself, under the direction of the instructors there. One of these instructors was the Rev. Dr. H.B.Frissell, the present Principal of the Hampton Institute, General Armstrong’s successor."
     },
     {
       "order": 46,
@@ -441,12 +446,14 @@
       "order": 49,
       "chapterIndex": 2,
       "text": "I have often been asked to define the term “Black Belt.” So far as I can learn, the term was first used to designate a part of the country which was distinguished by the colour of the soil. The part of the country possessing this thick, dark, and naturally rich soil was, of course, the part of the South where the slaves were most profitable, and consequently they were taken there in the largest numbers. Later, and especially since the war, the term seems to be used wholly in a political sense—that is, to designate the counties where the black people outnumber the white.",
+      "ttsText": "I have often been asked to define the term “Black Belt.” So far as I can learn, the term was first used to designate a part of the country which was distinguished by the colour of the soil. The part of the country possessing this thick, dark, and naturally rich soil was, of course, the part of the South where the slaves were most profitable, and consequently they were taken there in the largest numbers. Later, and especially since the war, the term seems to be used wholly in a political sense, that is, to designate the counties where the black people outnumber the white.",
       "role": "paragraph"
     },
     {
       "order": 50,
       "chapterIndex": 2,
       "text": "Before going to Tuskegee I had expected to find there a building and all the necessary apparatus ready for me to begin teaching. To my disappointment, I found nothing of the kind. I did find, though, that which no costly building and apparatus can supply,—hundreds of hungry, earnest souls who wanted to secure knowledge.",
+      "ttsText": "Before going to Tuskegee I had expected to find there a building and all the necessary apparatus ready for me to begin teaching. To my disappointment, I found nothing of the kind. I did find, though, that which no costly building and apparatus can supply,, hundreds of hungry, earnest souls who wanted to secure knowledge.",
       "role": "paragraph"
     },
     {
@@ -495,6 +502,7 @@
       "order": 58,
       "chapterIndex": 2,
       "text": "The common diet of the people was fat pork and corn bread. At times I have eaten in cabins where they had only corn bread and “black-eye peas” cooked in plain water. The people seemed to have no other idea than to live on this fat meat and corn bread,—the meat, and the meal of which the bread was made, having been bought at a high price at a store in town, notwithstanding the fact that the land all about the cabin homes could easily have been made to produce nearly every kind of garden vegetable that is raised anywhere in the country. Their one object seemed to be to plant nothing but cotton; and in many cases cotton was planted up to the very door of the cabin.",
+      "ttsText": "The common diet of the people was fat pork and corn bread. At times I have eaten in cabins where they had only corn bread and “black-eye peas” cooked in plain water. The people seemed to have no other idea than to live on this fat meat and corn bread,, the meat, and the meal of which the bread was made, having been bought at a high price at a store in town, notwithstanding the fact that the land all about the cabin homes could easily have been made to produce nearly every kind of garden vegetable that is raised anywhere in the country. Their one object seemed to be to plant nothing but cotton; and in many cases cotton was planted up to the very door of the cabin.",
       "role": "paragraph"
     },
     {
@@ -507,6 +515,7 @@
       "order": 60,
       "chapterIndex": 2,
       "text": "In most cases the sewing-machine was not used, the clocks were so worthless that they did not keep correct time—and if they had, in nine cases out of ten there would have been no one in the family who could have told the time of day—while the organ, of course, was rarely used for want of a person who could play upon it.",
+      "ttsText": "In most cases the sewing-machine was not used, the clocks were so worthless that they did not keep correct time, and if they had, in nine cases out of ten there would have been no one in the family who could have told the time of day, while the organ, of course, was rarely used for want of a person who could play upon it.",
       "role": "paragraph"
     },
     {
@@ -519,12 +528,14 @@
       "order": 62,
       "chapterIndex": 2,
       "text": "The breakfast over, and with practically no attention given to the house, the whole family would, as a general thing, proceed to the cotton-field. Every child that was large enough to carry a hoe was put to work, and the baby—for usually there was at least one baby—would be laid down at the end of the cotton row, so that its mother could give it a certain amount of attention when she had finished chopping her row. The noon meal and the supper were taken in much the same way as the breakfast.",
+      "ttsText": "The breakfast over, and with practically no attention given to the house, the whole family would, as a general thing, proceed to the cotton-field. Every child that was large enough to carry a hoe was put to work, and the baby, for usually there was at least one baby, would be laid down at the end of the cotton row, so that its mother could give it a certain amount of attention when she had finished chopping her row. The noon meal and the supper were taken in much the same way as the breakfast.",
       "role": "paragraph"
     },
     {
       "order": 63,
       "chapterIndex": 2,
       "text": "All the days of the family would be spent after much this same routine, except Saturday and Sunday. On Saturday the whole family would spent at least half a day, and often a whole day, in town. The idea in going to town was, I suppose, to do shopping, but all the shopping that the whole family had money for could have been attended to in ten minutes by one person. Still, the whole family remained in town for most of the day, spending the greater part of the time in standing on the streets, the women, too often, sitting about somewhere smoking or dipping snuff. Sunday was usually spent in going to some big meeting. With few exceptions, I found that the crops were mortgaged in the counties where I went, and that the most of the coloured farmers were in debt. The state had not been able to build schoolhouses in the country districts, and, as a rule, the schools were taught in churches or in log cabins. More than once, while on my journeys, I found that there was no provision made in the house used for school purposes for heating the building during the winter, and consequently a fire had to be built in the yard, and teacher and pupils passed in and out of the house as they got cold or warm. With few exceptions, I found the teachers in these country schools to be miserably poor in preparation for their work, and poor in moral character. The schools were in session from three to five months. There was practically no apparatus in the schoolhouses, except that occasionally there was a rough blackboard. I recall that one day I went into a schoolhouse—or rather into an abandoned log cabin that was being used as a schoolhouse—and found five pupils who were studying a lesson from one book. Two of these, on the front seat, were using the book between them; behind these were two others peeping over the shoulders of the first two, and behind the four was a fifth little fellow who was peeping over the shoulders of all four.",
+      "ttsText": "All the days of the family would be spent after much this same routine, except Saturday and Sunday. On Saturday the whole family would spent at least half a day, and often a whole day, in town. The idea in going to town was, I suppose, to do shopping, but all the shopping that the whole family had money for could have been attended to in ten minutes by one person. Still, the whole family remained in town for most of the day, spending the greater part of the time in standing on the streets, the women, too often, sitting about somewhere smoking or dipping snuff. Sunday was usually spent in going to some big meeting. With few exceptions, I found that the crops were mortgaged in the counties where I went, and that the most of the coloured farmers were in debt. The state had not been able to build schoolhouses in the country districts, and, as a rule, the schools were taught in churches or in log cabins. More than once, while on my journeys, I found that there was no provision made in the house used for school purposes for heating the building during the winter, and consequently a fire had to be built in the yard, and teacher and pupils passed in and out of the house as they got cold or warm. With few exceptions, I found the teachers in these country schools to be miserably poor in preparation for their work, and poor in moral character. The schools were in session from three to five months. There was practically no apparatus in the schoolhouses, except that occasionally there was a rough blackboard. I recall that one day I went into a schoolhouse, or rather into an abandoned log cabin that was being used as a schoolhouse, and found five pupils who were studying a lesson from one book. Two of these, on the front seat, were using the book between them; behind these were two others peeping over the shoulders of the first two, and behind the four was a fifth little fellow who was peeping over the shoulders of all four.",
       "role": "paragraph"
     },
     {
@@ -585,6 +596,7 @@
       "order": 73,
       "chapterIndex": 3,
       "text": "The white people who questioned the wisdom of starting this new school had in their minds pictures of what was called an educated Negro, with a high hat, imitation gold eye-glasses, a showy walking-stick, kid gloves, fancy boots, and what not—in a word, a man who was determined to live by his wits. It was difficult for these people to see how education would produce any other kind of a coloured man.",
+      "ttsText": "The white people who questioned the wisdom of starting this new school had in their minds pictures of what was called an educated Negro, with a high hat, imitation gold eye-glasses, a showy walking-stick, kid gloves, fancy boots, and what not, in a word, a man who was determined to live by his wits. It was difficult for these people to see how education would produce any other kind of a coloured man.",
       "role": "paragraph"
     },
     {
@@ -699,19 +711,22 @@
       "order": 92,
       "chapterIndex": 3,
       "text": "About three months after the opening of the school, and at the time when we were in the greatest anxiety about our work, there came into market for sale an old and abandoned plantation which was situated about a mile from the town of Tuskegee. The mansion house—or “big house,” as it would have been called—which had been occupied by the owners during slavery, had been burned. After making a careful examination of the place, it seemed to be just the location that we wanted in order to make our work effective and permanent.",
+      "ttsText": "About three months after the opening of the school, and at the time when we were in the greatest anxiety about our work, there came into market for sale an old and abandoned plantation which was situated about a mile from the town of Tuskegee. The mansion house, or “big house,” as it would have been called, which had been occupied by the owners during slavery, had been burned. After making a careful examination of the place, it seemed to be just the location that we wanted in order to make our work effective and permanent.",
       "role": "paragraph"
     },
     {
       "order": 93,
       "chapterIndex": 3,
       "text": "But how were we to get it? The price asked for it was very little—only five hundred dollars—but we had no money, and we were strangers in the town and had no credit. The owner of the land agreed to let us occupy the place if we could make a payment of two hundred and fifty dollars down, with the understanding that the remaining two hundred and fifty dollars must be paid within a year. Although five hundred dollars was cheap for the land, it was a large sum when one did not have any part of it.",
+      "ttsText": "But how were we to get it? The price asked for it was very little, only five hundred dollars, but we had no money, and we were strangers in the town and had no credit. The owner of the land agreed to let us occupy the place if we could make a payment of two hundred and fifty dollars down, with the understanding that the remaining two hundred and fifty dollars must be paid within a year. Although five hundred dollars was cheap for the land, it was a large sum when one did not have any part of it.",
       "role": "paragraph"
     },
     {
       "order": 94,
       "chapterIndex": 3,
       "text": "In the midst of the difficulty I summoned a great deal of courage and wrote to my friend General J.F.B. Marshall, the Treasurer of the Hampton Institute, putting the situation before him and beseeching him to lend me the two hundred and fifty dollars on my own personal responsibility. Within a few days a reply came to the effect that he had no authority to lend me the money belonging to the Hampton Institute, but that he would gladly lend me the amount needed from his own personal funds.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "In the midst of the difficulty I summoned a great deal of courage and wrote to my friend General J.F.B.Marshall, the Treasurer of the Hampton Institute, putting the situation before him and beseeching him to lend me the two hundred and fifty dollars on my own personal responsibility. Within a few days a reply came to the effect that he had no authority to lend me the money belonging to the Hampton Institute, but that he would gladly lend me the amount needed from his own personal funds."
     },
     {
       "order": 95,
@@ -879,7 +894,8 @@
       "order": 122,
       "chapterIndex": 4,
       "text": "While putting up our first building, which was named Porter Hall, after Mr. A.H. Porter, of Brooklyn, N.Y., who gave a generous sum toward its erection, the need for money became acute. I had given one of our creditors a promise that upon a certain day he should be paid four hundred dollars. On the morning of that day we did not have a dollar. The mail arrived at the school at ten o’clock, and in this mail there was a check sent by Miss Davidson for exactly four hundred dollars. I could relate many instances of almost the same character. This four hundred dollars was given by two ladies in Boston. Two years later, when the work at Tuskegee had grown considerably, and when we were in the midst of a season when we were so much in need of money that the future looked doubtful and gloomy, the same two Boston ladies sent us six thousand dollars. Words cannot describe our surprise, or the encouragement that the gift brought to us. Perhaps I might add here that for fourteen years these same friends have sent us six thousand dollars a year.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "While putting up our first building, which was named Porter Hall, after Mr. A.H.Porter, of Brooklyn, N.Y., who gave a generous sum toward its erection, the need for money became acute. I had given one of our creditors a promise that upon a certain day he should be paid four hundred dollars. On the morning of that day we did not have a dollar. The mail arrived at the school at ten o’clock, and in this mail there was a check sent by Miss Davidson for exactly four hundred dollars. I could relate many instances of almost the same character. This four hundred dollars was given by two ladies in Boston. Two years later, when the work at Tuskegee had grown considerably, and when we were in the midst of a season when we were so much in need of money that the future looked doubtful and gloomy, the same two Boston ladies sent us six thousand dollars. Words cannot describe our surprise, or the encouragement that the gift brought to us. Perhaps I might add here that for fourteen years these same friends have sent us six thousand dollars a year."
     },
     {
       "order": 123,
@@ -891,18 +907,21 @@
       "order": 124,
       "chapterIndex": 4,
       "text": "When it is considered that the laying of this corner-stone took place in the heart of the South, in the “Black Belt,” in the centre of that part of our country that was most devoted to slavery; that at that time slavery had been abolished only about sixteen years; that only sixteen years before no Negro could be taught from books without the teacher receiving the condemnation of the law or of public sentiment—when all this is considered, the scene that was witnessed on that spring day at Tuskegee was a remarkable one. I believe there are few places in the world where it could have taken place.",
+      "ttsText": "When it is considered that the laying of this corner-stone took place in the heart of the South, in the “Black Belt,” in the centre of that part of our country that was most devoted to slavery; that at that time slavery had been abolished only about sixteen years; that only sixteen years before no Negro could be taught from books without the teacher receiving the condemnation of the law or of public sentiment, when all this is considered, the scene that was witnessed on that spring day at Tuskegee was a remarkable one. I believe there are few places in the world where it could have taken place.",
       "role": "paragraph"
     },
     {
       "order": 125,
       "chapterIndex": 4,
       "text": "The principal address was delivered by the Hon. Waddy Thompson, the Superintendent of Education for the county. About the corner-stone were gathered the teachers, the students, their parents and friends, the county officials—who were white—and all the leading white men in that vicinity, together with many of the black men and women whom the same white people but a few years before had held a title to as property. The members of both races were anxious to exercise the privilege of placing under the corner-stone some momento.",
+      "ttsText": "The principal address was delivered by the Hon. Waddy Thompson, the Superintendent of Education for the county. About the corner-stone were gathered the teachers, the students, their parents and friends, the county officials, who were white, and all the leading white men in that vicinity, together with many of the black men and women whom the same white people but a few years before had held a title to as property. The members of both races were anxious to exercise the privilege of placing under the corner-stone some momento.",
       "role": "paragraph"
     },
     {
       "order": 126,
       "chapterIndex": 4,
       "text": "Before the building was completed we passed through some very trying seasons. More than once our hearts were made to bleed, as it were, because bills were falling due that we did not have the money to meet. Perhaps no one who has not gone through the experience, month after month, of trying to erect buildings and provide equipment for a school when no one knew where the money was to come from, can properly appreciate the difficulties under which we laboured. During the first years at Tuskegee I recall that night after night I would roll and toss on my bed, without sleep, because of the anxiety and uncertainty which we were in regarding money. I knew that, in a large degree, we were trying an experiment—that of testing whether or not it was possible for Negroes to build up and control the affairs of a large education institution. I knew that if we failed it would injure the whole race. I knew that the presumption was against us. I knew that in the case of white people beginning such an enterprise it would be taken for granted that they were going to succeed, but in our case I felt that people would be surprised if we succeeded. All this made a burden which pressed down on us, sometimes, it seemed, at the rate of a thousand pounds to the square inch.",
+      "ttsText": "Before the building was completed we passed through some very trying seasons. More than once our hearts were made to bleed, as it were, because bills were falling due that we did not have the money to meet. Perhaps no one who has not gone through the experience, month after month, of trying to erect buildings and provide equipment for a school when no one knew where the money was to come from, can properly appreciate the difficulties under which we laboured. During the first years at Tuskegee I recall that night after night I would roll and toss on my bed, without sleep, because of the anxiety and uncertainty which we were in regarding money. I knew that, in a large degree, we were trying an experiment, that of testing whether or not it was possible for Negroes to build up and control the affairs of a large education institution. I knew that if we failed it would injure the whole race. I knew that the presumption was against us. I knew that in the case of white people beginning such an enterprise it would be taken for granted that they were going to succeed, but in our case I felt that people would be surprised if we succeeded. All this made a burden which pressed down on us, sometimes, it seemed, at the rate of a thousand pounds to the square inch.",
       "role": "paragraph"
     },
     {
@@ -957,6 +976,7 @@
       "order": 135,
       "chapterIndex": 5,
       "text": "From the very beginning, at Tuskegee, I was determined to have the students do not only the agricultural and domestic work, but to have them erect their own buildings. My plan was to have them, while performing this service, taught the latest and best methods of labour, so that the school would not only get the benefit of their efforts, but the students themselves would be taught to see not only utility in labour, but beauty and dignity; would be taught, in fact, how to lift labour up from mere drudgery and toil, and would learn to love work for its own sake. My plan was not to teach them to work in the old way, but to show them how to make the forces of nature—air, water, steam, electricity, horse-power—assist them in their labour.",
+      "ttsText": "From the very beginning, at Tuskegee, I was determined to have the students do not only the agricultural and domestic work, but to have them erect their own buildings. My plan was to have them, while performing this service, taught the latest and best methods of labour, so that the school would not only get the benefit of their efforts, but the students themselves would be taught to see not only utility in labour, but beauty and dignity; would be taught, in fact, how to lift labour up from mere drudgery and toil, and would learn to love work for its own sake. My plan was not to teach them to work in the old way, but to show them how to make the forces of nature, air, water, steam, electricity, horse-power, assist them in their labour.",
       "role": "paragraph"
     },
     {
@@ -1017,6 +1037,7 @@
       "order": 145,
       "chapterIndex": 5,
       "text": "Brickmaking has now become such an important industry at the school that last season our students manufactured twelve hundred thousand of first-class bricks, of a quality suitable to be sold in any market. Aside from this, scores of young men have mastered the brickmaking trade—both the making of bricks by hand and by machinery—and are now engaged in this industry in many parts of the South.",
+      "ttsText": "Brickmaking has now become such an important industry at the school that last season our students manufactured twelve hundred thousand of first-class bricks, of a quality suitable to be sold in any market. Aside from this, scores of young men have mastered the brickmaking trade, both the making of bricks by hand and by machinery, and are now engaged in this industry in many parts of the South.",
       "role": "paragraph"
     },
     {
@@ -1101,6 +1122,7 @@
       "order": 159,
       "chapterIndex": 5,
       "text": "As soon as our first building was near enough to completion so that we could occupy a portion of it—which was near the middle of the second year of the school—we opened a boarding department. Students had begun coming from quite a distance, and in such increasing numbers that we felt more and more that we were merely skimming over the surface, in that we were not getting hold of the students in their home life.",
+      "ttsText": "As soon as our first building was near enough to completion so that we could occupy a portion of it, which was near the middle of the second year of the school, we opened a boarding department. Students had begun coming from quite a distance, and in such increasing numbers that we felt more and more that we were merely skimming over the surface, in that we were not getting hold of the students in their home life.",
       "role": "paragraph"
     },
     {
@@ -1131,6 +1153,7 @@
       "order": 164,
       "chapterIndex": 5,
       "text": "At another time, when Mr. Bedford—whom I have already spoken of as one of our trustees, and a devoted friend of the institution—was visiting the school, he was given a bedroom immediately over the dining room. Early in the morning he was awakened by a rather animated discussion between two boys in the dining room below. The discussion was over the question as to whose turn it was to use the coffee-cup that morning. One boy won the case by proving that for three mornings he had not had an opportunity to use the cup at all.",
+      "ttsText": "At another time, when Mr. Bedford, whom I have already spoken of as one of our trustees, and a devoted friend of the institution, was visiting the school, he was given a bedroom immediately over the dining room. Early in the morning he was awakened by a rather animated discussion between two boys in the dining room below. The discussion was over the question as to whose turn it was to use the coffee-cup that morning. One boy won the case by proving that for three mornings he had not had an opportunity to use the cup at all.",
       "role": "paragraph"
     },
     {
@@ -1149,6 +1172,7 @@
       "order": 167,
       "chapterIndex": 5,
       "text": "When our old students return to Tuskegee now, as they often do, and go into our large, beautiful, well-ventilated, and well-lighted dining room, and see tempting, well-cooked food—largely grown by the students themselves—and see tables, neat tablecloths and napkins, and vases of flowers upon the tables, and hear singing birds, and note that each meal is served exactly upon the minute, with no disorder, and with almost no complaint coming from the hundreds that now fill our dining room, they, too, often say to me that they are glad that we started as we did, and built ourselves up year by year, by a slow and natural process of growth.",
+      "ttsText": "When our old students return to Tuskegee now, as they often do, and go into our large, beautiful, well-ventilated, and well-lighted dining room, and see tempting, well-cooked food, largely grown by the students themselves, and see tables, neat tablecloths and napkins, and vases of flowers upon the tables, and hear singing birds, and note that each meal is served exactly upon the minute, with no disorder, and with almost no complaint coming from the hundreds that now fill our dining room, they, too, often say to me that they are glad that we started as we did, and built ourselves up year by year, by a slow and natural process of growth.",
       "role": "paragraph"
     },
     {
@@ -1173,7 +1197,8 @@
       "order": 171,
       "chapterIndex": 6,
       "text": "A little later in the history of the school we had a visit from General J.F.B. Marshall, the Treasurer of the Hampton Institute, who had had faith enough to lend us the first two hundred and fifty dollars with which to make a payment down on the farm. He remained with us a week, and made a careful inspection of everything. He seemed well pleased with our progress, and wrote back interesting and encouraging reports to Hampton. A little later Miss Mary F. Mackie, the teacher who had given me the “sweeping” examination when I entered Hampton, came to see us, and still later General Armstrong himself came.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "A little later in the history of the school we had a visit from General J.F.B.Marshall, the Treasurer of the Hampton Institute, who had had faith enough to lend us the first two hundred and fifty dollars with which to make a payment down on the farm. He remained with us a week, and made a careful inspection of everything. He seemed well pleased with our progress, and wrote back interesting and encouraging reports to Hampton. A little later Miss Mary F. Mackie, the teacher who had given me the “sweeping” examination when I entered Hampton, came to see us, and still later General Armstrong himself came."
     },
     {
       "order": 172,
@@ -1209,6 +1234,7 @@
       "order": 177,
       "chapterIndex": 6,
       "text": "Soon after the opening of our humble boarding department students began coming to us in still larger numbers. For weeks we not only had to contend with the difficulty of providing board, with no money, but also with that of providing sleeping accommodations. For this purpose we rented a number of cabins near the school. These cabins were in a dilapidated condition, and during the winter months the students who occupied them necessarily suffered from the cold. We charge the students eight dollars a month—all they were able to pay—for their board. This included, besides board, room, fuel, and washing. We also gave the students credit on their board bills for all the work which they did for the school which was of any value to the institution. The cost of tuition, which was fifty dollars a year for each student, we had to secure then, as now, wherever we could.",
+      "ttsText": "Soon after the opening of our humble boarding department students began coming to us in still larger numbers. For weeks we not only had to contend with the difficulty of providing board, with no money, but also with that of providing sleeping accommodations. For this purpose we rented a number of cabins near the school. These cabins were in a dilapidated condition, and during the winter months the students who occupied them necessarily suffered from the cold. We charge the students eight dollars a month, all they were able to pay, for their board. This included, besides board, room, fuel, and washing. We also gave the students credit on their board bills for all the work which they did for the school which was of any value to the institution. The cost of tuition, which was fifty dollars a year for each student, we had to secure then, as now, wherever we could.",
       "role": "paragraph"
     },
     {
@@ -1263,6 +1289,7 @@
       "order": 186,
       "chapterIndex": 6,
       "text": "In the early days we had very few students who had been used to handling carpenters’ tools, and the bedsteads made by the students then were very rough and very weak. Not unfrequently when I went into the students’ rooms in the morning I would find at least two bedsteads lying about on the floor. The problem of providing mattresses was a difficult one to solve. We finally mastered this, however, by getting some cheap cloth and sewing pieces of this together as to make large bags. These bags we filled with the pine straw—or, as it is sometimes called, pine needles—which we secured from the forests near by. I am glad to say that the industry of mattress-making has grown steadily since then, and has been improved to such an extent that at the present time it is an important branch of the work which is taught systematically to a number of our girls, and that the mattresses that now come out of the mattress-shop at Tuskegee are about as good as those bought in the average store. For some time after the opening of the boarding department we had no chairs in the students’ bedrooms or in the dining rooms. Instead of chairs we used stools which the students constructed by nailing together three pieces of rough board. As a rule, the furniture in the students’ rooms during the early days of the school consisted of a bed, some stools, and sometimes a rough table made by the students. The plan of having the students make the furniture is still followed, but the number of pieces in a room has been increased, and the workmanship has so improved that little fault can be found with the articles now. One thing that I have always insisted upon at Tuskegee is that everywhere there should be absolute cleanliness. Over and over again the students were reminded in those first years—and are reminded now—that people would excuse us for our poverty, for our lack of comforts and conveniences, but that they would not excuse us for dirt.",
+      "ttsText": "In the early days we had very few students who had been used to handling carpenters’ tools, and the bedsteads made by the students then were very rough and very weak. Not unfrequently when I went into the students’ rooms in the morning I would find at least two bedsteads lying about on the floor. The problem of providing mattresses was a difficult one to solve. We finally mastered this, however, by getting some cheap cloth and sewing pieces of this together as to make large bags. These bags we filled with the pine straw, or, as it is sometimes called, pine needles, which we secured from the forests near by. I am glad to say that the industry of mattress-making has grown steadily since then, and has been improved to such an extent that at the present time it is an important branch of the work which is taught systematically to a number of our girls, and that the mattresses that now come out of the mattress-shop at Tuskegee are about as good as those bought in the average store. For some time after the opening of the boarding department we had no chairs in the students’ bedrooms or in the dining rooms. Instead of chairs we used stools which the students constructed by nailing together three pieces of rough board. As a rule, the furniture in the students’ rooms during the early days of the school consisted of a bed, some stools, and sometimes a rough table made by the students. The plan of having the students make the furniture is still followed, but the number of pieces in a room has been increased, and the workmanship has so improved that little fault can be found with the articles now. One thing that I have always insisted upon at Tuskegee is that everywhere there should be absolute cleanliness. Over and over again the students were reminded in those first years, and are reminded now, that people would excuse us for our poverty, for our lack of comforts and conveniences, but that they would not excuse us for dirt.",
       "role": "paragraph"
     },
     {
@@ -1275,6 +1302,7 @@
       "order": 188,
       "chapterIndex": 6,
       "text": "It has been interesting to note the effect that the use of the tooth-brush has had in bringing about a higher degree of civilization among the students. With few exceptions, I have noticed that, if we can get a student to the point where, when the first or second tooth-brush disappears, he of his own motion buys another, I have not been disappointed in the future of that individual. Absolute cleanliness of the body has been insisted upon from the first. The students have been taught to bathe as regularly as to take their meals. This lesson we began teaching before we had anything in the shape of a bath-house. Most of the students came from plantation districts, and often we had to teach them how to sleep at night; that is, whether between the two sheets—after we got to the point where we could provide them two sheets—or under both of them. Naturally I found it difficult to teach them to sleep between two sheets when we were able to supply but one. The importance of the use of the night-gown received the same attention.",
+      "ttsText": "It has been interesting to note the effect that the use of the tooth-brush has had in bringing about a higher degree of civilization among the students. With few exceptions, I have noticed that, if we can get a student to the point where, when the first or second tooth-brush disappears, he of his own motion buys another, I have not been disappointed in the future of that individual. Absolute cleanliness of the body has been insisted upon from the first. The students have been taught to bathe as regularly as to take their meals. This lesson we began teaching before we had anything in the shape of a bath-house. Most of the students came from plantation districts, and often we had to teach them how to sleep at night; that is, whether between the two sheets, after we got to the point where we could provide them two sheets, or under both of them. Naturally I found it difficult to teach them to sleep between two sheets when we were able to supply but one. The importance of the use of the night-gown received the same attention.",
       "role": "paragraph"
     },
     {
@@ -1305,6 +1333,7 @@
       "order": 193,
       "chapterIndex": 7,
       "text": "When we opened our boarding department, we provided rooms in the attic of Porter Hall, our first building, for a number of girls. But the number of students, of both sexes, continued to increase. We could find rooms outside the school grounds for many of the young men, but the girls we did not care to expose in this way. Very soon the problem of providing more rooms for the girls, as well as a larger boarding department for all the students, grew serious. As a result, we finally decided to undertake the construction of a still larger building—a building that would contain rooms for the girls and boarding accommodations for all.",
+      "ttsText": "When we opened our boarding department, we provided rooms in the attic of Porter Hall, our first building, for a number of girls. But the number of students, of both sexes, continued to increase. We could find rooms outside the school grounds for many of the young men, but the girls we did not care to expose in this way. Very soon the problem of providing more rooms for the girls, as well as a larger boarding department for all the students, grew serious. As a result, we finally decided to undertake the construction of a still larger building, a building that would contain rooms for the girls and boarding accommodations for all.",
       "role": "paragraph"
     },
     {
@@ -1317,6 +1346,7 @@
       "order": 195,
       "chapterIndex": 7,
       "text": "When we seemed at the end of our resources, so far as securing money was concerned, something occurred which showed the greatness of General Armstrong—something which proved how far he was above the ordinary individual. When we were in the midst of great anxiety as to where and how we were to get funds for the new building, I received a telegram from General Armstrong asking me if I could spend a month travelling with him through the North, and asking me, if I could do so, to come to Hampton at once. Of course I accepted General Armstrong’s invitation, and went to Hampton immediately. On arriving there I found that the General had decided to take a quartette of singers through the North, and hold meetings for a month in important cities, at which meetings he and I were to speak. Imagine my surprise when the General told me, further, that these meetings were to be held, not in the interests of Hampton, but in the interests of Tuskegee, and that the Hampton Institute was to be responsible for all the expenses.",
+      "ttsText": "When we seemed at the end of our resources, so far as securing money was concerned, something occurred which showed the greatness of General Armstrong, something which proved how far he was above the ordinary individual. When we were in the midst of great anxiety as to where and how we were to get funds for the new building, I received a telegram from General Armstrong asking me if I could spend a month travelling with him through the North, and asking me, if I could do so, to come to Hampton at once. Of course I accepted General Armstrong’s invitation, and went to Hampton immediately. On arriving there I found that the General had decided to take a quartette of singers through the North, and hold meetings for a month in important cities, at which meetings he and I were to speak. Imagine my surprise when the General told me, further, that these meetings were to be held, not in the interests of Hampton, but in the interests of Tuskegee, and that the Hampton Institute was to be responsible for all the expenses.",
       "role": "paragraph"
     },
     {
@@ -1371,6 +1401,7 @@
       "order": 204,
       "chapterIndex": 7,
       "text": "While the work of going from door to door and from office to office is hard, disagreeable, and costly in bodily strength, yet it has some compensations. Such work gives one a rare opportunity to study human nature. It also has its compensations in giving one an opportunity to meet some of the best people in the world—to be more correct, I think I should say the best people in the world. When one takes a broad survey of the country, he will find that the most useful and influential people in it are those who take the deepest interest in institutions that exist for the purpose of making the world better.",
+      "ttsText": "While the work of going from door to door and from office to office is hard, disagreeable, and costly in bodily strength, yet it has some compensations. Such work gives one a rare opportunity to study human nature. It also has its compensations in giving one an opportunity to meet some of the best people in the world, to be more correct, I think I should say the best people in the world. When one takes a broad survey of the country, he will find that the most useful and influential people in it are those who take the deepest interest in institutions that exist for the purpose of making the world better.",
       "role": "paragraph"
     },
     {
@@ -1551,12 +1582,14 @@
       "order": 234,
       "chapterIndex": 7,
       "text": "Soon after beginning our third year’s work we were surprised to receive money from three special sources, and up to the present time we have continued to receive help from them. First, the State Legislature of Alabama increased its annual appropriation from two thousand dollars to three thousand dollars; I might add that still later it increased this sum to four thousand five hundred dollars a year. The effort to secure this increase was led by the Hon. M.F. Foster, the member of the Legislature from Tuskegee. Second, we received one thousand dollars from the John F. Slater Fund. Our work seemed to please the trustees of this fund, as they soon began increasing their annual grant. This has been added to from time to time until at present we receive eleven thousand dollars annually from the Fund. The other help to which I have referred came in the shape of an allowance from the Peabody Fund. This was at first five hundred dollars, but it has since been increased to fifteen hundred dollars.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Soon after beginning our third year’s work we were surprised to receive money from three special sources, and up to the present time we have continued to receive help from them. First, the State Legislature of Alabama increased its annual appropriation from two thousand dollars to three thousand dollars; I might add that still later it increased this sum to four thousand five hundred dollars a year. The effort to secure this increase was led by the Hon. M.F.Foster, the member of the Legislature from Tuskegee. Second, we received one thousand dollars from the John F. Slater Fund. Our work seemed to please the trustees of this fund, as they soon began increasing their annual grant. This has been added to from time to time until at present we receive eleven thousand dollars annually from the Fund. The other help to which I have referred came in the shape of an allowance from the Peabody Fund. This was at first five hundred dollars, but it has since been increased to fifteen hundred dollars."
     },
     {
       "order": 235,
       "chapterIndex": 7,
       "text": "The effort to secure help from the Slater and Peabody Funds brought me into contact with two rare men—men who have had much to do in shaping the policy for the education of the Negro. I refer to the Hon. J.L.M. Curry, of Washington, who is the general agent for these two funds, and Mr. Morris K. Jessup, of New York. Dr. Curry is a native of the South, an ex-Confederate soldier, yet I do not believe there is any man in the country who is more deeply interested in the highest welfare of the Negro than Dr. Curry, or one who is more free from race prejudice. He enjoys the unique distinction of possessing to an equal degree the confidence of the black man and the Southern white man. I shall never forget the first time I met him. It was in Richmond, Va., where he was then living. I had heard much about him. When I first went into his presence, trembling because of my youth and inexperience, he took me by the hand so cordially, and spoke such encouraging words, and gave me such helpful advice regarding the proper course to pursue, that I came to know him then, as I have known him ever since, as a high example of one who is constantly and unselfishly at work for the betterment of humanity.",
+      "ttsText": "The effort to secure help from the Slater and Peabody Funds brought me into contact with two rare men, men who have had much to do in shaping the policy for the education of the Negro. I refer to the Hon. J.L.M.Curry, of Washington, who is the general agent for these two funds, and Mr. Morris K. Jessup, of New York. Dr. Curry is a native of the South, an ex-Confederate soldier, yet I do not believe there is any man in the country who is more deeply interested in the highest welfare of the Negro than Dr. Curry, or one who is more free from race prejudice. He enjoys the unique distinction of possessing to an equal degree the confidence of the black man and the Southern white man. I shall never forget the first time I met him. It was in Richmond, Va., where he was then living. I had heard much about him. When I first went into his presence, trembling because of my youth and inexperience, he took me by the hand so cordially, and spoke such encouraging words, and gave me such helpful advice regarding the proper course to pursue, that I came to know him then, as I have known him ever since, as a high example of one who is constantly and unselfishly at work for the betterment of humanity.",
       "role": "paragraph"
     },
     {
@@ -1641,6 +1674,7 @@
       "order": 249,
       "chapterIndex": 8,
       "text": "While pursuing this policy I have not failed, at the proper time and in the proper manner, to call attention, in no uncertain terms, to the wrongs which any part of the South has been guilty of. I have found that there is a large element in the South that is quick to respond to straightforward, honest criticism of any wrong policy. As a rule, the place to criticise the South, when criticism is necessary, is in the South—not in Boston. A Boston man who came to Alabama to criticise Boston would not effect so much good, I think, as one who had his word of criticism to say in Boston.",
+      "ttsText": "While pursuing this policy I have not failed, at the proper time and in the proper manner, to call attention, in no uncertain terms, to the wrongs which any part of the South has been guilty of. I have found that there is a large element in the South that is quick to respond to straightforward, honest criticism of any wrong policy. As a rule, the place to criticise the South, when criticism is necessary, is in the South, not in Boston. A Boston man who came to Alabama to criticise Boston would not effect so much good, I think, as one who had his word of criticism to say in Boston.",
       "role": "paragraph"
     },
     {
@@ -1653,12 +1687,14 @@
       "order": 251,
       "chapterIndex": 8,
       "text": "In this address I said that the whole future of the Negro rested largely upon the question as to whether or not he should make himself, through his skill, intelligence, and character, of such undeniable value to the community in which he lived that the community could not dispense with his presence. I said that any individual who learned to do something better than anybody else—learned to do a common thing in an uncommon manner—had solved his problem, regardless of the colour of his skin, and that in proportion as the Negro learned to produce what other people wanted and must have, in the same proportion would he be respected.",
+      "ttsText": "In this address I said that the whole future of the Negro rested largely upon the question as to whether or not he should make himself, through his skill, intelligence, and character, of such undeniable value to the community in which he lived that the community could not dispense with his presence. I said that any individual who learned to do something better than anybody else, learned to do a common thing in an uncommon manner, had solved his problem, regardless of the colour of his skin, and that in proportion as the Negro learned to produce what other people wanted and must have, in the same proportion would he be respected.",
       "role": "paragraph"
     },
     {
       "order": 252,
       "chapterIndex": 8,
       "text": "I spoke of an instance where one of our graduates had produced two hundred and sixty-six bushels of sweet potatoes from an acre of ground, in a community where the average production had been only forty-nine bushels to the acre. He had been able to do this by reason of his knowledge of the chemistry of the soil and by his knowledge of improved methods of agriculture. The white farmers in the neighbourhood respected him, and came to him for ideas regarding the raising of sweet potatoes. These white farmers honoured and respected him because he, by his skill and knowledge, had added something to the wealth and the comfort of the community in which he lived. I explained that my theory of education for the Negro would not, for example, confine him for all time to farm life—to the production of the best and the most sweet potatoes—but that, if he succeeded in this line of industry, he could lay the foundations upon which his children and grand-children could grow to higher and more important things in life.",
+      "ttsText": "I spoke of an instance where one of our graduates had produced two hundred and sixty-six bushels of sweet potatoes from an acre of ground, in a community where the average production had been only forty-nine bushels to the acre. He had been able to do this by reason of his knowledge of the chemistry of the soil and by his knowledge of improved methods of agriculture. The white farmers in the neighbourhood respected him, and came to him for ideas regarding the raising of sweet potatoes. These white farmers honoured and respected him because he, by his skill and knowledge, had added something to the wealth and the comfort of the community in which he lived. I explained that my theory of education for the Negro would not, for example, confine him for all time to farm life, to the production of the best and the most sweet potatoes, but that, if he succeeded in this line of industry, he could lay the foundations upon which his children and grand-children could grow to higher and more important things in life.",
       "role": "paragraph"
     },
     {
@@ -1689,6 +1725,7 @@
       "order": 257,
       "chapterIndex": 8,
       "text": "I knew that the audience would be largely composed of the most influential class of white men and women, and that it would be a rare opportunity for me to let them know what we were trying to do at Tuskegee, as well as to speak to them about the relations of the races. So I decided to make the trip. I spoke for five minutes to an audience of two thousand people, composed mostly of Southern and Northern whites. What I said seemed to be received with favour and enthusiasm. The Atlanta papers of the next day commented in friendly terms on my address, and a good deal was said about it in different parts of the country. I felt that I had in some degree accomplished my object—that of getting a hearing from the dominant class of the South.",
+      "ttsText": "I knew that the audience would be largely composed of the most influential class of white men and women, and that it would be a rare opportunity for me to let them know what we were trying to do at Tuskegee, as well as to speak to them about the relations of the races. So I decided to make the trip. I spoke for five minutes to an audience of two thousand people, composed mostly of Southern and Northern whites. What I said seemed to be received with favour and enthusiasm. The Atlanta papers of the next day commented in friendly terms on my address, and a good deal was said about it in different parts of the country. I felt that I had in some degree accomplished my object, that of getting a hearing from the dominant class of the South.",
       "role": "paragraph"
     },
     {
@@ -1839,6 +1876,7 @@
       "order": 282,
       "chapterIndex": 9,
       "text": "When I arose to speak, there was considerable cheering, especially from the coloured people. As I remember it now, the thing that was uppermost in my mind was the desire to say something that would cement the friendship of the races and bring about hearty cooperation between them. So far as my outward surroundings were concerned, the only thing that I recall distinctly now is that when I got up, I saw thousands of eyes looking intently into my face. The following is the address which I delivered:—",
+      "ttsText": "When I arose to speak, there was considerable cheering, especially from the coloured people. As I remember it now, the thing that was uppermost in my mind was the desire to say something that would cement the friendship of the races and bring about hearty cooperation between them. So far as my outward surroundings were concerned, the only thing that I recall distinctly now is that when I got up, I saw thousands of eyes looking intently into my face. The following is the address which I delivered:,",
       "role": "paragraph"
     },
     {
@@ -1863,6 +1901,7 @@
       "order": 286,
       "chapterIndex": 9,
       "text": "A ship lost at sea for many days suddenly sighted a friendly vessel. From the mast of the unfortunate vessel was seen a signal, “Water, water; we die of thirst!” The answer from the friendly vessel at once came back, “Cast down your bucket where you are.” A second time the signal, “Water, water; send us water!” ran up from the distressed vessel, and was answered, “Cast down your bucket where you are.” And a third and fourth signal for water was answered, “Cast down your bucket where you are.” The captain of the distressed vessel, at last heeding the injunction, cast down his bucket, and it came up full of fresh, sparkling water from the mouth of the Amazon River. To those of my race who depend on bettering their condition in a foreign land or who underestimate the importance of cultivating friendly relations with the Southern white man, who is their next-door neighbour, I would say: “Cast down your bucket where you are”—cast it down in making friends in every manly way of the people of all races by whom we are surrounded.",
+      "ttsText": "A ship lost at sea for many days suddenly sighted a friendly vessel. From the mast of the unfortunate vessel was seen a signal, “Water, water; we die of thirst!” The answer from the friendly vessel at once came back, “Cast down your bucket where you are.” A second time the signal, “Water, water; send us water!” ran up from the distressed vessel, and was answered, “Cast down your bucket where you are.” And a third and fourth signal for water was answered, “Cast down your bucket where you are.” The captain of the distressed vessel, at last heeding the injunction, cast down his bucket, and it came up full of fresh, sparkling water from the mouth of the Amazon River. To those of my race who depend on bettering their condition in a foreign land or who underestimate the importance of cultivating friendly relations with the Southern white man, who is their next-door neighbour, I would say: “Cast down your bucket where you are”, cast it down in making friends in every manly way of the people of all races by whom we are surrounded.",
       "role": "paragraph"
     },
     {
@@ -1881,12 +1920,14 @@
       "order": 289,
       "chapterIndex": 9,
       "text": "There is no defence or security for any of us except in the highest intelligence and development of all. If anywhere there are efforts tending to curtail the fullest growth of the Negro, let these efforts be turned into stimulating, encouraging, and making him the most useful and intelligent citizen. Effort or means so invested will pay a thousand per cent interest. These efforts will be twice blessed—“blessing him that gives and him that takes.”",
+      "ttsText": "There is no defence or security for any of us except in the highest intelligence and development of all. If anywhere there are efforts tending to curtail the fullest growth of the Negro, let these efforts be turned into stimulating, encouraging, and making him the most useful and intelligent citizen. Effort or means so invested will pay a thousand per cent interest. These efforts will be twice blessed, “blessing him that gives and him that takes.”",
       "role": "paragraph"
     },
     {
       "order": 290,
       "chapterIndex": 9,
       "text": "There is no escape through law of man or God from the inevitable:—",
+      "ttsText": "There is no escape through law of man or God from the inevitable:,",
       "role": "paragraph"
     },
     {
@@ -1965,6 +2006,7 @@
       "order": 303,
       "chapterIndex": 9,
       "text": "Some days after its delivery I sent a copy of my address to the President of the United States, the Hon. Grover Cleveland. I received from him the following autograph reply:—",
+      "ttsText": "Some days after its delivery I sent a copy of my address to the President of the United States, the Hon. Grover Cleveland. I received from him the following autograph reply:,",
       "role": "paragraph"
     },
     {
@@ -2019,6 +2061,7 @@
       "order": 312,
       "chapterIndex": 9,
       "text": "Mr. Cleveland has not only shown his friendship for me in many personal ways, but has always consented to do anything I have asked of him for our school. This he has done, whether it was to make a personal donation or to use his influence in securing the donations of others. Judging from my personal acquaintance with Mr. Cleveland, I do not believe that he is conscious of possessing any colour prejudice. He is too great for that. In my contact with people I find that, as a rule, it is only the little, narrow people who live for themselves, who never read good books, who do not travel, who never open up their souls in a way to permit them to come into contact with other souls—with the great outside world. No man whose vision is bounded by colour can come into contact with what is highest and best in the world. In meeting men, in many places, I have found that the happiest people are those who do the most for others; the most miserable are those who do the least. I have also found that few things, if any, are capable of making one so blind and narrow as race prejudice. I often say to our students, in the course of my talks to them on Sunday evenings in the chapel, that the longer I live and the more experience I have of the world, the more I am convinced that, after all, the one thing that is most worth living for—and dying for, if need be—is the opportunity of making some one else more happy and more useful.",
+      "ttsText": "Mr. Cleveland has not only shown his friendship for me in many personal ways, but has always consented to do anything I have asked of him for our school. This he has done, whether it was to make a personal donation or to use his influence in securing the donations of others. Judging from my personal acquaintance with Mr. Cleveland, I do not believe that he is conscious of possessing any colour prejudice. He is too great for that. In my contact with people I find that, as a rule, it is only the little, narrow people who live for themselves, who never read good books, who do not travel, who never open up their souls in a way to permit them to come into contact with other souls, with the great outside world. No man whose vision is bounded by colour can come into contact with what is highest and best in the world. In meeting men, in many places, I have found that the happiest people are those who do the most for others; the most miserable are those who do the least. I have also found that few things, if any, are capable of making one so blind and narrow as race prejudice. I often say to our students, in the course of my talks to them on Sunday evenings in the chapel, that the longer I live and the more experience I have of the world, the more I am convinced that, after all, the one thing that is most worth living for, and dying for, if need be, is the opportunity of making some one else more happy and more useful.",
       "role": "paragraph"
     },
     {
@@ -2031,6 +2074,7 @@
       "order": 314,
       "chapterIndex": 9,
       "text": "While speaking of changes in public sentiment, I recall that about ten years after the school at Tuskegee was established, I had an experience that I shall never forget. Dr. Lyman Abbott, then the pastor of Plymouth Church, and also editor of the Outlook (then the Christian Union), asked me to write a letter for his paper giving my opinion of the exact condition, mental and moral, of the coloured ministers in the South, as based upon my observations. I wrote the letter, giving the exact facts as I conceived them to be. The picture painted was a rather black one—or, since I am black, shall I say “white”? It could not be otherwise with a race but a few years out of slavery, a race which had not had time or opportunity to produce a competent ministry.",
+      "ttsText": "While speaking of changes in public sentiment, I recall that about ten years after the school at Tuskegee was established, I had an experience that I shall never forget. Dr. Lyman Abbott, then the pastor of Plymouth Church, and also editor of the Outlook (then the Christian Union), asked me to write a letter for his paper giving my opinion of the exact condition, mental and moral, of the coloured ministers in the South, as based upon my observations. I wrote the letter, giving the exact facts as I conceived them to be. The picture painted was a rather black one, or, since I am black, shall I say “white”? It could not be otherwise with a race but a few years out of slavery, a race which had not had time or opportunity to produce a competent ministry.",
       "role": "paragraph"
     },
     {
@@ -2055,6 +2099,7 @@
       "order": 318,
       "chapterIndex": 9,
       "text": "In the midst of the discussion which was going on concerning my Atlanta speech, I received the letter which I give below, from Dr. Gilman, the President of Johns Hopkins University, who had been made chairman of the judges of award in connection with the Atlanta Exposition:—",
+      "ttsText": "In the midst of the discussion which was going on concerning my Atlanta speech, I received the letter which I give below, from Dr. Gilman, the President of Johns Hopkins University, who had been made chairman of the judges of award in connection with the Atlanta Exposition:,",
       "role": "paragraph"
     },
     {
@@ -2085,7 +2130,8 @@
       "order": 323,
       "chapterIndex": 9,
       "text": "D.C. Gilman",
-      "role": "heading"
+      "role": "heading",
+      "ttsText": "D.C.Gilman"
     },
     {
       "order": 324,
@@ -2109,6 +2155,7 @@
       "order": 327,
       "chapterIndex": 9,
       "text": "I believe it is the duty of the Negro—as the greater part of the race is already doing—to deport himself modestly in regard to political claims, depending upon the slow but sure influences that proceed from the possession of property, intelligence, and high character for the full recognition of his political rights. I think that the according of the full exercise of political rights is going to be a matter of natural, slow growth, not an over-night, gourd-vine affair. I do not believe that the Negro should cease voting, for a man cannot learn the exercise of self-government by ceasing to vote, any more than a boy can learn to swim by keeping out of the water, but I do believe that in his voting he should more and more be influenced by those of intelligence and character who are his next-door neighbours.",
+      "ttsText": "I believe it is the duty of the Negro, as the greater part of the race is already doing, to deport himself modestly in regard to political claims, depending upon the slow but sure influences that proceed from the possession of property, intelligence, and high character for the full recognition of his political rights. I think that the according of the full exercise of political rights is going to be a matter of natural, slow growth, not an over-night, gourd-vine affair. I do not believe that the Negro should cease voting, for a man cannot learn the exercise of self-government by ceasing to vote, any more than a boy can learn to swim by keeping out of the water, but I do believe that in his voting he should more and more be influenced by those of intelligence and character who are his next-door neighbours.",
       "role": "paragraph"
     },
     {
@@ -2151,6 +2198,7 @@
       "order": 334,
       "chapterIndex": 10,
       "text": "As to how my address at Atlanta was received by the audience in the Exposition building, I think I prefer to let Mr. James Creelman, the noted war correspondent, tell. Mr. Creelman was present, and telegraphed the following account to the New York World:—",
+      "ttsText": "As to how my address at Atlanta was received by the audience in the Exposition building, I think I prefer to let Mr. James Creelman, the noted war correspondent, tell. Mr. Creelman was present, and telegraphed the following account to the New York World:,",
       "role": "paragraph"
     },
     {
@@ -2193,6 +2241,7 @@
       "order": 341,
       "chapterIndex": 10,
       "text": "There was a remarkable figure; tall, bony, straight as a Sioux chief, high forehead, straight nose, heavy jaws, and strong, determined mouth, with big white teeth, piercing eyes, and a commanding manner. The sinews stood out on his bronzed neck, and his muscular right arm swung high in the air, with a lead-pencil grasped in the clinched brown fist. His big feet were planted squarely, with the heels together and the toes turned out. His voice range out clear and true, and he paused impressively as he made each point. Within ten minutes the multitude was in an uproar of enthusiasm—handkerchiefs were waved, canes were flourished, hats were tossed in the air. The fairest women of Georgia stood up and cheered. It was as if the orator had bewitched them.",
+      "ttsText": "There was a remarkable figure; tall, bony, straight as a Sioux chief, high forehead, straight nose, heavy jaws, and strong, determined mouth, with big white teeth, piercing eyes, and a commanding manner. The sinews stood out on his bronzed neck, and his muscular right arm swung high in the air, with a lead-pencil grasped in the clinched brown fist. His big feet were planted squarely, with the heels together and the toes turned out. His voice range out clear and true, and he paused impressively as he made each point. Within ten minutes the multitude was in an uproar of enthusiasm, handkerchiefs were waved, canes were flourished, hats were tossed in the air. The fairest women of Georgia stood up and cheered. It was as if the orator had bewitched them.",
       "role": "paragraph"
     },
     {
@@ -2229,6 +2278,7 @@
       "order": 347,
       "chapterIndex": 10,
       "text": "In my efforts on the public platform I never have been able to understand why people come to hear me speak. This question I never can rid myself of. Time and time again, as I have stood in the street in front of a building and have seen men and women passing in large numbers into the audience room where I was to speak, I have felt ashamed that I should be the cause of people—as it seemed to me—wasting a valuable hour of their time. Some years ago I was to deliver an address before a literary society in Madison, Wis. An hour before the time set for me to speak, a fierce snow-storm began, and continued for several hours. I made up my mind that there would be no audience, and that I should not have to speak, but, as a matter of duty, I went to the church, and found it packed with people. The surprise gave me a shock that I did not recover from during the whole evening.",
+      "ttsText": "In my efforts on the public platform I never have been able to understand why people come to hear me speak. This question I never can rid myself of. Time and time again, as I have stood in the street in front of a building and have seen men and women passing in large numbers into the audience room where I was to speak, I have felt ashamed that I should be the cause of people, as it seemed to me, wasting a valuable hour of their time. Some years ago I was to deliver an address before a literary society in Madison, Wis. An hour before the time set for me to speak, a fierce snow-storm began, and continued for several hours. I made up my mind that there would be no audience, and that I should not have to speak, but, as a matter of duty, I went to the church, and found it packed with people. The surprise gave me a shock that I did not recover from during the whole evening.",
       "role": "paragraph"
     },
     {
@@ -2265,6 +2315,7 @@
       "order": 353,
       "chapterIndex": 10,
       "text": "I rarely take part in one of these long dinners that I do not wish that I could put myself back in the little cabin where I was a slave boy, and again go through the experience there—one that I shall never forget—of getting molasses to eat once a week from the “big house.” Our usual diet on the plantation was corn bread and pork, but on Sunday morning my mother was permitted to bring down a little molasses from the “big house” for her three children, and when it was received how I did wish that every day was Sunday! I would get my tin plate and hold it up for the sweet morsel, but I would always shut my eyes while the molasses was being poured out into the plate, with the hope that when I opened them I would be surprised to see how much I had got. When I opened my eyes I would tip the plate in one direction and another, so as to make the molasses spread all over it, in the full belief that there would be more of it and that it would last longer if spread out in this way. So strong are my childish impressions of those Sunday morning feasts that it would be pretty hard for any one to convince me that there is not more molasses on a plate when it is spread all over the plate than when it occupies a little corner—if there is a corner in a plate. At any rate, I have never believed in “cornering” syrup. My share of the syrup was usually about two tablespoonfuls, and those two spoonfuls of molasses were much more enjoyable to me than is a fourteen-course dinner after which I am to speak.",
+      "ttsText": "I rarely take part in one of these long dinners that I do not wish that I could put myself back in the little cabin where I was a slave boy, and again go through the experience there, one that I shall never forget, of getting molasses to eat once a week from the “big house.” Our usual diet on the plantation was corn bread and pork, but on Sunday morning my mother was permitted to bring down a little molasses from the “big house” for her three children, and when it was received how I did wish that every day was Sunday! I would get my tin plate and hold it up for the sweet morsel, but I would always shut my eyes while the molasses was being poured out into the plate, with the hope that when I opened them I would be surprised to see how much I had got. When I opened my eyes I would tip the plate in one direction and another, so as to make the molasses spread all over it, in the full belief that there would be more of it and that it would last longer if spread out in this way. So strong are my childish impressions of those Sunday morning feasts that it would be pretty hard for any one to convince me that there is not more molasses on a plate when it is spread all over the plate than when it occupies a little corner, if there is a corner in a plate. At any rate, I have never believed in “cornering” syrup. My share of the syrup was usually about two tablespoonfuls, and those two spoonfuls of molasses were much more enjoyable to me than is a fourteen-course dinner after which I am to speak.",
       "role": "paragraph"
     },
     {
@@ -2289,7 +2340,8 @@
       "order": 357,
       "chapterIndex": 10,
       "text": "Three years ago, at the suggestion of Mr. Morris K. Jessup, of New York, and Dr. J.L.M. Curry, the general agent of the fund, the trustees of the John F. Slater Fund voted a sum of money to be used in paying the expenses of Mrs. Washington and myself while holding a series of meetings among the coloured people in the large centres of Negro population, especially in the large cities of the ex-slaveholding states. Each year during the last three years we have devoted some weeks to this work. The plan that we have followed has been for me to speak in the morning to the ministers, teachers, and professional men. In the afternoon Mrs. Washington would speak to the women alone, and in the evening I spoke to a large mass-meeting. In almost every case the meetings have been attended not only by the coloured people in large numbers, but by the white people. In Chattanooga, Tenn., for example, there was present at the mass-meeting an audience of not less than three thousand persons, and I was informed that eight hundred of these were white. I have done no work that I really enjoyed more than this, or that I think has accomplished more good.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Three years ago, at the suggestion of Mr. Morris K. Jessup, of New York, and Dr. J.L.M.Curry, the general agent of the fund, the trustees of the John F. Slater Fund voted a sum of money to be used in paying the expenses of Mrs. Washington and myself while holding a series of meetings among the coloured people in the large centres of Negro population, especially in the large cities of the ex-slaveholding states. Each year during the last three years we have devoted some weeks to this work. The plan that we have followed has been for me to speak in the morning to the ministers, teachers, and professional men. In the afternoon Mrs. Washington would speak to the women alone, and in the evening I spoke to a large mass-meeting. In almost every case the meetings have been attended not only by the coloured people in large numbers, but by the white people. In Chattanooga, Tenn., for example, there was present at the mass-meeting an audience of not less than three thousand persons, and I was informed that eight hundred of these were white. I have done no work that I really enjoyed more than this, or that I think has accomplished more good."
     },
     {
       "order": 358,
@@ -2319,13 +2371,15 @@
       "order": 362,
       "chapterIndex": 10,
       "text": "The exercises connected with the dedication were held in Music Hall, in Boston, and the great hall was packed from top to bottom with one of the most distinguished audiences that ever assembled in the city. Among those present were more persons representing the famous old anti-slavery element that it is likely will ever be brought together in the country again. The late Hon. Roger Wolcott, then Governor of Massachusetts, was the presiding officer, and on the platform with him were many other officials and hundreds of distinguished men. A report of the meeting which appeared in the Boston Transcript will describe it better than any words of mine could do:—",
+      "ttsText": "The exercises connected with the dedication were held in Music Hall, in Boston, and the great hall was packed from top to bottom with one of the most distinguished audiences that ever assembled in the city. Among those present were more persons representing the famous old anti-slavery element that it is likely will ever be brought together in the country again. The late Hon. Roger Wolcott, then Governor of Massachusetts, was the presiding officer, and on the platform with him were many other officials and hundreds of distinguished men. A report of the meeting which appeared in the Boston Transcript will describe it better than any words of mine could do:,",
       "role": "paragraph"
     },
     {
       "order": 363,
       "chapterIndex": 10,
       "text": "The core and kernel of yesterday’s great noon meeting, in honour of the Brotherhood of Man, in Music Hall, was the superb address of the Negro President of Tuskegee. “Booker T. Washington received his Harvard A.M. last June, the first of his race,” said Governor Wolcott, “to receive an honorary degree from the oldest university in the land, and this for the wise leadership of his people.” When Mr. Washington rose in the flag-filled, enthusiasm-warmed, patriotic, and glowing atmosphere of Music Hall, people felt keenly that here was the civic justification of the old abolition spirit of Massachusetts; in his person the proof of her ancient and indomitable faith; in his strong thought and rich oratory, the crown and glory of the old war days of suffering and strife. The scene was full of historic beauty and deep significance. “Cold” Boston was alive with the fire that is always hot in her heart for righteousness and truth. Rows and rows of people who are seldom seen at any public function, whole families of those who are certain to be out of town on a holiday, crowded the place to overflowing. The city was at her birthright fête in the persons of hundreds of her best citizens, men and women whose names and lives stand for the virtues that make for honourable civic pride.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The core and kernel of yesterday’s great noon meeting, in honour of the Brotherhood of Man, in Music Hall, was the superb address of the Negro President of Tuskegee. “Booker T. Washington received his Harvard a.m.last June, the first of his race,” said Governor Wolcott, “to receive an honorary degree from the oldest university in the land, and this for the wise leadership of his people.” When Mr. Washington rose in the flag-filled, enthusiasm-warmed, patriotic, and glowing atmosphere of Music Hall, people felt keenly that here was the civic justification of the old abolition spirit of Massachusetts; in his person the proof of her ancient and indomitable faith; in his strong thought and rich oratory, the crown and glory of the old war days of suffering and strife. The scene was full of historic beauty and deep significance. “Cold” Boston was alive with the fire that is always hot in her heart for righteousness and truth. Rows and rows of people who are seldom seen at any public function, whole families of those who are certain to be out of town on a holiday, crowded the place to overflowing. The city was at her birthright fête in the persons of hundreds of her best citizens, men and women whose names and lives stand for the virtues that make for honourable civic pride."
     },
     {
       "order": 364,
@@ -2379,6 +2433,7 @@
       "order": 372,
       "chapterIndex": 10,
       "text": "The Chicago Times-Herald, in describing the meeting, said of my address:—",
+      "ttsText": "The Chicago Times-Herald, in describing the meeting, said of my address:,",
       "role": "paragraph"
     },
     {
@@ -2439,24 +2494,28 @@
       "order": 382,
       "chapterIndex": 10,
       "text": "The main executive work of the school, whether I am at Tuskegee or not, centres in what we call the executive council. This council meets twice a week, and is composed of the nine persons who are at the head of the nine departments of the school. For example: Mrs. B.K. Bruce, the Lady Principal, the widow of the late ex-senator Bruce, is a member of the council, and represents in it all that pertains to the life of the girls at the school. In addition to the executive council there is a financial committee of six, that meets every week and decides upon the expenditures for the week. Once a month, and sometimes oftener, there is a general meeting of all the instructors. Aside from these there are innumerable smaller meetings, such as that of the instructors in the Phelps Hall Bible Training School, or of the instructors in the agricultural department.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The main executive work of the school, whether I am at Tuskegee or not, centres in what we call the executive council. This council meets twice a week, and is composed of the nine persons who are at the head of the nine departments of the school. For example: Mrs. B.K.Bruce, the Lady Principal, the widow of the late ex-senator Bruce, is a member of the council, and represents in it all that pertains to the life of the girls at the school. In addition to the executive council there is a financial committee of six, that meets every week and decides upon the expenditures for the week. Once a month, and sometimes oftener, there is a general meeting of all the instructors. Aside from these there are innumerable smaller meetings, such as that of the instructors in the Phelps Hall Bible Training School, or of the instructors in the agricultural department."
     },
     {
       "order": 383,
       "chapterIndex": 10,
       "text": "In order that I may keep in constant touch with the life of the institution, I have a system of reports so arranged that a record of the school’s work reaches me every day of the year, no matter in what part of the country I am. I know by these reports even what students are excused from school, and why they are excused—whether for reasons of ill health or otherwise. Through the medium of these reports I know each day what the income of the school in money is; I know how many gallons of milk and how many pounds of butter come from the dairy; what the bill of fare for the teachers and students is; whether a certain kind of meat was boiled or baked, and whether certain vegetables served in the dining room were bought from a store or procured from our own farm. Human nature I find to be very much the same the world over, and it is sometimes not hard to yield to the temptation to go to a barrel of rice that has come from the store—with the grain all prepared to go in the pot—rather than to take the time and trouble to go to the field and dig and wash one’s own sweet potatoes, which might be prepared in a manner to take the place of the rice.",
+      "ttsText": "In order that I may keep in constant touch with the life of the institution, I have a system of reports so arranged that a record of the school’s work reaches me every day of the year, no matter in what part of the country I am. I know by these reports even what students are excused from school, and why they are excused, whether for reasons of ill health or otherwise. Through the medium of these reports I know each day what the income of the school in money is; I know how many gallons of milk and how many pounds of butter come from the dairy; what the bill of fare for the teachers and students is; whether a certain kind of meat was boiled or baked, and whether certain vegetables served in the dining room were bought from a store or procured from our own farm. Human nature I find to be very much the same the world over, and it is sometimes not hard to yield to the temptation to go to a barrel of rice that has come from the store, with the grain all prepared to go in the pot, rather than to take the time and trouble to go to the field and dig and wash one’s own sweet potatoes, which might be prepared in a manner to take the place of the rice.",
       "role": "paragraph"
     },
     {
       "order": 384,
       "chapterIndex": 10,
       "text": "I am often asked how, in the midst of so much work, a large part of which is for the public, I can find time for any rest or recreation, and what kind of recreation or sports I am fond of. This is rather a difficult question to answer. I have a strong feeling that every individual owes it to himself, and to the cause which he is serving, to keep a vigorous, healthy body, with the nerves steady and strong, prepared for great efforts and prepared for disappointments and trying positions. As far as I can, I make it a rule to plan for each day’s work—not merely to go through with the same routine of daily duties, but to get rid of the routine work as early in the day as possible, and then to enter upon some new or advance work. I make it a rule to clear my desk every day, before leaving my office, of all correspondence and memoranda, so that on the morrow I can begin a new day of work. I make it a rule never to let my work drive me, but to so master it, and keep it in such complete control, and to keep so far ahead of it, that I will be the master instead of the servant. There is a physical and mental and spiritual enjoyment that comes from a consciousness of being the absolute master of one’s work, in all its details, that is very satisfactory and inspiring. My experience teaches me that, if one learns to follow this plan, he gets a freshness of body and vigour of mind out of work that goes a long way toward keeping him strong and healthy. I believe that when one can grow to the point where he loves his work, this gives him a kind of strength that is most valuable.",
+      "ttsText": "I am often asked how, in the midst of so much work, a large part of which is for the public, I can find time for any rest or recreation, and what kind of recreation or sports I am fond of. This is rather a difficult question to answer. I have a strong feeling that every individual owes it to himself, and to the cause which he is serving, to keep a vigorous, healthy body, with the nerves steady and strong, prepared for great efforts and prepared for disappointments and trying positions. As far as I can, I make it a rule to plan for each day’s work, not merely to go through with the same routine of daily duties, but to get rid of the routine work as early in the day as possible, and then to enter upon some new or advance work. I make it a rule to clear my desk every day, before leaving my office, of all correspondence and memoranda, so that on the morrow I can begin a new day of work. I make it a rule never to let my work drive me, but to so master it, and keep it in such complete control, and to keep so far ahead of it, that I will be the master instead of the servant. There is a physical and mental and spiritual enjoyment that comes from a consciousness of being the absolute master of one’s work, in all its details, that is very satisfactory and inspiring. My experience teaches me that, if one learns to follow this plan, he gets a freshness of body and vigour of mind out of work that goes a long way toward keeping him strong and healthy. I believe that when one can grow to the point where he loves his work, this gives him a kind of strength that is most valuable.",
       "role": "paragraph"
     },
     {
       "order": 385,
       "chapterIndex": 10,
       "text": "When I begin my work in the morning, I expect to have a successful and pleasant day of it, but at the same time I prepare myself for unpleasant and unexpected hard places. I prepared myself to hear that one of our school buildings is on fire, or has burned, or that some disagreeable accident has occurred, or that some one has abused me in a public address or printed article, for something that I have done or omitted to do, or for something that he had heard that I had said—probably something that I had never thought of saying.",
+      "ttsText": "When I begin my work in the morning, I expect to have a successful and pleasant day of it, but at the same time I prepare myself for unpleasant and unexpected hard places. I prepared myself to hear that one of our school buildings is on fire, or has burned, or that some disagreeable accident has occurred, or that some one has abused me in a public address or printed article, for something that I have done or omitted to do, or for something that he had heard that I had said, probably something that I had never thought of saying.",
       "role": "paragraph"
     },
     {
@@ -2469,6 +2528,7 @@
       "order": 387,
       "chapterIndex": 10,
       "text": "I have said that I make it a rule to finish up each day’s work before leaving it. There is, perhaps, one exception to this. When I have an unusually difficult question to decide—one that appeals strongly to the emotions—I find it a safe rule to sleep over it for a night, or to wait until I have had an opportunity to talk it over with my wife and friends.",
+      "ttsText": "I have said that I make it a rule to finish up each day’s work before leaving it. There is, perhaps, one exception to this. When I have an unusually difficult question to decide, one that appeals strongly to the emotions, I find it a safe rule to sleep over it for a night, or to wait until I have had an opportunity to talk it over with my wife and friends.",
       "role": "paragraph"
     },
     {
@@ -2595,7 +2655,8 @@
       "order": 408,
       "chapterIndex": 11,
       "text": "In the spring of 1899 there came to me what I might describe as almost the greatest surprise of my life. Some good ladies in Boston arranged a public meeting in the interests of Tuskegee, to be held in the Hollis Street Theatre. This meeting was attended by large numbers of the best people of Boston, of both races. Bishop Lawrence presided. In addition to an address made by myself, Mr. Paul Lawrence Dunbar read from his poems, and Dr. W.E.B. Du Bois read an original sketch.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "In the spring of 1899 there came to me what I might describe as almost the greatest surprise of my life. Some good ladies in Boston arranged a public meeting in the interests of Tuskegee, to be held in the Hollis Street Theatre. This meeting was attended by large numbers of the best people of Boston, of both races. Bishop Lawrence presided. In addition to an address made by myself, Mr. Paul Lawrence Dunbar read from his poems, and Dr. W.E.B.Du Bois read an original sketch."
     },
     {
       "order": 409,
@@ -2655,6 +2716,7 @@
       "order": 418,
       "chapterIndex": 11,
       "text": "The next day after we landed happened to be one of those numberless holidays which the people of those countries are in the habit of observing. It was a bright, beautiful day. Our room in the hotel faced the main public square, and the sights there—the people coming in from the country with all kinds of beautiful flowers to sell, the women coming in with their dogs drawing large, brightly polished cans filled with milk, the people streaming into the cathedral—filled me with a sense of newness that I had never before experienced.",
+      "ttsText": "The next day after we landed happened to be one of those numberless holidays which the people of those countries are in the habit of observing. It was a bright, beautiful day. Our room in the hotel faced the main public square, and the sights there, the people coming in from the country with all kinds of beautiful flowers to sell, the women coming in with their dogs drawing large, brightly polished cans filled with milk, the people streaming into the cathedral, filled me with a sense of newness that I had never before experienced.",
       "role": "paragraph"
     },
     {
@@ -2685,6 +2747,7 @@
       "order": 423,
       "chapterIndex": 11,
       "text": "While in Paris we saw a good deal of the now famous American Negro painter, Mr. Henry O. Tanner, whom we had formerly known in America. It was very satisfactory to find how well known Mr. Tanner was in the field of art, and to note the high standing which all classes accorded to him. When we told some Americans that we were going to the Luxembourg Palace to see a painting by an American Negro, it was hard to convince them that a Negro had been thus honoured. I do not believe that they were really convinced of the fact until they saw the picture for themselves. My acquaintance with Mr. Tanner reenforced in my mind the truth which I am constantly trying to impress upon our students at Tuskegee—and on our people throughout the country, as far as I can reach them with my voice—that any man, regardless of colour, will be recognized and rewarded just in proportion as he learns to do something well—learns to do it better than some one else—however humble the thing may be. As I have said, I believe that my race will succeed in proportion as it learns to do a common thing in an uncommon manner; learns to do a thing so thoroughly that no one can improve upon what it has done; learns to make its services of indispensable value. This was the spirit that inspired me in my first effort at Hampton, when I was given the opportunity to sweep and dust that schoolroom. In a degree I felt that my whole future life depended upon the thoroughness with which I cleaned that room, and I was determined to do it so well that no one could find any fault with the job. Few people ever stopped, I found, when looking at his pictures, to inquire whether Mr. Tanner was a Negro painter, a French painter, or a German painter. They simply knew that he was able to produce something which the world wanted—a great painting—and the matter of his colour did not enter into their minds. When a Negro girl learns to cook, to wash dishes, to sew, or write a book, or a Negro boy learns to groom horses, or to grow sweet potatoes, or to produce butter, or to build a house, or to be able to practise medicine, as well or better than some one else, they will be rewarded regardless of race or colour. In the long run, the world is going to have the best, and any difference in race, religion, or previous history will not long keep the world from what it wants.",
+      "ttsText": "While in Paris we saw a good deal of the now famous American Negro painter, Mr. Henry O. Tanner, whom we had formerly known in America. It was very satisfactory to find how well known Mr. Tanner was in the field of art, and to note the high standing which all classes accorded to him. When we told some Americans that we were going to the Luxembourg Palace to see a painting by an American Negro, it was hard to convince them that a Negro had been thus honoured. I do not believe that they were really convinced of the fact until they saw the picture for themselves. My acquaintance with Mr. Tanner reenforced in my mind the truth which I am constantly trying to impress upon our students at Tuskegee, and on our people throughout the country, as far as I can reach them with my voice, that any man, regardless of colour, will be recognized and rewarded just in proportion as he learns to do something well, learns to do it better than some one else, however humble the thing may be. As I have said, I believe that my race will succeed in proportion as it learns to do a common thing in an uncommon manner; learns to do a thing so thoroughly that no one can improve upon what it has done; learns to make its services of indispensable value. This was the spirit that inspired me in my first effort at Hampton, when I was given the opportunity to sweep and dust that schoolroom. In a degree I felt that my whole future life depended upon the thoroughness with which I cleaned that room, and I was determined to do it so well that no one could find any fault with the job. Few people ever stopped, I found, when looking at his pictures, to inquire whether Mr. Tanner was a Negro painter, a French painter, or a German painter. They simply knew that he was able to produce something which the world wanted, a great painting, and the matter of his colour did not enter into their minds. When a Negro girl learns to cook, to wash dishes, to sew, or write a book, or a Negro boy learns to groom horses, or to grow sweet potatoes, or to produce butter, or to build a house, or to be able to practise medicine, as well or better than some one else, they will be rewarded regardless of race or colour. In the long run, the world is going to have the best, and any difference in race, religion, or previous history will not long keep the world from what it wants.",
       "role": "paragraph"
     },
     {
@@ -2727,6 +2790,7 @@
       "order": 430,
       "chapterIndex": 11,
       "text": "On various occasions Mrs. Washington and I were the guests of Englishmen in their country homes, where, I think, one sees the Englishman at his best. In one thing, at least, I feel sure that the English are ahead of Americans, and that is, that they have learned how to get more out of life. The home life of the English seems to me to be about as perfect as anything can be. Everything moves like clockwork. I was impressed, too, with the deference that the servants show to their “masters” and “mistresses,”—terms which I suppose would not be tolerated in America. The English servant expects, as a rule, to be nothing but a servant, and so he perfects himself in the art to a degree that no class of servants in America has yet reached. In our country the servant expects to become, in a few years, a “master” himself. Which system is preferable? I will not venture an answer.",
+      "ttsText": "On various occasions Mrs. Washington and I were the guests of Englishmen in their country homes, where, I think, one sees the Englishman at his best. In one thing, at least, I feel sure that the English are ahead of Americans, and that is, that they have learned how to get more out of life. The home life of the English seems to me to be about as perfect as anything can be. Everything moves like clockwork. I was impressed, too, with the deference that the servants show to their “masters” and “mistresses,”, terms which I suppose would not be tolerated in America. The English servant expects, as a rule, to be nothing but a servant, and so he perfects himself in the art to a degree that no class of servants in America has yet reached. In our country the servant expects to become, in a few years, a “master” himself. Which system is preferable? I will not venture an answer.",
       "role": "paragraph"
     },
     {
@@ -2751,6 +2815,7 @@
       "order": 434,
       "chapterIndex": 11,
       "text": "When the Englishman takes you into his heart and friendship, he binds you there as with cords of steel, and I do not believe that there are many other friendships that are so lasting or so satisfactory. Perhaps I can illustrate this point in no better way than by relating the following incident. Mrs. Washington and I were invited to attend a reception given by the Duke and Duchess of Sutherland, at Stafford House—said to be the finest house in London; I may add that I believe the Duchess of Sutherland is said to be the most beautiful woman in England. There must have been at least three hundred persons at this reception. Twice during the evening the Duchess sought us out for a conversation, and she asked me to write her when we got home, and tell her more about the work at Tuskegee. This I did. When Christmas came we were surprised and delighted to receive her photograph with her autograph on it. The correspondence has continued, and we now feel that in the Duchess of Sutherland we have one of our warmest friends.",
+      "ttsText": "When the Englishman takes you into his heart and friendship, he binds you there as with cords of steel, and I do not believe that there are many other friendships that are so lasting or so satisfactory. Perhaps I can illustrate this point in no better way than by relating the following incident. Mrs. Washington and I were invited to attend a reception given by the Duke and Duchess of Sutherland, at Stafford House, said to be the finest house in London; I may add that I believe the Duchess of Sutherland is said to be the most beautiful woman in England. There must have been at least three hundred persons at this reception. Twice during the evening the Duchess sought us out for a conversation, and she asked me to write her when we got home, and tell her more about the work at Tuskegee. This I did. When Christmas came we were surprised and delighted to receive her photograph with her autograph on it. The correspondence has continued, and we now feel that in the Duchess of Sutherland we have one of our warmest friends.",
       "role": "paragraph"
     },
     {
@@ -2763,6 +2828,7 @@
       "order": 436,
       "chapterIndex": 11,
       "text": "While we were in Paris I was very pleasantly surprised to receive the following invitation from the citizens of West Virginia and of the city near which I had spent my boyhood days:—",
+      "ttsText": "While we were in Paris I was very pleasantly surprised to receive the following invitation from the citizens of West Virginia and of the city near which I had spent my boyhood days:,",
       "role": "paragraph"
     },
     {
@@ -2811,6 +2877,7 @@
       "order": 444,
       "chapterIndex": 11,
       "text": "This invitation from the City Council of Charleston was accompanied by the following:—",
+      "ttsText": "This invitation from the City Council of Charleston was accompanied by the following:,",
       "role": "paragraph"
     },
     {
@@ -2853,7 +2920,8 @@
       "order": 451,
       "chapterIndex": 11,
       "text": "The Charleston Daily Gazette, The Daily Mail-Tribune; G.W. Atkinson, Governor; E.L. Boggs, Secretary to Governor; Wm. M.O. Dawson, Secretary of State; L.M. La Follette, Auditor; J.R. Trotter, Superintendent of Schools; E.W. Wilson, ex-Governor; W.A. MacCorkle, ex-Governor; John Q. Dickinson, President Kanawha Valley Bank; L. Prichard, President Charleston National Bank; Geo. S. Couch, President Kanawha National Bank; Ed. Reid, Cashier Kanawha National Bank; Geo. S. Laidley, Superintended City Schools; L.E. McWhorter, President Board of Education; Chas. K. Payne, wholesale merchant; and many others.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "The Charleston Daily Gazette, The Daily Mail-Tribune; G.W.Atkinson, Governor; E.L.Boggs, Secretary to Governor; Wm. M.O.Dawson, Secretary of State; L.M.La Follette, Auditor; J.R.Trotter, Superintendent of Schools; E.W.Wilson, ex-Governor; W.A.MacCorkle, ex-Governor; John Q. Dickinson, President Kanawha Valley Bank; L. Prichard, President Charleston National Bank; Geo. S. Couch, President Kanawha National Bank; Ed. Reid, Cashier Kanawha National Bank; Geo. S. Laidley, Superintended City Schools; L.E.McWhorter, President Board of Education; Chas. K. Payne, wholesale merchant; and many others."
     },
     {
       "order": 452,
@@ -2865,7 +2933,8 @@
       "order": 453,
       "chapterIndex": 11,
       "text": "I accepted the invitation, and at the appointed day was met at the railway station at Charleston by a committee headed by ex-Governor W.A. MacCorkle, and composed of men of both races. The public reception was held in the Opera-House at Charleston. The Governor of the state, the Hon. George W. Atkinson, presided, and an address of welcome was made by ex-Governor MacCorkle. A prominent part in the reception was taken by the coloured citizens. The Opera-House was filled with citizens of both races, and among the white people were many for whom I had worked when I was a boy. The next day Governor and Mrs. Atkinson gave me a public reception at the State House, which was attended by all classes.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "I accepted the invitation, and at the appointed day was met at the railway station at Charleston by a committee headed by ex-Governor W.A.MacCorkle, and composed of men of both races. The public reception was held in the Opera-House at Charleston. The Governor of the state, the Hon. George W. Atkinson, presided, and an address of welcome was made by ex-Governor MacCorkle. A prominent part in the reception was taken by the coloured citizens. The Opera-House was filled with citizens of both races, and among the white people were many for whom I had worked when I was a boy. The next day Governor and Mrs. Atkinson gave me a public reception at the State House, which was attended by all classes."
     },
     {
       "order": 454,
@@ -2919,24 +2988,28 @@
       "order": 462,
       "chapterIndex": 13,
       "text": "Before going to Europe some events came into my life which were great surprises to me. In fact, my whole life has largely been one of surprises. I believe that any man’s life will be filled with constant, unexpected encouragements of this kind if he makes up his mind to do his level best each day of his life—that is, tries to make each day reach as nearly as possible the high-water mark of pure, unselfish, useful living. I pity the man, black or white, who has never experienced the joy and satisfaction that come to one by reason of an effort to assist in making some one else more useful and more happy.",
+      "ttsText": "Before going to Europe some events came into my life which were great surprises to me. In fact, my whole life has largely been one of surprises. I believe that any man’s life will be filled with constant, unexpected encouragements of this kind if he makes up his mind to do his level best each day of his life, that is, tries to make each day reach as nearly as possible the high-water mark of pure, unselfish, useful living. I pity the man, black or white, who has never experienced the joy and satisfaction that come to one by reason of an effort to assist in making some one else more useful and more happy.",
       "role": "paragraph"
     },
     {
       "order": 463,
       "chapterIndex": 13,
       "text": "Six months before he died, and nearly a year after he had been stricken with paralysis, General Armstrong expressed a wish to visit Tuskegee again before he passed away. Notwithstanding the fact that he had lost the use of his limbs to such an extent that he was practically helpless, his wish was gratified, and he was brought to Tuskegee. The owners of the Tuskegee Railroad, white men living in the town, offered to run a special train, without cost, out of the main station—Chehaw, five miles away—to meet him. He arrived on the school grounds about nine o’clock in the evening. Some one had suggested that we give the General a “pine-knot torchlight reception.” This plan was carried out, and the moment that his carriage entered the school grounds he began passing between two lines of lighted and waving “fat pine” wood knots held by over a thousand students and teachers. The whole thing was so novel and surprising that the General was completely overcome with happiness. He remained a guest in my home for nearly two months, and, although almost wholly without the use of voice or limb, he spent nearly every hour in devising ways and means to help the South. Time and time again he said to me, during this visit, that it was not only the duty of the country to assist in elevating the Negro of the South, but the poor white man as well. At the end of his visit I resolved anew to devote myself more earnestly than ever to the cause which was so near his heart. I said that if a man in his condition was willing to think, work, and act, I should not be wanting in furthering in every possible way the wish of his heart.",
+      "ttsText": "Six months before he died, and nearly a year after he had been stricken with paralysis, General Armstrong expressed a wish to visit Tuskegee again before he passed away. Notwithstanding the fact that he had lost the use of his limbs to such an extent that he was practically helpless, his wish was gratified, and he was brought to Tuskegee. The owners of the Tuskegee Railroad, white men living in the town, offered to run a special train, without cost, out of the main station, Chehaw, five miles away, to meet him. He arrived on the school grounds about nine o’clock in the evening. Some one had suggested that we give the General a “pine-knot torchlight reception.” This plan was carried out, and the moment that his carriage entered the school grounds he began passing between two lines of lighted and waving “fat pine” wood knots held by over a thousand students and teachers. The whole thing was so novel and surprising that the General was completely overcome with happiness. He remained a guest in my home for nearly two months, and, although almost wholly without the use of voice or limb, he spent nearly every hour in devising ways and means to help the South. Time and time again he said to me, during this visit, that it was not only the duty of the country to assist in elevating the Negro of the South, but the poor white man as well. At the end of his visit I resolved anew to devote myself more earnestly than ever to the cause which was so near his heart. I said that if a man in his condition was willing to think, work, and act, I should not be wanting in furthering in every possible way the wish of his heart.",
       "role": "paragraph"
     },
     {
       "order": 464,
       "chapterIndex": 13,
       "text": "The death of General Armstrong, a few weeks later, gave me the privilege of getting acquainted with one of the finest, most unselfish, and most attractive men that I have ever come in contact with. I refer to the Rev. Dr. Hollis B. Frissell, now the Principal of the Hampton Institute, and General Armstrong’s successor. Under the clear, strong, and almost perfect leadership of Dr. Frissell, Hampton has had a career of prosperity and usefulness that is all that the General could have wished for. It seems to be the constant effort of Dr. Frissell to hide his own great personality behind that of General Armstrong—to make himself of “no reputation” for the sake of the cause.",
+      "ttsText": "The death of General Armstrong, a few weeks later, gave me the privilege of getting acquainted with one of the finest, most unselfish, and most attractive men that I have ever come in contact with. I refer to the Rev. Dr. Hollis B. Frissell, now the Principal of the Hampton Institute, and General Armstrong’s successor. Under the clear, strong, and almost perfect leadership of Dr. Frissell, Hampton has had a career of prosperity and usefulness that is all that the General could have wished for. It seems to be the constant effort of Dr. Frissell to hide his own great personality behind that of General Armstrong, to make himself of “no reputation” for the sake of the cause.",
       "role": "paragraph"
     },
     {
       "order": 465,
       "chapterIndex": 13,
       "text": "More than once I have been asked what was the greatest surprise that ever came to me. I have little hesitation in answering that question. It was the following letter, which came to me one Sunday morning when I was sitting on the veranda of my home at Tuskegee, surrounded by my wife and three children:—",
+      "ttsText": "More than once I have been asked what was the greatest surprise that ever came to me. I have little hesitation in answering that question. It was the following letter, which came to me one Sunday morning when I was sitting on the veranda of my home at Tuskegee, surrounded by my wife and three children:,",
       "role": "paragraph"
     },
     {
@@ -2979,12 +3052,14 @@
       "order": 472,
       "chapterIndex": 13,
       "text": "This was a recognition that had never in the slightest manner entered into my mind, and it was hard for me to realize that I was to be honoured by a degree from the oldest and most renowned university in America. As I sat upon my veranda, with this letter in my hand, tears came into my eyes. My whole former life—my life as a slave on the plantation, my work in the coal-mine, the times when I was without food and clothing, when I made my bed under a sidewalk, my struggles for an education, the trying days I had had at Tuskegee, days when I did not know where to turn for a dollar to continue the work there, the ostracism and sometimes oppression of my race,—all this passed before me and nearly overcame me.",
+      "ttsText": "This was a recognition that had never in the slightest manner entered into my mind, and it was hard for me to realize that I was to be honoured by a degree from the oldest and most renowned university in America. As I sat upon my veranda, with this letter in my hand, tears came into my eyes. My whole former life, my life as a slave on the plantation, my work in the coal-mine, the times when I was without food and clothing, when I made my bed under a sidewalk, my struggles for an education, the trying days I had had at Tuskegee, days when I did not know where to turn for a dollar to continue the work there, the ostracism and sometimes oppression of my race,, all this passed before me and nearly overcame me.",
       "role": "paragraph"
     },
     {
       "order": 473,
       "chapterIndex": 13,
       "text": "I had never sought or cared for what the world calls fame. I have always looked upon fame as something to be used in accomplishing good. I have often said to my friends that if I can use whatever prominence may have come to me as an instrument with which to do good, I am content to have it. I care for it only as a means to be used for doing good, just as wealth may be used. The more I come into contact with wealthy people, the more I believe that they are growing in the direction of looking upon their money simply as an instrument which God has placed in their hand for doing good with. I never go to the office of Mr. John D. Rockefeller, who more than once has been generous to Tuskegee, without being reminded of this. The close, careful, and minute investigation that he always makes in order to be sure that every dollar that he gives will do the most good—an investigation that is just as searching as if he were investing money in a business enterprise—convinces me that the growth in this direction is most encouraging.",
+      "ttsText": "I had never sought or cared for what the world calls fame. I have always looked upon fame as something to be used in accomplishing good. I have often said to my friends that if I can use whatever prominence may have come to me as an instrument with which to do good, I am content to have it. I care for it only as a means to be used for doing good, just as wealth may be used. The more I come into contact with wealthy people, the more I believe that they are growing in the direction of looking upon their money simply as an instrument which God has placed in their hand for doing good with. I never go to the office of Mr. John D. Rockefeller, who more than once has been generous to Tuskegee, without being reminded of this. The close, careful, and minute investigation that he always makes in order to be sure that every dollar that he gives will do the most good, an investigation that is just as searching as if he were investing money in a business enterprise, convinces me that the growth in this direction is most encouraging.",
       "role": "paragraph"
     },
     {
@@ -2997,12 +3072,14 @@
       "order": 475,
       "chapterIndex": 13,
       "text": "When my name was called, I rose, and President Eliot, in beautiful and strong English, conferred upon me the degree of Master of Arts. After these exercises were over, those who had received honorary degrees were invited to lunch with the President. After the lunch we were formed in line again, and were escorted by the Marshal of the day, who that year happened to be Bishop William Lawrence, through the grounds, where, at different points, those who had been honoured were called by name and received the Harvard yell. This march ended at Memorial Hall, where the alumni dinner was served. To see over a thousand strong men, representing all that is best in State, Church, business, and education, with the glow and enthusiasm of college loyalty and college pride,—which has, I think, a peculiar Harvard flavour,—is a sight that does not easily fade from memory.",
+      "ttsText": "When my name was called, I rose, and President Eliot, in beautiful and strong English, conferred upon me the degree of Master of Arts. After these exercises were over, those who had received honorary degrees were invited to lunch with the President. After the lunch we were formed in line again, and were escorted by the Marshal of the day, who that year happened to be Bishop William Lawrence, through the grounds, where, at different points, those who had been honoured were called by name and received the Harvard yell. This march ended at Memorial Hall, where the alumni dinner was served. To see over a thousand strong men, representing all that is best in State, Church, business, and education, with the glow and enthusiasm of college loyalty and college pride,, which has, I think, a peculiar Harvard flavour,, is a sight that does not easily fade from memory.",
       "role": "paragraph"
     },
     {
       "order": 476,
       "chapterIndex": 13,
       "text": "Among the speakers after dinner were President Eliot, Governor Roger Wolcott, General Miles, Dr. Minot J. Savage, the Hon. Henry Cabot Lodge, and myself. When I was called upon, I said, among other things:—",
+      "ttsText": "Among the speakers after dinner were President Eliot, Governor Roger Wolcott, General Miles, Dr. Minot J. Savage, the Hon. Henry Cabot Lodge, and myself. When I was called upon, I said, among other things:,",
       "role": "paragraph"
     },
     {
@@ -3015,12 +3092,14 @@
       "order": 478,
       "chapterIndex": 13,
       "text": "If my life in the past has meant anything in the lifting up of my people and the bringing about of better relations between your race and mine, I assure you from this day it will mean doubly more. In the economy of God there is but one standard by which an individual can succeed—there is but one for a race. This country demands that every race shall measure itself by the American standard. By it a race must rise or fall, succeed or fail, and in the last analysis mere sentiment counts for little. During the next half-century and more, my race must continue passing through the severe American crucible. We are to be tested in our patience, our forbearance, our perseverance, our power to endure wrong, to withstand temptations, to economize, to acquire and use skill; in our ability to compete, to succeed in commerce, to disregard the superficial for the real, the appearance for the substance, to be great and yet small, learned and yet simple, high and yet the servant of all.",
+      "ttsText": "If my life in the past has meant anything in the lifting up of my people and the bringing about of better relations between your race and mine, I assure you from this day it will mean doubly more. In the economy of God there is but one standard by which an individual can succeed, there is but one for a race. This country demands that every race shall measure itself by the American standard. By it a race must rise or fall, succeed or fail, and in the last analysis mere sentiment counts for little. During the next half-century and more, my race must continue passing through the severe American crucible. We are to be tested in our patience, our forbearance, our perseverance, our power to endure wrong, to withstand temptations, to economize, to acquire and use skill; in our ability to compete, to succeed in commerce, to disregard the superficial for the real, the appearance for the substance, to be great and yet small, learned and yet simple, high and yet the servant of all.",
       "role": "paragraph"
     },
     {
       "order": 479,
       "chapterIndex": 13,
       "text": "As this was the first time that a New England university had conferred an honorary degree upon a Negro, it was the occasion of much newspaper comment throughout the country. A correspondent of a New York paper said:—",
+      "ttsText": "As this was the first time that a New England university had conferred an honorary degree upon a Negro, it was the occasion of much newspaper comment throughout the country. A correspondent of a New York paper said:,",
       "role": "paragraph"
     },
     {
@@ -3033,6 +3112,7 @@
       "order": 481,
       "chapterIndex": 13,
       "text": "A Boston paper said, editorially:—",
+      "ttsText": "A Boston paper said, editorially:,",
       "role": "paragraph"
     },
     {
@@ -3051,6 +3131,7 @@
       "order": 484,
       "chapterIndex": 13,
       "text": "Another Boston paper said:—",
+      "ttsText": "Another Boston paper said:,",
       "role": "paragraph"
     },
     {
@@ -3063,6 +3144,7 @@
       "order": 486,
       "chapterIndex": 13,
       "text": "The correspondent of the New York Times wrote:—",
+      "ttsText": "The correspondent of the New York Times wrote:,",
       "role": "paragraph"
     },
     {
@@ -3111,12 +3193,14 @@
       "order": 494,
       "chapterIndex": 13,
       "text": "While I was with the President, a white citizen of Atlanta, a Democrat and an ex-slaveholder, came into the room, and the President asked his opinion as to the wisdom of his going to Tuskegee. Without hesitation the Atlanta man replied that it was the proper thing for him to do. This opinion was reenforced by that friend of the race, Dr. J.L.M. Curry. The President promised that he would visit our school on the 16th of December.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "While I was with the President, a white citizen of Atlanta, a Democrat and an ex-slaveholder, came into the room, and the President asked his opinion as to the wisdom of his going to Tuskegee. Without hesitation the Atlanta man replied that it was the proper thing for him to do. This opinion was reenforced by that friend of the race, Dr. J.L.M.Curry. The President promised that he would visit our school on the 16th of December."
     },
     {
       "order": 495,
       "chapterIndex": 13,
       "text": "When it became known that the President was going to visit our school, the white citizens of the town of Tuskegee—a mile distant from the school—were as much pleased as were our students and teachers. The white people of this town, including both men and women, began arranging to decorate the town, and to form themselves into committees for the purpose of cooperating with the officers of our school in order that the distinguished visitor might have a fitting reception. I think I never realized before this how much the white people of Tuskegee and vicinity thought of our institution. During the days when we were preparing for the President’s reception, dozens of these people came to me and said that, while they did not want to push themselves into prominence, if there was anything they could do to help, or to relieve me personally, I had but to intimate it and they would be only too glad to assist. In fact, the thing that touched me almost as deeply as the visit of the President itself was the deep pride which all classes of citizens in Alabama seemed to take in our work.",
+      "ttsText": "When it became known that the President was going to visit our school, the white citizens of the town of Tuskegee, a mile distant from the school, were as much pleased as were our students and teachers. The white people of this town, including both men and women, began arranging to decorate the town, and to form themselves into committees for the purpose of cooperating with the officers of our school in order that the distinguished visitor might have a fitting reception. I think I never realized before this how much the white people of Tuskegee and vicinity thought of our institution. During the days when we were preparing for the President’s reception, dozens of these people came to me and said that, while they did not want to push themselves into prominence, if there was anything they could do to help, or to relieve me personally, I had but to intimate it and they would be only too glad to assist. In fact, the thing that touched me almost as deeply as the visit of the President itself was the deep pride which all classes of citizens in Alabama seemed to take in our work.",
       "role": "paragraph"
     },
     {
@@ -3135,6 +3219,7 @@
       "order": 498,
       "chapterIndex": 13,
       "text": "In his address in our large, new chapel, which the students had recently completed, the President said, among other things:—",
+      "ttsText": "In his address in our large, new chapel, which the students had recently completed, the President said, among other things:,",
       "role": "paragraph"
     },
     {
@@ -3159,30 +3244,35 @@
       "order": 502,
       "chapterIndex": 13,
       "text": "The Hon. John D. Long, the Secretary of the Navy, said in part:—",
+      "ttsText": "The Hon. John D. Long, the Secretary of the Navy, said in part:,",
       "role": "paragraph"
     },
     {
       "order": 503,
       "chapterIndex": 13,
       "text": "I cannot make a speech to-day. My heart is too full—full of hope, admiration, and pride for my countrymen of both sections and both colours. I am filled with gratitude and admiration for your work, and from this time forward I shall have absolute confidence in your progress and in the solution of the problem in which you are engaged.",
+      "ttsText": "I cannot make a speech to-day. My heart is too full, full of hope, admiration, and pride for my countrymen of both sections and both colours. I am filled with gratitude and admiration for your work, and from this time forward I shall have absolute confidence in your progress and in the solution of the problem in which you are engaged.",
       "role": "paragraph"
     },
     {
       "order": 504,
       "chapterIndex": 13,
       "text": "The problem, I say, has been solved. A picture has been presented to-day which should be put upon canvas with the pictures of Washington and Lincoln, and transmitted to future time and generations—a picture which the press of the country should spread broadcast over the land, a most dramatic picture, and that picture is this: The President of the United States standing on this platform; on one side the Governor of Alabama, on the other, completing the trinity, a representative of a race only a few years ago in bondage, the coloured President of the Tuskegee Normal and Industrial Institute.",
+      "ttsText": "The problem, I say, has been solved. A picture has been presented to-day which should be put upon canvas with the pictures of Washington and Lincoln, and transmitted to future time and generations, a picture which the press of the country should spread broadcast over the land, a most dramatic picture, and that picture is this: The President of the United States standing on this platform; on one side the Governor of Alabama, on the other, completing the trinity, a representative of a race only a few years ago in bondage, the coloured President of the Tuskegee Normal and Industrial Institute.",
       "role": "paragraph"
     },
     {
       "order": 505,
       "chapterIndex": 13,
       "text": "God bless the President under whose majesty such a scene as that is presented to the American people. God bless the state of Alabama, which is showing that it can deal with this problem for itself. God bless the orator, philanthropist, and disciple of the Great Master—who, if he were on earth, would be doing the same work—Booker T. Washington.",
+      "ttsText": "God bless the President under whose majesty such a scene as that is presented to the American people. God bless the state of Alabama, which is showing that it can deal with this problem for itself. God bless the orator, philanthropist, and disciple of the Great Master, who, if he were on earth, would be doing the same work, Booker T. Washington.",
       "role": "paragraph"
     },
     {
       "order": 506,
       "chapterIndex": 13,
       "text": "Postmaster General Smith closed the address which he made with these words:—",
+      "ttsText": "Postmaster General Smith closed the address which he made with these words:,",
       "role": "paragraph"
     },
     {
@@ -3195,6 +3285,7 @@
       "order": 508,
       "chapterIndex": 13,
       "text": "Some days after the President returned to Washington I received the letter which follows:—",
+      "ttsText": "Some days after the President returned to Washington I received the letter which follows:,",
       "role": "paragraph"
     },
     {
@@ -3255,6 +3346,7 @@
       "order": 518,
       "chapterIndex": 13,
       "text": "In our industrial teaching we keep three things in mind: first, that the student shall be so educated that he shall be enabled to meet conditions as they exist now, in the part of the South where he lives—in a word, to be able to do the thing which the world wants done; second, that every student who graduates from the school shall have enough skill, coupled with intelligence and moral character, to enable him to make a living for himself and others; third, to send every graduate out feeling and knowing that labour is dignified and beautiful—to make each one love labour instead of trying to escape it. In addition to the agricultural training which we give to young men, and the training given to our girls in all the usual domestic employments, we now train a number of girls in agriculture each year. These girls are taught gardening, fruit-growing, dairying, bee-culture, and poultry-raising.",
+      "ttsText": "In our industrial teaching we keep three things in mind: first, that the student shall be so educated that he shall be enabled to meet conditions as they exist now, in the part of the South where he lives, in a word, to be able to do the thing which the world wants done; second, that every student who graduates from the school shall have enough skill, coupled with intelligence and moral character, to enable him to make a living for himself and others; third, to send every graduate out feeling and knowing that labour is dignified and beautiful, to make each one love labour instead of trying to escape it. In addition to the agricultural training which we give to young men, and the training given to our girls in all the usual domestic employments, we now train a number of girls in agriculture each year. These girls are taught gardening, fruit-growing, dairying, bee-culture, and poultry-raising.",
       "role": "paragraph"
     },
     {
@@ -3279,6 +3371,7 @@
       "order": 522,
       "chapterIndex": 13,
       "text": "I have often been asked how we keep so large a body of people together, and at the same time keep them out of mischief. There are two answers: that the men and women who come to us for an education are in earnest; and that everybody is kept busy. The following outline of our daily work will testify to this:—",
+      "ttsText": "I have often been asked how we keep so large a body of people together, and at the same time keep them out of mischief. There are two answers: that the men and women who come to us for an education are in earnest; and that everybody is kept busy. The following outline of our daily work will testify to this:,",
       "role": "paragraph"
     },
     {
@@ -3339,6 +3432,7 @@
       "order": 532,
       "chapterIndex": 13,
       "text": "As I write the closing words of this autobiography I find myself—not by design—in the city of Richmond, Virginia: the city which only a few decades ago was the capital of the Southern Confederacy, and where, about twenty-five years ago, because of my poverty I slept night after night under a sidewalk.",
+      "ttsText": "As I write the closing words of this autobiography I find myself, not by design, in the city of Richmond, Virginia: the city which only a few decades ago was the capital of the Southern Confederacy, and where, about twenty-five years ago, because of my poverty I slept night after night under a sidewalk.",
       "role": "paragraph"
     },
     {

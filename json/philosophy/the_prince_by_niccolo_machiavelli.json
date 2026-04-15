@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:37.6262852Z",
+  "generatedAt": "2026-04-07T14:54:48.4488578Z",
   "source": {
     "id": "pg1232",
     "title": "The Prince",
-    "author": "NiccolÃ² Machiavelli",
+    "author": "Niccolò Machiavelli",
     "language": "en",
     "category": "philosophy",
     "filename": "the_prince_by_niccolo_machiavelli.epub",
@@ -301,7 +301,8 @@
       "order": 14,
       "chapterIndex": 0,
       "text": "Translated by W. K. Marriott",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "Translated by W.K.Marriott"
     },
     {
       "order": 15,
@@ -319,210 +320,238 @@
       "order": 17,
       "chapterIndex": 0,
       "text": "YOUTH Æt. 1-25—1469-94",
+      "ttsText": "Youth Æt. 1-25, 1469-94",
       "role": "paragraph"
     },
     {
       "order": 18,
       "chapterIndex": 0,
       "text": "OFFICE Æt. 25-43—1494-1512",
+      "ttsText": "Office Æt. 25-43, 1494-1512",
       "role": "paragraph"
     },
     {
       "order": 19,
       "chapterIndex": 0,
       "text": "LITERATURE AND DEATH Æt. 43-58—1512-27",
+      "ttsText": "Literature and Death Æt. 43-58, 1512-27",
       "role": "paragraph"
     },
     {
       "order": 20,
       "chapterIndex": 0,
       "text": "THE MAN AND HIS WORKS",
+      "ttsText": "The Man and His Works",
       "role": "title"
     },
     {
       "order": 21,
       "chapterIndex": 0,
       "text": "DEDICATION",
+      "ttsText": "Dedication",
       "role": "title"
     },
     {
       "order": 22,
       "chapterIndex": 0,
       "text": "THE PRINCE",
+      "ttsText": "The Prince",
       "role": "title"
     },
     {
       "order": 23,
       "chapterIndex": 0,
       "text": "CHAPTER I. HOW MANY KINDS OF PRINCIPALITIES THERE ARE, AND BY WHAT MEANS THEY ARE ACQUIRED",
+      "ttsText": "Chapter I. How Many Kinds of Principalities There Are, And by What Means They Are Acquired",
       "role": "heading"
     },
     {
       "order": 24,
       "chapterIndex": 0,
       "text": "CHAPTER II. CONCERNING HEREDITARY PRINCIPALITIES",
+      "ttsText": "Chapter II. Concerning Hereditary Principalities",
       "role": "heading"
     },
     {
       "order": 25,
       "chapterIndex": 0,
       "text": "CHAPTER III. CONCERNING MIXED PRINCIPALITIES",
+      "ttsText": "Chapter III. Concerning Mixed Principalities",
       "role": "heading"
     },
     {
       "order": 26,
       "chapterIndex": 0,
       "text": "CHAPTER IV. WHY THE KINGDOM OF DARIUS, CONQUERED BY ALEXANDER, DID NOT REBEL AGAINST THE SUCCESSORS OF ALEXANDER AT HIS DEATH",
+      "ttsText": "Chapter IV. Why the Kingdom of Darius, Conquered by Alexander, DID Not Rebel Against the Successors of Alexander at His Death",
       "role": "heading"
     },
     {
       "order": 27,
       "chapterIndex": 0,
       "text": "CHAPTER V. CONCERNING THE WAY TO GOVERN CITIES OR PRINCIPALITIES WHICH LIVED UNDER THEIR OWN LAWS BEFORE THEY WERE ANNEXED",
+      "ttsText": "Chapter V. Concerning the Way to Govern Cities or Principalities Which Lived Under Their Own Laws Before They Were Annexed",
       "role": "heading"
     },
     {
       "order": 28,
       "chapterIndex": 0,
       "text": "CHAPTER VI. CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED BY ONE’S OWN ARMS AND ABILITY",
-      "ttsText": "CHAPTER VI. CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED BY ONE’Sown ARMS AND ABILITY",
+      "ttsText": "Chapter VI. Concerning New Principalities Which Are Acquired by One’s Own Arms and Ability",
       "role": "heading"
     },
     {
       "order": 29,
       "chapterIndex": 0,
       "text": "CHAPTER VII. CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED EITHER BY THE ARMS OF OTHERS OR BY GOOD FORTUNE",
+      "ttsText": "Chapter VII. Concerning New Principalities Which Are Acquired Either by the Arms of Others or by Good Fortune",
       "role": "heading"
     },
     {
       "order": 30,
       "chapterIndex": 0,
       "text": "CHAPTER VIII. CONCERNING THOSE WHO HAVE OBTAINED A PRINCIPALITY BY WICKEDNESS",
-      "ttsText": "CHAPTER VIII. CONCERNING THOSE WHO HAVE OBTAINED Aprincipality BY WICKEDNESS",
+      "ttsText": "Chapter VIII. Concerning Those Who Have Obtained A Principality by Wickedness",
       "role": "heading"
     },
     {
       "order": 31,
       "chapterIndex": 0,
       "text": "CHAPTER IX. CONCERNING A CIVIL PRINCIPALITY",
-      "ttsText": "CHAPTER IX. CONCERNING Acivil PRINCIPALITY",
+      "ttsText": "Chapter IX. Concerning A CIVIL Principality",
       "role": "heading"
     },
     {
       "order": 32,
       "chapterIndex": 0,
       "text": "CHAPTER X. CONCERNING THE WAY IN WHICH THE STRENGTH OF ALL PRINCIPALITIES OUGHT TO BE MEASURED",
+      "ttsText": "Chapter X. Concerning the Way in Which the Strength of All Principalities Ought to Be Measured",
       "role": "heading"
     },
     {
       "order": 33,
       "chapterIndex": 0,
       "text": "CHAPTER XI. CONCERNING ECCLESIASTICAL PRINCIPALITIES",
+      "ttsText": "Chapter XI. Concerning Ecclesiastical Principalities",
       "role": "heading"
     },
     {
       "order": 34,
       "chapterIndex": 0,
       "text": "CHAPTER XII. HOW MANY KINDS OF SOLDIERY THERE ARE AND CONCERNING MERCENARIES",
+      "ttsText": "Chapter XII. How Many Kinds of Soldiery There Are and Concerning Mercenaries",
       "role": "heading"
     },
     {
       "order": 35,
       "chapterIndex": 0,
       "text": "CHAPTER XIII. CONCERNING AUXILIARIES, MIXED SOLDIERY, AND ONE’S OWN",
-      "ttsText": "CHAPTER XIII. CONCERNING AUXILIARIES, MIXED SOLDIERY, AND ONE’Sown",
+      "ttsText": "Chapter XIII. Concerning Auxiliaries, Mixed Soldiery, And One’s Own",
       "role": "heading"
     },
     {
       "order": 36,
       "chapterIndex": 0,
       "text": "CHAPTER XIV. THAT WHICH CONCERNS A PRINCE ON THE SUBJECT OF WAR",
-      "ttsText": "CHAPTER XIV. THAT WHICH CONCERNS Aprince ON THE SUBJECT OF WAR",
+      "ttsText": "Chapter XIV. That Which Concerns A Prince on the Subject of War",
       "role": "heading"
     },
     {
       "order": 37,
       "chapterIndex": 0,
       "text": "CHAPTER XV. CONCERNING THINGS FOR WHICH MEN, AND ESPECIALLY PRINCES, ARE PRAISED OR BLAMED",
+      "ttsText": "Chapter XV. Concerning Things for Which Men, And Especially Princes, Are Praised or Blamed",
       "role": "heading"
     },
     {
       "order": 38,
       "chapterIndex": 0,
       "text": "CHAPTER XVI. CONCERNING LIBERALITY AND MEANNESS",
+      "ttsText": "Chapter XVI. Concerning Liberality and Meanness",
       "role": "heading"
     },
     {
       "order": 39,
       "chapterIndex": 0,
       "text": "CHAPTER XVII. CONCERNING CRUELTY AND CLEMENCY, AND WHETHER IT IS BETTER TO BE LOVED THAN FEARED",
+      "ttsText": "Chapter XVII. Concerning Cruelty and Clemency, And Whether It Is Better to Be Loved Than Feared",
       "role": "heading"
     },
     {
       "order": 40,
       "chapterIndex": 0,
       "text": "CHAPTER XVIII. CONCERNING THE WAY IN WHICH PRINCES SHOULD KEEP FAITH",
+      "ttsText": "Chapter XVIII. Concerning the Way in Which Princes Should Keep Faith",
       "role": "heading"
     },
     {
       "order": 41,
       "chapterIndex": 0,
       "text": "CHAPTER XIX. THAT ONE SHOULD AVOID BEING DESPISED AND HATED",
+      "ttsText": "Chapter XIX. That One Should Avoid Being Despised and Hated",
       "role": "heading"
     },
     {
       "order": 42,
       "chapterIndex": 0,
       "text": "CHAPTER XX. ARE FORTRESSES, AND MANY OTHER THINGS TO WHICH PRINCES OFTEN RESORT, ADVANTAGEOUS OR HURTFUL?",
+      "ttsText": "Chapter XX. Are Fortresses, And Many Other Things to Which Princes Often Resort, Advantageous or Hurtful?",
       "role": "heading"
     },
     {
       "order": 43,
       "chapterIndex": 0,
       "text": "CHAPTER XXI. HOW A PRINCE SHOULD CONDUCT HIMSELF SO AS TO GAIN RENOWN",
-      "ttsText": "CHAPTER XXI. HOW Aprince SHOULD CONDUCT HIMSELF SO AS TO GAIN RENOWN",
+      "ttsText": "Chapter XXI. How A Prince Should Conduct Himself So as to Gain Renown",
       "role": "heading"
     },
     {
       "order": 44,
       "chapterIndex": 0,
       "text": "CHAPTER XXII. CONCERNING THE SECRETARIES OF PRINCES",
+      "ttsText": "Chapter XXII. Concerning the Secretaries of Princes",
       "role": "heading"
     },
     {
       "order": 45,
       "chapterIndex": 0,
       "text": "CHAPTER XXIII. HOW FLATTERERS SHOULD BE AVOIDED",
+      "ttsText": "Chapter XXIII. How Flatterers Should Be Avoided",
       "role": "heading"
     },
     {
       "order": 46,
       "chapterIndex": 0,
       "text": "CHAPTER XXIV. WHY THE PRINCES OF ITALY HAVE LOST THEIR STATES",
+      "ttsText": "Chapter XXIV. Why the Princes of Italy Have Lost Their States",
       "role": "heading"
     },
     {
       "order": 47,
       "chapterIndex": 0,
       "text": "CHAPTER XXV. WHAT FORTUNE CAN EFFECT IN HUMAN AFFAIRS AND HOW TO WITHSTAND HER",
+      "ttsText": "Chapter XXV. What Fortune Can Effect in Human Affairs and How to Withstand Her",
       "role": "heading"
     },
     {
       "order": 48,
       "chapterIndex": 0,
       "text": "CHAPTER XXVI. AN EXHORTATION TO LIBERATE ITALY FROM THE BARBARIANS",
+      "ttsText": "Chapter XXVI. An Exhortation to Liberate Italy from the Barbarians",
       "role": "heading"
     },
     {
       "order": 49,
       "chapterIndex": 0,
       "text": "DESCRIPTION OF THE METHODS ADOPTED BY THE DUKE VALENTINO WHEN MURDERING VITELLOZZO VITELLI, OLIVEROTTO DA FERMO, THE SIGNOR PAGOLO, AND THE DUKE DI GRAVINA ORSINI",
+      "ttsText": "Description of the Methods Adopted by the Duke Valentino When Murdering Vitellozzo Vitelli, Oliverotto Da Fermo, The Signor Pagolo, And the Duke DI Gravina Orsini",
       "role": "paragraph"
     },
     {
       "order": 50,
       "chapterIndex": 0,
       "text": "THE LIFE OF CASTRUCCIO CASTRACANI OF LUCCA",
+      "ttsText": "The Life of Castruccio Castracani of Lucca",
       "role": "title"
     },
     {
@@ -547,12 +576,14 @@
       "order": 54,
       "chapterIndex": 2,
       "text": "CHAPTER III.",
+      "ttsText": "Chapter III.",
       "role": "heading"
     },
     {
       "order": 55,
       "chapterIndex": 2,
       "text": "CONCERNING MIXED PRINCIPALITIES",
+      "ttsText": "Concerning Mixed Principalities",
       "role": "title"
     },
     {
@@ -619,6 +650,7 @@
       "order": 66,
       "chapterIndex": 2,
       "text": "The Romans, in the countries which they annexed, observed closely these measures; they sent colonies and maintained friendly relations with [2] the minor powers, without increasing their strength; they kept down the greater, and did not allow any strong foreign powers to gain authority. Greece appears to me sufficient for an example. The Achaeans and Ætolians were kept friendly by them, the kingdom of Macedonia was humbled, Antiochus was driven out; yet the merits of the Achaeans and Ætolians never secured for them permission to increase their power, nor did the persuasions of Philip ever induce the Romans to be his friends without first humbling him, nor did the influence of Antiochus make them agree that he should retain any lordship over the country. Because the Romans did in these instances what all prudent princes ought to do, who have to regard not only present troubles, but also future ones, for which they must prepare with every energy, because, when foreseen, it is easy to remedy them; but if you wait until they approach, the medicine is no longer in time because the malady has become incurable; for it happens in this, as the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure. Thus it happens in affairs of state, for when the evils that arise have been foreseen (which it is only given to a wise man to see), they can be quickly redressed, but when, through not having been foreseen, they have been permitted to grow in a way that every one can see them, there is no longer a remedy. Therefore, the Romans, foreseeing troubles, dealt with them at once, and, even to avoid a war, would not let them come to a head, for they knew that war is not to be avoided, but is only to be put off to the advantage of others; moreover they wished to fight with Philip and Antiochus in Greece so as not to have to do it in Italy; they could have avoided both, but this they did not wish; nor did that ever please them which is forever in the mouths of the wise ones of our time:—Let us enjoy the benefits of the time—but rather the benefits of their own valour and prudence, for time drives everything before it, and is able to bring with it good as well as evil, and evil as well as good.",
+      "ttsText": "The Romans, in the countries which they annexed, observed closely these measures; they sent colonies and maintained friendly relations with [2] the minor powers, without increasing their strength; they kept down the greater, and did not allow any strong foreign powers to gain authority. Greece appears to me sufficient for an example. The Achaeans and Ætolians were kept friendly by them, the kingdom of Macedonia was humbled, Antiochus was driven out; yet the merits of the Achaeans and Ætolians never secured for them permission to increase their power, nor did the persuasions of Philip ever induce the Romans to be his friends without first humbling him, nor did the influence of Antiochus make them agree that he should retain any lordship over the country. Because the Romans did in these instances what all prudent princes ought to do, who have to regard not only present troubles, but also future ones, for which they must prepare with every energy, because, when foreseen, it is easy to remedy them; but if you wait until they approach, the medicine is no longer in time because the malady has become incurable; for it happens in this, as the physicians say it happens in hectic fever, that in the beginning of the malady it is easy to cure but difficult to detect, but in the course of time, not having been either detected or treated in the beginning, it becomes easy to detect but difficult to cure. Thus it happens in affairs of state, for when the evils that arise have been foreseen (which it is only given to a wise man to see), they can be quickly redressed, but when, through not having been foreseen, they have been permitted to grow in a way that every one can see them, there is no longer a remedy. Therefore, the Romans, foreseeing troubles, dealt with them at once, and, even to avoid a war, would not let them come to a head, for they knew that war is not to be avoided, but is only to be put off to the advantage of others; moreover they wished to fight with Philip and Antiochus in Greece so as not to have to do it in Italy; they could have avoided both, but this they did not wish; nor did that ever please them which is forever in the mouths of the wise ones of our time:, Let us enjoy the benefits of the time, but rather the benefits of their own valour and prudence, for time drives everything before it, and is able to bring with it good as well as evil, and evil as well as good.",
       "role": "paragraph"
     },
     {
@@ -649,6 +681,7 @@
       "order": 71,
       "chapterIndex": 2,
       "text": "King Louis was brought into Italy by the ambition of the Venetians, who desired to obtain half the state of Lombardy by his intervention. I will not blame the course taken by the king, because, wishing to get a foothold in Italy, and having no friends there—seeing rather that every door was shut to him owing to the conduct of Charles—he was forced to accept those friendships which he could get, and he would have succeeded very quickly in his design if in other matters he had not made some mistakes. The king, however, having acquired Lombardy, regained at once the authority which Charles had lost: Genoa yielded; the Florentines became his friends; the Marquess of Mantua, the Duke of Ferrara, the Bentivogli, my lady of Forli, the Lords of Faenza, of Pesaro, of Rimini, of Camerino, of Piombino, the Lucchese, the Pisans, the Sienese—everybody made advances to him to become his friend. Then could the Venetians realize the rashness of the course taken by them, which, in order that they might secure two towns in Lombardy, had made the king master of two-thirds of Italy.",
+      "ttsText": "King Louis was brought into Italy by the ambition of the Venetians, who desired to obtain half the state of Lombardy by his intervention. I will not blame the course taken by the king, because, wishing to get a foothold in Italy, and having no friends there, seeing rather that every door was shut to him owing to the conduct of Charles, he was forced to accept those friendships which he could get, and he would have succeeded very quickly in his design if in other matters he had not made some mistakes. The king, however, having acquired Lombardy, regained at once the authority which Charles had lost: Genoa yielded; the Florentines became his friends; the Marquess of Mantua, the Duke of Ferrara, the Bentivogli, my lady of Forli, the Lords of Faenza, of Pesaro, of Rimini, of Camerino, of Piombino, the Lucchese, the Pisans, the Sienese, everybody made advances to him to become his friend. Then could the Venetians realize the rashness of the course taken by them, which, in order that they might secure two towns in Lombardy, had made the king master of two-thirds of Italy.",
       "role": "paragraph"
     },
     {
@@ -709,12 +742,14 @@
       "order": 81,
       "chapterIndex": 3,
       "text": "CHAPTER IV.",
+      "ttsText": "Chapter IV.",
       "role": "heading"
     },
     {
       "order": 82,
       "chapterIndex": 3,
       "text": "WHY THE KINGDOM OF DARIUS, CONQUERED BY ALEXANDER, DID NOT REBEL AGAINST THE SUCCESSORS OF ALEXANDER AT HIS DEATH",
+      "ttsText": "Why the Kingdom of Darius, Conquered by Alexander, DID Not Rebel Against the Successors of Alexander at His Death",
       "role": "paragraph"
     },
     {
@@ -769,12 +804,14 @@
       "order": 91,
       "chapterIndex": 4,
       "text": "CHAPTER V.",
+      "ttsText": "Chapter V.",
       "role": "heading"
     },
     {
       "order": 92,
       "chapterIndex": 4,
       "text": "CONCERNING THE WAY TO GOVERN CITIES OR PRINCIPALITIES WHICH LIVED UNDER THEIR OWN LAWS BEFORE THEY WERE ANNEXED",
+      "ttsText": "Concerning the Way to Govern Cities or Principalities Which Lived Under Their Own Laws Before They Were Annexed",
       "role": "paragraph"
     },
     {
@@ -805,13 +842,14 @@
       "order": 97,
       "chapterIndex": 5,
       "text": "CHAPTER VI.",
+      "ttsText": "Chapter VI.",
       "role": "heading"
     },
     {
       "order": 98,
       "chapterIndex": 5,
       "text": "CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED BY ONE’S OWN ARMS AND ABILITY",
-      "ttsText": "CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED BY ONE’Sown ARMS AND ABILITY",
+      "ttsText": "Concerning New Principalities Which Are Acquired by One’s Own Arms and Ability",
       "role": "paragraph"
     },
     {
@@ -854,6 +892,7 @@
       "order": 105,
       "chapterIndex": 5,
       "text": "If Moses, Cyrus, Theseus, and Romulus had been unarmed they could not have enforced their constitutions for long—as happened in our time to Fra Girolamo Savonarola, who was ruined with his new order of things immediately the multitude believed in him no longer, and he had no means of keeping steadfast those who believed or of making the unbelievers to believe. Therefore such as these have great difficulties in consummating their enterprise, for all their dangers are in the ascent, yet with ability they will overcome them; but when these are overcome, and those who envied them their success are exterminated, they will begin to be respected, and they will continue afterwards powerful, secure, honoured, and happy.",
+      "ttsText": "If Moses, Cyrus, Theseus, and Romulus had been unarmed they could not have enforced their constitutions for long, as happened in our time to Fra Girolamo Savonarola, who was ruined with his new order of things immediately the multitude believed in him no longer, and he had no means of keeping steadfast those who believed or of making the unbelievers to believe. Therefore such as these have great difficulties in consummating their enterprise, for all their dangers are in the ascent, yet with ability they will overcome them; but when these are overcome, and those who envied them their success are exterminated, they will begin to be respected, and they will continue afterwards powerful, secure, honoured, and happy.",
       "role": "paragraph"
     },
     {
@@ -878,30 +917,35 @@
       "order": 109,
       "chapterIndex": 6,
       "text": "CHAPTER VII.",
+      "ttsText": "Chapter VII.",
       "role": "heading"
     },
     {
       "order": 110,
       "chapterIndex": 6,
       "text": "CONCERNING NEW PRINCIPALITIES WHICH ARE ACQUIRED EITHER BY THE ARMS OF OTHERS OR BY GOOD FORTUNE",
+      "ttsText": "Concerning New Principalities Which Are Acquired Either by the Arms of Others or by Good Fortune",
       "role": "paragraph"
     },
     {
       "order": 111,
       "chapterIndex": 6,
       "text": "Those who solely by good fortune become princes from being private citizens have little trouble in rising, but much in keeping atop; they have not any difficulties on the way up, because they fly, but they have many when they reach the summit. Such are those to whom some state is given either for money or by the favour of him who bestows it; as happened to many in Greece, in the cities of Ionia and of the Hellespont, where princes were made by Darius, in order that they might hold the cities both for his security and his glory; as also were those emperors who, by the corruption of the soldiers, from being citizens came to empire. Such stand simply elevated upon the goodwill and the fortune of him who has elevated them—two most inconstant and unstable things. Neither have they the knowledge requisite for the position; because, unless they are men of great worth and ability, it is not reasonable to expect that they should know how to command, having always lived in a private condition; besides, they cannot hold it because they have not forces which they can keep friendly and faithful.",
+      "ttsText": "Those who solely by good fortune become princes from being private citizens have little trouble in rising, but much in keeping atop; they have not any difficulties on the way up, because they fly, but they have many when they reach the summit. Such are those to whom some state is given either for money or by the favour of him who bestows it; as happened to many in Greece, in the cities of Ionia and of the Hellespont, where princes were made by Darius, in order that they might hold the cities both for his security and his glory; as also were those emperors who, by the corruption of the soldiers, from being citizens came to empire. Such stand simply elevated upon the goodwill and the fortune of him who has elevated them, two most inconstant and unstable things. Neither have they the knowledge requisite for the position; because, unless they are men of great worth and ability, it is not reasonable to expect that they should know how to command, having always lived in a private condition; besides, they cannot hold it because they have not forces which they can keep friendly and faithful.",
       "role": "paragraph"
     },
     {
       "order": 112,
       "chapterIndex": 6,
       "text": "States that rise unexpectedly, then, like all other things in nature which are born and grow rapidly, cannot leave their foundations and correspondencies [1] fixed in such a way that the first storm will not overthrow them; unless, as is said, those who unexpectedly become princes are men of so much ability that they know they have to be prepared at once to hold that which fortune has thrown into their laps, and that those foundations, which others have laid before they became princes, they must lay afterwards .",
+      "ttsText": "States that rise unexpectedly, then, like all other things in nature which are born and grow rapidly, cannot leave their foundations and correspondencies [1] fixed in such a way that the first storm will not overthrow them; unless, as is said, those who unexpectedly become princes are men of so much ability that they know they have to be prepared at once to hold that which fortune has thrown into their laps, and that those foundations, which others have laid before they became princes, they must lay afterwards.",
       "role": "paragraph"
     },
     {
       "order": 113,
       "chapterIndex": 6,
       "text": "[1] “Le radici e corrispondenze,” their roots (i.e. foundations) and correspondencies or relations with other states—a common meaning of “correspondence” and “correspondency” in the sixteenth and seventeenth centuries.",
+      "ttsText": "[1] “Le radici e corrispondenze,” their roots (I.E.foundations) and correspondencies or relations with other states, a common meaning of “correspondence” and “correspondency” in the sixteenth and seventeenth centuries.",
       "role": "paragraph"
     },
     {
@@ -914,6 +958,7 @@
       "order": 115,
       "chapterIndex": 6,
       "text": "[2] Francesco Sforza, born 1401, died 1466. He married Bianca Maria Visconti, a natural daughter of Filippo Visconti, the Duke of Milan, on whose death he procured his own elevation to the duchy. Machiavelli was the accredited agent of the Florentine Republic to Cesare Borgia (1478-1507) during the transactions which led up to the assassinations of the Orsini and Vitelli at Sinigalia, and along with his letters to his chiefs in Florence he has left an account, written ten years before The Prince , of the proceedings of the duke in his “Descritione del modo tenuto dal duca Valentino nello ammazzare Vitellozzo Vitelli,” etc., a translation of which is appended to the present work.",
+      "ttsText": "[2] Francesco Sforza, born 1401, died 1466. He married Bianca Maria Visconti, a natural daughter of Filippo Visconti, the Duke of Milan, on whose death he procured his own elevation to the duchy. Machiavelli was the accredited agent of the Florentine Republic to Cesare Borgia (1478-1507) during the transactions which led up to the assassinations of the Orsini and Vitelli at Sinigalia, and along with his letters to his chiefs in Florence he has left an account, written ten years before The Prince, of the proceedings of the duke in his “Descritione del modo tenuto dal duca Valentino nello ammazzare Vitellozzo Vitelli,” etc., a translation of which is appended to the present work.",
       "role": "paragraph"
     },
     {
@@ -932,6 +977,7 @@
       "order": 118,
       "chapterIndex": 6,
       "text": "For the first thing he weakened the Orsini and Colonnesi parties in Rome, by gaining to himself all their adherents who were gentlemen, making them his gentlemen, giving them good pay, and, according to their rank, honouring them with office and command in such a way that in a few months all attachment to the factions was destroyed and turned entirely to the duke. After this he awaited an opportunity to crush the Orsini, having scattered the adherents of the Colonna house. This came to him soon and he used it well; for the Orsini, perceiving at length that the aggrandizement of the duke and the Church was ruin to them, called a meeting of the Magione in Perugia. From this sprung the rebellion at Urbino and the tumults in the Romagna, with endless dangers to the duke, all of which he overcame with the help of the French. Having restored his authority, not to leave it at risk by trusting either to the French or other outside forces, he had recourse to his wiles, and he knew so well how to conceal his mind that, by the mediation of Signor Pagolo—whom the duke did not fail to secure with all kinds of attention, giving him money, apparel, and horses—the Orsini were reconciled, so that their simplicity brought them into his power at Sinigalia. [3] Having exterminated the leaders, and turned their partisans into his friends, the duke laid sufficiently good foundations to his power, having all the Romagna and the Duchy of Urbino; and the people now beginning to appreciate their prosperity, he gained them all over to himself. And as this point is worthy of notice, and to be imitated by others, I am not willing to leave it out.",
+      "ttsText": "For the first thing he weakened the Orsini and Colonnesi parties in Rome, by gaining to himself all their adherents who were gentlemen, making them his gentlemen, giving them good pay, and, according to their rank, honouring them with office and command in such a way that in a few months all attachment to the factions was destroyed and turned entirely to the duke. After this he awaited an opportunity to crush the Orsini, having scattered the adherents of the Colonna house. This came to him soon and he used it well; for the Orsini, perceiving at length that the aggrandizement of the duke and the Church was ruin to them, called a meeting of the Magione in Perugia. From this sprung the rebellion at Urbino and the tumults in the Romagna, with endless dangers to the duke, all of which he overcame with the help of the French. Having restored his authority, not to leave it at risk by trusting either to the French or other outside forces, he had recourse to his wiles, and he knew so well how to conceal his mind that, by the mediation of Signor Pagolo, whom the duke did not fail to secure with all kinds of attention, giving him money, apparel, and horses, the Orsini were reconciled, so that their simplicity brought them into his power at Sinigalia. [3] Having exterminated the leaders, and turned their partisans into his friends, the duke laid sufficiently good foundations to his power, having all the Romagna and the Duchy of Urbino; and the people now beginning to appreciate their prosperity, he gained them all over to himself. And as this point is worthy of notice, and to be imitated by others, I am not willing to leave it out.",
       "role": "paragraph"
     },
     {
@@ -1010,19 +1056,21 @@
       "order": 131,
       "chapterIndex": 7,
       "text": "CHAPTER VIII.",
+      "ttsText": "Chapter VIII.",
       "role": "heading"
     },
     {
       "order": 132,
       "chapterIndex": 7,
       "text": "CONCERNING THOSE WHO HAVE OBTAINED A PRINCIPALITY BY WICKEDNESS",
-      "ttsText": "CONCERNING THOSE WHO HAVE OBTAINED Aprincipality BY WICKEDNESS",
+      "ttsText": "Concerning Those Who Have Obtained A Principality by Wickedness",
       "role": "paragraph"
     },
     {
       "order": 133,
       "chapterIndex": 7,
       "text": "Although a prince may rise from a private station in two ways, neither of which can be entirely attributed to fortune or genius, yet it is manifest to me that I must not be silent on them, although one could be more copiously treated when I discuss republics. These methods are when, either by some wicked or nefarious ways, one ascends to the principality, or when by the favour of his fellow-citizens a private person becomes the prince of his country. And speaking of the first method, it will be illustrated by two examples—one ancient, the other modern—and without entering further into the subject, I consider these two examples will suffice those who may be compelled to follow them.",
+      "ttsText": "Although a prince may rise from a private station in two ways, neither of which can be entirely attributed to fortune or genius, yet it is manifest to me that I must not be silent on them, although one could be more copiously treated when I discuss republics. These methods are when, either by some wicked or nefarious ways, one ascends to the principality, or when by the favour of his fellow-citizens a private person becomes the prince of his country. And speaking of the first method, it will be illustrated by two examples, one ancient, the other modern, and without entering further into the subject, I consider these two examples will suffice those who may be compelled to follow them.",
       "role": "paragraph"
     },
     {
@@ -1089,19 +1137,21 @@
       "order": 144,
       "chapterIndex": 8,
       "text": "CHAPTER IX.",
+      "ttsText": "Chapter IX.",
       "role": "heading"
     },
     {
       "order": 145,
       "chapterIndex": 8,
       "text": "CONCERNING A CIVIL PRINCIPALITY",
-      "ttsText": "CONCERNING Acivil PRINCIPALITY",
+      "ttsText": "Concerning A CIVIL Principality",
       "role": "title"
     },
     {
       "order": 146,
       "chapterIndex": 8,
       "text": "But coming to the other point—where a leading citizen becomes the prince of his country, not by wickedness or any intolerable violence, but by the favour of his fellow citizens—this may be called a civil principality: nor is genius or fortune altogether necessary to attain to it, but rather a happy shrewdness. I say then that such a principality is obtained either by the favour of the people or by the favour of the nobles. Because in all cities these two distinct parties are found, and from this it arises that the people do not wish to be ruled nor oppressed by the nobles, and the nobles wish to rule and oppress the people; and from these two opposite desires there arises in cities one of three results, either a principality, self-government, or anarchy.",
+      "ttsText": "But coming to the other point, where a leading citizen becomes the prince of his country, not by wickedness or any intolerable violence, but by the favour of his fellow citizens, this may be called a civil principality: nor is genius or fortune altogether necessary to attain to it, but rather a happy shrewdness. I say then that such a principality is obtained either by the favour of the people or by the favour of the nobles. Because in all cities these two distinct parties are found, and from this it arises that the people do not wish to be ruled nor oppressed by the nobles, and the nobles wish to rule and oppress the people; and from these two opposite desires there arises in cities one of three results, either a principality, self-government, or anarchy.",
       "role": "paragraph"
     },
     {
@@ -1132,6 +1182,7 @@
       "order": 151,
       "chapterIndex": 8,
       "text": "Nabis, [1] Prince of the Spartans, sustained the attack of all Greece, and of a victorious Roman army, and against them he defended his country and his government; and for the overcoming of this peril it was only necessary for him to make himself secure against a few, but this would not have been sufficient had the people been hostile. And do not let any one impugn this statement with the trite proverb that “He who builds on the people, builds on the mud,” for this is true when a private citizen makes a foundation there, and persuades himself that the people will free him when he is oppressed by his enemies or by the magistrates; wherein he would find himself very often deceived, as happened to the Gracchi in Rome and to Messer Giorgio Scali [2] in Florence. But granted a prince who has established himself as above, who can command, and is a man of courage, undismayed in adversity, who does not fail in other qualifications, and who, by his resolution and energy, keeps the whole people encouraged—such a one will never find himself deceived in them, and it will be shown that he has laid his foundations well.",
+      "ttsText": "Nabis, [1] Prince of the Spartans, sustained the attack of all Greece, and of a victorious Roman army, and against them he defended his country and his government; and for the overcoming of this peril it was only necessary for him to make himself secure against a few, but this would not have been sufficient had the people been hostile. And do not let any one impugn this statement with the trite proverb that “He who builds on the people, builds on the mud,” for this is true when a private citizen makes a foundation there, and persuades himself that the people will free him when he is oppressed by his enemies or by the magistrates; wherein he would find himself very often deceived, as happened to the Gracchi in Rome and to Messer Giorgio Scali [2] in Florence. But granted a prince who has established himself as above, who can command, and is a man of courage, undismayed in adversity, who does not fail in other qualifications, and who, by his resolution and energy, keeps the whole people encouraged, such a one will never find himself deceived in them, and it will be shown that he has laid his foundations well.",
       "role": "paragraph"
     },
     {
@@ -1162,12 +1213,14 @@
       "order": 156,
       "chapterIndex": 9,
       "text": "CHAPTER X.",
+      "ttsText": "Chapter X.",
       "role": "heading"
     },
     {
       "order": 157,
       "chapterIndex": 9,
       "text": "CONCERNING THE WAY IN WHICH THE STRENGTH OF ALL PRINCIPALITIES OUGHT TO BE MEASURED",
+      "ttsText": "Concerning the Way in Which the Strength of All Principalities Ought to Be Measured",
       "role": "paragraph"
     },
     {
@@ -1204,12 +1257,14 @@
       "order": 163,
       "chapterIndex": 10,
       "text": "CHAPTER XI.",
+      "ttsText": "Chapter XI.",
       "role": "heading"
     },
     {
       "order": 164,
       "chapterIndex": 10,
       "text": "CONCERNING ECCLESIASTICAL PRINCIPALITIES",
+      "ttsText": "Concerning Ecclesiastical Principalities",
       "role": "title"
     },
     {
@@ -1222,6 +1277,7 @@
       "order": 166,
       "chapterIndex": 10,
       "text": "Nevertheless, if any one should ask of me how comes it that the Church has attained such greatness in temporal power, seeing that from Alexander backwards the Italian potentates (not only those who have been called potentates, but every baron and lord, though the smallest) have valued the temporal power very slightly—yet now a king of France trembles before it, and it has been able to drive him from Italy, and to ruin the Venetians—although this may be very manifest, it does not appear to me superfluous to recall it in some measure to memory.",
+      "ttsText": "Nevertheless, if any one should ask of me how comes it that the Church has attained such greatness in temporal power, seeing that from Alexander backwards the Italian potentates (not only those who have been called potentates, but every baron and lord, though the smallest) have valued the temporal power very slightly, yet now a king of France trembles before it, and it has been able to drive him from Italy, and to ruin the Venetians, although this may be very manifest, it does not appear to me superfluous to recall it in some measure to memory.",
       "role": "paragraph"
     },
     {
@@ -1264,12 +1320,14 @@
       "order": 173,
       "chapterIndex": 11,
       "text": "CHAPTER XII.",
+      "ttsText": "Chapter XII.",
       "role": "heading"
     },
     {
       "order": 174,
       "chapterIndex": 11,
       "text": "HOW MANY KINDS OF SOLDIERY THERE ARE, AND CONCERNING MERCENARIES",
+      "ttsText": "How Many Kinds of Soldiery There Are, And Concerning Mercenaries",
       "role": "paragraph"
     },
     {
@@ -1294,6 +1352,7 @@
       "order": 178,
       "chapterIndex": 11,
       "text": "[1] “With chalk in hand,” “col gesso.” This is one of the bons mots of Alexander VI, and refers to the ease with which Charles VIII seized Italy, implying that it was only necessary for him to send his quartermasters to chalk up the billets for his soldiers to conquer the country. Cf . “The History of Henry VII,” by Lord Bacon: “King Charles had conquered the realm of Naples, and lost it again, in a kind of a felicity of a dream. He passed the whole length of Italy without resistance: so that it was true what Pope Alexander was wont to say: That the Frenchmen came into Italy with chalk in their hands, to mark up their lodgings, rather than with swords to fight.”",
+      "ttsText": "[1] “With chalk in hand,” “col gesso.” This is one of the bons mots of Alexander VI, and refers to the ease with which Charles VIII seized Italy, implying that it was only necessary for him to send his quartermasters to chalk up the billets for his soldiers to conquer the country. Cf. “The History of Henry VII,” by Lord Bacon: “King Charles had conquered the realm of Naples, and lost it again, in a kind of a felicity of a dream. He passed the whole length of Italy without resistance: so that it was true what Pope Alexander was wont to say: That the Frenchmen came into Italy with chalk in their hands, to mark up their lodgings, rather than with swords to fight.”",
       "role": "paragraph"
     },
     {
@@ -1348,6 +1407,7 @@
       "order": 187,
       "chapterIndex": 11,
       "text": "[6] Bartolomeo Colleoni of Bergamo; died 1457. Roberto of San Severino; died fighting for Venice against Sigismund, Duke of Austria, in 1487. “Primo capitano in Italia.”—Machiavelli. Count of Pitigliano; Nicolo Orsini, born 1442, died 1510.",
+      "ttsText": "[6] Bartolomeo Colleoni of Bergamo; died 1457. Roberto of San Severino; died fighting for Venice against Sigismund, Duke of Austria, in 1487. “Primo capitano in Italia.”, Machiavelli. Count of Pitigliano; Nicolo Orsini, born 1442, died 1510.",
       "role": "paragraph"
     },
     {
@@ -1384,6 +1444,7 @@
       "order": 193,
       "chapterIndex": 12,
       "text": "INTRODUCTION",
+      "ttsText": "Introduction",
       "role": "heading"
     },
     {
@@ -1408,13 +1469,14 @@
       "order": 197,
       "chapterIndex": 13,
       "text": "CHAPTER XIII.",
+      "ttsText": "Chapter XIII.",
       "role": "heading"
     },
     {
       "order": 198,
       "chapterIndex": 13,
       "text": "CONCERNING AUXILIARIES, MIXED SOLDIERY, AND ONE’S OWN",
-      "ttsText": "CONCERNING AUXILIARIES, MIXED SOLDIERY, AND ONE’Sown",
+      "ttsText": "Concerning Auxiliaries, Mixed Soldiery, And One’s Own",
       "role": "title"
     },
     {
@@ -1427,6 +1489,7 @@
       "order": 200,
       "chapterIndex": 13,
       "text": "[1] Ferdinand V (F. II of Aragon and Sicily, F. III of Naples), surnamed “The Catholic,” born 1452, died 1516.",
+      "ttsText": "[1] Ferdinand Vf. II of Aragon and Sicily, F. III of Naples), surnamed “The Catholic,” born 1452, died 1516.",
       "role": "paragraph"
     },
     {
@@ -1505,6 +1568,7 @@
       "order": 213,
       "chapterIndex": 13,
       "text": "[5] “Many speakers to the House the other night in the debate on the reduction of armaments seemed to show a most lamentable ignorance of the conditions under which the British Empire maintains its existence. When Mr Balfour replied to the allegations that the Roman Empire sank under the weight of its military obligations, he said that this was ‘wholly unhistorical.’ He might well have added that the Roman power was at its zenith when every citizen acknowledged his liability to fight for the State, but that it began to decline as soon as this obligation was no longer recognised.”— Pall Mall Gazette , 15th May 1906.",
+      "ttsText": "[5] “Many speakers to the House the other night in the debate on the reduction of armaments seemed to show a most lamentable ignorance of the conditions under which the British Empire maintains its existence. When Mr Balfour replied to the allegations that the Roman Empire sank under the weight of its military obligations, he said that this was ‘wholly unhistorical.’ He might well have added that the Roman power was at its zenith when every citizen acknowledged his liability to fight for the State, but that it began to decline as soon as this obligation was no longer recognised.”, Pall Mall Gazette, 15th May 1906.",
       "role": "paragraph"
     },
     {
@@ -1523,13 +1587,14 @@
       "order": 216,
       "chapterIndex": 14,
       "text": "CHAPTER XIV.",
+      "ttsText": "Chapter XIV.",
       "role": "heading"
     },
     {
       "order": 217,
       "chapterIndex": 14,
       "text": "THAT WHICH CONCERNS A PRINCE ON THE SUBJECT OF THE ART OF WAR",
-      "ttsText": "THAT WHICH CONCERNS Aprince ON THE SUBJECT OF THE ART OF WAR",
+      "ttsText": "That Which Concerns A Prince on the Subject of the Art of War",
       "role": "paragraph"
     },
     {
@@ -1572,12 +1637,14 @@
       "order": 224,
       "chapterIndex": 15,
       "text": "CHAPTER XV.",
+      "ttsText": "Chapter XV.",
       "role": "heading"
     },
     {
       "order": 225,
       "chapterIndex": 15,
       "text": "CONCERNING THINGS FOR WHICH MEN, AND ESPECIALLY PRINCES, ARE PRAISED OR BLAMED",
+      "ttsText": "Concerning Things for Which Men, And Especially Princes, Are Praised or Blamed",
       "role": "paragraph"
     },
     {
@@ -1602,12 +1669,14 @@
       "order": 229,
       "chapterIndex": 16,
       "text": "CHAPTER XVI.",
+      "ttsText": "Chapter XVI.",
       "role": "heading"
     },
     {
       "order": 230,
       "chapterIndex": 16,
       "text": "CONCERNING LIBERALITY AND MEANNESS",
+      "ttsText": "Concerning Liberality and Meanness",
       "role": "title"
     },
     {
@@ -1650,12 +1719,14 @@
       "order": 237,
       "chapterIndex": 17,
       "text": "CHAPTER XVII.",
+      "ttsText": "Chapter XVII.",
       "role": "heading"
     },
     {
       "order": 238,
       "chapterIndex": 17,
       "text": "CONCERNING CRUELTY AND CLEMENCY, AND WHETHER IT IS BETTER TO BE LOVED THAN FEARED",
+      "ttsText": "Concerning Cruelty and Clemency, And Whether It Is Better to Be Loved Than Feared",
       "role": "paragraph"
     },
     {
@@ -1698,6 +1769,7 @@
       "order": 245,
       "chapterIndex": 17,
       "text": "[2] . . . against my will, my fate",
+      "ttsText": "[2] … against my will, my fate",
       "role": "paragraph"
     },
     {
@@ -1758,12 +1830,14 @@
       "order": 255,
       "chapterIndex": 18,
       "text": "CHAPTER XVIII. [1]",
+      "ttsText": "Chapter XVIII. [1]",
       "role": "heading"
     },
     {
       "order": 256,
       "chapterIndex": 18,
       "text": "CONCERNING THE WAY IN WHICH PRINCES SHOULD KEEP FAITH",
+      "ttsText": "Concerning the Way in Which Princes Should Keep Faith",
       "role": "title"
     },
     {
@@ -1782,6 +1856,7 @@
       "order": 259,
       "chapterIndex": 18,
       "text": "[2] “Contesting,” i.e . “striving for mastery.” Mr Burd points out that this passage is imitated directly from Cicero’s “De Officiis”: “Nam cum sint duo genera decertandi, unum per disceptationem, alterum per vim; cumque illud proprium sit hominis, hoc beluarum; confugiendum est ad posterius, si uti non licet superiore.”",
+      "ttsText": "[2] “Contesting,” I.E.“striving for mastery.” Mr Burd points out that this passage is imitated directly from Cicero’s “De Officiis”: “Nam cum sint duo genera decertandi, unum per disceptationem, alterum per vim; cumque illud proprium sit hominis, hoc beluarum; confugiendum est ad posterius, si uti non licet superiore.”",
       "role": "paragraph"
     },
     {
@@ -1830,6 +1905,7 @@
       "order": 267,
       "chapterIndex": 18,
       "text": "[4] “Contrary to fidelity” or “faith,” “contro alla fede,” and “tutto fede,” “altogether faithful,” in the next paragraph. It is noteworthy that these two phrases, “contro alla fede” and “tutto fede,” were omitted in the Testina edition, which was published with the sanction of the papal authorities. It may be that the meaning attached to the word “fede” was “the faith,” i.e . the Catholic creed, and not as rendered here “fidelity” and “faithful.” Observe that the word “religione” was suffered to stand in the text of the Testina, being used to signify indifferently every shade of belief, as witness “the religion,” a phrase inevitably employed to designate the Huguenot heresy. South in his Sermon IX, p. 69, ed. 1843, comments on this passage as follows: “That great patron and Coryphaeus of this tribe, Nicolo Machiavel, laid down this for a master rule in his political scheme: ‘That the show of religion was helpful to the politician, but the reality of it hurtful and pernicious.’”",
+      "ttsText": "[4] “Contrary to fidelity” or “faith,” “contro alla fede,” and “tutto fede,” “altogether faithful,” in the next paragraph. It is noteworthy that these two phrases, “contro alla fede” and “tutto fede,” were omitted in the Testina edition, which was published with the sanction of the papal authorities. It may be that the meaning attached to the word “fede” was “the faith,” I.E.the Catholic creed, and not as rendered here “fidelity” and “faithful.” Observe that the word “religione” was suffered to stand in the text of the Testina, being used to signify indifferently every shade of belief, as witness “the religion,” a phrase inevitably employed to designate the Huguenot heresy. South in his Sermon IX, p. 69, ed. 1843, comments on this passage as follows: “That great patron and Coryphaeus of this tribe, Nicolo Machiavel, laid down this for a master rule in his political scheme: ‘That the show of religion was helpful to the politician, but the reality of it hurtful and pernicious.’”",
       "role": "paragraph"
     },
     {
@@ -1866,12 +1942,14 @@
       "order": 273,
       "chapterIndex": 19,
       "text": "CHAPTER XIX.",
+      "ttsText": "Chapter XIX.",
       "role": "heading"
     },
     {
       "order": 274,
       "chapterIndex": 19,
       "text": "THAT ONE SHOULD AVOID BEING DESPISED AND HATED",
+      "ttsText": "That One Should Avoid Being Despised and Hated",
       "role": "title"
     },
     {
@@ -1962,6 +2040,7 @@
       "order": 289,
       "chapterIndex": 19,
       "text": "But Pertinax was created emperor against the wishes of the soldiers, who, being accustomed to live licentiously under Commodus, could not endure the honest life to which Pertinax wished to reduce them; thus, having given cause for hatred, to which hatred there was added contempt for his old age, he was overthrown at the very beginning of his administration. And here it should be noted that hatred is acquired as much by good works as by bad ones, therefore, as I said before, a prince wishing to keep his state is very often forced to do evil; for when that body is corrupt whom you think you have need of to maintain yourself—it may be either the people or the soldiers or the nobles—you have to submit to its humours and to gratify them, and then good works will do you harm.",
+      "ttsText": "But Pertinax was created emperor against the wishes of the soldiers, who, being accustomed to live licentiously under Commodus, could not endure the honest life to which Pertinax wished to reduce them; thus, having given cause for hatred, to which hatred there was added contempt for his old age, he was overthrown at the very beginning of his administration. And here it should be noted that hatred is acquired as much by good works as by bad ones, therefore, as I said before, a prince wishing to keep his state is very often forced to do evil; for when that body is corrupt whom you think you have need of to maintain yourself, it may be either the people or the soldiers or the nobles, you have to submit to its humours and to gratify them, and then good works will do you harm.",
       "role": "paragraph"
     },
     {
@@ -2028,12 +2107,14 @@
       "order": 300,
       "chapterIndex": 20,
       "text": "CHAPTER XX.",
+      "ttsText": "Chapter XX.",
       "role": "heading"
     },
     {
       "order": 301,
       "chapterIndex": 20,
       "text": "ARE FORTRESSES, AND MANY OTHER THINGS TO WHICH PRINCES OFTEN RESORT, ADVANTAGEOUS OR HURTFUL?",
+      "ttsText": "Are Fortresses, And Many Other Things to Which Princes Often Resort, Advantageous or Hurtful?",
       "role": "paragraph"
     },
     {
@@ -2070,12 +2151,14 @@
       "order": 307,
       "chapterIndex": 20,
       "text": "6. It has been a custom with princes, in order to hold their states more securely, to build fortresses that may serve as a bridle and bit to those who might design to work against them, and as a place of refuge from a first attack. I praise this system because it has been made use of formerly. Notwithstanding that, Messer Nicolo Vitelli in our times has been seen to demolish two fortresses in Citta di Castello so that he might keep that state; Guido Ubaldo, Duke of Urbino, on returning to his dominion, whence he had been driven by Cesare Borgia, razed to the foundations all the fortresses in that province, and considered that without them it would be more difficult to lose it; the Bentivogli returning to Bologna came to a similar decision. Fortresses, therefore, are useful or not according to circumstances; if they do you good in one way they injure you in another. And this question can be reasoned thus: the prince who has more to fear from the people than from foreigners ought to build fortresses, but he who has more to fear from foreigners than from the people ought to leave them alone. The castle of Milan, built by Francesco Sforza, has made, and will make, more trouble for the house of Sforza than any other disorder in the state. For this reason the best possible fortress is—not to be hated by the people, because, although you may hold the fortresses, yet they will not save you if the people hate you, for there will never be wanting foreigners to assist a people who have taken arms against you. It has not been seen in our times that such fortresses have been of use to any prince, unless to the Countess of Forli, [1] when the Count Girolamo, her consort, was killed; for by that means she was able to withstand the popular attack and wait for assistance from Milan, and thus recover her state; and the posture of affairs was such at that time that the foreigners could not assist the people. But fortresses were of little value to her afterwards when Cesare Borgia attacked her, and when the people, her enemy, were allied with foreigners. Therefore, it would have been safer for her, both then and before, not to have been hated by the people than to have had the fortresses. All these things considered then, I shall praise him who builds fortresses as well as him who does not, and I shall blame whoever, trusting in them, cares little about being hated by the people.",
+      "ttsText": "6. It has been a custom with princes, in order to hold their states more securely, to build fortresses that may serve as a bridle and bit to those who might design to work against them, and as a place of refuge from a first attack. I praise this system because it has been made use of formerly. Notwithstanding that, Messer Nicolo Vitelli in our times has been seen to demolish two fortresses in Citta di Castello so that he might keep that state; Guido Ubaldo, Duke of Urbino, on returning to his dominion, whence he had been driven by Cesare Borgia, razed to the foundations all the fortresses in that province, and considered that without them it would be more difficult to lose it; the Bentivogli returning to Bologna came to a similar decision. Fortresses, therefore, are useful or not according to circumstances; if they do you good in one way they injure you in another. And this question can be reasoned thus: the prince who has more to fear from the people than from foreigners ought to build fortresses, but he who has more to fear from foreigners than from the people ought to leave them alone. The castle of Milan, built by Francesco Sforza, has made, and will make, more trouble for the house of Sforza than any other disorder in the state. For this reason the best possible fortress is, not to be hated by the people, because, although you may hold the fortresses, yet they will not save you if the people hate you, for there will never be wanting foreigners to assist a people who have taken arms against you. It has not been seen in our times that such fortresses have been of use to any prince, unless to the Countess of Forli, [1] when the Count Girolamo, her consort, was killed; for by that means she was able to withstand the popular attack and wait for assistance from Milan, and thus recover her state; and the posture of affairs was such at that time that the foreigners could not assist the people. But fortresses were of little value to her afterwards when Cesare Borgia attacked her, and when the people, her enemy, were allied with foreigners. Therefore, it would have been safer for her, both then and before, not to have been hated by the people than to have had the fortresses. All these things considered then, I shall praise him who builds fortresses as well as him who does not, and I shall blame whoever, trusting in them, cares little about being hated by the people.",
       "role": "heading"
     },
     {
       "order": 308,
       "chapterIndex": 20,
       "text": "[1] Catherine Sforza, a daughter of Galeazzo Sforza and Lucrezia Landriani, born 1463, died 1509. It was to the Countess of Forli that Machiavelli was sent as envoy on 1499. A letter from Fortunati to the countess announces the appointment: “I have been with the signori,” wrote Fortunati, “to learn whom they would send and when. They tell me that Nicolo Machiavelli, a learned young Florentine noble, secretary to my Lords of the Ten, is to leave with me at once.” Cf . “Catherine Sforza,” by Count Pasolini, translated by P. Sylvester, 1898.",
+      "ttsText": "[1] Catherine Sforza, a daughter of Galeazzo Sforza and Lucrezia Landriani, born 1463, died 1509. It was to the Countess of Forli that Machiavelli was sent as envoy on 1499. A letter from Fortunati to the countess announces the appointment: “I have been with the signori,” wrote Fortunati, “to learn whom they would send and when. They tell me that Nicolo Machiavelli, a learned young Florentine noble, secretary to my Lords of the Ten, is to leave with me at once.” Cf. “Catherine Sforza,” by Count Pasolini, translated by P. Sylvester, 1898.",
       "role": "paragraph"
     },
     {
@@ -2088,13 +2171,14 @@
       "order": 310,
       "chapterIndex": 21,
       "text": "CHAPTER XXI.",
+      "ttsText": "Chapter XXI.",
       "role": "heading"
     },
     {
       "order": 311,
       "chapterIndex": 21,
       "text": "HOW A PRINCE SHOULD CONDUCT HIMSELF SO AS TO GAIN RENOWN",
-      "ttsText": "HOW Aprince SHOULD CONDUCT HIMSELF SO AS TO GAIN RENOWN",
+      "ttsText": "How A Prince Should Conduct Himself So as to Gain Renown",
       "role": "title"
     },
     {
@@ -2149,6 +2233,7 @@
       "order": 320,
       "chapterIndex": 21,
       "text": "[1] “Guilds or societies,” “in arti o in tribu.” “Arti” were craft or trade guilds, cf . Florio: “Arte . . . a whole company of any trade in any city or corporation town.” The guilds of Florence are most admirably described by Mr Edgcumbe Staley in his work on the subject (Methuen, 1906). Institutions of a somewhat similar character, called “artel,” exist in Russia to-day, cf . Sir Mackenzie Wallace’s “Russia,” ed. 1905: “The sons . . . were always during the working season members of an artel. In some of the larger towns there are artels of a much more complex kind— permanent associations, possessing large capital, and pecuniarily responsible for the acts of the individual members.” The word “artel,” despite its apparent similarity, has, Mr Aylmer Maude assures me, no connection with “ars” or “arte.” Its root is that of the verb “rotisya,” to bind oneself by an oath; and it is generally admitted to be only another form of “rota,” which now signifies a “regimental company.” In both words the underlying idea is that of a body of men united by an oath. “Tribu” were possibly gentile groups, united by common descent, and included individuals connected by marriage. Perhaps our words “sects” or “clans” would be most appropriate.",
+      "ttsText": "[1] “Guilds or societies,” “in arti o in tribu.” “Arti” were craft or trade guilds, cf. Florio: “Arte … a whole company of any trade in any city or corporation town.” The guilds of Florence are most admirably described by Mr Edgcumbe Staley in his work on the subject (Methuen, 1906). Institutions of a somewhat similar character, called “artel,” exist in Russia to-day, cf. Sir Mackenzie Wallace’s “Russia,” ed. 1905: “The sons … were always during the working season members of an artel. In some of the larger towns there are artels of a much more complex kind, permanent associations, possessing large capital, and pecuniarily responsible for the acts of the individual members.” The word “artel,” despite its apparent similarity, has, Mr Aylmer Maude assures me, no connection with “ars” or “arte.” Its root is that of the verb “rotisya,” to bind oneself by an oath; and it is generally admitted to be only another form of “rota,” which now signifies a “regimental company.” In both words the underlying idea is that of a body of men united by an oath. “Tribu” were possibly gentile groups, united by common descent, and included individuals connected by marriage. Perhaps our words “sects” or “clans” would be most appropriate.",
       "role": "paragraph"
     },
     {
@@ -2161,12 +2246,14 @@
       "order": 322,
       "chapterIndex": 22,
       "text": "CHAPTER XXII.",
+      "ttsText": "Chapter XXII.",
       "role": "heading"
     },
     {
       "order": 323,
       "chapterIndex": 22,
       "text": "CONCERNING THE SECRETARIES OF PRINCES",
+      "ttsText": "Concerning the Secretaries of Princes",
       "role": "title"
     },
     {
@@ -2203,12 +2290,14 @@
       "order": 329,
       "chapterIndex": 23,
       "text": "YOUTH — Æt. 1-25—1469-94",
+      "ttsText": "Youth, Æt. 1-25, 1469-94",
       "role": "paragraph"
     },
     {
       "order": 330,
       "chapterIndex": 23,
       "text": "Although there is little recorded of the youth of Machiavelli, the Florence of those days is so well known that the early environment of this representative citizen may be easily imagined. Florence has been described as a city with two opposite currents of life, one directed by the fervent and austere Savonarola, the other by the splendour-loving Lorenzo. Savonarola’s influence upon the young Machiavelli must have been slight, for although at one time he wielded immense power over the fortunes of Florence, he only furnished Machiavelli with a subject of a gibe in The Prince , where he is cited as an example of an unarmed prophet who came to a bad end. Whereas the magnificence of the Medicean rule during the life of Lorenzo appeared to have impressed Machiavelli strongly, for he frequently recurs to it in his writings, and it is to Lorenzo’s grandson that he dedicates The Prince .",
+      "ttsText": "Although there is little recorded of the youth of Machiavelli, the Florence of those days is so well known that the early environment of this representative citizen may be easily imagined. Florence has been described as a city with two opposite currents of life, one directed by the fervent and austere Savonarola, the other by the splendour-loving Lorenzo. Savonarola’s influence upon the young Machiavelli must have been slight, for although at one time he wielded immense power over the fortunes of Florence, he only furnished Machiavelli with a subject of a gibe in The Prince, where he is cited as an example of an unarmed prophet who came to a bad end. Whereas the magnificence of the Medicean rule during the life of Lorenzo appeared to have impressed Machiavelli strongly, for he frequently recurs to it in his writings, and it is to Lorenzo’s grandson that he dedicates The Prince.",
       "role": "paragraph"
     },
     {
@@ -2227,12 +2316,14 @@
       "order": 333,
       "chapterIndex": 24,
       "text": "CHAPTER XXIII.",
+      "ttsText": "Chapter XXIII.",
       "role": "heading"
     },
     {
       "order": 334,
       "chapterIndex": 24,
       "text": "HOW FLATTERERS SHOULD BE AVOIDED",
+      "ttsText": "How Flatterers Should Be Avoided",
       "role": "title"
     },
     {
@@ -2251,6 +2342,7 @@
       "order": 337,
       "chapterIndex": 24,
       "text": "I wish on this subject to adduce a modern example. Fra Luca, the man of affairs to Maximilian, [1] the present emperor, speaking of his majesty, said: He consulted with no one, yet never got his own way in anything. This arose because of his following a practice the opposite to the above; for the emperor is a secretive man—he does not communicate his designs to any one, nor does he receive opinions on them. But as in carrying them into effect they become revealed and known, they are at once obstructed by those men whom he has around him, and he, being pliant, is diverted from them. Hence it follows that those things he does one day he undoes the next, and no one ever understands what he wishes or intends to do, and no one can rely on his resolutions.",
+      "ttsText": "I wish on this subject to adduce a modern example. Fra Luca, the man of affairs to Maximilian, [1] the present emperor, speaking of his majesty, said: He consulted with no one, yet never got his own way in anything. This arose because of his following a practice the opposite to the above; for the emperor is a secretive man, he does not communicate his designs to any one, nor does he receive opinions on them. But as in carrying them into effect they become revealed and known, they are at once obstructed by those men whom he has around him, and he, being pliant, is diverted from them. Hence it follows that those things he does one day he undoes the next, and no one ever understands what he wishes or intends to do, and no one can rely on his resolutions.",
       "role": "paragraph"
     },
     {
@@ -2287,12 +2379,14 @@
       "order": 343,
       "chapterIndex": 25,
       "text": "CHAPTER XXIV.",
+      "ttsText": "Chapter XXIV.",
       "role": "heading"
     },
     {
       "order": 344,
       "chapterIndex": 25,
       "text": "WHY THE PRINCES OF ITALY HAVE LOST THEIR STATES",
+      "ttsText": "Why the Princes of Italy Have Lost Their States",
       "role": "title"
     },
     {
@@ -2329,12 +2423,14 @@
       "order": 350,
       "chapterIndex": 26,
       "text": "CHAPTER XXV.",
+      "ttsText": "Chapter XXV.",
       "role": "heading"
     },
     {
       "order": 351,
       "chapterIndex": 26,
       "text": "WHAT FORTUNE CAN EFFECT IN HUMAN AFFAIRS AND HOW TO WITHSTAND HER",
+      "ttsText": "What Fortune Can Effect in Human Affairs and How to Withstand Her",
       "role": "paragraph"
     },
     {
@@ -2401,12 +2497,14 @@
       "order": 362,
       "chapterIndex": 27,
       "text": "CHAPTER XXVI.",
+      "ttsText": "Chapter XXVI.",
       "role": "heading"
     },
     {
       "order": 363,
       "chapterIndex": 27,
       "text": "AN EXHORTATION TO LIBERATE ITALY FROM THE BARBARIANS",
+      "ttsText": "An Exhortation to Liberate Italy from the Barbarians",
       "role": "title"
     },
     {
@@ -2545,12 +2643,14 @@
       "order": 386,
       "chapterIndex": 28,
       "text": "DESCRIPTION OF THE METHODS ADOPTED BY THE DUKE VALENTINO WHEN MURDERING VITELLOZZO VITELLI, OLIVEROTTO DA FERMO, THE SIGNOR PAGOLO, AND THE DUKE DI GRAVINA ORSINI",
+      "ttsText": "Description of the Methods Adopted by the Duke Valentino When Murdering Vitellozzo Vitelli, Oliverotto Da Fermo, The Signor Pagolo, And the Duke DI Gravina Orsini",
       "role": "paragraph"
     },
     {
       "order": 387,
       "chapterIndex": 28,
       "text": "BY NICOLO MACHIAVELLI",
+      "ttsText": "By Nicolo Machiavelli",
       "role": "title"
     },
     {
@@ -2641,12 +2741,14 @@
       "order": 402,
       "chapterIndex": 28,
       "text": "Vitellozzo, Pagolo, and the Duke di Gravina on mules, accompanied by a few horsemen, went towards the duke; Vitellozo, unarmed and wearing a cape lined with green, appeared very dejected, as if conscious of his approaching death—a circumstance which, in view of the ability of the man and his former fortune, caused some amazement. And it is said that when he parted from his men before setting out for Sinigalia to meet the duke he acted as if it were his last parting from them. He recommended his house and its fortunes to his captains, and advised his nephews that it was not the fortune of their house, but the virtues of their fathers that should be kept in mind. These three, therefore, came before the duke and saluted him respectfully, and were received by him with goodwill; they were at once placed between those who were commissioned to look after them.",
+      "ttsText": "Vitellozzo, Pagolo, and the Duke di Gravina on mules, accompanied by a few horsemen, went towards the duke; Vitellozo, unarmed and wearing a cape lined with green, appeared very dejected, as if conscious of his approaching death, a circumstance which, in view of the ability of the man and his former fortune, caused some amazement. And it is said that when he parted from his men before setting out for Sinigalia to meet the duke he acted as if it were his last parting from them. He recommended his house and its fortunes to his captains, and advised his nephews that it was not the fortune of their house, but the virtues of their fathers that should be kept in mind. These three, therefore, came before the duke and saluted him respectfully, and were received by him with goodwill; they were at once placed between those who were commissioned to look after them.",
       "role": "paragraph"
     },
     {
       "order": 403,
       "chapterIndex": 28,
       "text": "But the duke noticing that Oliverotto, who had remained with his band in Sinigalia, was missing—for Oliverotto was waiting in the square before his quarters near the river, keeping his men in order and drilling them—signalled with his eye to Don Michelle, to whom the care of Oliverotto had been committed, that he should take measures that Oliverotto should not escape. Therefore Don Michele rode off and joined Oliverotto, telling him that it was not right to keep his men out of their quarters, because these might be taken up by the men of the duke; and he advised him to send them at once to their quarters and to come himself to meet the duke. And Oliverotto, having taken this advice, came before the duke, who, when he saw him, called to him; and Oliverotto, having made his obeisance, joined the others.",
+      "ttsText": "But the duke noticing that Oliverotto, who had remained with his band in Sinigalia, was missing, for Oliverotto was waiting in the square before his quarters near the river, keeping his men in order and drilling them, signalled with his eye to Don Michelle, to whom the care of Oliverotto had been committed, that he should take measures that Oliverotto should not escape. Therefore Don Michele rode off and joined Oliverotto, telling him that it was not right to keep his men out of their quarters, because these might be taken up by the men of the duke; and he advised him to send them at once to their quarters and to come himself to meet the duke. And Oliverotto, having taken this advice, came before the duke, who, when he saw him, called to him; and Oliverotto, having made his obeisance, joined the others.",
       "role": "paragraph"
     },
     {
@@ -2671,24 +2773,28 @@
       "order": 407,
       "chapterIndex": 29,
       "text": "THE LIFE OF CASTRUCCIO CASTRACANI OF LUCCA",
+      "ttsText": "The Life of Castruccio Castracani of Lucca",
       "role": "title"
     },
     {
       "order": 408,
       "chapterIndex": 29,
       "text": "WRITTEN BY NICOLO MACHIAVELLI",
+      "ttsText": "Written by Nicolo Machiavelli",
       "role": "title"
     },
     {
       "order": 409,
       "chapterIndex": 29,
       "text": "And sent to his friends ZANOBI BUONDELMONTI And LUIGI ALAMANNI",
+      "ttsText": "And sent to his friends Zanobi Buondelmonti And Luigi Alamanni",
       "role": "paragraph"
     },
     {
       "order": 410,
       "chapterIndex": 29,
       "text": "CASTRUCCIO CASTRACANI 1284-1328",
+      "ttsText": "Castruccio Castracani 1284-1328",
       "role": "title"
     },
     {
@@ -2719,6 +2825,7 @@
       "order": 415,
       "chapterIndex": 29,
       "text": "Castruccio, having returned to Lucca in far higher estimation than he left it, did not omit to use all the means in his power to gain as many friends as he could, neglecting none of those arts which are necessary for that purpose. About this time Messer Francesco died, leaving a son thirteen years of age named Pagolo, and having appointed Castruccio to be his son’s tutor and administrator of his estate. Before he died Francesco called Castruccio to him, and prayed him to show Pagolo that goodwill which he (Francesco) had always shown to HIM, and to render to the son the gratitude which he had not been able to repay to the father. Upon the death of Francesco, Castruccio became the governor and tutor of Pagolo, which increased enormously his power and position, and created a certain amount of envy against him in Lucca in place of the former universal goodwill, for many men suspected him of harbouring tyrannical intentions. Among these the leading man was Giorgio degli Opizi, the head of the Guelph party. This man hoped after the death of Messer Francesco to become the chief man in Lucca, but it seemed to him that Castruccio, with the great abilities which he already showed, and holding the position of governor, deprived him of his opportunity; therefore he began to sow those seeds which should rob Castruccio of his eminence. Castruccio at first treated this with scorn, but afterwards he grew alarmed, thinking that Messer Giorgio might be able to bring him into disgrace with the deputy of King Ruberto of Naples and have him driven out of Lucca.",
+      "ttsText": "Castruccio, having returned to Lucca in far higher estimation than he left it, did not omit to use all the means in his power to gain as many friends as he could, neglecting none of those arts which are necessary for that purpose. About this time Messer Francesco died, leaving a son thirteen years of age named Pagolo, and having appointed Castruccio to be his son’s tutor and administrator of his estate. Before he died Francesco called Castruccio to him, and prayed him to show Pagolo that goodwill which he (Francesco) had always shown to Him, and to render to the son the gratitude which he had not been able to repay to the father. Upon the death of Francesco, Castruccio became the governor and tutor of Pagolo, which increased enormously his power and position, and created a certain amount of envy against him in Lucca in place of the former universal goodwill, for many men suspected him of harbouring tyrannical intentions. Among these the leading man was Giorgio degli Opizi, the head of the Guelph party. This man hoped after the death of Messer Francesco to become the chief man in Lucca, but it seemed to him that Castruccio, with the great abilities which he already showed, and holding the position of governor, deprived him of his opportunity; therefore he began to sow those seeds which should rob Castruccio of his eminence. Castruccio at first treated this with scorn, but afterwards he grew alarmed, thinking that Messer Giorgio might be able to bring him into disgrace with the deputy of King Ruberto of Naples and have him driven out of Lucca.",
       "role": "paragraph"
     },
     {
@@ -2767,24 +2874,28 @@
       "order": 423,
       "chapterIndex": 29,
       "text": "About this time great disturbances arose in Rome, owing to the dearness of living which was caused by the absence of the pontiff at Avignon. The German governor, Enrico, was much blamed for what happened—murders and tumults following each other daily, without his being able to put an end to them. This caused Enrico much anxiety lest the Romans should call in Ruberto, the King of Naples, who would drive the Germans out of the city, and bring back the Pope. Having no nearer friend to whom he could apply for help than Castruccio, he sent to him, begging him not only to give him assistance, but also to come in person to Rome. Castruccio considered that he ought not to hesitate to render the emperor this service, because he believed that he himself would not be safe if at any time the emperor ceased to hold Rome. Leaving Pagolo Guinigi in command at Lucca, Castruccio set out for Rome with six hundred horsemen, where he was received by Enrico with the greatest distinction. In a short time the presence of Castruccio obtained such respect for the emperor that, without bloodshed or violence, good order was restored, chiefly by reason of Castruccio having sent by sea from the country round Pisa large quantities of corn, and thus removed the source of the trouble. When he had chastised some of the Roman leaders, and admonished others, voluntary obedience was rendered to Enrico. Castruccio received many honours, and was made a Roman senator. This dignity was assumed with the greatest pomp, Castruccio being clothed in a brocaded toga, which had the following words embroidered on its front: “I am what God wills.” Whilst on the back was: “What God desires shall be.”",
+      "ttsText": "About this time great disturbances arose in Rome, owing to the dearness of living which was caused by the absence of the pontiff at Avignon. The German governor, Enrico, was much blamed for what happened, murders and tumults following each other daily, without his being able to put an end to them. This caused Enrico much anxiety lest the Romans should call in Ruberto, the King of Naples, who would drive the Germans out of the city, and bring back the Pope. Having no nearer friend to whom he could apply for help than Castruccio, he sent to him, begging him not only to give him assistance, but also to come in person to Rome. Castruccio considered that he ought not to hesitate to render the emperor this service, because he believed that he himself would not be safe if at any time the emperor ceased to hold Rome. Leaving Pagolo Guinigi in command at Lucca, Castruccio set out for Rome with six hundred horsemen, where he was received by Enrico with the greatest distinction. In a short time the presence of Castruccio obtained such respect for the emperor that, without bloodshed or violence, good order was restored, chiefly by reason of Castruccio having sent by sea from the country round Pisa large quantities of corn, and thus removed the source of the trouble. When he had chastised some of the Roman leaders, and admonished others, voluntary obedience was rendered to Enrico. Castruccio received many honours, and was made a Roman senator. This dignity was assumed with the greatest pomp, Castruccio being clothed in a brocaded toga, which had the following words embroidered on its front: “I am what God wills.” Whilst on the back was: “What God desires shall be.”",
       "role": "paragraph"
     },
     {
       "order": 424,
       "chapterIndex": 29,
       "text": "During this time the Florentines, who were much enraged that Castruccio should have seized Pistoia during the truce, considered how they could tempt the city to rebel, to do which they thought would not be difficult in his absence. Among the exiled Pistoians in Florence were Baldo Cecchi and Jacopo Baldini, both men of leading and ready to face danger. These men kept up communications with their friends in Pistoia, and with the aid of the Florentines entered the city by night, and after driving out some of Castruccio’s officials and partisans, and killing others, they restored the city to its freedom. The news of this greatly angered Castruccio, and taking leave of Enrico, he pressed on in great haste to Pistoia. When the Florentines heard of his return, knowing that he would lose no time, they decided to intercept him with their forces in the Val di Nievole, under the belief that by doing so they would cut off his road to Pistoia. Assembling a great army of the supporters of the Guelph cause, the Florentines entered the Pistoian territories. On the other hand, Castruccio reached Montecarlo with his army; and having heard where the Florentines’ lay, he decided not to encounter it in the plains of Pistoia, nor to await it in the plains of Pescia, but, as far as he possibly could, to attack it boldly in the Pass of Serravalle. He believed that if he succeeded in this design, victory was assured, although he was informed that the Florentines had thirty thousand men, whilst he had only twelve thousand. Although he had every confidence in his own abilities and the valour of his troops, yet he hesitated to attack his enemy in the open lest he should be overwhelmed by numbers. Serravalle is a castle between Pescia and Pistoia, situated on a hill which blocks the Val di Nievole, not in the exact pass, but about a bowshot beyond; the pass itself is in places narrow and steep, whilst in general it ascends gently, but is still narrow, especially at the summit where the waters divide, so that twenty men side by side could hold it. The lord of Serravalle was Manfred, a German, who, before Castruccio became lord of Pistoia, had been allowed to remain in possession of the castle, it being common to the Lucchese and the Pistoians, and unclaimed by either—neither of them wishing to displace Manfred as long as he kept his promise of neutrality, and came under obligations to no one. For these reasons, and also because the castle was well fortified, he had always been able to maintain his position. It was here that Castruccio had determined to fall upon his enemy, for here his few men would have the advantage, and there was no fear lest, seeing the large masses of the hostile force before they became engaged, they should not stand. As soon as this trouble with Florence arose, Castruccio saw the immense advantage which possession of this castle would give him, and having an intimate friendship with a resident in the castle, he managed matters so with him that four hundred of his men were to be admitted into the castle the night before the attack on the Florentines, and the castellan put to death.",
+      "ttsText": "During this time the Florentines, who were much enraged that Castruccio should have seized Pistoia during the truce, considered how they could tempt the city to rebel, to do which they thought would not be difficult in his absence. Among the exiled Pistoians in Florence were Baldo Cecchi and Jacopo Baldini, both men of leading and ready to face danger. These men kept up communications with their friends in Pistoia, and with the aid of the Florentines entered the city by night, and after driving out some of Castruccio’s officials and partisans, and killing others, they restored the city to its freedom. The news of this greatly angered Castruccio, and taking leave of Enrico, he pressed on in great haste to Pistoia. When the Florentines heard of his return, knowing that he would lose no time, they decided to intercept him with their forces in the Val di Nievole, under the belief that by doing so they would cut off his road to Pistoia. Assembling a great army of the supporters of the Guelph cause, the Florentines entered the Pistoian territories. On the other hand, Castruccio reached Montecarlo with his army; and having heard where the Florentines’ lay, he decided not to encounter it in the plains of Pistoia, nor to await it in the plains of Pescia, but, as far as he possibly could, to attack it boldly in the Pass of Serravalle. He believed that if he succeeded in this design, victory was assured, although he was informed that the Florentines had thirty thousand men, whilst he had only twelve thousand. Although he had every confidence in his own abilities and the valour of his troops, yet he hesitated to attack his enemy in the open lest he should be overwhelmed by numbers. Serravalle is a castle between Pescia and Pistoia, situated on a hill which blocks the Val di Nievole, not in the exact pass, but about a bowshot beyond; the pass itself is in places narrow and steep, whilst in general it ascends gently, but is still narrow, especially at the summit where the waters divide, so that twenty men side by side could hold it. The lord of Serravalle was Manfred, a German, who, before Castruccio became lord of Pistoia, had been allowed to remain in possession of the castle, it being common to the Lucchese and the Pistoians, and unclaimed by either, neither of them wishing to displace Manfred as long as he kept his promise of neutrality, and came under obligations to no one. For these reasons, and also because the castle was well fortified, he had always been able to maintain his position. It was here that Castruccio had determined to fall upon his enemy, for here his few men would have the advantage, and there was no fear lest, seeing the large masses of the hostile force before they became engaged, they should not stand. As soon as this trouble with Florence arose, Castruccio saw the immense advantage which possession of this castle would give him, and having an intimate friendship with a resident in the castle, he managed matters so with him that four hundred of his men were to be admitted into the castle the night before the attack on the Florentines, and the castellan put to death.",
       "role": "paragraph"
     },
     {
       "order": 425,
       "chapterIndex": 29,
       "text": "Castruccio, having prepared everything, had now to encourage the Florentines to persist in their desire to carry the seat of war away from Pistoia into the Val di Nievole, therefore he did not move his army from Montecarlo. Thus the Florentines hurried on until they reached their encampment under Serravalle, intending to cross the hill on the following morning. In the meantime, Castruccio had seized the castle at night, had also moved his army from Montecarlo, and marching from thence at midnight in dead silence, had reached the foot of Serravalle: thus he and the Florentines commenced the ascent of the hill at the same time in the morning. Castruccio sent forward his infantry by the main road, and a troop of four hundred horsemen by a path on the left towards the castle. The Florentines sent forward four hundred cavalry ahead of their army which was following, never expecting to find Castruccio in possession of the hill, nor were they aware of his having seized the castle. Thus it happened that the Florentine horsemen mounting the hill were completely taken by surprise when they discovered the infantry of Castruccio, and so close were they upon it they had scarcely time to pull down their visors. It was a case of unready soldiers being attacked by ready, and they were assailed with such vigour that with difficulty they could hold their own, although some few of them got through. When the noise of the fighting reached the Florentine camp below, it was filled with confusion. The cavalry and infantry became inextricably mixed: the captains were unable to get their men either backward or forward, owing to the narrowness of the pass, and amid all this tumult no one knew what ought to be done or what could be done. In a short time the cavalry who were engaged with the enemy’s infantry were scattered or killed without having made any effective defence because of their unfortunate position, although in sheer desperation they had offered a stout resistance. Retreat had been impossible, with the mountains on both flanks, whilst in front were their enemies, and in the rear their friends. When Castruccio saw that his men were unable to strike a decisive blow at the enemy and put them to flight, he sent one thousand infantrymen round by the castle, with orders to join the four hundred horsemen he had previously dispatched there, and commanded the whole force to fall upon the flank of the enemy. These orders they carried out with such fury that the Florentines could not sustain the attack, but gave way, and were soon in full retreat—conquered more by their unfortunate position than by the valour of their enemy. Those in the rear turned towards Pistoia, and spread through the plains, each man seeking only his own safety. The defeat was complete and very sanguinary. Many captains were taken prisoners, among whom were Bandini dei Rossi, Francesco Brunelleschi, and Giovanni della Tosa, all Florentine noblemen, with many Tuscans and Neapolitans who fought on the Florentine side, having been sent by King Ruberto to assist the Guelphs. Immediately the Pistoians heard of this defeat they drove out the friends of the Guelphs, and surrendered to Castruccio. He was not content with occupying Prato and all the castles on the plains on both sides of the Arno, but marched his army into the plain of Peretola, about two miles from Florence. Here he remained many days, dividing the spoils, and celebrating his victory with feasts and games, holding horse races, and foot races for men and women. He also struck medals in commemoration of the defeat of the Florentines. He endeavoured to corrupt some of the citizens of Florence, who were to open the city gates at night; but the conspiracy was discovered, and the participators in it taken and beheaded, among whom were Tommaso Lupacci and Lambertuccio Frescobaldi. This defeat caused the Florentines great anxiety, and despairing of preserving their liberty, they sent envoys to King Ruberto of Naples, offering him the dominion of their city; and he, knowing of what immense importance the maintenance of the Guelph cause was to him, accepted it. He agreed with the Florentines to receive from them a yearly tribute of two hundred thousand florins, and he sent his son Carlo to Florence with four thousand horsemen.",
+      "ttsText": "Castruccio, having prepared everything, had now to encourage the Florentines to persist in their desire to carry the seat of war away from Pistoia into the Val di Nievole, therefore he did not move his army from Montecarlo. Thus the Florentines hurried on until they reached their encampment under Serravalle, intending to cross the hill on the following morning. In the meantime, Castruccio had seized the castle at night, had also moved his army from Montecarlo, and marching from thence at midnight in dead silence, had reached the foot of Serravalle: thus he and the Florentines commenced the ascent of the hill at the same time in the morning. Castruccio sent forward his infantry by the main road, and a troop of four hundred horsemen by a path on the left towards the castle. The Florentines sent forward four hundred cavalry ahead of their army which was following, never expecting to find Castruccio in possession of the hill, nor were they aware of his having seized the castle. Thus it happened that the Florentine horsemen mounting the hill were completely taken by surprise when they discovered the infantry of Castruccio, and so close were they upon it they had scarcely time to pull down their visors. It was a case of unready soldiers being attacked by ready, and they were assailed with such vigour that with difficulty they could hold their own, although some few of them got through. When the noise of the fighting reached the Florentine camp below, it was filled with confusion. The cavalry and infantry became inextricably mixed: the captains were unable to get their men either backward or forward, owing to the narrowness of the pass, and amid all this tumult no one knew what ought to be done or what could be done. In a short time the cavalry who were engaged with the enemy’s infantry were scattered or killed without having made any effective defence because of their unfortunate position, although in sheer desperation they had offered a stout resistance. Retreat had been impossible, with the mountains on both flanks, whilst in front were their enemies, and in the rear their friends. When Castruccio saw that his men were unable to strike a decisive blow at the enemy and put them to flight, he sent one thousand infantrymen round by the castle, with orders to join the four hundred horsemen he had previously dispatched there, and commanded the whole force to fall upon the flank of the enemy. These orders they carried out with such fury that the Florentines could not sustain the attack, but gave way, and were soon in full retreat, conquered more by their unfortunate position than by the valour of their enemy. Those in the rear turned towards Pistoia, and spread through the plains, each man seeking only his own safety. The defeat was complete and very sanguinary. Many captains were taken prisoners, among whom were Bandini dei Rossi, Francesco Brunelleschi, and Giovanni della Tosa, all Florentine noblemen, with many Tuscans and Neapolitans who fought on the Florentine side, having been sent by King Ruberto to assist the Guelphs. Immediately the Pistoians heard of this defeat they drove out the friends of the Guelphs, and surrendered to Castruccio. He was not content with occupying Prato and all the castles on the plains on both sides of the Arno, but marched his army into the plain of Peretola, about two miles from Florence. Here he remained many days, dividing the spoils, and celebrating his victory with feasts and games, holding horse races, and foot races for men and women. He also struck medals in commemoration of the defeat of the Florentines. He endeavoured to corrupt some of the citizens of Florence, who were to open the city gates at night; but the conspiracy was discovered, and the participators in it taken and beheaded, among whom were Tommaso Lupacci and Lambertuccio Frescobaldi. This defeat caused the Florentines great anxiety, and despairing of preserving their liberty, they sent envoys to King Ruberto of Naples, offering him the dominion of their city; and he, knowing of what immense importance the maintenance of the Guelph cause was to him, accepted it. He agreed with the Florentines to receive from them a yearly tribute of two hundred thousand florins, and he sent his son Carlo to Florence with four thousand horsemen.",
       "role": "paragraph"
     },
     {
       "order": 426,
       "chapterIndex": 29,
       "text": "Shortly after this the Florentines were relieved in some degree of the pressure of Castruccio’s army, owing to his being compelled to leave his positions before Florence and march on Pisa, in order to suppress a conspiracy that had been raised against him by Benedetto Lanfranchi, one of the first men in Pisa, who could not endure that his fatherland should be under the dominion of the Lucchese. He had formed this conspiracy, intending to seize the citadel, kill the partisans of Castruccio, and drive out the garrison. As, however, in a conspiracy paucity of numbers is essential to secrecy, so for its execution a few are not sufficient, and in seeking more adherents to his conspiracy Lanfranchi encountered a person who revealed the design to Castruccio. This betrayal cannot be passed by without severe reproach to Bonifacio Cerchi and Giovanni Guidi, two Florentine exiles who were suffering their banishment in Pisa. Thereupon Castruccio seized Benedetto and put him to death, and beheaded many other noble citizens, and drove their families into exile. It now appeared to Castruccio that both Pisa and Pistoia were thoroughly disaffected; he employed much thought and energy upon securing his position there, and this gave the Florentines their opportunity to reorganize their army, and to await the coming of Carlo, the son of the King of Naples. When Carlo arrived they decided to lose no more time, and assembled a great army of more than thirty thousand infantry and ten thousand cavalry—having called to their aid every Guelph there was in Italy. They consulted whether they should attack Pistoia or Pisa first, and decided that it would be better to march on the latter—a course, owing to the recent conspiracy, more likely to succeed, and of more advantage to them, because they believed that the surrender of Pistoia would follow the acquisition of Pisa.",
+      "ttsText": "Shortly after this the Florentines were relieved in some degree of the pressure of Castruccio’s army, owing to his being compelled to leave his positions before Florence and march on Pisa, in order to suppress a conspiracy that had been raised against him by Benedetto Lanfranchi, one of the first men in Pisa, who could not endure that his fatherland should be under the dominion of the Lucchese. He had formed this conspiracy, intending to seize the citadel, kill the partisans of Castruccio, and drive out the garrison. As, however, in a conspiracy paucity of numbers is essential to secrecy, so for its execution a few are not sufficient, and in seeking more adherents to his conspiracy Lanfranchi encountered a person who revealed the design to Castruccio. This betrayal cannot be passed by without severe reproach to Bonifacio Cerchi and Giovanni Guidi, two Florentine exiles who were suffering their banishment in Pisa. Thereupon Castruccio seized Benedetto and put him to death, and beheaded many other noble citizens, and drove their families into exile. It now appeared to Castruccio that both Pisa and Pistoia were thoroughly disaffected; he employed much thought and energy upon securing his position there, and this gave the Florentines their opportunity to reorganize their army, and to await the coming of Carlo, the son of the King of Naples. When Carlo arrived they decided to lose no more time, and assembled a great army of more than thirty thousand infantry and ten thousand cavalry, having called to their aid every Guelph there was in Italy. They consulted whether they should attack Pistoia or Pisa first, and decided that it would be better to march on the latter, a course, owing to the recent conspiracy, more likely to succeed, and of more advantage to them, because they believed that the surrender of Pistoia would follow the acquisition of Pisa.",
       "role": "paragraph"
     },
     {
@@ -2809,6 +2920,7 @@
       "order": 430,
       "chapterIndex": 29,
       "text": "“If I could have believed that Fortune would have cut me off in the midst of the career which was leading to that glory which all my successes promised, I should have laboured less, and I should have left thee, if a smaller state, at least with fewer enemies and perils, because I should have been content with the governorships of Lucca and Pisa. I should neither have subjugated the Pistoians, nor outraged the Florentines with so many injuries. But I would have made both these peoples my friends, and I should have lived, if no longer, at least more peacefully, and have left you a state without a doubt smaller, but one more secure and established on a surer foundation. But Fortune, who insists upon having the arbitrament of human affairs, did not endow me with sufficient judgment to recognize this from the first, nor the time to surmount it. Thou hast heard, for many have told thee, and I have never concealed it, how I entered the house of thy father whilst yet a boy—a stranger to all those ambitions which every generous soul should feel—and how I was brought up by him, and loved as though I had been born of his blood; how under his governance I learned to be valiant and capable of availing myself of all that fortune, of which thou hast been witness. When thy good father came to die, he committed thee and all his possessions to my care, and I have brought thee up with that love, and increased thy estate with that care, which I was bound to show. And in order that thou shouldst not only possess the estate which thy father left, but also that which my fortune and abilities have gained, I have never married, so that the love of children should never deflect my mind from that gratitude which I owed to the children of thy father. Thus I leave thee a vast estate, of which I am well content, but I am deeply concerned, inasmuch as I leave it thee unsettled and insecure. Thou hast the city of Lucca on thy hands, which will never rest contented under thy government. Thou hast also Pisa, where the men are of nature changeable and unreliable, who, although they may be sometimes held in subjection, yet they will ever disdain to serve under a Lucchese. Pistoia is also disloyal to thee, she being eaten up with factions and deeply incensed against thy family by reason of the wrongs recently inflicted upon them. Thou hast for neighbours the offended Florentines, injured by us in a thousand ways, but not utterly destroyed, who will hail the news of my death with more delight than they would the acquisition of all Tuscany. In the Emperor and in the princes of Milan thou canst place no reliance, for they are far distant, slow, and their help is very long in coming. Therefore, thou hast no hope in anything but in thine own abilities, and in the memory of my valour, and in the prestige which this latest victory has brought thee; which, as thou knowest how to use it with prudence, will assist thee to come to terms with the Florentines, who, as they are suffering under this great defeat, should be inclined to listen to thee. And whereas I have sought to make them my enemies, because I believed that war with them would conduce to my power and glory, thou hast every inducement to make friends of them, because their alliance will bring thee advantages and security. It is of the greatest important in this world that a man should know himself, and the measure of his own strength and means; and he who knows that he has not a genius for fighting must learn how to govern by the arts of peace. And it will be well for thee to rule thy conduct by my counsel, and to learn in this way to enjoy what my life-work and dangers have gained; and in this thou wilt easily succeed when thou hast learnt to believe that what I have told thee is true. And thou wilt be doubly indebted to me, in that I have left thee this realm and have taught thee how to keep it.”",
+      "ttsText": "“If I could have believed that Fortune would have cut me off in the midst of the career which was leading to that glory which all my successes promised, I should have laboured less, and I should have left thee, if a smaller state, at least with fewer enemies and perils, because I should have been content with the governorships of Lucca and Pisa. I should neither have subjugated the Pistoians, nor outraged the Florentines with so many injuries. But I would have made both these peoples my friends, and I should have lived, if no longer, at least more peacefully, and have left you a state without a doubt smaller, but one more secure and established on a surer foundation. But Fortune, who insists upon having the arbitrament of human affairs, did not endow me with sufficient judgment to recognize this from the first, nor the time to surmount it. Thou hast heard, for many have told thee, and I have never concealed it, how I entered the house of thy father whilst yet a boy, a stranger to all those ambitions which every generous soul should feel, and how I was brought up by him, and loved as though I had been born of his blood; how under his governance I learned to be valiant and capable of availing myself of all that fortune, of which thou hast been witness. When thy good father came to die, he committed thee and all his possessions to my care, and I have brought thee up with that love, and increased thy estate with that care, which I was bound to show. And in order that thou shouldst not only possess the estate which thy father left, but also that which my fortune and abilities have gained, I have never married, so that the love of children should never deflect my mind from that gratitude which I owed to the children of thy father. Thus I leave thee a vast estate, of which I am well content, but I am deeply concerned, inasmuch as I leave it thee unsettled and insecure. Thou hast the city of Lucca on thy hands, which will never rest contented under thy government. Thou hast also Pisa, where the men are of nature changeable and unreliable, who, although they may be sometimes held in subjection, yet they will ever disdain to serve under a Lucchese. Pistoia is also disloyal to thee, she being eaten up with factions and deeply incensed against thy family by reason of the wrongs recently inflicted upon them. Thou hast for neighbours the offended Florentines, injured by us in a thousand ways, but not utterly destroyed, who will hail the news of my death with more delight than they would the acquisition of all Tuscany. In the Emperor and in the princes of Milan thou canst place no reliance, for they are far distant, slow, and their help is very long in coming. Therefore, thou hast no hope in anything but in thine own abilities, and in the memory of my valour, and in the prestige which this latest victory has brought thee; which, as thou knowest how to use it with prudence, will assist thee to come to terms with the Florentines, who, as they are suffering under this great defeat, should be inclined to listen to thee. And whereas I have sought to make them my enemies, because I believed that war with them would conduce to my power and glory, thou hast every inducement to make friends of them, because their alliance will bring thee advantages and security. It is of the greatest important in this world that a man should know himself, and the measure of his own strength and means; and he who knows that he has not a genius for fighting must learn how to govern by the arts of peace. And it will be well for thee to rule thy conduct by my counsel, and to learn in this way to enjoy what my life-work and dangers have gained; and in this thou wilt easily succeed when thou hast learnt to believe that what I have told thee is true. And thou wilt be doubly indebted to me, in that I have left thee this realm and have taught thee how to keep it.”",
       "role": "paragraph"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:43.4020116Z",
+  "generatedAt": "2026-04-07T14:54:55.1279185Z",
   "source": {
     "id": "pg1041",
     "title": "Shakespeare's Sonnets",
@@ -883,6 +883,7 @@
       "order": 11,
       "chapterIndex": 0,
       "text": "THE SONNETS",
+      "ttsText": "The Sonnets",
       "role": "title"
     },
     {

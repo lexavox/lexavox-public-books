@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:15.5555738Z",
+  "generatedAt": "2026-04-07T14:54:22.6953647Z",
   "source": {
     "id": "pg5657",
     "title": "The Practice of the Presence of God",
@@ -125,6 +125,7 @@
       "order": 13,
       "chapterIndex": 0,
       "text": "THE PRACTICE OF THE PRESENCE OF GOD",
+      "ttsText": "The Practice of the Presence of God",
       "role": "title"
     },
     {
@@ -203,6 +204,7 @@
       "order": 26,
       "chapterIndex": 0,
       "text": "CONVERSATIONS",
+      "ttsText": "Conversations",
       "role": "title"
     },
     {
@@ -503,6 +505,7 @@
       "order": 76,
       "chapterIndex": 0,
       "text": "The first letter was probably written to the prioress of one of these convents. The second letter was written to Brother Lawrence's own spiritual adviser. Note that the fourth letter is written in the third person where Brother Lawrence describes his own experience. The letters follow the tradition of substituting M— for specific names.",
+      "ttsText": "The first letter was probably written to the prioress of one of these convents. The second letter was written to Brother Lawrence's own spiritual adviser. Note that the fourth letter is written in the third person where Brother Lawrence describes his own experience. The letters follow the tradition of substituting M, for specific names.",
       "role": "paragraph"
     },
     {
@@ -659,6 +662,7 @@
       "order": 102,
       "chapterIndex": 0,
       "text": "I admire also the fortitude and bravery of M—. God has given him a good disposition and a good will; but he is still a little worldly and somewhat immature. I hope the affliction God has sent him will help him do some reflection and inner searching and that it may prove to be a wholesome remedy to him. It is a chance for him to put all his trust in God who accompanies him everywhere. Let him think of Him as much as he can, especially in time of great danger.",
+      "ttsText": "I admire also the fortitude and bravery of M,. God has given him a good disposition and a good will; but he is still a little worldly and somewhat immature. I hope the affliction God has sent him will help him do some reflection and inner searching and that it may prove to be a wholesome remedy to him. It is a chance for him to put all his trust in God who accompanies him everywhere. Let him think of Him as much as he can, especially in time of great danger.",
       "role": "paragraph"
     },
     {
@@ -749,6 +753,7 @@
       "order": 117,
       "chapterIndex": 0,
       "text": "Fifth Letter: Today I received two books and a letter from Sister M—, who is preparing to make her profession. She desires the prayers of your holy society, and yours in particular. I think she greatly values your support. Please do not disappoint her. Pray to God that she may take her vows in view of His love alone, and with a firm resolution to be wholly devoted to Him. I will send you one of those books about the presence of God; a subject which, in my opinion, contains the whole spiritual life. It seems to me that whoever duly practices it will soon become devout.",
+      "ttsText": "Fifth Letter: Today I received two books and a letter from Sister M,, who is preparing to make her profession. She desires the prayers of your holy society, and yours in particular. I think she greatly values your support. Please do not disappoint her. Pray to God that she may take her vows in view of His love alone, and with a firm resolution to be wholly devoted to Him. I will send you one of those books about the presence of God; a subject which, in my opinion, contains the whole spiritual life. It seems to me that whoever duly practices it will soon become devout.",
       "role": "paragraph"
     },
     {
@@ -779,6 +784,7 @@
       "order": 122,
       "chapterIndex": 0,
       "text": "Sixth Letter: I have received from M— the things which you gave her for me. I wonder that you have not given me your thoughts on the little book I sent to you and which you must have received. Set heartily about the practice of it in your old age. It is better late than never.",
+      "ttsText": "Sixth Letter: I have received from M, the things which you gave her for me. I wonder that you have not given me your thoughts on the little book I sent to you and which you must have received. Set heartily about the practice of it in your old age. It is better late than never.",
       "role": "paragraph"
     },
     {
@@ -809,6 +815,7 @@
       "order": 127,
       "chapterIndex": 0,
       "text": "Seventh Letter: I pity you much. It will be a great relief if you can leave the care of your affairs to M— and spend the remainder of your life only in worshipping God. He requires no great matters of us; a little remembrance of Him from time to time, a little adoration. Sometimes to pray for His grace. Sometimes to offer Him your sufferings. And sometimes to return Him thanks for the favors He has given you, and still gives you, in the midst of your troubles. Console yourself with Him the oftenest you can. Lift up your heart to Him at your meals and when you are in company. The least little remembrance will always be pleasing to Him.",
+      "ttsText": "Seventh Letter: I pity you much. It will be a great relief if you can leave the care of your affairs to M, and spend the remainder of your life only in worshipping God. He requires no great matters of us; a little remembrance of Him from time to time, a little adoration. Sometimes to pray for His grace. Sometimes to offer Him your sufferings. And sometimes to return Him thanks for the favors He has given you, and still gives you, in the midst of your troubles. Console yourself with Him the oftenest you can. Lift up your heart to Him at your meals and when you are in company. The least little remembrance will always be pleasing to Him.",
       "role": "paragraph"
     },
     {
@@ -833,6 +840,7 @@
       "order": 131,
       "chapterIndex": 0,
       "text": "You may assure M— of my poor prayers, and that I am their servant, and yours particularly.",
+      "ttsText": "You may assure M, of my poor prayers, and that I am their servant, and yours particularly.",
       "role": "paragraph"
     },
     {
@@ -863,6 +871,7 @@
       "order": 136,
       "chapterIndex": 0,
       "text": "Ninth Letter: The enclosed is an answer to that which I received from M—. Please deliver it to her. She is full of good will but she would go faster than grace! One does not become holy all at once. I recommend her to your guidance. We ought to help one another by our advice, and yet more by our good example. Please let me hear of her from time to time and whether she is very fervent and obedient.",
+      "ttsText": "Ninth Letter: The enclosed is an answer to that which I received from M,. Please deliver it to her. She is full of good will but she would go faster than grace! One does not become holy all at once. I recommend her to your guidance. We ought to help one another by our advice, and yet more by our good example. Please let me hear of her from time to time and whether she is very fervent and obedient.",
       "role": "paragraph"
     },
     {
@@ -899,12 +908,14 @@
       "order": 142,
       "chapterIndex": 0,
       "text": "Tenth Letter: I have had a good deal of difficulty bringing myself to write to M.—. I do it now purely because you desire me to do so. Please address it and send it to him. It is pleasing to see all the faith you have in God. May He increase it in you more and more. We cannot have too much trust in so good and faithful a Friend who will never fail us in this world nor in the next.",
+      "ttsText": "Tenth Letter: I have had a good deal of difficulty bringing myself to write to M.,. I do it now purely because you desire me to do so. Please address it and send it to him. It is pleasing to see all the faith you have in God. May He increase it in you more and more. We cannot have too much trust in so good and faithful a Friend who will never fail us in this world nor in the next.",
       "role": "paragraph"
     },
     {
       "order": 143,
       "chapterIndex": 0,
       "text": "If M.— takes advantage of the loss he has had and puts all his confidence in God, He will soon give him another friend more powerful and more inclined to serve him. He disposes of hearts as He pleases. Perhaps M.— was too attached to him he has lost. We ought to love our friends, but without encroaching upon the love of God, which must always be first.",
+      "ttsText": "If M., takes advantage of the loss he has had and puts all his confidence in God, He will soon give him another friend more powerful and more inclined to serve him. He disposes of hearts as He pleases. Perhaps M., was too attached to him he has lost. We ought to love our friends, but without encroaching upon the love of God, which must always be first.",
       "role": "paragraph"
     },
     {

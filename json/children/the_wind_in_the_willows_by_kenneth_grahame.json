@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:39:13.4227698Z",
+  "generatedAt": "2026-04-07T14:53:09.1157707Z",
   "source": {
     "id": "pg289",
     "title": "The Wind in the Willows",
@@ -299,18 +299,21 @@
       "order": 32,
       "chapterIndex": 1,
       "text": "“Hold up!” said an elderly rabbit at the gap. “Sixpence for the privilege of passing by the private road!” He was bowled over in an instant by the impatient and contemptuous Mole, who trotted along the side of the hedge chaffing the other rabbits as they peeped hurriedly from their holes to see what the row was about. “Onion-sauce! Onion-sauce!” he remarked jeeringly, and was gone before they could think of a thoroughly satisfactory reply. Then they all started grumbling at each other. “How stupid you are! Why didn’t you tell him——” “Well, why didn’t you say——” “You might have reminded him——” and so on, in the usual way; but, of course, it was then much too late, as is always the case.",
+      "ttsText": "“Hold up!” said an elderly rabbit at the gap. “Sixpence for the privilege of passing by the private road!” He was bowled over in an instant by the impatient and contemptuous Mole, who trotted along the side of the hedge chaffing the other rabbits as they peeped hurriedly from their holes to see what the row was about. “Onion-sauce! Onion-sauce!” he remarked jeeringly, and was gone before they could think of a thoroughly satisfactory reply. Then they all started grumbling at each other. “How stupid you are! Why didn’t you tell him, ” “Well, why didn’t you say, ” “You might have reminded him, ” and so on, in the usual way; but, of course, it was then much too late, as is always the case.",
       "role": "paragraph"
     },
     {
       "order": 33,
       "chapterIndex": 1,
       "text": "It all seemed too good to be true. Hither and thither through the meadows he rambled busily, along the hedgerows, across the copses, finding everywhere birds building, flowers budding, leaves thrusting—everything happy, and progressive, and occupied. And instead of having an uneasy conscience pricking him and whispering “whitewash!” he somehow could only feel how jolly it was to be the only idle dog among all these busy citizens. After all, the best part of a holiday is perhaps not so much to be resting yourself, as to see all the other fellows busy working.",
+      "ttsText": "It all seemed too good to be true. Hither and thither through the meadows he rambled busily, along the hedgerows, across the copses, finding everywhere birds building, flowers budding, leaves thrusting, everything happy, and progressive, and occupied. And instead of having an uneasy conscience pricking him and whispering “whitewash!” he somehow could only feel how jolly it was to be the only idle dog among all these busy citizens. After all, the best part of a holiday is perhaps not so much to be resting yourself, as to see all the other fellows busy working.",
       "role": "paragraph"
     },
     {
       "order": 34,
       "chapterIndex": 1,
       "text": "He thought his happiness was complete when, as he meandered aimlessly along, suddenly he stood by the edge of a full-fed river. Never in his life had he seen a river before—this sleek, sinuous, full-bodied animal, chasing and chuckling, gripping things with a gurgle and leaving them with a laugh, to fling itself on fresh playmates that shook themselves free, and were caught and held again. All was a-shake and a-shiver—glints and gleams and sparkles, rustle and swirl, chatter and bubble. The Mole was bewitched, entranced, fascinated. By the side of the river he trotted as one trots, when very small, by the side of a man who holds one spell-bound by exciting stories; and when tired at last, he sat on the bank, while the river still chattered on to him, a babbling procession of the best stories in the world, sent from the heart of the earth to be told at last to the insatiable sea.",
+      "ttsText": "He thought his happiness was complete when, as he meandered aimlessly along, suddenly he stood by the edge of a full-fed river. Never in his life had he seen a river before, this sleek, sinuous, full-bodied animal, chasing and chuckling, gripping things with a gurgle and leaving them with a laugh, to fling itself on fresh playmates that shook themselves free, and were caught and held again. All was a-shake and a-shiver, glints and gleams and sparkles, rustle and swirl, chatter and bubble. The Mole was bewitched, entranced, fascinated. By the side of the river he trotted as one trots, when very small, by the side of a man who holds one spell-bound by exciting stories; and when tired at last, he sat on the bank, while the river still chattered on to him, a babbling procession of the best stories in the world, sent from the heart of the earth to be told at last to the insatiable sea.",
       "role": "paragraph"
     },
     {
@@ -371,6 +374,7 @@
       "order": 44,
       "chapterIndex": 1,
       "text": "“Oh, its all very well to talk ,” said the Mole, rather pettishly, he being new to a river and riverside life and its ways.",
+      "ttsText": "“Oh, its all very well to talk,” said the Mole, rather pettishly, he being new to a river and riverside life and its ways.",
       "role": "paragraph"
     },
     {
@@ -395,6 +399,7 @@
       "order": 48,
       "chapterIndex": 1,
       "text": "“What?” cried the Rat, open-mouthed: “Never been in a—you never—well I—what have you been doing, then?”",
+      "ttsText": "“What?” cried the Rat, open-mouthed: “Never been in a, you never, well I, what have you been doing, then?”",
       "role": "paragraph"
     },
     {
@@ -407,6 +412,7 @@
       "order": 50,
       "chapterIndex": 1,
       "text": "“Nice? It’s the only thing,” said the Water Rat solemnly, as he leant forward for his stroke. “Believe me, my young friend, there is nothing —absolute nothing—half so much worth doing as simply messing about in boats. Simply messing,” he went on dreamily: “messing—about—in—boats; messing——”",
+      "ttsText": "“Nice? It’s the only thing,” said the Water Rat solemnly, as he leant forward for his stroke. “Believe me, my young friend, there is nothing, absolute nothing, half so much worth doing as simply messing about in boats. Simply messing,” he went on dreamily: “messing, about, in, boats; messing, ”",
       "role": "paragraph"
     },
     {
@@ -425,6 +431,7 @@
       "order": 53,
       "chapterIndex": 1,
       "text": "“—about in boats—or with boats,” the Rat went on composedly, picking himself up with a pleasant laugh. “In or out of ’em, it doesn’t matter. Nothing seems really to matter, that’s the charm of it. Whether you get away, or whether you don’t; whether you arrive at your destination or whether you reach somewhere else, or whether you never get anywhere at all, you’re always busy, and you never do anything in particular; and when you’ve done it there’s always something else to do, and you can do it if you like, but you’d much better not. Look here! If you’ve really nothing else on hand this morning, supposing we drop down the river together, and have a long day of it?”",
+      "ttsText": "“, about in boats, or with boats,” the Rat went on composedly, picking himself up with a pleasant laugh. “In or out of ’em, it doesn’t matter. Nothing seems really to matter, that’s the charm of it. Whether you get away, or whether you don’t; whether you arrive at your destination or whether you reach somewhere else, or whether you never get anywhere at all, you’re always busy, and you never do anything in particular; and when you’ve done it there’s always something else to do, and you can do it if you like, but you’d much better not. Look here! If you’ve really nothing else on hand this morning, supposing we drop down the river together, and have a long day of it?”",
       "role": "paragraph"
     },
     {
@@ -455,6 +462,7 @@
       "order": 58,
       "chapterIndex": 1,
       "text": "“There’s cold chicken inside it,” replied the Rat briefly; “ coldtonguecoldhamcoldbeefpickledgherkinssaladfrenchrollscresssandwichespottedme atgingerbeerlemonadesodawater——”",
+      "ttsText": "“There’s cold chicken inside it,” replied the Rat briefly; “ coldtonguecoldhamcoldbeefpickledgherkinssaladfrenchrollscresssandwichespottedme atgingerbeerlemonadesodawater, ”",
       "role": "paragraph"
     },
     {
@@ -485,6 +493,7 @@
       "order": 63,
       "chapterIndex": 1,
       "text": "“I beg your pardon,” said the Mole, pulling himself together with an effort. “You must think me very rude; but all this is so new to me. So—this—is—a—River!”",
+      "ttsText": "“I beg your pardon,” said the Mole, pulling himself together with an effort. “You must think me very rude; but all this is so new to me. So, this, is, a, River!”",
       "role": "paragraph"
     },
     {
@@ -515,6 +524,7 @@
       "order": 68,
       "chapterIndex": 1,
       "text": "“No one else to—well, I mustn’t be hard on you,” said the Rat with forbearance. “You’re new to it, and of course you don’t know. The bank is so crowded nowadays that many people are moving away altogether: O no, it isn’t what it used to be, at all. Otters, kingfishers, dabchicks, moorhens, all of them about all day long and always wanting you to do something—as if a fellow had no business of his own to attend to!”",
+      "ttsText": "“No one else to, well, I mustn’t be hard on you,” said the Rat with forbearance. “You’re new to it, and of course you don’t know. The bank is so crowded nowadays that many people are moving away altogether: O no, it isn’t what it used to be, at all. Otters, kingfishers, dabchicks, moorhens, all of them about all day long and always wanting you to do something, as if a fellow had no business of his own to attend to!”",
       "role": "paragraph"
     },
     {
@@ -533,12 +543,14 @@
       "order": 71,
       "chapterIndex": 1,
       "text": "“Aren’t they—aren’t they very nice people in there?” said the Mole, a trifle nervously.",
+      "ttsText": "“Aren’t they, aren’t they very nice people in there?” said the Mole, a trifle nervously.",
       "role": "paragraph"
     },
     {
       "order": 72,
       "chapterIndex": 1,
       "text": "“W-e-ll,” replied the Rat, “let me see. The squirrels are all right. And the rabbits—some of ’em, but rabbits are a mixed lot. And then there’s Badger, of course. He lives right in the heart of it; wouldn’t live anywhere else, either, if you paid him to do it. Dear old Badger! Nobody interferes with him . They’d better not,” he added significantly.",
+      "ttsText": "“W-e-ll,” replied the Rat, “let me see. The squirrels are all right. And the rabbits, some of ’em, but rabbits are a mixed lot. And then there’s Badger, of course. He lives right in the heart of it; wouldn’t live anywhere else, either, if you paid him to do it. Dear old Badger! Nobody interferes with him. They’d better not,” he added significantly.",
       "role": "paragraph"
     },
     {
@@ -551,12 +563,14 @@
       "order": 74,
       "chapterIndex": 1,
       "text": "“Well, of course—there—are others,” explained the Rat in a hesitating sort of way.",
+      "ttsText": "“Well, of course, there, are others,” explained the Rat in a hesitating sort of way.",
       "role": "paragraph"
     },
     {
       "order": 75,
       "chapterIndex": 1,
       "text": "“Weasels—and stoats—and foxes—and so on. They’re all right in a way—I’m very good friends with them—pass the time of day when we meet, and all that—but they break out sometimes, there’s no denying it, and then—well, you can’t really trust them, and that’s the fact.”",
+      "ttsText": "“Weasels, and stoats, and foxes, and so on. They’re all right in a way, I’m very good friends with them, pass the time of day when we meet, and all that, but they break out sometimes, there’s no denying it, and then, well, you can’t really trust them, and that’s the fact.”",
       "role": "paragraph"
     },
     {
@@ -623,6 +637,7 @@
       "order": 86,
       "chapterIndex": 1,
       "text": "“This was an impromptu affair,” explained the Rat. “By the way—my friend Mr. Mole.”",
+      "ttsText": "“This was an impromptu affair,” explained the Rat. “By the way, my friend Mr. Mole.”",
       "role": "paragraph"
     },
     {
@@ -635,6 +650,7 @@
       "order": 88,
       "chapterIndex": 1,
       "text": "“Such a rumpus everywhere!” continued the Otter. “All the world seems out on the river to-day. I came up this backwater to try and get a moment’s peace, and then stumble upon you fellows!—At least—I beg pardon—I don’t exactly mean that, you know.”",
+      "ttsText": "“Such a rumpus everywhere!” continued the Otter. “All the world seems out on the river to-day. I came up this backwater to try and get a moment’s peace, and then stumble upon you fellows!, At least, I beg pardon, I don’t exactly mean that, you know.”",
       "role": "paragraph"
     },
     {
@@ -683,12 +699,14 @@
       "order": 96,
       "chapterIndex": 1,
       "text": "“Such a good fellow, too,” remarked the Otter reflectively: “But no stability—especially in a boat!”",
+      "ttsText": "“Such a good fellow, too,” remarked the Otter reflectively: “But no stability, especially in a boat!”",
       "role": "paragraph"
     },
     {
       "order": 97,
       "chapterIndex": 1,
       "text": "From where they sat they could get a glimpse of the main stream across the island that separated them; and just then a wager-boat flashed into view, the rower—a short, stout figure—splashing badly and rolling a good deal, but working his hardest. The Rat stood up and hailed him, but Toad—for it was he—shook his head and settled sternly to his work.",
+      "ttsText": "From where they sat they could get a glimpse of the main stream across the island that separated them; and just then a wager-boat flashed into view, the rower, a short, stout figure, splashing badly and rolling a good deal, but working his hardest. The Rat stood up and hailed him, but Toad, for it was he, shook his head and settled sternly to his work.",
       "role": "paragraph"
     },
     {
@@ -701,7 +719,8 @@
       "order": 99,
       "chapterIndex": 1,
       "text": "“Of course he will,” chuckled the Otter. “Did I ever tell you that good story about Toad and the lock-keeper? It happened this way. Toad....”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "“Of course he will,” chuckled the Otter. “Did I ever tell you that good story about Toad and the lock-keeper? It happened this way. Toad … ”"
     },
     {
       "order": 100,
@@ -749,6 +768,7 @@
       "order": 107,
       "chapterIndex": 1,
       "text": "Packing the basket was not quite such pleasant work as unpacking the basket. It never is. But the Mole was bent on enjoying everything, and although just when he had got the basket packed and strapped up tightly he saw a plate staring up at him from the grass, and when the job had been done again the Rat pointed out a fork which anybody ought to have seen, and last of all, behold! the mustard pot, which he had been sitting on without knowing it—still, somehow, the thing got finished at last, without much loss of temper.",
+      "ttsText": "Packing the basket was not quite such pleasant work as unpacking the basket. It never is. But the Mole was bent on enjoying everything, and although just when he had got the basket packed and strapped up tightly he saw a plate staring up at him from the grass, and when the job had been done again the Rat pointed out a fork which anybody ought to have seen, and last of all, behold! the mustard pot, which he had been sitting on without knowing it, still, somehow, the thing got finished at last, without much loss of temper.",
       "role": "paragraph"
     },
     {
@@ -761,6 +781,7 @@
       "order": 109,
       "chapterIndex": 1,
       "text": "The Rat shook his head with a smile. “Not yet, my young friend,” he said—“wait till you’ve had a few lessons. It’s not so easy as it looks.”",
+      "ttsText": "The Rat shook his head with a smile. “Not yet, my young friend,” he said, “wait till you’ve had a few lessons. It’s not so easy as it looks.”",
       "role": "paragraph"
     },
     {
@@ -779,6 +800,7 @@
       "order": 112,
       "chapterIndex": 1,
       "text": "The Mole flung his sculls back with a flourish, and made a great dig at the water. He missed the surface altogether, his legs flew up above his head, and he found himself lying on the top of the prostrate Rat. Greatly alarmed, he made a grab at the side of the boat, and the next moment—Sploosh!",
+      "ttsText": "The Mole flung his sculls back with a flourish, and made a great dig at the water. He missed the surface altogether, his legs flew up above his head, and he found himself lying on the top of the prostrate Rat. Greatly alarmed, he made a grab at the side of the boat, and the next moment, Sploosh!",
       "role": "paragraph"
     },
     {
@@ -791,6 +813,7 @@
       "order": 114,
       "chapterIndex": 1,
       "text": "O my, how cold the water was, and O, how very wet it felt. How it sang in his ears as he went down, down, down! How bright and welcome the sun looked as he rose to the surface coughing and spluttering! How black was his despair when he felt himself sinking again! Then a firm paw gripped him by the back of his neck. It was the Rat, and he was evidently laughing—the Mole could feel him laughing, right down his arm and through his paw, and so into his—the Mole’s—neck.",
+      "ttsText": "O my, how cold the water was, and O, how very wet it felt. How it sang in his ears as he went down, down, down! How bright and welcome the sun looked as he rose to the surface coughing and spluttering! How black was his despair when he felt himself sinking again! Then a firm paw gripped him by the back of his neck. It was the Rat, and he was evidently laughing, the Mole could feel him laughing, right down his arm and through his paw, and so into his, the Mole’s, neck.",
       "role": "paragraph"
     },
     {
@@ -821,6 +844,7 @@
       "order": 119,
       "chapterIndex": 1,
       "text": "“That’s all right, bless you!” responded the Rat cheerily. “What’s a little wet to a Water Rat? I’m more in the water than out of it most days. Don’t you think any more about it; and, look here! I really think you had better come and stop with me for a little time. It’s very plain and rough, you know—not like Toad’s house at all—but you haven’t seen that yet; still, I can make you comfortable. And I’ll teach you to row, and to swim, and you’ll soon be as handy on the water as any of us.”",
+      "ttsText": "“That’s all right, bless you!” responded the Rat cheerily. “What’s a little wet to a Water Rat? I’m more in the water than out of it most days. Don’t you think any more about it; and, look here! I really think you had better come and stop with me for a little time. It’s very plain and rough, you know, not like Toad’s house at all, but you haven’t seen that yet; still, I can make you comfortable. And I’ll teach you to row, and to swim, and you’ll soon be as handy on the water as any of us.”",
       "role": "paragraph"
     },
     {
@@ -833,6 +857,7 @@
       "order": 121,
       "chapterIndex": 1,
       "text": "When they got home, the Rat made a bright fire in the parlour, and planted the Mole in an arm-chair in front of it, having fetched down a dressing-gown and slippers for him, and told him river stories till supper-time. Very thrilling stories they were, too, to an earth-dwelling animal like Mole. Stories about weirs, and sudden floods, and leaping pike, and steamers that flung hard bottles—at least bottles were certainly flung, and from steamers, so presumably by them; and about herons, and how particular they were whom they spoke to; and about adventures down drains, and night-fishings with Otter, or excursions far a-field with Badger. Supper was a most cheerful meal; but very shortly afterwards a terribly sleepy Mole had to be escorted upstairs by his considerate host, to the best bedroom, where he soon laid his head on his pillow in great peace and contentment, knowing that his new-found friend the River was lapping the sill of his window.",
+      "ttsText": "When they got home, the Rat made a bright fire in the parlour, and planted the Mole in an arm-chair in front of it, having fetched down a dressing-gown and slippers for him, and told him river stories till supper-time. Very thrilling stories they were, too, to an earth-dwelling animal like Mole. Stories about weirs, and sudden floods, and leaping pike, and steamers that flung hard bottles, at least bottles were certainly flung, and from steamers, so presumably by them; and about herons, and how particular they were whom they spoke to; and about adventures down drains, and night-fishings with Otter, or excursions far a-field with Badger. Supper was a most cheerful meal; but very shortly afterwards a terribly sleepy Mole had to be escorted upstairs by his considerate host, to the best bedroom, where he soon laid his head on his pillow in great peace and contentment, knowing that his new-found friend the River was lapping the sill of his window.",
       "role": "paragraph"
     },
     {
@@ -857,6 +882,7 @@
       "order": 125,
       "chapterIndex": 2,
       "text": "THE FURTHER ADVENTURES OF TOAD",
+      "ttsText": "The Further Adventures of Toad",
       "role": "title"
     },
     {
@@ -869,6 +895,7 @@
       "order": 127,
       "chapterIndex": 2,
       "text": "Sitting up, he rubbed his eyes first and his complaining toes next, wondered for a moment where he was, looking round for familiar stone wall and little barred window; then, with a leap of the heart, remembered everything—his escape, his flight, his pursuit; remembered, first and best thing of all, that he was free!",
+      "ttsText": "Sitting up, he rubbed his eyes first and his complaining toes next, wondered for a moment where he was, looking round for familiar stone wall and little barred window; then, with a leap of the heart, remembered everything, his escape, his flight, his pursuit; remembered, first and best thing of all, that he was free!",
       "role": "paragraph"
     },
     {
@@ -911,6 +938,7 @@
       "order": 134,
       "chapterIndex": 2,
       "text": "“I dare say it is, ma’am!” responded Toad politely, as he walked along the tow-path abreast of her. “I dare it is a nice morning to them that’s not in sore trouble, like what I am. Here’s my married daughter, she sends off to me post-haste to come to her at once; so off I comes, not knowing what may be happening or going to happen, but fearing the worst, as you will understand, ma’am, if you’re a mother, too. And I’ve left my business to look after itself—I’m in the washing and laundering line, you must know, ma’am—and I’ve left my young children to look after themselves, and a more mischievous and troublesome set of young imps doesn’t exist, ma’am; and I’ve lost all my money, and lost my way, and as for what may be happening to my married daughter, why, I don’t like to think of it, ma’am!”",
+      "ttsText": "“I dare say it is, ma’am!” responded Toad politely, as he walked along the tow-path abreast of her. “I dare it is a nice morning to them that’s not in sore trouble, like what I am. Here’s my married daughter, she sends off to me post-haste to come to her at once; so off I comes, not knowing what may be happening or going to happen, but fearing the worst, as you will understand, ma’am, if you’re a mother, too. And I’ve left my business to look after itself, I’m in the washing and laundering line, you must know, ma’am, and I’ve left my young children to look after themselves, and a more mischievous and troublesome set of young imps doesn’t exist, ma’am; and I’ve lost all my money, and lost my way, and as for what may be happening to my married daughter, why, I don’t like to think of it, ma’am!”",
       "role": "paragraph"
     },
     {
@@ -947,6 +975,7 @@
       "order": 140,
       "chapterIndex": 2,
       "text": "“Finest business in the whole country,” said Toad airily. “All the gentry come to me—wouldn’t go to any one else if they were paid, they know me so well. You see, I understand my work thoroughly, and attend to it all myself. Washing, ironing, clear-starching, making up gents’ fine shirts for evening wear—everything’s done under my own eye!”",
+      "ttsText": "“Finest business in the whole country,” said Toad airily. “All the gentry come to me, wouldn’t go to any one else if they were paid, they know me so well. You see, I understand my work thoroughly, and attend to it all myself. Washing, ironing, clear-starching, making up gents’ fine shirts for evening wear, everything’s done under my own eye!”",
       "role": "paragraph"
     },
     {
@@ -989,6 +1018,7 @@
       "order": 147,
       "chapterIndex": 2,
       "text": "“Well, look at me, now,” replied the barge-woman. “ I like washing, too, just the same as you do; and for that matter, whether I like it or not I have got to do all my own, naturally, moving about as I do. Now my husband, he’s such a fellow for shirking his work and leaving the barge to me, that never a moment do I get for seeing to my own affairs. By rights he ought to be here now, either steering or attending to the horse, though luckily the horse has sense enough to attend to himself. Instead of which, he’s gone off with the dog, to see if they can’t pick up a rabbit for dinner somewhere. Says he’ll catch me up at the next lock. Well, that’s as may be—I don’t trust him, once he gets off with that dog, who’s worse than he is. But meantime, how am I to get on with my washing?”",
+      "ttsText": "“Well, look at me, now,” replied the barge-woman. “ I like washing, too, just the same as you do; and for that matter, whether I like it or not I have got to do all my own, naturally, moving about as I do. Now my husband, he’s such a fellow for shirking his work and leaving the barge to me, that never a moment do I get for seeing to my own affairs. By rights he ought to be here now, either steering or attending to the horse, though luckily the horse has sense enough to attend to himself. Instead of which, he’s gone off with the dog, to see if they can’t pick up a rabbit for dinner somewhere. Says he’ll catch me up at the next lock. Well, that’s as may be, I don’t trust him, once he gets off with that dog, who’s worse than he is. But meantime, how am I to get on with my washing?”",
       "role": "paragraph"
     },
     {
@@ -1001,6 +1031,7 @@
       "order": 149,
       "chapterIndex": 2,
       "text": "“I can’t fix my mind on anything but my washing,” said the barge-woman, “and I wonder you can be talking of rabbits, with such a joyful prospect before you. There’s a heap of things of mine that you’ll find in a corner of the cabin. If you’ll just take one or two of the most necessary sort—I won’t venture to describe them to a lady like you, but you’ll recognise them at a glance—and put them through the wash-tub as we go along, why, it’ll be a pleasure to you, as you rightly say, and a real help to me. You’ll find a tub handy, and soap, and a kettle on the stove, and a bucket to haul up water from the canal with. Then I shall know you’re enjoying yourself, instead of sitting here idle, looking at the scenery and yawning your head off.”",
+      "ttsText": "“I can’t fix my mind on anything but my washing,” said the barge-woman, “and I wonder you can be talking of rabbits, with such a joyful prospect before you. There’s a heap of things of mine that you’ll find in a corner of the cabin. If you’ll just take one or two of the most necessary sort, I won’t venture to describe them to a lady like you, but you’ll recognise them at a glance, and put them through the wash-tub as we go along, why, it’ll be a pleasure to you, as you rightly say, and a real help to me. You’ll find a tub handy, and soap, and a kettle on the stove, and a bucket to haul up water from the canal with. Then I shall know you’re enjoying yourself, instead of sitting here idle, looking at the scenery and yawning your head off.”",
       "role": "paragraph"
     },
     {
@@ -1103,6 +1134,7 @@
       "order": 166,
       "chapterIndex": 2,
       "text": "He had travelled some miles, his horse and he, and he was feeling drowsy in the hot sunshine, when the horse stopped, lowered his head, and began to nibble the grass; and Toad, waking up, just saved himself from falling off by an effort. He looked about him and found he was on a wide common, dotted with patches of gorse and bramble as far as he could see. Near him stood a dingy gipsy caravan, and beside it a man was sitting on a bucket turned upside down, very busy smoking and staring into the wide world. A fire of sticks was burning near by, and over the fire hung an iron pot, and out of that pot came forth bubblings and gurglings, and a vague suggestive steaminess. Also smells—warm, rich, and varied smells—that twined and twisted and wreathed themselves at last into one complete, voluptuous, perfect smell that seemed like the very soul of Nature taking form and appearing to her children, a true Goddess, a mother of solace and comfort. Toad now knew well that he had not been really hungry before. What he had felt earlier in the day had been a mere trifling qualm. This was the real thing at last, and no mistake; and it would have to be dealt with speedily, too, or there would be trouble for somebody or something. He looked the gipsy over carefully, wondering vaguely whether it would be easier to fight him or cajole him. So there he sat, and sniffed and sniffed, and looked at the gipsy; and the gipsy sat and smoked, and looked at him.",
+      "ttsText": "He had travelled some miles, his horse and he, and he was feeling drowsy in the hot sunshine, when the horse stopped, lowered his head, and began to nibble the grass; and Toad, waking up, just saved himself from falling off by an effort. He looked about him and found he was on a wide common, dotted with patches of gorse and bramble as far as he could see. Near him stood a dingy gipsy caravan, and beside it a man was sitting on a bucket turned upside down, very busy smoking and staring into the wide world. A fire of sticks was burning near by, and over the fire hung an iron pot, and out of that pot came forth bubblings and gurglings, and a vague suggestive steaminess. Also smells, warm, rich, and varied smells, that twined and twisted and wreathed themselves at last into one complete, voluptuous, perfect smell that seemed like the very soul of Nature taking form and appearing to her children, a true Goddess, a mother of solace and comfort. Toad now knew well that he had not been really hungry before. What he had felt earlier in the day had been a mere trifling qualm. This was the real thing at last, and no mistake; and it would have to be dealt with speedily, too, or there would be trouble for somebody or something. He looked the gipsy over carefully, wondering vaguely whether it would be easier to fight him or cajole him. So there he sat, and sniffed and sniffed, and looked at the gipsy; and the gipsy sat and smoked, and looked at him.",
       "role": "paragraph"
     },
     {
@@ -1115,6 +1147,7 @@
       "order": 168,
       "chapterIndex": 2,
       "text": "Toad was completely taken aback. He did not know that gipsies were very fond of horse-dealing, and never missed an opportunity, and he had not reflected that caravans were always on the move and took a deal of drawing. It had not occurred to him to turn the horse into cash, but the gipsy’s suggestion seemed to smooth the way towards the two things he wanted so badly—ready money, and a solid breakfast.",
+      "ttsText": "Toad was completely taken aback. He did not know that gipsies were very fond of horse-dealing, and never missed an opportunity, and he had not reflected that caravans were always on the move and took a deal of drawing. It had not occurred to him to turn the horse into cash, but the gipsy’s suggestion seemed to smooth the way towards the two things he wanted so badly, ready money, and a solid breakfast.",
       "role": "paragraph"
     },
     {
@@ -1133,6 +1166,7 @@
       "order": 171,
       "chapterIndex": 2,
       "text": "“You don’t seem to see,” continued Toad, “that this fine horse of mine is a cut above you altogether. He’s a blood horse, he is, partly; not the part you see, of course—another part. And he’s been a Prize Hackney, too, in his time—that was the time before you knew him, but you can still tell it on him at a glance, if you understand anything about horses. No, it’s not to be thought of for a moment. All the same, how much might you be disposed to offer me for this beautiful young horse of mine?”",
+      "ttsText": "“You don’t seem to see,” continued Toad, “that this fine horse of mine is a cut above you altogether. He’s a blood horse, he is, partly; not the part you see, of course, another part. And he’s been a Prize Hackney, too, in his time, that was the time before you knew him, but you can still tell it on him at a glance, if you understand anything about horses. No, it’s not to be thought of for a moment. All the same, how much might you be disposed to offer me for this beautiful young horse of mine?”",
       "role": "paragraph"
     },
     {
@@ -1163,6 +1197,7 @@
       "order": 176,
       "chapterIndex": 2,
       "text": "Then Toad sat and pondered long and deeply. For he was hungry and quite penniless, and still some way—he knew not how far—from home, and enemies might still be looking for him. To one in such a situation, five shillings may very well appear a large sum of money. On the other hand, it did not seem very much to get for a horse. But then, again, the horse hadn’t cost him anything; so whatever he got was all clear profit. At last he said firmly, “Look here, gipsy! I tell you what we will do; and this is my last word. You shall hand me over six shillings and sixpence, cash down; and further, in addition thereto, you shall give me as much breakfast as I can possibly eat, at one sitting of course, out of that iron pot of yours that keeps sending forth such delicious and exciting smells. In return, I will make over to you my spirited young horse, with all the beautiful harness and trappings that are on him, freely thrown in. If that’s not good enough for you, say so, and I’ll be getting on. I know a man near here who’s wanted this horse of mine for years.”",
+      "ttsText": "Then Toad sat and pondered long and deeply. For he was hungry and quite penniless, and still some way, he knew not how far, from home, and enemies might still be looking for him. To one in such a situation, five shillings may very well appear a large sum of money. On the other hand, it did not seem very much to get for a horse. But then, again, the horse hadn’t cost him anything; so whatever he got was all clear profit. At last he said firmly, “Look here, gipsy! I tell you what we will do; and this is my last word. You shall hand me over six shillings and sixpence, cash down; and further, in addition thereto, you shall give me as much breakfast as I can possibly eat, at one sitting of course, out of that iron pot of yours that keeps sending forth such delicious and exciting smells. In return, I will make over to you my spirited young horse, with all the beautiful harness and trappings that are on him, freely thrown in. If that’s not good enough for you, say so, and I’ll be getting on. I know a man near here who’s wanted this horse of mine for years.”",
       "role": "paragraph"
     },
     {
@@ -1343,6 +1378,7 @@
       "order": 206,
       "chapterIndex": 2,
       "text": "The terrible motor-car drew slowly nearer and nearer, till at last he heard it stop just short of him. Two gentlemen got out and walked round the trembling heap of crumpled misery lying in the road, and one of them said, “O dear! this is very sad! Here is a poor old thing—a washerwoman apparently—who has fainted in the road! Perhaps she is overcome by the heat, poor creature; or possibly she has not had any food to-day. Let us lift her into the car and take her to the nearest village, where doubtless she has friends.”",
+      "ttsText": "The terrible motor-car drew slowly nearer and nearer, till at last he heard it stop just short of him. Two gentlemen got out and walked round the trembling heap of crumpled misery lying in the road, and one of them said, “O dear! this is very sad! Here is a poor old thing, a washerwoman apparently, who has fainted in the road! Perhaps she is overcome by the heat, poor creature; or possibly she has not had any food to-day. Let us lift her into the car and take her to the nearest village, where doubtless she has friends.”",
       "role": "paragraph"
     },
     {
@@ -1463,6 +1499,7 @@
       "order": 226,
       "chapterIndex": 2,
       "text": "Then he burst into song again, and chanted with uplifted voice—",
+      "ttsText": "Then he burst into song again, and chanted with uplifted voice,",
       "role": "paragraph"
     },
     {
@@ -1493,6 +1530,7 @@
       "order": 231,
       "chapterIndex": 2,
       "text": "O, how clever I am! How clever, how clever, how very clev——”",
+      "ttsText": "O, how clever I am! How clever, how clever, how very clev, ”",
       "role": "paragraph"
     },
     {
@@ -1523,6 +1561,7 @@
       "order": 236,
       "chapterIndex": 2,
       "text": "He rose to the surface and tried to grasp the reeds and the rushes that grew along the water’s edge close under the bank, but the stream was so strong that it tore them out of his hands. “O my!” gasped poor Toad, “if ever I steal a motor-car again! If ever I sing another conceited song”—then down he went, and came up breathless and spluttering. Presently he saw that he was approaching a big dark hole in the bank, just above his head, and as the stream bore him past he reached up with a paw and caught hold of the edge and held on. Then slowly and with difficulty he drew himself up out of the water, till at last he was able to rest his elbows on the edge of the hole. There he remained for some minutes, puffing and panting, for he was quite exhausted.",
+      "ttsText": "He rose to the surface and tried to grasp the reeds and the rushes that grew along the water’s edge close under the bank, but the stream was so strong that it tore them out of his hands. “O my!” gasped poor Toad, “if ever I steal a motor-car again! If ever I sing another conceited song”, then down he went, and came up breathless and spluttering. Presently he saw that he was approaching a big dark hole in the bank, just above his head, and as the stream bore him past he reached up with a paw and caught hold of the edge and held on. Then slowly and with difficulty he drew himself up out of the water, till at last he was able to rest his elbows on the edge of the hole. There he remained for some minutes, puffing and panting, for he was quite exhausted.",
       "role": "paragraph"
     },
     {
@@ -1565,6 +1604,7 @@
       "order": 243,
       "chapterIndex": 3,
       "text": "“LIKE SUMMER TEMPESTS CAME HIS TEARS”",
+      "ttsText": "“Like Summer Tempests Came His Tears”",
       "role": "title"
     },
     {
@@ -1577,6 +1617,7 @@
       "order": 245,
       "chapterIndex": 3,
       "text": "“O, Ratty!” he cried. “I’ve been through such times since I saw you last, you can’t think! Such trials, such sufferings, and all so nobly borne! Then such escapes, such disguises such subterfuges, and all so cleverly planned and carried out! Been in prison—got out of it, of course! Been thrown into a canal—swam ashore! Stole a horse—sold him for a large sum of money! Humbugged everybody—made ’em all do exactly what I wanted! Oh, I am a smart Toad, and no mistake! What do you think my last exploit was? Just hold on till I tell you——”",
+      "ttsText": "“O, Ratty!” he cried. “I’ve been through such times since I saw you last, you can’t think! Such trials, such sufferings, and all so nobly borne! Then such escapes, such disguises such subterfuges, and all so cleverly planned and carried out! Been in prison, got out of it, of course! Been thrown into a canal, swam ashore! Stole a horse, sold him for a large sum of money! Humbugged everybody, made ’em all do exactly what I wanted! Oh, I am a smart Toad, and no mistake! What do you think my last exploit was? Just hold on till I tell you, ”",
       "role": "paragraph"
     },
     {
@@ -1601,12 +1642,14 @@
       "order": 249,
       "chapterIndex": 3,
       "text": "When at last Toad had talked himself to a standstill, there was silence for a while; and then the Rat said, “Now, Toady, I don’t want to give you pain, after all you’ve been through already; but, seriously, don’t you see what an awful ass you’ve been making of yourself? On your own admission you have been handcuffed, imprisoned, starved, chased, terrified out of your life, insulted, jeered at, and ignominiously flung into the water—by a woman, too! Where’s the amusement in that? Where does the fun come in? And all because you must needs go and steal a motor-car. You know that you’ve never had anything but trouble from motor-cars from the moment you first set eyes on one. But if you will be mixed up with them—as you generally are, five minutes after you’ve started—why steal them? Be a cripple, if you think it’s exciting; be a bankrupt, for a change, if you’ve set your mind on it: but why choose to be a convict? When are you going to be sensible, and think of your friends, and try and be a credit to them? Do you suppose it’s any pleasure to me, for instance, to hear animals saying, as I go about, that I’m the chap that keeps company with gaol-birds?”",
+      "ttsText": "When at last Toad had talked himself to a standstill, there was silence for a while; and then the Rat said, “Now, Toady, I don’t want to give you pain, after all you’ve been through already; but, seriously, don’t you see what an awful ass you’ve been making of yourself? On your own admission you have been handcuffed, imprisoned, starved, chased, terrified out of your life, insulted, jeered at, and ignominiously flung into the water, by a woman, too! Where’s the amusement in that? Where does the fun come in? And all because you must needs go and steal a motor-car. You know that you’ve never had anything but trouble from motor-cars from the moment you first set eyes on one. But if you will be mixed up with them, as you generally are, five minutes after you’ve started, why steal them? Be a cripple, if you think it’s exciting; be a bankrupt, for a change, if you’ve set your mind on it: but why choose to be a convict? When are you going to be sensible, and think of your friends, and try and be a credit to them? Do you suppose it’s any pleasure to me, for instance, to hear animals saying, as I go about, that I’m the chap that keeps company with gaol-birds?”",
       "role": "paragraph"
     },
     {
       "order": 250,
       "chapterIndex": 3,
       "text": "Now, it was a very comforting point in Toad’s character that he was a thoroughly good-hearted animal and never minded being jawed by those who were his real friends. And even when most set upon a thing, he was always able to see the other side of the question. So although, while the Rat was talking so seriously, he kept saying to himself mutinously, “But it was fun, though! Awful fun!” and making strange suppressed noises inside him, k-i-ck-ck-ck, and poop-p-p, and other sounds resembling stifled snorts, or the opening of soda-water bottles, yet when the Rat had quite finished, he heaved a deep sigh and said, very nicely and humbly, “Quite right, Ratty! How sound you always are! Yes, I’ve been a conceited old ass, I can quite see that; but now I’m going to be a good Toad, and not do it any more. As for motor-cars, I’ve not been at all so keen about them since my last ducking in that river of yours. The fact is, while I was hanging on to the edge of your hole and getting my breath, I had a sudden idea—a really brilliant idea—connected with motor-boats—there, there! don’t take on so, old chap, and stamp, and upset things; it was only an idea, and we won’t talk any more about it now. We’ll have our coffee, and a smoke, and a quiet chat, and then I’m going to stroll quietly down to Toad Hall, and get into clothes of my own, and set things going again on the old lines. I’ve had enough of adventures. I shall lead a quiet, steady, respectable life, pottering about my property, and improving it, and doing a little landscape gardening at times. There will always be a bit of dinner for my friends when they come to see me; and I shall keep a pony-chaise to jog about the country in, just as I used to in the good old days, before I got restless, and wanted to do things.”",
+      "ttsText": "Now, it was a very comforting point in Toad’s character that he was a thoroughly good-hearted animal and never minded being jawed by those who were his real friends. And even when most set upon a thing, he was always able to see the other side of the question. So although, while the Rat was talking so seriously, he kept saying to himself mutinously, “But it was fun, though! Awful fun!” and making strange suppressed noises inside him, k-i-ck-ck-ck, and poop-p-p, and other sounds resembling stifled snorts, or the opening of soda-water bottles, yet when the Rat had quite finished, he heaved a deep sigh and said, very nicely and humbly, “Quite right, Ratty! How sound you always are! Yes, I’ve been a conceited old ass, I can quite see that; but now I’m going to be a good Toad, and not do it any more. As for motor-cars, I’ve not been at all so keen about them since my last ducking in that river of yours. The fact is, while I was hanging on to the edge of your hole and getting my breath, I had a sudden idea, a really brilliant idea, connected with motor-boats, there, there! don’t take on so, old chap, and stamp, and upset things; it was only an idea, and we won’t talk any more about it now. We’ll have our coffee, and a smoke, and a quiet chat, and then I’m going to stroll quietly down to Toad Hall, and get into clothes of my own, and set things going again on the old lines. I’ve had enough of adventures. I shall lead a quiet, steady, respectable life, pottering about my property, and improving it, and doing a little landscape gardening at times. There will always be a bit of dinner for my friends when they come to see me; and I shall keep a pony-chaise to jog about the country in, just as I used to in the good old days, before I got restless, and wanted to do things.”",
       "role": "paragraph"
     },
     {
@@ -1637,6 +1680,7 @@
       "order": 255,
       "chapterIndex": 3,
       "text": "“—And how they’ve been and taken Toad Hall?” continued the Rat.",
+      "ttsText": "“, And how they’ve been and taken Toad Hall?” continued the Rat.",
       "role": "paragraph"
     },
     {
@@ -1655,6 +1699,7 @@
       "order": 258,
       "chapterIndex": 3,
       "text": "“When you—got—into that—that—trouble of yours,” said the Rat, slowly and impressively; “I mean, when you—disappeared from society for a time, over that misunderstanding about a—a machine, you know—”",
+      "ttsText": "“When you, got, into that, that, trouble of yours,” said the Rat, slowly and impressively; “I mean, when you, disappeared from society for a time, over that misunderstanding about a, a machine, you know, ”",
       "role": "paragraph"
     },
     {
@@ -1691,6 +1736,7 @@
       "order": 264,
       "chapterIndex": 3,
       "text": "“They argued from history,” continued the Rat. “They said that no criminal laws had ever been known to prevail against cheek and plausibility such as yours, combined with the power of a long purse. So they arranged to move their things in to Toad Hall, and sleep there, and keep it aired, and have it all ready for you when you turned up. They didn’t guess what was going to happen, of course; still, they had their suspicions of the Wild Wood animals. Now I come to the most painful and tragic part of my story. One dark night—it was a very dark night, and blowing hard, too, and raining simply cats and dogs—a band of weasels, armed to the teeth, crept silently up the carriage-drive to the front entrance. Simultaneously, a body of desperate ferrets, advancing through the kitchen-garden, possessed themselves of the backyard and offices; while a company of skirmishing stoats who stuck at nothing occupied the conservatory and the billiard-room, and held the French windows opening on to the lawn.",
+      "ttsText": "“They argued from history,” continued the Rat. “They said that no criminal laws had ever been known to prevail against cheek and plausibility such as yours, combined with the power of a long purse. So they arranged to move their things in to Toad Hall, and sleep there, and keep it aired, and have it all ready for you when you turned up. They didn’t guess what was going to happen, of course; still, they had their suspicions of the Wild Wood animals. Now I come to the most painful and tragic part of my story. One dark night, it was a very dark night, and blowing hard, too, and raining simply cats and dogs, a band of weasels, armed to the teeth, crept silently up the carriage-drive to the front entrance. Simultaneously, a body of desperate ferrets, advancing through the kitchen-garden, possessed themselves of the backyard and offices; while a company of skirmishing stoats who stuck at nothing occupied the conservatory and the billiard-room, and held the French windows opening on to the lawn.",
       "role": "paragraph"
     },
     {
@@ -1709,6 +1755,7 @@
       "order": 267,
       "chapterIndex": 3,
       "text": "“And the Wild Wooders have been living in Toad Hall ever since,” continued the Rat; “and going on simply anyhow! Lying in bed half the day, and breakfast at all hours, and the place in such a mess (I’m told) it’s not fit to be seen! Eating your grub, and drinking your drink, and making bad jokes about you, and singing vulgar songs, about—well, about prisons and magistrates, and policemen; horrid personal songs, with no humour in them. And they’re telling the tradespeople and everybody that they’ve come to stay for good.”",
+      "ttsText": "“And the Wild Wooders have been living in Toad Hall ever since,” continued the Rat; “and going on simply anyhow! Lying in bed half the day, and breakfast at all hours, and the place in such a mess (I’m told) it’s not fit to be seen! Eating your grub, and drinking your drink, and making bad jokes about you, and singing vulgar songs, about, well, about prisons and magistrates, and policemen; horrid personal songs, with no humour in them. And they’re telling the tradespeople and everybody that they’ve come to stay for good.”",
       "role": "paragraph"
     },
     {
@@ -1739,6 +1786,7 @@
       "order": 272,
       "chapterIndex": 3,
       "text": "“Stuff and nonsense!” said Toad, very angrily. “What do you mean by talking like that to me? Come out of that at once, or I’ll——”",
+      "ttsText": "“Stuff and nonsense!” said Toad, very angrily. “What do you mean by talking like that to me? Come out of that at once, or I’ll, ”",
       "role": "paragraph"
     },
     {
@@ -1775,12 +1823,14 @@
       "order": 278,
       "chapterIndex": 3,
       "text": "Arriving within sight of his old home, he rested on his oars and surveyed the land cautiously. All seemed very peaceful and deserted and quiet. He could see the whole front of Toad Hall, glowing in the evening sunshine, the pigeons settling by twos and threes along the straight line of the roof; the garden, a blaze of flowers; the creek that led up to the boat-house, the little wooden bridge that crossed it; all tranquil, uninhabited, apparently waiting for his return. He would try the boat-house first, he thought. Very warily he paddled up to the mouth of the creek, and was just passing under the bridge, when ... Crash!",
+      "ttsText": "Arriving within sight of his old home, he rested on his oars and surveyed the land cautiously. All seemed very peaceful and deserted and quiet. He could see the whole front of Toad Hall, glowing in the evening sunshine, the pigeons settling by twos and threes along the straight line of the roof; the garden, a blaze of flowers; the creek that led up to the boat-house, the little wooden bridge that crossed it; all tranquil, uninhabited, apparently waiting for his return. He would try the boat-house first, he thought. Very warily he paddled up to the mouth of the creek, and was just passing under the bridge, when … Crash!",
       "role": "paragraph"
     },
     {
       "order": 279,
       "chapterIndex": 3,
       "text": "A great stone, dropped from above, smashed through the bottom of the boat. It filled and sank, and Toad found himself struggling in deep water. Looking up, he saw two stoats leaning over the parapet of the bridge and watching him with great glee. “It will be your head next time, Toady!” they called out to him. The indignant Toad swam to shore, while the stoats laughed and laughed, supporting each other, and laughed again, till they nearly had two fits—that is, one fit each, of course.",
+      "ttsText": "A great stone, dropped from above, smashed through the bottom of the boat. It filled and sank, and Toad found himself struggling in deep water. Looking up, he saw two stoats leaning over the parapet of the bridge and watching him with great glee. “It will be your head next time, Toady!” they called out to him. The indignant Toad swam to shore, while the stoats laughed and laughed, supporting each other, and laughed again, till they nearly had two fits, that is, one fit each, of course.",
       "role": "paragraph"
     },
     {
@@ -1793,6 +1843,7 @@
       "order": 281,
       "chapterIndex": 3,
       "text": "“Well, what did I tell you?” said the Rat very crossly. “And, now, look here! See what you’ve been and done! Lost me my boat that I was so fond of, that’s what you’ve done! And simply ruined that nice suit of clothes that I lent you! Really, Toad, of all the trying animals—I wonder you manage to keep any friends at all!”",
+      "ttsText": "“Well, what did I tell you?” said the Rat very crossly. “And, now, look here! See what you’ve been and done! Lost me my boat that I was so fond of, that’s what you’ve done! And simply ruined that nice suit of clothes that I lent you! Really, Toad, of all the trying animals, I wonder you manage to keep any friends at all!”",
       "role": "paragraph"
     },
     {
@@ -1823,6 +1874,7 @@
       "order": 286,
       "chapterIndex": 3,
       "text": "“I’m an ungrateful beast, I know,” sobbed Toad, shedding bitter tears. “Let me go out and find them, out into the cold, dark night, and share their hardships, and try and prove by——Hold on a bit! Surely I heard the chink of dishes on a tray! Supper’s here at last, hooray! Come on, Ratty!”",
+      "ttsText": "“I’m an ungrateful beast, I know,” sobbed Toad, shedding bitter tears. “Let me go out and find them, out into the cold, dark night, and share their hardships, and try and prove by, Hold on a bit! Surely I heard the chink of dishes on a tray! Supper’s here at last, hooray! Come on, Ratty!”",
       "role": "paragraph"
     },
     {
@@ -1913,18 +1965,21 @@
       "order": 301,
       "chapterIndex": 3,
       "text": "“It’s a very difficult situation,” said the Rat, reflecting deeply. “But I think I see now, in the depths of my mind, what Toad really ought to do. I will tell you. He ought to——”",
+      "ttsText": "“It’s a very difficult situation,” said the Rat, reflecting deeply. “But I think I see now, in the depths of my mind, what Toad really ought to do. I will tell you. He ought to, ”",
       "role": "paragraph"
     },
     {
       "order": 302,
       "chapterIndex": 3,
       "text": "“No, he oughtn’t!” shouted the Mole, with his mouth full. “Nothing of the sort! You don’t understand. What he ought to do is, he ought to——”",
+      "ttsText": "“No, he oughtn’t!” shouted the Mole, with his mouth full. “Nothing of the sort! You don’t understand. What he ought to do is, he ought to, ”",
       "role": "paragraph"
     },
     {
       "order": 303,
       "chapterIndex": 3,
       "text": "“Well, I shan’t do it, anyway!” cried Toad, getting excited. “I’m not going to be ordered about by you fellows! It’s my house we’re talking about, and I know exactly what to do, and I’ll tell you. I’m going to——”",
+      "ttsText": "“Well, I shan’t do it, anyway!” cried Toad, getting excited. “I’m not going to be ordered about by you fellows! It’s my house we’re talking about, and I know exactly what to do, and I’ll tell you. I’m going to, ”",
       "role": "paragraph"
     },
     {
@@ -1985,6 +2040,7 @@
       "order": 313,
       "chapterIndex": 3,
       "text": "“There—is—an—underground—passage,” said the Badger, impressively, “that leads from the river-bank, quite near here, right up into the middle of Toad Hall.”",
+      "ttsText": "“There, is, an, underground, passage,” said the Badger, impressively, “that leads from the river-bank, quite near here, right up into the middle of Toad Hall.”",
       "role": "paragraph"
     },
     {
@@ -1997,6 +2053,7 @@
       "order": 315,
       "chapterIndex": 3,
       "text": "“My young friend,” said the Badger, with great severity, “your father, who was a worthy animal—a lot worthier than some others I know—was a particular friend of mine, and told me a great deal he wouldn’t have dreamt of telling you. He discovered that passage—he didn’t make it, of course; that was done hundreds of years before he ever came to live there—and he repaired it and cleaned it out, because he thought it might come in useful some day, in case of trouble or danger; and he showed it to me. ‘Don’t let my son know about it,’ he said. ‘He’s a good boy, but very light and volatile in character, and simply cannot hold his tongue. If he’s ever in a real fix, and it would be of use to him, you may tell him about the secret passage; but not before.’”",
+      "ttsText": "“My young friend,” said the Badger, with great severity, “your father, who was a worthy animal, a lot worthier than some others I know, was a particular friend of mine, and told me a great deal he wouldn’t have dreamt of telling you. He discovered that passage, he didn’t make it, of course; that was done hundreds of years before he ever came to live there, and he repaired it and cleaned it out, because he thought it might come in useful some day, in case of trouble or danger; and he showed it to me. ‘Don’t let my son know about it,’ he said. ‘He’s a good boy, but very light and volatile in character, and simply cannot hold his tongue. If he’s ever in a real fix, and it would be of use to him, you may tell him about the secret passage; but not before.’”",
       "role": "paragraph"
     },
     {
@@ -2009,12 +2066,14 @@
       "order": 317,
       "chapterIndex": 3,
       "text": "“Well, well,” he said; “perhaps I am a bit of a talker. A popular fellow such as I am—my friends get round me—we chaff, we sparkle, we tell witty stories—and somehow my tongue gets wagging. I have the gift of conversation. I’ve been told I ought to have a salon , whatever that may be. Never mind. Go on, Badger. How’s this passage of yours going to help us?”",
+      "ttsText": "“Well, well,” he said; “perhaps I am a bit of a talker. A popular fellow such as I am, my friends get round me, we chaff, we sparkle, we tell witty stories, and somehow my tongue gets wagging. I have the gift of conversation. I’ve been told I ought to have a salon, whatever that may be. Never mind. Go on, Badger. How’s this passage of yours going to help us?”",
       "role": "paragraph"
     },
     {
       "order": 318,
       "chapterIndex": 3,
       "text": "“I’ve found out a thing or two lately,” continued the Badger. “I got Otter to disguise himself as a sweep and call at the back-door with brushes over his shoulder, asking for a job. There’s going to be a big banquet to-morrow night. It’s somebody’s birthday—the Chief Weasel’s, I believe—and all the weasels will be gathered together in the dining-hall, eating and drinking and laughing and carrying on, suspecting nothing. No guns, no swords, no sticks, no arms of any sort whatever!”",
+      "ttsText": "“I’ve found out a thing or two lately,” continued the Badger. “I got Otter to disguise himself as a sweep and call at the back-door with brushes over his shoulder, asking for a job. There’s going to be a big banquet to-morrow night. It’s somebody’s birthday, the Chief Weasel’s, I believe, and all the weasels will be gathered together in the dining-hall, eating and drinking and laughing and carrying on, suspecting nothing. No guns, no swords, no sticks, no arms of any sort whatever!”",
       "role": "paragraph"
     },
     {
@@ -2039,24 +2098,28 @@
       "order": 322,
       "chapterIndex": 3,
       "text": "“We shall creep out quietly into the butler’s pantry—” cried the Mole.",
+      "ttsText": "“We shall creep out quietly into the butler’s pantry, ” cried the Mole.",
       "role": "paragraph"
     },
     {
       "order": 323,
       "chapterIndex": 3,
       "text": "“—with our pistols and swords and sticks—” shouted the Rat.",
+      "ttsText": "“, with our pistols and swords and sticks, ” shouted the Rat.",
       "role": "paragraph"
     },
     {
       "order": 324,
       "chapterIndex": 3,
       "text": "“—and rush in upon them,” said the Badger.",
+      "ttsText": "“, and rush in upon them,” said the Badger.",
       "role": "paragraph"
     },
     {
       "order": 325,
       "chapterIndex": 3,
       "text": "“—and whack ’em, and whack ’em, and whack ’em!” cried the Toad in ecstasy, running round and round the room, and jumping over the chairs.",
+      "ttsText": "“, and whack ’em, and whack ’em, and whack ’em!” cried the Toad in ecstasy, running round and round the room, and jumping over the chairs.",
       "role": "paragraph"
     },
     {
@@ -2069,6 +2132,7 @@
       "order": 327,
       "chapterIndex": 3,
       "text": "Toad, of course, went off to bed dutifully with the rest—he knew better than to refuse—though he was feeling much too excited to sleep. But he had had a long day, with many events crowded into it; and sheets and blankets were very friendly and comforting things, after plain straw, and not too much of it, spread on the stone floor of a draughty cell; and his head had not been many seconds on his pillow before he was snoring happily. Naturally, he dreamt a good deal; about roads that ran away from him just when he wanted them, and canals that chased him and caught him, and a barge that sailed into the banqueting-hall with his week’s washing, just as he was giving a dinner-party; and he was alone in the secret passage, pushing onwards, but it twisted and turned round and shook itself, and sat up on its end; yet somehow, at the last, he found himself back in Toad Hall, safe and triumphant, with all his friends gathered round about him, earnestly assuring him that he really was a clever Toad.",
+      "ttsText": "Toad, of course, went off to bed dutifully with the rest, he knew better than to refuse, though he was feeling much too excited to sleep. But he had had a long day, with many events crowded into it; and sheets and blankets were very friendly and comforting things, after plain straw, and not too much of it, spread on the stone floor of a draughty cell; and his head had not been many seconds on his pillow before he was snoring happily. Naturally, he dreamt a good deal; about roads that ran away from him just when he wanted them, and canals that chased him and caught him, and a barge that sailed into the banqueting-hall with his week’s washing, just as he was giving a dinner-party; and he was alone in the secret passage, pushing onwards, but it twisted and turned round and shook itself, and sat up on its end; yet somehow, at the last, he found himself back in Toad Hall, safe and triumphant, with all his friends gathered round about him, earnestly assuring him that he really was a clever Toad.",
       "role": "paragraph"
     },
     {
@@ -2117,6 +2181,7 @@
       "order": 335,
       "chapterIndex": 3,
       "text": "“But we don’t want to teach ’em,” replied the Badger. “We want to learn ’em—learn ’em, learn ’em! And what’s more, we’re going to do it, too!”",
+      "ttsText": "“But we don’t want to teach ’em,” replied the Badger. “We want to learn ’em, learn ’em, learn ’em! And what’s more, we’re going to do it, too!”",
       "role": "paragraph"
     },
     {
@@ -2147,6 +2212,7 @@
       "order": 340,
       "chapterIndex": 3,
       "text": "“They looked at me very proud and stiff and haughty, and said, ‘Go away, washerwoman! We don’t do any washing on duty.’ ‘Or any other time?’ says I. Ho, ho, ho! Wasn’t I funny , Toad?”",
+      "ttsText": "“They looked at me very proud and stiff and haughty, and said, ‘Go away, washerwoman! We don’t do any washing on duty.’ ‘Or any other time?’ says I. Ho, ho, ho! Wasn’t I funny, Toad?”",
       "role": "paragraph"
     },
     {
@@ -2165,6 +2231,7 @@
       "order": 343,
       "chapterIndex": 3,
       "text": "“O Moly , how could you?” said the Rat, dismayed.",
+      "ttsText": "“O Moly, how could you?” said the Rat, dismayed.",
       "role": "paragraph"
     },
     {
@@ -2207,6 +2274,7 @@
       "order": 350,
       "chapterIndex": 3,
       "text": "It was a simple but sustaining meal—bacon and broad beans, and a macaroni pudding; and when they had quite done, the Badger settled himself into an arm-chair, and said, “Well, we’ve got our work cut out for us to-night, and it will probably be pretty late before we’re quite through with it; so I’m just going to take forty winks, while I can.” And he drew a handkerchief over his face and was soon snoring.",
+      "ttsText": "It was a simple but sustaining meal, bacon and broad beans, and a macaroni pudding; and when they had quite done, the Badger settled himself into an arm-chair, and said, “Well, we’ve got our work cut out for us to-night, and it will probably be pretty late before we’re quite through with it; so I’m just going to take forty winks, while I can.” And he drew a handkerchief over his face and was soon snoring.",
       "role": "paragraph"
     },
     {
@@ -2231,12 +2299,14 @@
       "order": 354,
       "chapterIndex": 4,
       "text": "THE RETURN OF ULYSSES",
+      "ttsText": "The Return of Ulysses",
       "role": "title"
     },
     {
       "order": 355,
       "chapterIndex": 4,
       "text": "When it began to grow dark, the Rat, with an air of excitement and mystery, summoned them back into the parlour, stood each of them up alongside of his little heap, and proceeded to dress them up for the coming expedition. He was very earnest and thoroughgoing about it, and the affair took quite a long time. First, there was a belt to go round each animal, and then a sword to be stuck into each belt, and then a cutlass on the other side to balance it. Then a pair of pistols, a policeman’s truncheon, several sets of handcuffs, some bandages and sticking-plaster, and a flask and a sandwich-case. The Badger laughed good-humouredly and said, “All right, Ratty! It amuses you and it doesn’t hurt me. I’m going to do all I’ve got to do with this here stick.” But the Rat only said, “ please , Badger. You know I shouldn’t like you to blame me afterwards and say I had forgotten anything! ”",
+      "ttsText": "When it began to grow dark, the Rat, with an air of excitement and mystery, summoned them back into the parlour, stood each of them up alongside of his little heap, and proceeded to dress them up for the coming expedition. He was very earnest and thoroughgoing about it, and the affair took quite a long time. First, there was a belt to go round each animal, and then a sword to be stuck into each belt, and then a cutlass on the other side to balance it. Then a pair of pistols, a policeman’s truncheon, several sets of handcuffs, some bandages and sticking-plaster, and a flask and a sandwich-case. The Badger laughed good-humouredly and said, “All right, Ratty! It amuses you and it doesn’t hurt me. I’m going to do all I’ve got to do with this here stick.” But the Rat only said, “ please, Badger. You know I shouldn’t like you to blame me afterwards and say I had forgotten anything! ”",
       "role": "paragraph"
     },
     {
@@ -2297,6 +2367,7 @@
       "order": 365,
       "chapterIndex": 4,
       "text": "The noise, as they emerged from the passage, was simply deafening. At last, as the cheering and hammering slowly subsided, a voice could be made out saying, “Well, I do not propose to detain you much longer”—(great applause)—“but before I resume my seat”—(renewed cheering)—“I should like to say one word about our kind host, Mr. Toad. We all know Toad!”—(great laughter)—“ Good Toad, modest Toad, honest Toad!” (shrieks of merriment).",
+      "ttsText": "The noise, as they emerged from the passage, was simply deafening. At last, as the cheering and hammering slowly subsided, a voice could be made out saying, “Well, I do not propose to detain you much longer”, (great applause), “but before I resume my seat”, (renewed cheering), “I should like to say one word about our kind host, Mr. Toad. We all know Toad!”, (great laughter), “ Good Toad, modest Toad, honest Toad!” (shrieks of merriment).",
       "role": "paragraph"
     },
     {
@@ -2315,12 +2386,14 @@
       "order": 368,
       "chapterIndex": 4,
       "text": "“—Let me sing you a little song,” went on the voice, “which I have composed on the subject of Toad”—(prolonged applause).",
+      "ttsText": "“, Let me sing you a little song,” went on the voice, “which I have composed on the subject of Toad”, (prolonged applause).",
       "role": "paragraph"
     },
     {
       "order": 369,
       "chapterIndex": 4,
       "text": "Then the Chief Weasel—for it was he—began in a high, squeaky voice—",
+      "ttsText": "Then the Chief Weasel, for it was he, began in a high, squeaky voice,",
       "role": "paragraph"
     },
     {
@@ -2333,12 +2406,14 @@
       "order": 371,
       "chapterIndex": 4,
       "text": "Gaily down the street—”",
+      "ttsText": "Gaily down the street, ”",
       "role": "paragraph"
     },
     {
       "order": 372,
       "chapterIndex": 4,
       "text": "The Badger drew himself up, took a firm grip of his stick with both paws, glanced round at his comrades, and cried—",
+      "ttsText": "The Badger drew himself up, took a firm grip of his stick with both paws, glanced round at his comrades, and cried,",
       "role": "paragraph"
     },
     {
@@ -2399,6 +2474,7 @@
       "order": 382,
       "chapterIndex": 4,
       "text": "“Excellent and deserving animal!” said the Badger, his mouth full of chicken and trifle. “Now, there’s just one more thing I want you to do, Mole, before you sit down to your supper along of us; and I wouldn’t trouble you only I know I can trust you to see a thing done, and I wish I could say the same of every one I know. I’d send Rat, if he wasn’t a poet. I want you to take those fellows on the floor there upstairs with you, and have some bedrooms cleaned out and tidied up and made really comfortable. See that they sweep under the beds, and put clean sheets and pillow-cases on, and turn down one corner of the bed-clothes, just as you know it ought to be done; and have a can of hot water, and clean towels, and fresh cakes of soap, put in each room. And then you can give them a licking a-piece, if it’s any satisfaction to you, and put them out by the back-door, and we shan’t see any more of them , I fancy. And then come along and have some of this cold tongue. It’s first rate. I’m very pleased with you, Mole!”",
+      "ttsText": "“Excellent and deserving animal!” said the Badger, his mouth full of chicken and trifle. “Now, there’s just one more thing I want you to do, Mole, before you sit down to your supper along of us; and I wouldn’t trouble you only I know I can trust you to see a thing done, and I wish I could say the same of every one I know. I’d send Rat, if he wasn’t a poet. I want you to take those fellows on the floor there upstairs with you, and have some bedrooms cleaned out and tidied up and made really comfortable. See that they sweep under the beds, and put clean sheets and pillow-cases on, and turn down one corner of the bed-clothes, just as you know it ought to be done; and have a can of hot water, and clean towels, and fresh cakes of soap, put in each room. And then you can give them a licking a-piece, if it’s any satisfaction to you, and put them out by the back-door, and we shan’t see any more of them, I fancy. And then come along and have some of this cold tongue. It’s first rate. I’m very pleased with you, Mole!”",
       "role": "paragraph"
     },
     {
@@ -2417,6 +2493,7 @@
       "order": 385,
       "chapterIndex": 4,
       "text": "The following morning, Toad, who had overslept himself as usual, came down to breakfast disgracefully late, and found on the table a certain quantity of egg-shells, some fragments of cold and leathery toast, a coffee-pot three-fourths empty, and really very little else; which did not tend to improve his temper, considering that, after all, it was his own house. Through the French windows of the breakfast-room he could see the Mole and the Water Rat sitting in wicker-chairs out on the lawn, evidently telling each other stories; roaring with laughter and kicking their short legs up in the air. The Badger, who was in an arm-chair and deep in the morning paper, merely looked up and nodded when Toad entered the room. But Toad knew his man, so he sat down and made the best breakfast he could, merely observing to himself that he would get square with the others sooner or later. When he had nearly finished, the Badger looked up and remarked rather shortly: “I’m sorry, Toad, but I’m afraid there’s a heavy morning’s work in front of you. You see, we really ought to have a Banquet at once, to celebrate this affair. It’s expected of you—in fact, it’s the rule.”",
+      "ttsText": "The following morning, Toad, who had overslept himself as usual, came down to breakfast disgracefully late, and found on the table a certain quantity of egg-shells, some fragments of cold and leathery toast, a coffee-pot three-fourths empty, and really very little else; which did not tend to improve his temper, considering that, after all, it was his own house. Through the French windows of the breakfast-room he could see the Mole and the Water Rat sitting in wicker-chairs out on the lawn, evidently telling each other stories; roaring with laughter and kicking their short legs up in the air. The Badger, who was in an arm-chair and deep in the morning paper, merely looked up and nodded when Toad entered the room. But Toad knew his man, so he sat down and made the best breakfast he could, merely observing to himself that he would get square with the others sooner or later. When he had nearly finished, the Badger looked up and remarked rather shortly: “I’m sorry, Toad, but I’m afraid there’s a heavy morning’s work in front of you. You see, we really ought to have a Banquet at once, to celebrate this affair. It’s expected of you, in fact, it’s the rule.”",
       "role": "paragraph"
     },
     {
@@ -2429,25 +2506,28 @@
       "order": 387,
       "chapterIndex": 4,
       "text": "“Don’t pretend to be stupider than you really are,” replied the Badger, crossly; “and don’t chuckle and splutter in your coffee while you’re talking; it’s not manners. What I mean is, the Banquet will be at night, of course, but the invitations will have to be written and got off at once, and you’ve got to write ’em. Now, sit down at that table—there’s stacks of letter-paper on it, with ‘Toad Hall’ at the top in blue and gold—and write invitations to all our friends, and if you stick to it we shall get them out before luncheon. And I’ll bear a hand, too; and take my share of the burden. I’ll order the Banquet.”",
+      "ttsText": "“Don’t pretend to be stupider than you really are,” replied the Badger, crossly; “and don’t chuckle and splutter in your coffee while you’re talking; it’s not manners. What I mean is, the Banquet will be at night, of course, but the invitations will have to be written and got off at once, and you’ve got to write ’em. Now, sit down at that table, there’s stacks of letter-paper on it, with ‘Toad Hall’ at the top in blue and gold, and write invitations to all our friends, and if you stick to it we shall get them out before luncheon. And I’ll bear a hand, too; and take my share of the burden. I’ll order the Banquet.”",
       "role": "paragraph"
     },
     {
       "order": 388,
       "chapterIndex": 4,
       "text": "“What!” cried Toad, dismayed. “Me stop indoors and write a lot of rotten letters on a jolly morning like this, when I want to go around my property, and set everything and everybody to rights, and swagger about and enjoy myself! Certainly not! I’ll be—I’ll see you——Stop a minute, though! Why, of course, dear Badger! What is my pleasure or convenience compared with that of others! You wish it done, and it shall be done. Go, Badger, order the Banquet, order what you like; then join our young friends outside in their innocent mirth, oblivious of me and my cares and toils. I sacrifice this fair morning on the altar of duty and friendship!”",
+      "ttsText": "“What!” cried Toad, dismayed. “Me stop indoors and write a lot of rotten letters on a jolly morning like this, when I want to go around my property, and set everything and everybody to rights, and swagger about and enjoy myself! Certainly not! I’ll be, I’ll see you, Stop a minute, though! Why, of course, dear Badger! What is my pleasure or convenience compared with that of others! You wish it done, and it shall be done. Go, Badger, order the Banquet, order what you like; then join our young friends outside in their innocent mirth, oblivious of me and my cares and toils. I sacrifice this fair morning on the altar of duty and friendship!”",
       "role": "paragraph"
     },
     {
       "order": 389,
       "chapterIndex": 4,
       "text": "The Badger looked at him very suspiciously, but Toad’s frank, open countenance made it difficult to suggest any unworthy motive in this change of attitude. He quitted the room, accordingly, in the direction of the kitchen, and as soon as the door had closed behind him, Toad hurried to the writing-table. A fine idea had occurred to him while he was talking. He would write the invitations; and he would take care to mention the leading part he had taken in the fight, and how he had laid the Chief Weasel flat; and he would hint at his adventures, and what a career of triumph he had to tell about; and on the fly-leaf he would set out a sort of a programme of entertainment for the evening—something like this, as he sketched it out in his head:—",
+      "ttsText": "The Badger looked at him very suspiciously, but Toad’s frank, open countenance made it difficult to suggest any unworthy motive in this change of attitude. He quitted the room, accordingly, in the direction of the kitchen, and as soon as the door had closed behind him, Toad hurried to the writing-table. A fine idea had occurred to him while he was talking. He would write the invitations; and he would take care to mention the leading part he had taken in the fight, and how he had laid the Chief Weasel flat; and he would hint at his adventures, and what a career of triumph he had to tell about; and on the fly-leaf he would set out a sort of a programme of entertainment for the evening, something like this, as he sketched it out in his head:,",
       "role": "paragraph"
     },
     {
       "order": 390,
       "chapterIndex": 4,
       "text": "S PEECH . . . . B Y T OAD .",
-      "ttsText": "Speech . . . . B Y Toad .",
+      "ttsText": "Speech … Byt Oad.",
       "role": "title"
     },
     {
@@ -2461,21 +2541,21 @@
       "order": 392,
       "chapterIndex": 4,
       "text": "A DDRESS . . . B Y T OAD",
-      "ttsText": "Address . . . B Y Toad",
+      "ttsText": "A Ddress … Byt Oad",
       "role": "title"
     },
     {
       "order": 393,
       "chapterIndex": 4,
       "text": "S YNOPSIS —Our Prison System—the Waterways of Old England—Horse-dealing, and how to deal—Property, its rights and its duties—Back to the Land—A Typical English Squire.",
-      "ttsText": "Synopsis —Our Prison System—the Waterways of Old England—Horse-dealing, and how to deal—Property, its rights and its duties—Back to the Land—A Typical English Squire.",
+      "ttsText": "Synopsis, Our Prison System, the Waterways of Old England, Horse-dealing, and how to deal, Property, its rights and its duties, Back to the Land, A Typical English Squire.",
       "role": "paragraph"
     },
     {
       "order": 394,
       "chapterIndex": 4,
       "text": "S ONG . . . . B Y T OAD .",
-      "ttsText": "Song . . . . B Y Toad .",
+      "ttsText": "Song … Byt Oad.",
       "role": "title"
     },
     {
@@ -2488,14 +2568,14 @@
       "order": 396,
       "chapterIndex": 4,
       "text": "O THER C OMPOSITIONS . B Y T OAD",
-      "ttsText": "Other Compositions . B Y Toad",
+      "ttsText": "Other Compositions. Byt Oad",
       "role": "title"
     },
     {
       "order": 397,
       "chapterIndex": 4,
       "text": "will be sung in the course of the evening by the. . . C OMPOSER .",
-      "ttsText": "will be sung in the course of the evening by the. . . Composer .",
+      "ttsText": "will be sung in the course of the evening by the … Composer.",
       "role": "paragraph"
     },
     {
@@ -2544,6 +2624,7 @@
       "order": 405,
       "chapterIndex": 4,
       "text": "“No, not one little song,” replied the Rat firmly, though his heart bled as he noticed the trembling lip of the poor disappointed Toad. “It’s no good, Toady; you know well that your songs are all conceit and boasting and vanity; and your speeches are all self-praise and—and—well, and gross exaggeration and—and——”",
+      "ttsText": "“No, not one little song,” replied the Rat firmly, though his heart bled as he noticed the trembling lip of the poor disappointed Toad. “It’s no good, Toady; you know well that your songs are all conceit and boasting and vanity; and your speeches are all self-praise and, and, well, and gross exaggeration and, and, ”",
       "role": "paragraph"
     },
     {
@@ -2562,6 +2643,7 @@
       "order": 408,
       "chapterIndex": 4,
       "text": "Toad remained a long while plunged in thought. At last he raised his head, and the traces of strong emotion were visible on his features. “You have conquered, my friends,” he said in broken accents. “It was, to be sure, but a small thing that I asked—merely leave to blossom and expand for yet one more evening, to let myself go and hear the tumultuous applause that always seems to me—somehow—to bring out my best qualities. However, you are right, I know, and I am wrong. Hence forth I will be a very different Toad. My friends, you shall never have occasion to blush for me again. But, O dear, O dear, this is a hard world!”",
+      "ttsText": "Toad remained a long while plunged in thought. At last he raised his head, and the traces of strong emotion were visible on his features. “You have conquered, my friends,” he said in broken accents. “It was, to be sure, but a small thing that I asked, merely leave to blossom and expand for yet one more evening, to let myself go and hear the tumultuous applause that always seems to me, somehow, to bring out my best qualities. However, you are right, I know, and I am wrong. Hence forth I will be a very different Toad. My friends, you shall never have occasion to blush for me again. But, O dear, O dear, this is a hard world!”",
       "role": "paragraph"
     },
     {
@@ -2598,13 +2680,14 @@
       "order": 414,
       "chapterIndex": 4,
       "text": "TOAD’S LAST LITTLE SONG!",
-      "ttsText": "TOAD’Slast LITTLE SONG!",
+      "ttsText": "Toad’s Last Little Song!",
       "role": "title"
     },
     {
       "order": 415,
       "chapterIndex": 4,
       "text": "The Toad—came—home!",
+      "ttsText": "The Toad, came, home!",
       "role": "paragraph"
     },
     {
@@ -2623,12 +2706,14 @@
       "order": 418,
       "chapterIndex": 4,
       "text": "When the Toad—came—home!",
+      "ttsText": "When the Toad, came, home!",
       "role": "paragraph"
     },
     {
       "order": 419,
       "chapterIndex": 4,
       "text": "When the Toad—came—home!",
+      "ttsText": "When the Toad, came, home!",
       "role": "paragraph"
     },
     {
@@ -2647,6 +2732,7 @@
       "order": 422,
       "chapterIndex": 4,
       "text": "When the Toad—came—home!",
+      "ttsText": "When the Toad, came, home!",
       "role": "paragraph"
     },
     {
@@ -2671,12 +2757,14 @@
       "order": 426,
       "chapterIndex": 4,
       "text": "As the—Hero—comes!",
+      "ttsText": "As the, Hero, comes!",
       "role": "paragraph"
     },
     {
       "order": 427,
       "chapterIndex": 4,
       "text": "Shout—Hoo-ray!",
+      "ttsText": "Shout, Hoo-ray!",
       "role": "paragraph"
     },
     {
@@ -2695,6 +2783,7 @@
       "order": 430,
       "chapterIndex": 4,
       "text": "For it’s Toad’s—great—day!",
+      "ttsText": "For it’s Toad’s, great, day!",
       "role": "paragraph"
     },
     {

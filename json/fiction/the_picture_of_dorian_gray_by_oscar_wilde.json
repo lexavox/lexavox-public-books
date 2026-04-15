@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:33.5862149Z",
+  "generatedAt": "2026-04-07T14:54:43.5505346Z",
   "source": {
     "id": "pg174",
     "title": "The Picture of Dorian Gray",
@@ -411,6 +411,7 @@
       "order": 44,
       "chapterIndex": 1,
       "text": "OSCAR WILDE",
+      "ttsText": "Oscar Wilde",
       "role": "title"
     },
     {
@@ -423,6 +424,7 @@
       "order": 46,
       "chapterIndex": 2,
       "text": "CHAPTER IX.",
+      "ttsText": "Chapter IX.",
       "role": "heading"
     },
     {
@@ -483,6 +485,7 @@
       "order": 56,
       "chapterIndex": 2,
       "text": "“Well, I am punished for that, Dorian—or shall be some day.”",
+      "ttsText": "“Well, I am punished for that, Dorian, or shall be some day.”",
       "role": "paragraph"
     },
     {
@@ -501,6 +504,7 @@
       "order": 59,
       "chapterIndex": 2,
       "text": "“Basil,” said the lad, going over to him and putting his hand on his shoulder, “you have come too late. Yesterday, when I heard that Sibyl Vane had killed herself—”",
+      "ttsText": "“Basil,” said the lad, going over to him and putting his hand on his shoulder, “you have come too late. Yesterday, when I heard that Sibyl Vane had killed herself, ”",
       "role": "paragraph"
     },
     {
@@ -525,6 +529,7 @@
       "order": 63,
       "chapterIndex": 2,
       "text": "“No,” said Dorian Gray, “there is nothing fearful about it. It is one of the great romantic tragedies of the age. As a rule, people who act lead the most commonplace lives. They are good husbands, or faithful wives, or something tedious. You know what I mean—middle-class virtue and all that kind of thing. How different Sibyl was! She lived her finest tragedy. She was always a heroine. The last night she played—the night you saw her—she acted badly because she had known the reality of love. When she knew its unreality, she died, as Juliet might have died. She passed again into the sphere of art. There is something of the martyr about her. Her death has all the pathetic uselessness of martyrdom, all its wasted beauty. But, as I was saying, you must not think I have not suffered. If you had come in yesterday at a particular moment—about half-past five, perhaps, or a quarter to six—you would have found me in tears. Even Harry, who was here, who brought me the news, in fact, had no idea what I was going through. I suffered immensely. Then it passed away. I cannot repeat an emotion. No one can, except sentimentalists. And you are awfully unjust, Basil. You come down here to console me. That is charming of you. You find me consoled, and you are furious. How like a sympathetic person! You remind me of a story Harry told me about a certain philanthropist who spent twenty years of his life in trying to get some grievance redressed, or some unjust law altered—I forget exactly what it was. Finally he succeeded, and nothing could exceed his disappointment. He had absolutely nothing to do, almost died of ennui , and became a confirmed misanthrope. And besides, my dear old Basil, if you really want to console me, teach me rather to forget what has happened, or to see it from a proper artistic point of view. Was it not Gautier who used to write about la consolation des arts ? I remember picking up a little vellum-covered book in your studio one day and chancing on that delightful phrase. Well, I am not like that young man you told me of when we were down at Marlow together, the young man who used to say that yellow satin could console one for all the miseries of life. I love beautiful things that one can touch and handle. Old brocades, green bronzes, lacquer-work, carved ivories, exquisite surroundings, luxury, pomp—there is much to be got from all these. But the artistic temperament that they create, or at any rate reveal, is still more to me. To become the spectator of one’s own life, as Harry says, is to escape the suffering of life. I know you are surprised at my talking to you like this. You have not realized how I have developed. I was a schoolboy when you knew me. I am a man now. I have new passions, new thoughts, new ideas. I am different, but you must not like me less. I am changed, but you must always be my friend. Of course, I am very fond of Harry. But I know that you are better than he is. You are not stronger—you are too much afraid of life—but you are better. And how happy we used to be together! Don’t leave me, Basil, and don’t quarrel with me. I am what I am. There is nothing more to be said.”",
+      "ttsText": "“No,” said Dorian Gray, “there is nothing fearful about it. It is one of the great romantic tragedies of the age. As a rule, people who act lead the most commonplace lives. They are good husbands, or faithful wives, or something tedious. You know what I mean, middle-class virtue and all that kind of thing. How different Sibyl was! She lived her finest tragedy. She was always a heroine. The last night she played, the night you saw her, she acted badly because she had known the reality of love. When she knew its unreality, she died, as Juliet might have died. She passed again into the sphere of art. There is something of the martyr about her. Her death has all the pathetic uselessness of martyrdom, all its wasted beauty. But, as I was saying, you must not think I have not suffered. If you had come in yesterday at a particular moment, about half-past five, perhaps, or a quarter to six, you would have found me in tears. Even Harry, who was here, who brought me the news, in fact, had no idea what I was going through. I suffered immensely. Then it passed away. I cannot repeat an emotion. No one can, except sentimentalists. And you are awfully unjust, Basil. You come down here to console me. That is charming of you. You find me consoled, and you are furious. How like a sympathetic person! You remind me of a story Harry told me about a certain philanthropist who spent twenty years of his life in trying to get some grievance redressed, or some unjust law altered, I forget exactly what it was. Finally he succeeded, and nothing could exceed his disappointment. He had absolutely nothing to do, almost died of ennui, and became a confirmed misanthrope. And besides, my dear old Basil, if you really want to console me, teach me rather to forget what has happened, or to see it from a proper artistic point of view. Was it not Gautier who used to write about la consolation des arts? I remember picking up a little vellum-covered book in your studio one day and chancing on that delightful phrase. Well, I am not like that young man you told me of when we were down at Marlow together, the young man who used to say that yellow satin could console one for all the miseries of life. I love beautiful things that one can touch and handle. Old brocades, green bronzes, lacquer-work, carved ivories, exquisite surroundings, luxury, pomp, there is much to be got from all these. But the artistic temperament that they create, or at any rate reveal, is still more to me. To become the spectator of one’s own life, as Harry says, is to escape the suffering of life. I know you are surprised at my talking to you like this. You have not realized how I have developed. I was a schoolboy when you knew me. I am a man now. I have new passions, new thoughts, new ideas. I am different, but you must not like me less. I am changed, but you must always be my friend. Of course, I am very fond of Harry. But I know that you are better than he is. You are not stronger, you are too much afraid of life, but you are better. And how happy we used to be together! Don’t leave me, Basil, and don’t quarrel with me. I am what I am. There is nothing more to be said.”",
       "role": "paragraph"
     },
     {
@@ -579,6 +584,7 @@
       "order": 72,
       "chapterIndex": 2,
       "text": "“My servant has nothing to do with it, Basil. You don’t imagine I let him arrange my room for me? He settles my flowers for me sometimes—that is all. No; I did it myself. The light was too strong on the portrait.”",
+      "ttsText": "“My servant has nothing to do with it, Basil. You don’t imagine I let him arrange my room for me? He settles my flowers for me sometimes, that is all. No; I did it myself. The light was too strong on the portrait.”",
       "role": "paragraph"
     },
     {
@@ -633,6 +639,7 @@
       "order": 81,
       "chapterIndex": 2,
       "text": "“To exhibit it! You want to exhibit it?” exclaimed Dorian Gray, a strange sense of terror creeping over him. Was the world going to be shown his secret? Were people to gape at the mystery of his life? That was impossible. Something—he did not know what—had to be done at once.",
+      "ttsText": "“To exhibit it! You want to exhibit it?” exclaimed Dorian Gray, a strange sense of terror creeping over him. Was the world going to be shown his secret? Were people to gape at the mystery of his life? That was impossible. Something, he did not know what, had to be done at once.",
       "role": "paragraph"
     },
     {
@@ -669,6 +676,7 @@
       "order": 87,
       "chapterIndex": 2,
       "text": "“Let us sit down, Dorian,” said the painter, looking troubled. “Let us sit down. And just answer me one question. Have you noticed in the picture something curious?—something that probably at first did not strike you, but that revealed itself to you suddenly?”",
+      "ttsText": "“Let us sit down, Dorian,” said the painter, looking troubled. “Let us sit down. And just answer me one question. Have you noticed in the picture something curious?, something that probably at first did not strike you, but that revealed itself to you suddenly?”",
       "role": "paragraph"
     },
     {
@@ -681,6 +689,7 @@
       "order": 89,
       "chapterIndex": 2,
       "text": "“I see you did. Don’t speak. Wait till you hear what I have to say. Dorian, from the moment I met you, your personality had the most extraordinary influence over me. I was dominated, soul, brain, and power, by you. You became to me the visible incarnation of that unseen ideal whose memory haunts us artists like an exquisite dream. I worshipped you. I grew jealous of every one to whom you spoke. I wanted to have you all to myself. I was only happy when I was with you. When you were away from me, you were still present in my art.... Of course, I never let you know anything about this. It would have been impossible. You would not have understood it. I hardly understood it myself. I only knew that I had seen perfection face to face, and that the world had become wonderful to my eyes—too wonderful, perhaps, for in such mad worships there is peril, the peril of losing them, no less than the peril of keeping them.... Weeks and weeks went on, and I grew more and more absorbed in you. Then came a new development. I had drawn you as Paris in dainty armour, and as Adonis with huntsman’s cloak and polished boar-spear. Crowned with heavy lotus-blossoms you had sat on the prow of Adrian’s barge, gazing across the green turbid Nile. You had leaned over the still pool of some Greek woodland and seen in the water’s silent silver the marvel of your own face. And it had all been what art should be—unconscious, ideal, and remote. One day, a fatal day I sometimes think, I determined to paint a wonderful portrait of you as you actually are, not in the costume of dead ages, but in your own dress and in your own time. Whether it was the realism of the method, or the mere wonder of your own personality, thus directly presented to me without mist or veil, I cannot tell. But I know that as I worked at it, every flake and film of colour seemed to me to reveal my secret. I grew afraid that others would know of my idolatry. I felt, Dorian, that I had told too much, that I had put too much of myself into it. Then it was that I resolved never to allow the picture to be exhibited. You were a little annoyed; but then you did not realize all that it meant to me. Harry, to whom I talked about it, laughed at me. But I did not mind that. When the picture was finished, and I sat alone with it, I felt that I was right.... Well, after a few days the thing left my studio, and as soon as I had got rid of the intolerable fascination of its presence, it seemed to me that I had been foolish in imagining that I had seen anything in it, more than that you were extremely good-looking and that I could paint. Even now I cannot help feeling that it is a mistake to think that the passion one feels in creation is ever really shown in the work one creates. Art is always more abstract than we fancy. Form and colour tell us of form and colour—that is all. It often seems to me that art conceals the artist far more completely than it ever reveals him. And so when I got this offer from Paris, I determined to make your portrait the principal thing in my exhibition. It never occurred to me that you would refuse. I see now that you were right. The picture cannot be shown. You must not be angry with me, Dorian, for what I have told you. As I said to Harry, once, you are made to be worshipped.”",
+      "ttsText": "“I see you did. Don’t speak. Wait till you hear what I have to say. Dorian, from the moment I met you, your personality had the most extraordinary influence over me. I was dominated, soul, brain, and power, by you. You became to me the visible incarnation of that unseen ideal whose memory haunts us artists like an exquisite dream. I worshipped you. I grew jealous of every one to whom you spoke. I wanted to have you all to myself. I was only happy when I was with you. When you were away from me, you were still present in my art … Of course, I never let you know anything about this. It would have been impossible. You would not have understood it. I hardly understood it myself. I only knew that I had seen perfection face to face, and that the world had become wonderful to my eyes, too wonderful, perhaps, for in such mad worships there is peril, the peril of losing them, no less than the peril of keeping them … Weeks and weeks went on, and I grew more and more absorbed in you. Then came a new development. I had drawn you as Paris in dainty armour, and as Adonis with huntsman’s cloak and polished boar-spear. Crowned with heavy lotus-blossoms you had sat on the prow of Adrian’s barge, gazing across the green turbid Nile. You had leaned over the still pool of some Greek woodland and seen in the water’s silent silver the marvel of your own face. And it had all been what art should be, unconscious, ideal, and remote. One day, a fatal day I sometimes think, I determined to paint a wonderful portrait of you as you actually are, not in the costume of dead ages, but in your own dress and in your own time. Whether it was the realism of the method, or the mere wonder of your own personality, thus directly presented to me without mist or veil, I cannot tell. But I know that as I worked at it, every flake and film of colour seemed to me to reveal my secret. I grew afraid that others would know of my idolatry. I felt, Dorian, that I had told too much, that I had put too much of myself into it. Then it was that I resolved never to allow the picture to be exhibited. You were a little annoyed; but then you did not realize all that it meant to me. Harry, to whom I talked about it, laughed at me. But I did not mind that. When the picture was finished, and I sat alone with it, I felt that I was right … Well, after a few days the thing left my studio, and as soon as I had got rid of the intolerable fascination of its presence, it seemed to me that I had been foolish in imagining that I had seen anything in it, more than that you were extremely good-looking and that I could paint. Even now I cannot help feeling that it is a mistake to think that the passion one feels in creation is ever really shown in the work one creates. Art is always more abstract than we fancy. Form and colour tell us of form and colour, that is all. It often seems to me that art conceals the artist far more completely than it ever reveals him. And so when I got this offer from Paris, I determined to make your portrait the principal thing in my exhibition. It never occurred to me that you would refuse. I see now that you were right. The picture cannot be shown. You must not be angry with me, Dorian, for what I have told you. As I said to Harry, once, you are made to be worshipped.”",
       "role": "paragraph"
     },
     {
@@ -807,6 +816,7 @@
       "order": 110,
       "chapterIndex": 2,
       "text": "As he left the room, Dorian Gray smiled to himself. Poor Basil! How little he knew of the true reason! And how strange it was that, instead of having been forced to reveal his own secret, he had succeeded, almost by chance, in wresting a secret from his friend! How much that strange confession explained to him! The painter’s absurd fits of jealousy, his wild devotion, his extravagant panegyrics, his curious reticences—he understood them all now, and he felt sorry. There seemed to him to be something tragic in a friendship so coloured by romance.",
+      "ttsText": "As he left the room, Dorian Gray smiled to himself. Poor Basil! How little he knew of the true reason! And how strange it was that, instead of having been forced to reveal his own secret, he had succeeded, almost by chance, in wresting a secret from his friend! How much that strange confession explained to him! The painter’s absurd fits of jealousy, his wild devotion, his extravagant panegyrics, his curious reticences, he understood them all now, and he felt sorry. There seemed to him to be something tragic in a friendship so coloured by romance.",
       "role": "paragraph"
     },
     {
@@ -825,6 +835,7 @@
       "order": 113,
       "chapterIndex": 3,
       "text": "CHAPTER X.",
+      "ttsText": "Chapter X.",
       "role": "heading"
     },
     {
@@ -861,12 +872,14 @@
       "order": 119,
       "chapterIndex": 3,
       "text": "“Well, sir, you’ll be covered with cobwebs if you go into it. Why, it hasn’t been opened for nearly five years—not since his lordship died.”",
+      "ttsText": "“Well, sir, you’ll be covered with cobwebs if you go into it. Why, it hasn’t been opened for nearly five years, not since his lordship died.”",
       "role": "paragraph"
     },
     {
       "order": 120,
       "chapterIndex": 3,
       "text": "He winced at the mention of his grandfather. He had hateful memories of him. “That does not matter,” he answered. “I simply want to see the place—that is all. Give me the key.”",
+      "ttsText": "He winced at the mention of his grandfather. He had hateful memories of him. “That does not matter,” he answered. “I simply want to see the place, that is all. Give me the key.”",
       "role": "paragraph"
     },
     {
@@ -891,18 +904,21 @@
       "order": 124,
       "chapterIndex": 3,
       "text": "As the door closed, Dorian put the key in his pocket and looked round the room. His eye fell on a large, purple satin coverlet heavily embroidered with gold, a splendid piece of late seventeenth-century Venetian work that his grandfather had found in a convent near Bologna. Yes, that would serve to wrap the dreadful thing in. It had perhaps served often as a pall for the dead. Now it was to hide something that had a corruption of its own, worse than the corruption of death itself—something that would breed horrors and yet would never die. What the worm was to the corpse, his sins would be to the painted image on the canvas. They would mar its beauty and eat away its grace. They would defile it and make it shameful. And yet the thing would still live on. It would be always alive.",
+      "ttsText": "As the door closed, Dorian put the key in his pocket and looked round the room. His eye fell on a large, purple satin coverlet heavily embroidered with gold, a splendid piece of late seventeenth-century Venetian work that his grandfather had found in a convent near Bologna. Yes, that would serve to wrap the dreadful thing in. It had perhaps served often as a pall for the dead. Now it was to hide something that had a corruption of its own, worse than the corruption of death itself, something that would breed horrors and yet would never die. What the worm was to the corpse, his sins would be to the painted image on the canvas. They would mar its beauty and eat away its grace. They would defile it and make it shameful. And yet the thing would still live on. It would be always alive.",
       "role": "paragraph"
     },
     {
       "order": 125,
       "chapterIndex": 3,
       "text": "He shuddered, and for a moment he regretted that he had not told Basil the true reason why he had wished to hide the picture away. Basil would have helped him to resist Lord Henry’s influence, and the still more poisonous influences that came from his own temperament. The love that he bore him—for it was really love—had nothing in it that was not noble and intellectual. It was not that mere physical admiration of beauty that is born of the senses and that dies when the senses tire. It was such love as Michelangelo had known, and Montaigne, and Winckelmann, and Shakespeare himself. Yes, Basil could have saved him. But it was too late now. The past could always be annihilated. Regret, denial, or forgetfulness could do that. But the future was inevitable. There were passions in him that would find their terrible outlet, dreams that would make the shadow of their evil real.",
+      "ttsText": "He shuddered, and for a moment he regretted that he had not told Basil the true reason why he had wished to hide the picture away. Basil would have helped him to resist Lord Henry’s influence, and the still more poisonous influences that came from his own temperament. The love that he bore him, for it was really love, had nothing in it that was not noble and intellectual. It was not that mere physical admiration of beauty that is born of the senses and that dies when the senses tire. It was such love as Michelangelo had known, and Montaigne, and Winckelmann, and Shakespeare himself. Yes, Basil could have saved him. But it was too late now. The past could always be annihilated. Regret, denial, or forgetfulness could do that. But the future was inevitable. There were passions in him that would find their terrible outlet, dreams that would make the shadow of their evil real.",
       "role": "paragraph"
     },
     {
       "order": 126,
       "chapterIndex": 3,
       "text": "He took up from the couch the great purple-and-gold texture that covered it, and, holding it in his hands, passed behind the screen. Was the face on the canvas viler than before? It seemed to him that it was unchanged, and yet his loathing of it was intensified. Gold hair, blue eyes, and rose-red lips—they all were there. It was simply the expression that had altered. That was horrible in its cruelty. Compared to what he saw in it of censure or rebuke, how shallow Basil’s reproaches about Sibyl Vane had been!—how shallow, and of what little account! His own soul was looking out at him from the canvas and calling him to judgement. A look of pain came across him, and he flung the rich pall over the picture. As he did so, a knock came to the door. He passed out as his servant entered.",
+      "ttsText": "He took up from the couch the great purple-and-gold texture that covered it, and, holding it in his hands, passed behind the screen. Was the face on the canvas viler than before? It seemed to him that it was unchanged, and yet his loathing of it was intensified. Gold hair, blue eyes, and rose-red lips, they all were there. It was simply the expression that had altered. That was horrible in its cruelty. Compared to what he saw in it of censure or rebuke, how shallow Basil’s reproaches about Sibyl Vane had been!, how shallow, and of what little account! His own soul was looking out at him from the canvas and calling him to judgement. A look of pain came across him, and he flung the rich pall over the picture. As he did so, a knock came to the door. He passed out as his servant entered.",
       "role": "paragraph"
     },
     {
@@ -939,6 +955,7 @@
       "order": 132,
       "chapterIndex": 3,
       "text": "“I am so sorry you have given yourself the trouble of coming round, Mr. Hubbard. I shall certainly drop in and look at the frame—though I don’t go in much at present for religious art—but to-day I only want a picture carried to the top of the house for me. It is rather heavy, so I thought I would ask you to lend me a couple of your men.”",
+      "ttsText": "“I am so sorry you have given yourself the trouble of coming round, Mr. Hubbard. I shall certainly drop in and look at the frame, though I don’t go in much at present for religious art, but to-day I only want a picture carried to the top of the house for me. It is rather heavy, so I thought I would ask you to lend me a couple of your men.”",
       "role": "paragraph"
     },
     {
@@ -987,12 +1004,14 @@
       "order": 140,
       "chapterIndex": 3,
       "text": "He had not entered the place for more than four years—not, indeed, since he had used it first as a play-room when he was a child, and then as a study when he grew somewhat older. It was a large, well-proportioned room, which had been specially built by the last Lord Kelso for the use of the little grandson whom, for his strange likeness to his mother, and also for other reasons, he had always hated and desired to keep at a distance. It appeared to Dorian to have but little changed. There was the huge Italian cassone , with its fantastically painted panels and its tarnished gilt mouldings, in which he had so often hidden himself as a boy. There the satinwood book-case filled with his dog-eared schoolbooks. On the wall behind it was hanging the same ragged Flemish tapestry where a faded king and queen were playing chess in a garden, while a company of hawkers rode by, carrying hooded birds on their gauntleted wrists. How well he remembered it all! Every moment of his lonely childhood came back to him as he looked round. He recalled the stainless purity of his boyish life, and it seemed horrible to him that it was here the fatal portrait was to be hidden away. How little he had thought, in those dead days, of all that was in store for him!",
+      "ttsText": "He had not entered the place for more than four years, not, indeed, since he had used it first as a play-room when he was a child, and then as a study when he grew somewhat older. It was a large, well-proportioned room, which had been specially built by the last Lord Kelso for the use of the little grandson whom, for his strange likeness to his mother, and also for other reasons, he had always hated and desired to keep at a distance. It appeared to Dorian to have but little changed. There was the huge Italian cassone, with its fantastically painted panels and its tarnished gilt mouldings, in which he had so often hidden himself as a boy. There the satinwood book-case filled with his dog-eared schoolbooks. On the wall behind it was hanging the same ragged Flemish tapestry where a faded king and queen were playing chess in a garden, while a company of hawkers rode by, carrying hooded birds on their gauntleted wrists. How well he remembered it all! Every moment of his lonely childhood came back to him as he looked round. He recalled the stainless purity of his boyish life, and it seemed horrible to him that it was here the fatal portrait was to be hidden away. How little he had thought, in those dead days, of all that was in store for him!",
       "role": "paragraph"
     },
     {
       "order": 141,
       "chapterIndex": 3,
       "text": "But there was no other place in the house so secure from prying eyes as this. He had the key, and no one else could enter it. Beneath its purple pall, the face painted on the canvas could grow bestial, sodden, and unclean. What did it matter? No one could see it. He himself would not see it. Why should he watch the hideous corruption of his soul? He kept his youth—that was enough. And, besides, might not his nature grow finer, after all? There was no reason that the future should be so full of shame. Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm. Perhaps, some day, the cruel look would have passed away from the scarlet sensitive mouth, and he might show to the world Basil Hallward’s masterpiece.",
+      "ttsText": "But there was no other place in the house so secure from prying eyes as this. He had the key, and no one else could enter it. Beneath its purple pall, the face painted on the canvas could grow bestial, sodden, and unclean. What did it matter? No one could see it. He himself would not see it. Why should he watch the hideous corruption of his soul? He kept his youth, that was enough. And, besides, might not his nature grow finer, after all? There was no reason that the future should be so full of shame. Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh, those curious unpictured sins whose very mystery lent them their subtlety and their charm. Perhaps, some day, the cruel look would have passed away from the scarlet sensitive mouth, and he might show to the world Basil Hallward’s masterpiece.",
       "role": "paragraph"
     },
     {
@@ -1047,6 +1066,7 @@
       "order": 150,
       "chapterIndex": 3,
       "text": "On reaching the library, he found that it was just after five o’clock and that the tea had been already brought up. On a little table of dark perfumed wood thickly incrusted with nacre, a present from Lady Radley, his guardian’s wife, a pretty professional invalid, who had spent the preceding winter in Cairo, was lying a note from Lord Henry, and beside it was a book bound in yellow paper, the cover slightly torn and the edges soiled. A copy of the third edition of The St. James’s Gazette had been placed on the tea-tray. It was evident that Victor had returned. He wondered if he had met the men in the hall as they were leaving the house and had wormed out of them what they had been doing. He would be sure to miss the picture—had no doubt missed it already, while he had been laying the tea-things. The screen had not been set back, and a blank space was visible on the wall. Perhaps some night he might find him creeping upstairs and trying to force the door of the room. It was a horrible thing to have a spy in one’s house. He had heard of rich men who had been blackmailed all their lives by some servant who had read a letter, or overheard a conversation, or picked up a card with an address, or found beneath a pillow a withered flower or a shred of crumpled lace.",
+      "ttsText": "On reaching the library, he found that it was just after five o’clock and that the tea had been already brought up. On a little table of dark perfumed wood thickly incrusted with nacre, a present from Lady Radley, his guardian’s wife, a pretty professional invalid, who had spent the preceding winter in Cairo, was lying a note from Lord Henry, and beside it was a book bound in yellow paper, the cover slightly torn and the edges soiled. A copy of the third edition of The St. James’s Gazette had been placed on the tea-tray. It was evident that Victor had returned. He wondered if he had met the men in the hall as they were leaving the house and had wormed out of them what they had been doing. He would be sure to miss the picture, had no doubt missed it already, while he had been laying the tea-things. The screen had not been set back, and a blank space was visible on the wall. Perhaps some night he might find him creeping upstairs and trying to force the door of the room. It was a horrible thing to have a spy in one’s house. He had heard of rich men who had been blackmailed all their lives by some servant who had read a letter, or overheard a conversation, or picked up a card with an address, or found beneath a pillow a withered flower or a shred of crumpled lace.",
       "role": "paragraph"
     },
     {
@@ -1059,7 +1079,7 @@
       "order": 152,
       "chapterIndex": 3,
       "text": "I NQUEST ON AN A CTRESS .—An inquest was held this morning at the Bell Tavern, Hoxton Road, by Mr. Danby, the District Coroner, on the body of Sibyl Vane, a young actress recently engaged at the Royal Theatre, Holborn. A verdict of death by misadventure was returned. Considerable sympathy was expressed for the mother of the deceased, who was greatly affected during the giving of her own evidence, and that of Dr. Birrell, who had made the post-mortem examination of the deceased.",
-      "ttsText": "Inquest ON AN Actress .—An inquest was held this morning at the Bell Tavern, Hoxton Road, by Mr. Danby, the District Coroner, on the body of Sibyl Vane, a young actress recently engaged at the Royal Theatre, Holborn. A verdict of death by misadventure was returned. Considerable sympathy was expressed for the mother of the deceased, who was greatly affected during the giving of her own evidence, and that of Dr. Birrell, who had made the post-mortem examination of the deceased.",
+      "ttsText": "I Nquest on an A Ctress., An inquest was held this morning at the Bell Tavern, Hoxton Road, by Mr. Danby, the District Coroner, on the body of Sibyl Vane, a young actress recently engaged at the Royal Theatre, Holborn. A verdict of death by misadventure was returned. Considerable sympathy was expressed for the mother of the deceased, who was greatly affected during the giving of her own evidence, and that of Dr. Birrell, who had made the post-mortem examination of the deceased.",
       "role": "paragraph"
     },
     {
@@ -1084,6 +1104,7 @@
       "order": 156,
       "chapterIndex": 3,
       "text": "It was a novel without a plot and with only one character, being, indeed, simply a psychological study of a certain young Parisian who spent his life trying to realize in the nineteenth century all the passions and modes of thought that belonged to every century except his own, and to sum up, as it were, in himself the various moods through which the world-spirit had ever passed, loving for their mere artificiality those renunciations that men have unwisely called virtue, as much as those natural rebellions that wise men still call sin. The style in which it was written was that curious jewelled style, vivid and obscure at once, full of argot and of archaisms, of technical expressions and of elaborate paraphrases, that characterizes the work of some of the finest artists of the French school of Symbolistes . There were in it metaphors as monstrous as orchids and as subtle in colour. The life of the senses was described in the terms of mystical philosophy. One hardly knew at times whether one was reading the spiritual ecstasies of some mediæval saint or the morbid confessions of a modern sinner. It was a poisonous book. The heavy odour of incense seemed to cling about its pages and to trouble the brain. The mere cadence of the sentences, the subtle monotony of their music, so full as it was of complex refrains and movements elaborately repeated, produced in the mind of the lad, as he passed from chapter to chapter, a form of reverie, a malady of dreaming, that made him unconscious of the falling day and creeping shadows.",
+      "ttsText": "It was a novel without a plot and with only one character, being, indeed, simply a psychological study of a certain young Parisian who spent his life trying to realize in the nineteenth century all the passions and modes of thought that belonged to every century except his own, and to sum up, as it were, in himself the various moods through which the world-spirit had ever passed, loving for their mere artificiality those renunciations that men have unwisely called virtue, as much as those natural rebellions that wise men still call sin. The style in which it was written was that curious jewelled style, vivid and obscure at once, full of argot and of archaisms, of technical expressions and of elaborate paraphrases, that characterizes the work of some of the finest artists of the French school of Symbolistes. There were in it metaphors as monstrous as orchids and as subtle in colour. The life of the senses was described in the terms of mystical philosophy. One hardly knew at times whether one was reading the spiritual ecstasies of some mediæval saint or the morbid confessions of a modern sinner. It was a poisonous book. The heavy odour of incense seemed to cling about its pages and to trouble the brain. The mere cadence of the sentences, the subtle monotony of their music, so full as it was of complex refrains and movements elaborately repeated, produced in the mind of the lad, as he passed from chapter to chapter, a form of reverie, a malady of dreaming, that made him unconscious of the falling day and creeping shadows.",
       "role": "paragraph"
     },
     {
@@ -1132,6 +1153,7 @@
       "order": 164,
       "chapterIndex": 4,
       "text": "CHAPTER XI.",
+      "ttsText": "Chapter XI.",
       "role": "heading"
     },
     {
@@ -1144,12 +1166,14 @@
       "order": 166,
       "chapterIndex": 4,
       "text": "In one point he was more fortunate than the novel’s fantastic hero. He never knew—never, indeed, had any cause to know—that somewhat grotesque dread of mirrors, and polished metal surfaces, and still water which came upon the young Parisian so early in his life, and was occasioned by the sudden decay of a beau that had once, apparently, been so remarkable. It was with an almost cruel joy—and perhaps in nearly every joy, as certainly in every pleasure, cruelty has its place—that he used to read the latter part of the book, with its really tragic, if somewhat overemphasized, account of the sorrow and despair of one who had himself lost what in others, and the world, he had most dearly valued.",
+      "ttsText": "In one point he was more fortunate than the novel’s fantastic hero. He never knew, never, indeed, had any cause to know, that somewhat grotesque dread of mirrors, and polished metal surfaces, and still water which came upon the young Parisian so early in his life, and was occasioned by the sudden decay of a beau that had once, apparently, been so remarkable. It was with an almost cruel joy, and perhaps in nearly every joy, as certainly in every pleasure, cruelty has its place, that he used to read the latter part of the book, with its really tragic, if somewhat overemphasized, account of the sorrow and despair of one who had himself lost what in others, and the world, he had most dearly valued.",
       "role": "paragraph"
     },
     {
       "order": 167,
       "chapterIndex": 4,
       "text": "For the wonderful beauty that had so fascinated Basil Hallward, and many others besides him, seemed never to leave him. Even those who had heard the most evil things against him—and from time to time strange rumours about his mode of life crept through London and became the chatter of the clubs—could not believe anything to his dishonour when they saw him. He had always the look of one who had kept himself unspotted from the world. Men who talked grossly became silent when Dorian Gray entered the room. There was something in the purity of his face that rebuked them. His mere presence seemed to recall to them the memory of the innocence that they had tarnished. They wondered how one so charming and graceful as he was could have escaped the stain of an age that was at once sordid and sensual.",
+      "ttsText": "For the wonderful beauty that had so fascinated Basil Hallward, and many others besides him, seemed never to leave him. Even those who had heard the most evil things against him, and from time to time strange rumours about his mode of life crept through London and became the chatter of the clubs, could not believe anything to his dishonour when they saw him. He had always the look of one who had kept himself unspotted from the world. Men who talked grossly became silent when Dorian Gray entered the room. There was something in the purity of his face that rebuked them. His mere presence seemed to recall to them the memory of the innocence that they had tarnished. They wondered how one so charming and graceful as he was could have escaped the stain of an age that was at once sordid and sensual.",
       "role": "paragraph"
     },
     {
@@ -1180,6 +1204,7 @@
       "order": 172,
       "chapterIndex": 4,
       "text": "For, while he was but too ready to accept the position that was almost immediately offered to him on his coming of age, and found, indeed, a subtle pleasure in the thought that he might really become to the London of his own day what to imperial Neronian Rome the author of the Satyricon once had been, yet in his inmost heart he desired to be something more than a mere arbiter elegantiarum , to be consulted on the wearing of a jewel, or the knotting of a necktie, or the conduct of a cane. He sought to elaborate some new scheme of life that would have its reasoned philosophy and its ordered principles, and find in the spiritualizing of the senses its highest realization.",
+      "ttsText": "For, while he was but too ready to accept the position that was almost immediately offered to him on his coming of age, and found, indeed, a subtle pleasure in the thought that he might really become to the London of his own day what to imperial Neronian Rome the author of the Satyricon once had been, yet in his inmost heart he desired to be something more than a mere arbiter elegantiarum, to be consulted on the wearing of a jewel, or the knotting of a necktie, or the conduct of a cane. He sought to elaborate some new scheme of life that would have its reasoned philosophy and its ordered principles, and find in the spiritualizing of the senses its highest realization.",
       "role": "paragraph"
     },
     {
@@ -1210,6 +1235,7 @@
       "order": 177,
       "chapterIndex": 4,
       "text": "It was rumoured of him once that he was about to join the Roman Catholic communion, and certainly the Roman ritual had always a great attraction for him. The daily sacrifice, more awful really than all the sacrifices of the antique world, stirred him as much by its superb rejection of the evidence of the senses as by the primitive simplicity of its elements and the eternal pathos of the human tragedy that it sought to symbolize. He loved to kneel down on the cold marble pavement and watch the priest, in his stiff flowered dalmatic, slowly and with white hands moving aside the veil of the tabernacle, or raising aloft the jewelled, lantern-shaped monstrance with that pallid wafer that at times, one would fain think, is indeed the “ panis cælestis ,” the bread of angels, or, robed in the garments of the Passion of Christ, breaking the Host into the chalice and smiting his breast for his sins. The fuming censers that the grave boys, in their lace and scarlet, tossed into the air like great gilt flowers had their subtle fascination for him. As he passed out, he used to look with wonder at the black confessionals and long to sit in the dim shadow of one of them and listen to men and women whispering through the worn grating the true story of their lives.",
+      "ttsText": "It was rumoured of him once that he was about to join the Roman Catholic communion, and certainly the Roman ritual had always a great attraction for him. The daily sacrifice, more awful really than all the sacrifices of the antique world, stirred him as much by its superb rejection of the evidence of the senses as by the primitive simplicity of its elements and the eternal pathos of the human tragedy that it sought to symbolize. He loved to kneel down on the cold marble pavement and watch the priest, in his stiff flowered dalmatic, slowly and with white hands moving aside the veil of the tabernacle, or raising aloft the jewelled, lantern-shaped monstrance with that pallid wafer that at times, one would fain think, is indeed the “ panis cælestis,” the bread of angels, or, robed in the garments of the Passion of Christ, breaking the Host into the chalice and smiting his breast for his sins. The fuming censers that the grave boys, in their lace and scarlet, tossed into the air like great gilt flowers had their subtle fascination for him. As he passed out, he used to look with wonder at the black confessionals and long to sit in the dim shadow of one of them and listen to men and women whispering through the worn grating the true story of their lives.",
       "role": "paragraph"
     },
     {
@@ -1228,6 +1254,7 @@
       "order": 180,
       "chapterIndex": 4,
       "text": "At another time he devoted himself entirely to music, and in a long latticed room, with a vermilion-and-gold ceiling and walls of olive-green lacquer, he used to give curious concerts in which mad gipsies tore wild music from little zithers, or grave, yellow-shawled Tunisians plucked at the strained strings of monstrous lutes, while grinning Negroes beat monotonously upon copper drums and, crouching upon scarlet mats, slim turbaned Indians blew through long pipes of reed or brass and charmed—or feigned to charm—great hooded snakes and horrible horned adders. The harsh intervals and shrill discords of barbaric music stirred him at times when Schubert’s grace, and Chopin’s beautiful sorrows, and the mighty harmonies of Beethoven himself, fell unheeded on his ear. He collected together from all parts of the world the strangest instruments that could be found, either in the tombs of dead nations or among the few savage tribes that have survived contact with Western civilizations, and loved to touch and try them. He had the mysterious juruparis of the Rio Negro Indians, that women are not allowed to look at and that even youths may not see till they have been subjected to fasting and scourging, and the earthen jars of the Peruvians that have the shrill cries of birds, and flutes of human bones such as Alfonso de Ovalle heard in Chile, and the sonorous green jaspers that are found near Cuzco and give forth a note of singular sweetness. He had painted gourds filled with pebbles that rattled when they were shaken; the long clarin of the Mexicans, into which the performer does not blow, but through which he inhales the air; the harsh ture of the Amazon tribes, that is sounded by the sentinels who sit all day long in high trees, and can be heard, it is said, at a distance of three leagues; the teponaztli , that has two vibrating tongues of wood and is beaten with sticks that are smeared with an elastic gum obtained from the milky juice of plants; the yotl -bells of the Aztecs, that are hung in clusters like grapes; and a huge cylindrical drum, covered with the skins of great serpents, like the one that Bernal Diaz saw when he went with Cortes into the Mexican temple, and of whose doleful sound he has left us so vivid a description. The fantastic character of these instruments fascinated him, and he felt a curious delight in the thought that art, like Nature, has her monsters, things of bestial shape and with hideous voices. Yet, after some time, he wearied of them, and would sit in his box at the opera, either alone or with Lord Henry, listening in rapt pleasure to “Tannhauser” and seeing in the prelude to that great work of art a presentation of the tragedy of his own soul.",
+      "ttsText": "At another time he devoted himself entirely to music, and in a long latticed room, with a vermilion-and-gold ceiling and walls of olive-green lacquer, he used to give curious concerts in which mad gipsies tore wild music from little zithers, or grave, yellow-shawled Tunisians plucked at the strained strings of monstrous lutes, while grinning Negroes beat monotonously upon copper drums and, crouching upon scarlet mats, slim turbaned Indians blew through long pipes of reed or brass and charmed, or feigned to charm, great hooded snakes and horrible horned adders. The harsh intervals and shrill discords of barbaric music stirred him at times when Schubert’s grace, and Chopin’s beautiful sorrows, and the mighty harmonies of Beethoven himself, fell unheeded on his ear. He collected together from all parts of the world the strangest instruments that could be found, either in the tombs of dead nations or among the few savage tribes that have survived contact with Western civilizations, and loved to touch and try them. He had the mysterious juruparis of the Rio Negro Indians, that women are not allowed to look at and that even youths may not see till they have been subjected to fasting and scourging, and the earthen jars of the Peruvians that have the shrill cries of birds, and flutes of human bones such as Alfonso de Ovalle heard in Chile, and the sonorous green jaspers that are found near Cuzco and give forth a note of singular sweetness. He had painted gourds filled with pebbles that rattled when they were shaken; the long clarin of the Mexicans, into which the performer does not blow, but through which he inhales the air; the harsh ture of the Amazon tribes, that is sounded by the sentinels who sit all day long in high trees, and can be heard, it is said, at a distance of three leagues; the teponaztli, that has two vibrating tongues of wood and is beaten with sticks that are smeared with an elastic gum obtained from the milky juice of plants; the yotl -bells of the Aztecs, that are hung in clusters like grapes; and a huge cylindrical drum, covered with the skins of great serpents, like the one that Bernal Diaz saw when he went with Cortes into the Mexican temple, and of whose doleful sound he has left us so vivid a description. The fantastic character of these instruments fascinated him, and he felt a curious delight in the thought that art, like Nature, has her monsters, things of bestial shape and with hideous voices. Yet, after some time, he wearied of them, and would sit in his box at the opera, either alone or with Lord Henry, listening in rapt pleasure to “Tannhauser” and seeing in the prelude to that great work of art a presentation of the tragedy of his own soul.",
       "role": "paragraph"
     },
     {
@@ -1246,6 +1273,7 @@
       "order": 183,
       "chapterIndex": 4,
       "text": "The King of Ceilan rode through his city with a large ruby in his hand, as the ceremony of his coronation. The gates of the palace of John the Priest were “made of sardius, with the horn of the horned snake inwrought, so that no man might bring poison within.” Over the gable were “two golden apples, in which were two carbuncles,” so that the gold might shine by day and the carbuncles by night. In Lodge’s strange romance ‘A Margarite of America’, it was stated that in the chamber of the queen one could behold “all the chaste ladies of the world, inchased out of silver, looking through fair mirrours of chrysolites, carbuncles, sapphires, and greene emeraults.” Marco Polo had seen the inhabitants of Zipangu place rose-coloured pearls in the mouths of the dead. A sea-monster had been enamoured of the pearl that the diver brought to King Perozes, and had slain the thief, and mourned for seven moons over its loss. When the Huns lured the king into the great pit, he flung it away—Procopius tells the story—nor was it ever found again, though the Emperor Anastasius offered five hundred-weight of gold pieces for it. The King of Malabar had shown to a certain Venetian a rosary of three hundred and four pearls, one for every god that he worshipped.",
+      "ttsText": "The King of Ceilan rode through his city with a large ruby in his hand, as the ceremony of his coronation. The gates of the palace of John the Priest were “made of sardius, with the horn of the horned snake inwrought, so that no man might bring poison within.” Over the gable were “two golden apples, in which were two carbuncles,” so that the gold might shine by day and the carbuncles by night. In Lodge’s strange romance ‘A Margarite of America’, it was stated that in the chamber of the queen one could behold “all the chaste ladies of the world, inchased out of silver, looking through fair mirrours of chrysolites, carbuncles, sapphires, and greene emeraults.” Marco Polo had seen the inhabitants of Zipangu place rose-coloured pearls in the mouths of the dead. A sea-monster had been enamoured of the pearl that the diver brought to King Perozes, and had slain the thief, and mourned for seven moons over its loss. When the Huns lured the king into the great pit, he flung it away, Procopius tells the story, nor was it ever found again, though the Emperor Anastasius offered five hundred-weight of gold pieces for it. The King of Malabar had shown to a certain Venetian a rosary of three hundred and four pearls, one for every god that he worshipped.",
       "role": "paragraph"
     },
     {
@@ -1264,18 +1292,21 @@
       "order": 186,
       "chapterIndex": 4,
       "text": "Then he turned his attention to embroideries and to the tapestries that performed the office of frescoes in the chill rooms of the northern nations of Europe. As he investigated the subject—and he always had an extraordinary faculty of becoming absolutely absorbed for the moment in whatever he took up—he was almost saddened by the reflection of the ruin that time brought on beautiful and wonderful things. He, at any rate, had escaped that. Summer followed summer, and the yellow jonquils bloomed and died many times, and nights of horror repeated the story of their shame, but he was unchanged. No winter marred his face or stained his flowerlike bloom. How different it was with material things! Where had they passed to? Where was the great crocus-coloured robe, on which the gods fought against the giants, that had been worked by brown girls for the pleasure of Athena? Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds? He longed to see the curious table-napkins wrought for the Priest of the Sun, on which were displayed all the dainties and viands that could be wanted for a feast; the mortuary cloth of King Chilperic, with its three hundred golden bees; the fantastic robes that excited the indignation of the Bishop of Pontus and were figured with “lions, panthers, bears, dogs, forests, rocks, hunters—all, in fact, that a painter can copy from nature”; and the coat that Charles of Orleans once wore, on the sleeves of which were embroidered the verses of a song beginning “ Madame, je suis tout joyeux ,” the musical accompaniment of the words being wrought in gold thread, and each note, of square shape in those days, formed with four pearls. He read of the room that was prepared at the palace at Rheims for the use of Queen Joan of Burgundy and was decorated with “thirteen hundred and twenty-one parrots, made in broidery, and blazoned with the king’s arms, and five hundred and sixty-one butterflies, whose wings were similarly ornamented with the arms of the queen, the whole worked in gold.” Catherine de Medicis had a mourning-bed made for her of black velvet powdered with crescents and suns. Its curtains were of damask, with leafy wreaths and garlands, figured upon a gold and silver ground, and fringed along the edges with broideries of pearls, and it stood in a room hung with rows of the queen’s devices in cut black velvet upon cloth of silver. Louis XIV. had gold embroidered caryatides fifteen feet high in his apartment. The state bed of Sobieski, King of Poland, was made of Smyrna gold brocade embroidered in turquoises with verses from the Koran. Its supports were of silver gilt, beautifully chased, and profusely set with enamelled and jewelled medallions. It had been taken from the Turkish camp before Vienna, and the standard of Mohammed had stood beneath the tremulous gilt of its canopy.",
+      "ttsText": "Then he turned his attention to embroideries and to the tapestries that performed the office of frescoes in the chill rooms of the northern nations of Europe. As he investigated the subject, and he always had an extraordinary faculty of becoming absolutely absorbed for the moment in whatever he took up, he was almost saddened by the reflection of the ruin that time brought on beautiful and wonderful things. He, at any rate, had escaped that. Summer followed summer, and the yellow jonquils bloomed and died many times, and nights of horror repeated the story of their shame, but he was unchanged. No winter marred his face or stained his flowerlike bloom. How different it was with material things! Where had they passed to? Where was the great crocus-coloured robe, on which the gods fought against the giants, that had been worked by brown girls for the pleasure of Athena? Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds? He longed to see the curious table-napkins wrought for the Priest of the Sun, on which were displayed all the dainties and viands that could be wanted for a feast; the mortuary cloth of King Chilperic, with its three hundred golden bees; the fantastic robes that excited the indignation of the Bishop of Pontus and were figured with “lions, panthers, bears, dogs, forests, rocks, hunters, all, in fact, that a painter can copy from nature”; and the coat that Charles of Orleans once wore, on the sleeves of which were embroidered the verses of a song beginning “ Madame, je suis tout joyeux,” the musical accompaniment of the words being wrought in gold thread, and each note, of square shape in those days, formed with four pearls. He read of the room that was prepared at the palace at Rheims for the use of Queen Joan of Burgundy and was decorated with “thirteen hundred and twenty-one parrots, made in broidery, and blazoned with the king’s arms, and five hundred and sixty-one butterflies, whose wings were similarly ornamented with the arms of the queen, the whole worked in gold.” Catherine de Medicis had a mourning-bed made for her of black velvet powdered with crescents and suns. Its curtains were of damask, with leafy wreaths and garlands, figured upon a gold and silver ground, and fringed along the edges with broideries of pearls, and it stood in a room hung with rows of the queen’s devices in cut black velvet upon cloth of silver. Louis XIV. had gold embroidered caryatides fifteen feet high in his apartment. The state bed of Sobieski, King of Poland, was made of Smyrna gold brocade embroidered in turquoises with verses from the Koran. Its supports were of silver gilt, beautifully chased, and profusely set with enamelled and jewelled medallions. It had been taken from the Turkish camp before Vienna, and the standard of Mohammed had stood beneath the tremulous gilt of its canopy.",
       "role": "paragraph"
     },
     {
       "order": 187,
       "chapterIndex": 4,
       "text": "And so, for a whole year, he sought to accumulate the most exquisite specimens that he could find of textile and embroidered work, getting the dainty Delhi muslins, finely wrought with gold-thread palmates and stitched over with iridescent beetles’ wings; the Dacca gauzes, that from their transparency are known in the East as “woven air,” and “running water,” and “evening dew”; strange figured cloths from Java; elaborate yellow Chinese hangings; books bound in tawny satins or fair blue silks and wrought with fleurs-de-lis , birds and images; veils of lacis worked in Hungary point; Sicilian brocades and stiff Spanish velvets; Georgian work, with its gilt coins, and Japanese Foukousas , with their green-toned golds and their marvellously plumaged birds.",
+      "ttsText": "And so, for a whole year, he sought to accumulate the most exquisite specimens that he could find of textile and embroidered work, getting the dainty Delhi muslins, finely wrought with gold-thread palmates and stitched over with iridescent beetles’ wings; the Dacca gauzes, that from their transparency are known in the East as “woven air,” and “running water,” and “evening dew”; strange figured cloths from Java; elaborate yellow Chinese hangings; books bound in tawny satins or fair blue silks and wrought with fleurs-de-lis, birds and images; veils of lacis worked in Hungary point; Sicilian brocades and stiff Spanish velvets; Georgian work, with its gilt coins, and Japanese Foukousas, with their green-toned golds and their marvellously plumaged birds.",
       "role": "paragraph"
     },
     {
       "order": 188,
       "chapterIndex": 4,
       "text": "He had a special passion, also, for ecclesiastical vestments, as indeed he had for everything connected with the service of the Church. In the long cedar chests that lined the west gallery of his house, he had stored away many rare and beautiful specimens of what is really the raiment of the Bride of Christ, who must wear purple and jewels and fine linen that she may hide the pallid macerated body that is worn by the suffering that she seeks for and wounded by self-inflicted pain. He possessed a gorgeous cope of crimson silk and gold-thread damask, figured with a repeating pattern of golden pomegranates set in six-petalled formal blossoms, beyond which on either side was the pine-apple device wrought in seed-pearls. The orphreys were divided into panels representing scenes from the life of the Virgin, and the coronation of the Virgin was figured in coloured silks upon the hood. This was Italian work of the fifteenth century. Another cope was of green velvet, embroidered with heart-shaped groups of acanthus-leaves, from which spread long-stemmed white blossoms, the details of which were picked out with silver thread and coloured crystals. The morse bore a seraph’s head in gold-thread raised work. The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St. Sebastian. He had chasubles, also, of amber-coloured silk, and blue silk and gold brocade, and yellow silk damask and cloth of gold, figured with representations of the Passion and Crucifixion of Christ, and embroidered with lions and peacocks and other emblems; dalmatics of white satin and pink silk damask, decorated with tulips and dolphins and fleurs-de-lis ; altar frontals of crimson velvet and blue linen; and many corporals, chalice-veils, and sudaria. In the mystic offices to which such things were put, there was something that quickened his imagination.",
+      "ttsText": "He had a special passion, also, for ecclesiastical vestments, as indeed he had for everything connected with the service of the Church. In the long cedar chests that lined the west gallery of his house, he had stored away many rare and beautiful specimens of what is really the raiment of the Bride of Christ, who must wear purple and jewels and fine linen that she may hide the pallid macerated body that is worn by the suffering that she seeks for and wounded by self-inflicted pain. He possessed a gorgeous cope of crimson silk and gold-thread damask, figured with a repeating pattern of golden pomegranates set in six-petalled formal blossoms, beyond which on either side was the pine-apple device wrought in seed-pearls. The orphreys were divided into panels representing scenes from the life of the Virgin, and the coronation of the Virgin was figured in coloured silks upon the hood. This was Italian work of the fifteenth century. Another cope was of green velvet, embroidered with heart-shaped groups of acanthus-leaves, from which spread long-stemmed white blossoms, the details of which were picked out with silver thread and coloured crystals. The morse bore a seraph’s head in gold-thread raised work. The orphreys were woven in a diaper of red and gold silk, and were starred with medallions of many saints and martyrs, among whom was St. Sebastian. He had chasubles, also, of amber-coloured silk, and blue silk and gold brocade, and yellow silk damask and cloth of gold, figured with representations of the Passion and Crucifixion of Christ, and embroidered with lions and peacocks and other emblems; dalmatics of white satin and pink silk damask, decorated with tulips and dolphins and fleurs-de-lis; altar frontals of crimson velvet and blue linen; and many corporals, chalice-veils, and sudaria. In the mystic offices to which such things were put, there was something that quickened his imagination.",
       "role": "paragraph"
     },
     {
@@ -1318,12 +1349,14 @@
       "order": 195,
       "chapterIndex": 4,
       "text": "Yet these whispered scandals only increased in the eyes of many his strange and dangerous charm. His great wealth was a certain element of security. Society—civilized society, at least—is never very ready to believe anything to the detriment of those who are both rich and fascinating. It feels instinctively that manners are of more importance than morals, and, in its opinion, the highest respectability is of much less value than the possession of a good chef . And, after all, it is a very poor consolation to be told that the man who has given one a bad dinner, or poor wine, is irreproachable in his private life. Even the cardinal virtues cannot atone for half-cold entrées , as Lord Henry remarked once, in a discussion on the subject, and there is possibly a good deal to be said for his view. For the canons of good society are, or should be, the same as the canons of art. Form is absolutely essential to it. It should have the dignity of a ceremony, as well as its unreality, and should combine the insincere character of a romantic play with the wit and beauty that make such plays delightful to us. Is insincerity such a terrible thing? I think not. It is merely a method by which we can multiply our personalities.",
+      "ttsText": "Yet these whispered scandals only increased in the eyes of many his strange and dangerous charm. His great wealth was a certain element of security. Society, civilized society, at least, is never very ready to believe anything to the detriment of those who are both rich and fascinating. It feels instinctively that manners are of more importance than morals, and, in its opinion, the highest respectability is of much less value than the possession of a good chef. And, after all, it is a very poor consolation to be told that the man who has given one a bad dinner, or poor wine, is irreproachable in his private life. Even the cardinal virtues cannot atone for half-cold entrées, as Lord Henry remarked once, in a discussion on the subject, and there is possibly a good deal to be said for his view. For the canons of good society are, or should be, the same as the canons of art. Form is absolutely essential to it. It should have the dignity of a ceremony, as well as its unreality, and should combine the insincere character of a romantic play with the wit and beauty that make such plays delightful to us. Is insincerity such a terrible thing? I think not. It is merely a method by which we can multiply our personalities.",
       "role": "paragraph"
     },
     {
       "order": 196,
       "chapterIndex": 4,
       "text": "Such, at any rate, was Dorian Gray’s opinion. He used to wonder at the shallow psychology of those who conceive the ego in man as a thing simple, permanent, reliable, and of one essence. To him, man was a being with myriad lives and myriad sensations, a complex multiform creature that bore within itself strange legacies of thought and passion, and whose very flesh was tainted with the monstrous maladies of the dead. He loved to stroll through the gaunt cold picture-gallery of his country house and look at the various portraits of those whose blood flowed in his veins. Here was Philip Herbert, described by Francis Osborne, in his Memoires on the Reigns of Queen Elizabeth and King James, as one who was “caressed by the Court for his handsome face, which kept him not long company.” Was it young Herbert’s life that he sometimes led? Had some strange poisonous germ crept from body to body till it had reached his own? Was it some dim sense of that ruined grace that had made him so suddenly, and almost without cause, give utterance, in Basil Hallward’s studio, to the mad prayer that had so changed his life? Here, in gold-embroidered red doublet, jewelled surcoat, and gilt-edged ruff and wristbands, stood Sir Anthony Sherard, with his silver-and-black armour piled at his feet. What had this man’s legacy been? Had the lover of Giovanna of Naples bequeathed him some inheritance of sin and shame? Were his own actions merely the dreams that the dead man had not dared to realize? Here, from the fading canvas, smiled Lady Elizabeth Devereux, in her gauze hood, pearl stomacher, and pink slashed sleeves. A flower was in her right hand, and her left clasped an enamelled collar of white and damask roses. On a table by her side lay a mandolin and an apple. There were large green rosettes upon her little pointed shoes. He knew her life, and the strange stories that were told about her lovers. Had he something of her temperament in him? These oval, heavy-lidded eyes seemed to look curiously at him. What of George Willoughby, with his powdered hair and fantastic patches? How evil he looked! The face was saturnine and swarthy, and the sensual lips seemed to be twisted with disdain. Delicate lace ruffles fell over the lean yellow hands that were so overladen with rings. He had been a macaroni of the eighteenth century, and the friend, in his youth, of Lord Ferrars. What of the second Lord Beckenham, the companion of the Prince Regent in his wildest days, and one of the witnesses at the secret marriage with Mrs. Fitzherbert? How proud and handsome he was, with his chestnut curls and insolent pose! What passions had he bequeathed? The world had looked upon him as infamous. He had led the orgies at Carlton House. The star of the Garter glittered upon his breast. Beside him hung the portrait of his wife, a pallid, thin-lipped woman in black. Her blood, also, stirred within him. How curious it all seemed! And his mother with her Lady Hamilton face and her moist, wine-dashed lips—he knew what he had got from her. He had got from her his beauty, and his passion for the beauty of others. She laughed at him in her loose Bacchante dress. There were vine leaves in her hair. The purple spilled from the cup she was holding. The carnations of the painting had withered, but the eyes were still wonderful in their depth and brilliancy of colour. They seemed to follow him wherever he went.",
+      "ttsText": "Such, at any rate, was Dorian Gray’s opinion. He used to wonder at the shallow psychology of those who conceive the ego in man as a thing simple, permanent, reliable, and of one essence. To him, man was a being with myriad lives and myriad sensations, a complex multiform creature that bore within itself strange legacies of thought and passion, and whose very flesh was tainted with the monstrous maladies of the dead. He loved to stroll through the gaunt cold picture-gallery of his country house and look at the various portraits of those whose blood flowed in his veins. Here was Philip Herbert, described by Francis Osborne, in his Memoires on the Reigns of Queen Elizabeth and King James, as one who was “caressed by the Court for his handsome face, which kept him not long company.” Was it young Herbert’s life that he sometimes led? Had some strange poisonous germ crept from body to body till it had reached his own? Was it some dim sense of that ruined grace that had made him so suddenly, and almost without cause, give utterance, in Basil Hallward’s studio, to the mad prayer that had so changed his life? Here, in gold-embroidered red doublet, jewelled surcoat, and gilt-edged ruff and wristbands, stood Sir Anthony Sherard, with his silver-and-black armour piled at his feet. What had this man’s legacy been? Had the lover of Giovanna of Naples bequeathed him some inheritance of sin and shame? Were his own actions merely the dreams that the dead man had not dared to realize? Here, from the fading canvas, smiled Lady Elizabeth Devereux, in her gauze hood, pearl stomacher, and pink slashed sleeves. A flower was in her right hand, and her left clasped an enamelled collar of white and damask roses. On a table by her side lay a mandolin and an apple. There were large green rosettes upon her little pointed shoes. He knew her life, and the strange stories that were told about her lovers. Had he something of her temperament in him? These oval, heavy-lidded eyes seemed to look curiously at him. What of George Willoughby, with his powdered hair and fantastic patches? How evil he looked! The face was saturnine and swarthy, and the sensual lips seemed to be twisted with disdain. Delicate lace ruffles fell over the lean yellow hands that were so overladen with rings. He had been a macaroni of the eighteenth century, and the friend, in his youth, of Lord Ferrars. What of the second Lord Beckenham, the companion of the Prince Regent in his wildest days, and one of the witnesses at the secret marriage with Mrs. Fitzherbert? How proud and handsome he was, with his chestnut curls and insolent pose! What passions had he bequeathed? The world had looked upon him as infamous. He had led the orgies at Carlton House. The star of the Garter glittered upon his breast. Beside him hung the portrait of his wife, a pallid, thin-lipped woman in black. Her blood, also, stirred within him. How curious it all seemed! And his mother with her Lady Hamilton face and her moist, wine-dashed lips, he knew what he had got from her. He had got from her his beauty, and his passion for the beauty of others. She laughed at him in her loose Bacchante dress. There were vine leaves in her hair. The purple spilled from the cup she was holding. The carnations of the painting had withered, but the eyes were still wonderful in their depth and brilliancy of colour. They seemed to follow him wherever he went.",
       "role": "paragraph"
     },
     {
@@ -1336,18 +1369,21 @@
       "order": 198,
       "chapterIndex": 4,
       "text": "The hero of the wonderful novel that had so influenced his life had himself known this curious fancy. In the seventh chapter he tells how, crowned with laurel, lest lightning might strike him, he had sat, as Tiberius, in a garden at Capri, reading the shameful books of Elephantis, while dwarfs and peacocks strutted round him and the flute-player mocked the swinger of the censer; and, as Caligula, had caroused with the green-shirted jockeys in their stables and supped in an ivory manger with a jewel-frontleted horse; and, as Domitian, had wandered through a corridor lined with marble mirrors, looking round with haggard eyes for the reflection of the dagger that was to end his days, and sick with that ennui, that terrible tædium vitæ , that comes on those to whom life denies nothing; and had peered through a clear emerald at the red shambles of the circus and then, in a litter of pearl and purple drawn by silver-shod mules, been carried through the Street of Pomegranates to a House of Gold and heard men cry on Nero Caesar as he passed by; and, as Elagabalus, had painted his face with colours, and plied the distaff among the women, and brought the Moon from Carthage and given her in mystic marriage to the Sun.",
+      "ttsText": "The hero of the wonderful novel that had so influenced his life had himself known this curious fancy. In the seventh chapter he tells how, crowned with laurel, lest lightning might strike him, he had sat, as Tiberius, in a garden at Capri, reading the shameful books of Elephantis, while dwarfs and peacocks strutted round him and the flute-player mocked the swinger of the censer; and, as Caligula, had caroused with the green-shirted jockeys in their stables and supped in an ivory manger with a jewel-frontleted horse; and, as Domitian, had wandered through a corridor lined with marble mirrors, looking round with haggard eyes for the reflection of the dagger that was to end his days, and sick with that ennui, that terrible tædium vitæ, that comes on those to whom life denies nothing; and had peered through a clear emerald at the red shambles of the circus and then, in a litter of pearl and purple drawn by silver-shod mules, been carried through the Street of Pomegranates to a House of Gold and heard men cry on Nero Caesar as he passed by; and, as Elagabalus, had painted his face with colours, and plied the distaff among the women, and brought the Moon from Carthage and given her in mystic marriage to the Sun.",
       "role": "paragraph"
     },
     {
       "order": 199,
       "chapterIndex": 4,
       "text": "Over and over again Dorian used to read this fantastic chapter, and the two chapters immediately following, in which, as in some curious tapestries or cunningly wrought enamels, were pictured the awful and beautiful forms of those whom vice and blood and weariness had made monstrous or mad: Filippo, Duke of Milan, who slew his wife and painted her lips with a scarlet poison that her lover might suck death from the dead thing he fondled; Pietro Barbi, the Venetian, known as Paul the Second, who sought in his vanity to assume the title of Formosus, and whose tiara, valued at two hundred thousand florins, was bought at the price of a terrible sin; Gian Maria Visconti, who used hounds to chase living men and whose murdered body was covered with roses by a harlot who had loved him; the Borgia on his white horse, with Fratricide riding beside him and his mantle stained with the blood of Perotto; Pietro Riario, the young Cardinal Archbishop of Florence, child and minion of Sixtus IV., whose beauty was equalled only by his debauchery, and who received Leonora of Aragon in a pavilion of white and crimson silk, filled with nymphs and centaurs, and gilded a boy that he might serve at the feast as Ganymede or Hylas; Ezzelin, whose melancholy could be cured only by the spectacle of death, and who had a passion for red blood, as other men have for red wine—the son of the Fiend, as was reported, and one who had cheated his father at dice when gambling with him for his own soul; Giambattista Cibo, who in mockery took the name of Innocent and into whose torpid veins the blood of three lads was infused by a Jewish doctor; Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose effigy was burned at Rome as the enemy of God and man, who strangled Polyssena with a napkin, and gave poison to Ginevra d’Este in a cup of emerald, and in honour of a shameful passion built a pagan church for Christian worship; Charles VI., who had so wildly adored his brother’s wife that a leper had warned him of the insanity that was coming on him, and who, when his brain had sickened and grown strange, could only be soothed by Saracen cards painted with the images of love and death and madness; and, in his trimmed jerkin and jewelled cap and acanthuslike curls, Grifonetto Baglioni, who slew Astorre with his bride, and Simonetto with his page, and whose comeliness was such that, as he lay dying in the yellow piazza of Perugia, those who had hated him could not choose but weep, and Atalanta, who had cursed him, blessed him.",
+      "ttsText": "Over and over again Dorian used to read this fantastic chapter, and the two chapters immediately following, in which, as in some curious tapestries or cunningly wrought enamels, were pictured the awful and beautiful forms of those whom vice and blood and weariness had made monstrous or mad: Filippo, Duke of Milan, who slew his wife and painted her lips with a scarlet poison that her lover might suck death from the dead thing he fondled; Pietro Barbi, the Venetian, known as Paul the Second, who sought in his vanity to assume the title of Formosus, and whose tiara, valued at two hundred thousand florins, was bought at the price of a terrible sin; Gian Maria Visconti, who used hounds to chase living men and whose murdered body was covered with roses by a harlot who had loved him; the Borgia on his white horse, with Fratricide riding beside him and his mantle stained with the blood of Perotto; Pietro Riario, the young Cardinal Archbishop of Florence, child and minion of Sixtus IV., whose beauty was equalled only by his debauchery, and who received Leonora of Aragon in a pavilion of white and crimson silk, filled with nymphs and centaurs, and gilded a boy that he might serve at the feast as Ganymede or Hylas; Ezzelin, whose melancholy could be cured only by the spectacle of death, and who had a passion for red blood, as other men have for red wine, the son of the Fiend, as was reported, and one who had cheated his father at dice when gambling with him for his own soul; Giambattista Cibo, who in mockery took the name of Innocent and into whose torpid veins the blood of three lads was infused by a Jewish doctor; Sigismondo Malatesta, the lover of Isotta and the lord of Rimini, whose effigy was burned at Rome as the enemy of God and man, who strangled Polyssena with a napkin, and gave poison to Ginevra d’Este in a cup of emerald, and in honour of a shameful passion built a pagan church for Christian worship; Charles VI., who had so wildly adored his brother’s wife that a leper had warned him of the insanity that was coming on him, and who, when his brain had sickened and grown strange, could only be soothed by Saracen cards painted with the images of love and death and madness; and, in his trimmed jerkin and jewelled cap and acanthuslike curls, Grifonetto Baglioni, who slew Astorre with his bride, and Simonetto with his page, and whose comeliness was such that, as he lay dying in the yellow piazza of Perugia, those who had hated him could not choose but weep, and Atalanta, who had cursed him, blessed him.",
       "role": "paragraph"
     },
     {
       "order": 200,
       "chapterIndex": 4,
       "text": "There was a horrible fascination in them all. He saw them at night, and they troubled his imagination in the day. The Renaissance knew of strange manners of poisoning—poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain. Dorian Gray had been poisoned by a book. There were moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful.",
+      "ttsText": "There was a horrible fascination in them all. He saw them at night, and they troubled his imagination in the day. The Renaissance knew of strange manners of poisoning, poisoning by a helmet and a lighted torch, by an embroidered glove and a jewelled fan, by a gilded pomander and by an amber chain. Dorian Gray had been poisoned by a book. There were moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful.",
       "role": "paragraph"
     },
     {
@@ -1360,6 +1396,7 @@
       "order": 202,
       "chapterIndex": 5,
       "text": "CHAPTER XII.",
+      "ttsText": "Chapter XII.",
       "role": "heading"
     },
     {
@@ -1432,6 +1469,7 @@
       "order": 214,
       "chapterIndex": 5,
       "text": "Dorian shrugged his shoulders. “I believe he married Lady Radley’s maid, and has established her in Paris as an English dressmaker. Anglomanie is very fashionable over there now, I hear. It seems silly of the French, doesn’t it? But—do you know?—he was not at all a bad servant. I never liked him, but I had nothing to complain about. One often imagines things that are quite absurd. He was really very devoted to me and seemed quite sorry when he went away. Have another brandy-and-soda? Or would you like hock-and-seltzer? I always take hock-and-seltzer myself. There is sure to be some in the next room.”",
+      "ttsText": "Dorian shrugged his shoulders. “I believe he married Lady Radley’s maid, and has established her in Paris as an English dressmaker. Anglomanie is very fashionable over there now, I hear. It seems silly of the French, doesn’t it? But, do you know?, he was not at all a bad servant. I never liked him, but I had nothing to complain about. One often imagines things that are quite absurd. He was really very devoted to me and seemed quite sorry when he went away. Have another brandy-and-soda? Or would you like hock-and-seltzer? I always take hock-and-seltzer myself. There is sure to be some in the next room.”",
       "role": "paragraph"
     },
     {
@@ -1474,6 +1512,7 @@
       "order": 221,
       "chapterIndex": 5,
       "text": "“They must interest you, Dorian. Every gentleman is interested in his good name. You don’t want people to talk of you as something vile and degraded. Of course, you have your position, and your wealth, and all that kind of thing. But position and wealth are not everything. Mind you, I don’t believe these rumours at all. At least, I can’t believe them when I see you. Sin is a thing that writes itself across a man’s face. It cannot be concealed. People talk sometimes of secret vices. There are no such things. If a wretched man has a vice, it shows itself in the lines of his mouth, the droop of his eyelids, the moulding of his hands even. Somebody—I won’t mention his name, but you know him—came to me last year to have his portrait done. I had never seen him before, and had never heard anything about him at the time, though I have heard a good deal since. He offered an extravagant price. I refused him. There was something in the shape of his fingers that I hated. I know now that I was quite right in what I fancied about him. His life is dreadful. But you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth—I can’t believe anything against you. And yet I see you very seldom, and you never come down to the studio now, and when I am away from you, and I hear all these hideous things that people are whispering about you, I don’t know what to say. Why is it, Dorian, that a man like the Duke of Berwick leaves the room of a club when you enter it? Why is it that so many gentlemen in London will neither go to your house or invite you to theirs? You used to be a friend of Lord Staveley. I met him at dinner last week. Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley. Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men? There was that wretched boy in the Guards who committed suicide. You were his great friend. There was Sir Henry Ashton, who had to leave England with a tarnished name. You and he were inseparable. What about Adrian Singleton and his dreadful end? What about Lord Kent’s only son and his career? I met his father yesterday in St. James’s Street. He seemed broken with shame and sorrow. What about the young Duke of Perth? What sort of life has he got now? What gentleman would associate with him?”",
+      "ttsText": "“They must interest you, Dorian. Every gentleman is interested in his good name. You don’t want people to talk of you as something vile and degraded. Of course, you have your position, and your wealth, and all that kind of thing. But position and wealth are not everything. Mind you, I don’t believe these rumours at all. At least, I can’t believe them when I see you. Sin is a thing that writes itself across a man’s face. It cannot be concealed. People talk sometimes of secret vices. There are no such things. If a wretched man has a vice, it shows itself in the lines of his mouth, the droop of his eyelids, the moulding of his hands even. Somebody, I won’t mention his name, but you know him, came to me last year to have his portrait done. I had never seen him before, and had never heard anything about him at the time, though I have heard a good deal since. He offered an extravagant price. I refused him. There was something in the shape of his fingers that I hated. I know now that I was quite right in what I fancied about him. His life is dreadful. But you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth, I can’t believe anything against you. And yet I see you very seldom, and you never come down to the studio now, and when I am away from you, and I hear all these hideous things that people are whispering about you, I don’t know what to say. Why is it, Dorian, that a man like the Duke of Berwick leaves the room of a club when you enter it? Why is it that so many gentlemen in London will neither go to your house or invite you to theirs? You used to be a friend of Lord Staveley. I met him at dinner last week. Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley. Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men? There was that wretched boy in the Guards who committed suicide. You were his great friend. There was Sir Henry Ashton, who had to leave England with a tarnished name. You and he were inseparable. What about Adrian Singleton and his dreadful end? What about Lord Kent’s only son and his career? I met his father yesterday in St. James’s Street. He seemed broken with shame and sorrow. What about the young Duke of Perth? What sort of life has he got now? What gentleman would associate with him?”",
       "role": "paragraph"
     },
     {
@@ -1498,6 +1537,7 @@
       "order": 225,
       "chapterIndex": 5,
       "text": "“I must speak, and you must listen. You shall listen. When you met Lady Gwendolen, not a breath of scandal had ever touched her. Is there a single decent woman in London now who would drive with her in the park? Why, even her children are not allowed to live with her. Then there are other stories—stories that you have been seen creeping at dawn out of dreadful houses and slinking in disguise into the foulest dens in London. Are they true? Can they be true? When I first heard them, I laughed. I hear them now, and they make me shudder. What about your country-house and the life that is led there? Dorian, you don’t know what is said about you. I won’t tell you that I don’t want to preach to you. I remember Harry saying once that every man who turned himself into an amateur curate for the moment always began by saying that, and then proceeded to break his word. I do want to preach to you. I want you to lead such a life as will make the world respect you. I want you to have a clean name and a fair record. I want you to get rid of the dreadful people you associate with. Don’t shrug your shoulders like that. Don’t be so indifferent. You have a wonderful influence. Let it be for good, not for evil. They say that you corrupt every one with whom you become intimate, and that it is quite sufficient for you to enter a house for shame of some kind to follow after. I don’t know whether it is so or not. How should I know? But it is said of you. I am told things that it seems impossible to doubt. Lord Gloucester was one of my greatest friends at Oxford. He showed me a letter that his wife had written to him when she was dying alone in her villa at Mentone. Your name was implicated in the most terrible confession I ever read. I told him that it was absurd—that I knew you thoroughly, and that you were incapable of anything of the kind. Know you? I wonder do I know you? Before I could answer that, I should have to see your soul.”",
+      "ttsText": "“I must speak, and you must listen. You shall listen. When you met Lady Gwendolen, not a breath of scandal had ever touched her. Is there a single decent woman in London now who would drive with her in the park? Why, even her children are not allowed to live with her. Then there are other stories, stories that you have been seen creeping at dawn out of dreadful houses and slinking in disguise into the foulest dens in London. Are they true? Can they be true? When I first heard them, I laughed. I hear them now, and they make me shudder. What about your country-house and the life that is led there? Dorian, you don’t know what is said about you. I won’t tell you that I don’t want to preach to you. I remember Harry saying once that every man who turned himself into an amateur curate for the moment always began by saying that, and then proceeded to break his word. I do want to preach to you. I want you to lead such a life as will make the world respect you. I want you to have a clean name and a fair record. I want you to get rid of the dreadful people you associate with. Don’t shrug your shoulders like that. Don’t be so indifferent. You have a wonderful influence. Let it be for good, not for evil. They say that you corrupt every one with whom you become intimate, and that it is quite sufficient for you to enter a house for shame of some kind to follow after. I don’t know whether it is so or not. How should I know? But it is said of you. I am told things that it seems impossible to doubt. Lord Gloucester was one of my greatest friends at Oxford. He showed me a letter that his wife had written to him when she was dying alone in her villa at Mentone. Your name was implicated in the most terrible confession I ever read. I told him that it was absurd, that I knew you thoroughly, and that you were incapable of anything of the kind. Know you? I wonder do I know you? Before I could answer that, I should have to see your soul.”",
       "role": "paragraph"
     },
     {
@@ -1600,6 +1640,7 @@
       "order": 242,
       "chapterIndex": 6,
       "text": "CHAPTER XIII.",
+      "ttsText": "Chapter XIII.",
       "role": "heading"
     },
     {
@@ -1630,6 +1671,7 @@
       "order": 247,
       "chapterIndex": 6,
       "text": "Hallward glanced round him with a puzzled expression. The room looked as if it had not been lived in for years. A faded Flemish tapestry, a curtained picture, an old Italian cassone , and an almost empty book-case—that was all that it seemed to contain, besides a chair and a table. As Dorian Gray was lighting a half-burned candle that was standing on the mantelshelf, he saw that the whole place was covered with dust and that the carpet was in holes. A mouse ran scuffling behind the wainscoting. There was a damp odour of mildew.",
+      "ttsText": "Hallward glanced round him with a puzzled expression. The room looked as if it had not been lived in for years. A faded Flemish tapestry, a curtained picture, an old Italian cassone, and an almost empty book-case, that was all that it seemed to contain, besides a chair and a table. As Dorian Gray was lighting a half-burned candle that was standing on the mantelshelf, he saw that the whole place was covered with dust and that the carpet was in holes. A mouse ran scuffling behind the wainscoting. There was a damp odour of mildew.",
       "role": "paragraph"
     },
     {
@@ -1678,7 +1720,8 @@
       "order": 255,
       "chapterIndex": 6,
       "text": "“Years ago, when I was a boy,” said Dorian Gray, crushing the flower in his hand, “you met me, flattered me, and taught me to be vain of my good looks. One day you introduced me to a friend of yours, who explained to me the wonder of youth, and you finished a portrait of me that revealed to me the wonder of beauty. In a mad moment that, even now, I don’t know whether I regret or not, I made a wish, perhaps you would call it a prayer....”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "“Years ago, when I was a boy,” said Dorian Gray, crushing the flower in his hand, “you met me, flattered me, and taught me to be vain of my good looks. One day you introduced me to a friend of yours, who explained to me the wonder of youth, and you finished a portrait of me that revealed to me the wonder of beauty. In a mad moment that, even now, I don’t know whether I regret or not, I made a wish, perhaps you would call it a prayer … ”"
     },
     {
       "order": 256,
@@ -1720,7 +1763,8 @@
       "order": 262,
       "chapterIndex": 6,
       "text": "“My ideal, as you call it...”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "“My ideal, as you call it … ”"
     },
     {
       "order": 263,
@@ -1852,6 +1896,7 @@
       "order": 284,
       "chapterIndex": 6,
       "text": "He sat down and began to think. Every year—every month, almost—men were strangled in England for what he had done. There had been a madness of murder in the air. Some red star had come too close to the earth.... And yet, what evidence was there against him? Basil Hallward had left the house at eleven. No one had seen him come in again. Most of the servants were at Selby Royal. His valet had gone to bed.... Paris! Yes. It was to Paris that Basil had gone, and by the midnight train, as he had intended. With his curious reserved habits, it would be months before any suspicions would be roused. Months! Everything could be destroyed long before then.",
+      "ttsText": "He sat down and began to think. Every year, every month, almost, men were strangled in England for what he had done. There had been a madness of murder in the air. Some red star had come too close to the earth … And yet, what evidence was there against him? Basil Hallward had left the house at eleven. No one had seen him come in again. Most of the servants were at Selby Royal. His valet had gone to bed … Paris! Yes. It was to Paris that Basil had gone, and by the midnight train, as he had intended. With his curious reserved habits, it would be months before any suspicions would be roused. Months! Everything could be destroyed long before then.",
       "role": "paragraph"
     },
     {
@@ -1948,6 +1993,7 @@
       "order": 300,
       "chapterIndex": 7,
       "text": "CHAPTER XIV.",
+      "ttsText": "Chapter XIV.",
       "role": "heading"
     },
     {
@@ -2008,6 +2054,7 @@
       "order": 310,
       "chapterIndex": 7,
       "text": "When he had stretched himself on the sofa, he looked at the title-page of the book. It was Gautier’s “Émaux et Camées”, Charpentier’s Japanese-paper edition, with the Jacquemart etching. The binding was of citron-green leather, with a design of gilt trellis-work and dotted pomegranates. It had been given to him by Adrian Singleton. As he turned over the pages, his eye fell on the poem about the hand of Lacenaire, the cold yellow hand “ du supplice encore mal lavée ,” with its downy red hairs and its “ doigts de faune .” He glanced at his own white taper fingers, shuddering slightly in spite of himself, and passed on, till he came to those lovely stanzas upon Venice:",
+      "ttsText": "When he had stretched himself on the sofa, he looked at the title-page of the book. It was Gautier’s “Émaux et Camées”, Charpentier’s Japanese-paper edition, with the Jacquemart etching. The binding was of citron-green leather, with a design of gilt trellis-work and dotted pomegranates. It had been given to him by Adrian Singleton. As he turned over the pages, his eye fell on the poem about the hand of Lacenaire, the cold yellow hand “ du supplice encore mal lavée,” with its downy red hairs and its “ doigts de faune.” He glanced at his own white taper fingers, shuddering slightly in spite of himself, and passed on, till he came to those lovely stanzas upon Venice:",
       "role": "paragraph"
     },
     {
@@ -2116,12 +2163,14 @@
       "order": 328,
       "chapterIndex": 7,
       "text": "They had been great friends once, five years before—almost inseparable, indeed. Then the intimacy had come suddenly to an end. When they met in society now, it was only Dorian Gray who smiled: Alan Campbell never did.",
+      "ttsText": "They had been great friends once, five years before, almost inseparable, indeed. Then the intimacy had come suddenly to an end. When they met in society now, it was only Dorian Gray who smiled: Alan Campbell never did.",
       "role": "paragraph"
     },
     {
       "order": 329,
       "chapterIndex": 7,
       "text": "He was an extremely clever young man, though he had no real appreciation of the visible arts, and whatever little sense of the beauty of poetry he possessed he had gained entirely from Dorian. His dominant intellectual passion was for science. At Cambridge he had spent a great deal of his time working in the laboratory, and had taken a good class in the Natural Science Tripos of his year. Indeed, he was still devoted to the study of chemistry, and had a laboratory of his own in which he used to shut himself up all day long, greatly to the annoyance of his mother, who had set her heart on his standing for Parliament and had a vague idea that a chemist was a person who made up prescriptions. He was an excellent musician, however, as well, and played both the violin and the piano better than most amateurs. In fact, it was music that had first brought him and Dorian Gray together—music and that indefinable attraction that Dorian seemed to be able to exercise whenever he wished—and, indeed, exercised often without being conscious of it. They had met at Lady Berkshire’s the night that Rubinstein played there, and after that used to be always seen together at the opera and wherever good music was going on. For eighteen months their intimacy lasted. Campbell was always either at Selby Royal or in Grosvenor Square. To him, as to many others, Dorian Gray was the type of everything that is wonderful and fascinating in life. Whether or not a quarrel had taken place between them no one ever knew. But suddenly people remarked that they scarcely spoke when they met and that Campbell seemed always to go away early from any party at which Dorian Gray was present. He had changed, too—was strangely melancholy at times, appeared almost to dislike hearing music, and would never himself play, giving as his excuse, when he was called upon, that he was so absorbed in science that he had no time left in which to practise. And this was certainly true. Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments.",
+      "ttsText": "He was an extremely clever young man, though he had no real appreciation of the visible arts, and whatever little sense of the beauty of poetry he possessed he had gained entirely from Dorian. His dominant intellectual passion was for science. At Cambridge he had spent a great deal of his time working in the laboratory, and had taken a good class in the Natural Science Tripos of his year. Indeed, he was still devoted to the study of chemistry, and had a laboratory of his own in which he used to shut himself up all day long, greatly to the annoyance of his mother, who had set her heart on his standing for Parliament and had a vague idea that a chemist was a person who made up prescriptions. He was an excellent musician, however, as well, and played both the violin and the piano better than most amateurs. In fact, it was music that had first brought him and Dorian Gray together, music and that indefinable attraction that Dorian seemed to be able to exercise whenever he wished, and, indeed, exercised often without being conscious of it. They had met at Lady Berkshire’s the night that Rubinstein played there, and after that used to be always seen together at the opera and wherever good music was going on. For eighteen months their intimacy lasted. Campbell was always either at Selby Royal or in Grosvenor Square. To him, as to many others, Dorian Gray was the type of everything that is wonderful and fascinating in life. Whether or not a quarrel had taken place between them no one ever knew. But suddenly people remarked that they scarcely spoke when they met and that Campbell seemed always to go away early from any party at which Dorian Gray was present. He had changed, too, was strangely melancholy at times, appeared almost to dislike hearing music, and would never himself play, giving as his excuse, when he was called upon, that he was so absorbed in science that he had no time left in which to practise. And this was certainly true. Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments.",
       "role": "paragraph"
     },
     {
@@ -2194,6 +2243,7 @@
       "order": 341,
       "chapterIndex": 7,
       "text": "After a strained moment of silence, he leaned across and said, very quietly, but watching the effect of each word upon the face of him he had sent for, “Alan, in a locked room at the top of this house, a room to which nobody but myself has access, a dead man is seated at a table. He has been dead ten hours now. Don’t stir, and don’t look at me like that. Who the man is, why he died, how he died, are matters that do not concern you. What you have to do is this—”",
+      "ttsText": "After a strained moment of silence, he leaned across and said, very quietly, but watching the effect of each word upon the face of him he had sent for, “Alan, in a locked room at the top of this house, a room to which nobody but myself has access, a dead man is seated at a table. He has been dead ten hours now. Don’t stir, and don’t look at me like that. Who the man is, why he died, how he died, are matters that do not concern you. What you have to do is this, ”",
       "role": "paragraph"
     },
     {
@@ -2206,6 +2256,7 @@
       "order": 343,
       "chapterIndex": 7,
       "text": "“Alan, they will have to interest you. This one will have to interest you. I am awfully sorry for you, Alan. But I can’t help myself. You are the one man who is able to save me. I am forced to bring you into the matter. I have no option. Alan, you are scientific. You know about chemistry and things of that kind. You have made experiments. What you have got to do is to destroy the thing that is upstairs—to destroy it so that not a vestige of it will be left. Nobody saw this person come into the house. Indeed, at the present moment he is supposed to be in Paris. He will not be missed for months. When he is missed, there must be no trace of him found here. You, Alan, you must change him, and everything that belongs to him, into a handful of ashes that I may scatter in the air.”",
+      "ttsText": "“Alan, they will have to interest you. This one will have to interest you. I am awfully sorry for you, Alan. But I can’t help myself. You are the one man who is able to save me. I am forced to bring you into the matter. I have no option. Alan, you are scientific. You know about chemistry and things of that kind. You have made experiments. What you have got to do is to destroy the thing that is upstairs, to destroy it so that not a vestige of it will be left. Nobody saw this person come into the house. Indeed, at the present moment he is supposed to be in Paris. He will not be missed for months. When he is missed, there must be no trace of him found here. You, Alan, you must change him, and everything that belongs to him, into a handful of ashes that I may scatter in the air.”",
       "role": "paragraph"
     },
     {
@@ -2224,6 +2275,7 @@
       "order": 346,
       "chapterIndex": 7,
       "text": "“You are mad, I tell you—mad to imagine that I would raise a finger to help you, mad to make this monstrous confession. I will have nothing to do with this matter, whatever it is. Do you think I am going to peril my reputation for you? What is it to me what devil’s work you are up to?”",
+      "ttsText": "“You are mad, I tell you, mad to imagine that I would raise a finger to help you, mad to make this monstrous confession. I will have nothing to do with this matter, whatever it is. Do you think I am going to peril my reputation for you? What is it to me what devil’s work you are up to?”",
       "role": "paragraph"
     },
     {
@@ -2284,6 +2336,7 @@
       "order": 356,
       "chapterIndex": 7,
       "text": "“Don’t speak about those days, Dorian—they are dead.”",
+      "ttsText": "“Don’t speak about those days, Dorian, they are dead.”",
       "role": "paragraph"
     },
     {
@@ -2344,6 +2397,7 @@
       "order": 366,
       "chapterIndex": 7,
       "text": "“I am so sorry for you, Alan,” he murmured, “but you leave me no alternative. I have a letter written already. Here it is. You see the address. If you don’t help me, I must send it. If you don’t help me, I will send it. You know what the result will be. But you are going to help me. It is impossible for you to refuse now. I tried to spare you. You will do me the justice to admit that. You were stern, harsh, offensive. You treated me as no man has ever dared to treat me—no living man, at any rate. I bore it all. Now it is for me to dictate terms.”",
+      "ttsText": "“I am so sorry for you, Alan,” he murmured, “but you leave me no alternative. I have a letter written already. Here it is. You see the address. If you don’t help me, I must send it. If you don’t help me, I will send it. You know what the result will be. But you are going to help me. It is impossible for you to refuse now. I tried to spare you. You will do me the justice to admit that. You were stern, harsh, offensive. You treated me as no man has ever dared to treat me, no living man, at any rate. I bore it all. Now it is for me to dictate terms.”",
       "role": "paragraph"
     },
     {
@@ -2434,6 +2488,7 @@
       "order": 381,
       "chapterIndex": 7,
       "text": "“Your life? Good heavens! what a life that is! You have gone from corruption to corruption, and now you have culminated in crime. In doing what I am going to do—what you force me to do—it is not of your life that I am thinking.”",
+      "ttsText": "“Your life? Good heavens! what a life that is! You have gone from corruption to corruption, and now you have culminated in crime. In doing what I am going to do, what you force me to do, it is not of your life that I am thinking.”",
       "role": "paragraph"
     },
     {
@@ -2470,6 +2525,7 @@
       "order": 387,
       "chapterIndex": 7,
       "text": "“Yes—Harden. You must go down to Richmond at once, see Harden personally, and tell him to send twice as many orchids as I ordered, and to have as few white ones as possible. In fact, I don’t want any white ones. It is a lovely day, Francis, and Richmond is a very pretty place—otherwise I wouldn’t bother you about it.”",
+      "ttsText": "“Yes, Harden. You must go down to Richmond at once, see Harden personally, and tell him to send twice as many orchids as I ordered, and to have as few white ones as possible. In fact, I don’t want any white ones. It is a lovely day, Francis, and Richmond is a very pretty place, otherwise I wouldn’t bother you about it.”",
       "role": "paragraph"
     },
     {
@@ -2530,6 +2586,7 @@
       "order": 397,
       "chapterIndex": 7,
       "text": "What was that loathsome red dew that gleamed, wet and glistening, on one of the hands, as though the canvas had sweated blood? How horrible it was!—more horrible, it seemed to him for the moment, than the silent thing that he knew was stretched across the table, the thing whose grotesque misshapen shadow on the spotted carpet showed him that it had not stirred, but was still there, as he had left it.",
+      "ttsText": "What was that loathsome red dew that gleamed, wet and glistening, on one of the hands, as though the canvas had sweated blood? How horrible it was!, more horrible, it seemed to him for the moment, than the silent thing that he knew was stretched across the table, the thing whose grotesque misshapen shadow on the spotted carpet showed him that it had not stirred, but was still there, as he had left it.",
       "role": "paragraph"
     },
     {
@@ -2584,6 +2641,7 @@
       "order": 406,
       "chapterIndex": 8,
       "text": "CHAPTER XV.",
+      "ttsText": "Chapter XV.",
       "role": "heading"
     },
     {
@@ -2650,6 +2708,7 @@
       "order": 417,
       "chapterIndex": 8,
       "text": "“Dear Lady Narborough,” murmured Dorian, smiling, “I have not been in love for a whole week—not, in fact, since Madame de Ferrol left town.”",
+      "ttsText": "“Dear Lady Narborough,” murmured Dorian, smiling, “I have not been in love for a whole week, not, in fact, since Madame de Ferrol left town.”",
       "role": "paragraph"
     },
     {
@@ -2674,6 +2733,7 @@
       "order": 421,
       "chapterIndex": 8,
       "text": "“She is still décolletée ,” he answered, taking an olive in his long fingers; “and when she is in a very smart gown she looks like an édition de luxe of a bad French novel. She is really wonderful, and full of surprises. Her capacity for family affection is extraordinary. When her third husband died, her hair turned quite gold from grief.”",
+      "ttsText": "“She is still décolletée,” he answered, taking an olive in his long fingers; “and when she is in a very smart gown she looks like an édition de luxe of a bad French novel. She is really wonderful, and full of surprises. Her capacity for family affection is extraordinary. When her third husband died, her hair turned quite gold from grief.”",
       "role": "paragraph"
     },
     {
@@ -2722,12 +2782,14 @@
       "order": 429,
       "chapterIndex": 8,
       "text": "“Four husbands! Upon my word that is trop de zêle .”",
+      "ttsText": "“Four husbands! Upon my word that is trop de zêle.”",
       "role": "paragraph"
     },
     {
       "order": 430,
       "chapterIndex": 8,
       "text": "“ Trop d’audace , I tell her,” said Dorian.",
+      "ttsText": "“ Trop d’audace, I tell her,” said Dorian.",
       "role": "paragraph"
     },
     {
@@ -2806,24 +2868,28 @@
       "order": 443,
       "chapterIndex": 8,
       "text": "“ Fin de siêcle ,” murmured Lord Henry.",
+      "ttsText": "“ Fin de siêcle,” murmured Lord Henry.",
       "role": "paragraph"
     },
     {
       "order": 444,
       "chapterIndex": 8,
       "text": "“ Fin du globe ,” answered his hostess.",
+      "ttsText": "“ Fin du globe,” answered his hostess.",
       "role": "paragraph"
     },
     {
       "order": 445,
       "chapterIndex": 8,
       "text": "“I wish it were fin du globe ,” said Dorian with a sigh. “Life is a great disappointment.”",
+      "ttsText": "“I wish it were fin du globe,” said Dorian with a sigh. “Life is a great disappointment.”",
       "role": "paragraph"
     },
     {
       "order": 446,
       "chapterIndex": 8,
       "text": "“Ah, my dear,” cried Lady Narborough, putting on her gloves, “don’t tell me that you have exhausted life. When a man says that one knows that life has exhausted him. Lord Henry is very wicked, and I sometimes wish that I had been; but you are made to be good—you look so good. I must find you a nice wife. Lord Henry, don’t you think that Mr. Gray should get married?”",
+      "ttsText": "“Ah, my dear,” cried Lady Narborough, putting on her gloves, “don’t tell me that you have exhausted life. When a man says that one knows that life has exhausted him. Lord Henry is very wicked, and I sometimes wish that I had been; but you are made to be good, you look so good. I must find you a nice wife. Lord Henry, don’t you think that Mr. Gray should get married?”",
       "role": "paragraph"
     },
     {
@@ -2902,6 +2968,7 @@
       "order": 459,
       "chapterIndex": 8,
       "text": "The men laughed, and Mr. Chapman got up solemnly from the foot of the table and came up to the top. Dorian Gray changed his seat and went and sat by Lord Henry. Mr. Chapman began to talk in a loud voice about the situation in the House of Commons. He guffawed at his adversaries. The word doctrinaire —word full of terror to the British mind—reappeared from time to time between his explosions. An alliterative prefix served as an ornament of oratory. He hoisted the Union Jack on the pinnacles of thought. The inherited stupidity of the race—sound English common sense he jovially termed it—was shown to be the proper bulwark for society.",
+      "ttsText": "The men laughed, and Mr. Chapman got up solemnly from the foot of the table and came up to the top. Dorian Gray changed his seat and went and sat by Lord Henry. Mr. Chapman began to talk in a loud voice about the situation in the House of Commons. He guffawed at his adversaries. The word doctrinaire, word full of terror to the British mind, reappeared from time to time between his explosions. An alliterative prefix served as an ornament of oratory. He hoisted the Union Jack on the pinnacles of thought. The inherited stupidity of the race, sound English common sense he jovially termed it, was shown to be the proper bulwark for society.",
       "role": "paragraph"
     },
     {
@@ -3010,7 +3077,8 @@
       "order": 477,
       "chapterIndex": 8,
       "text": "“Yes,” he answered. Then he bit his lip. “No, I don’t mean that. I didn’t go to the club. I walked about. I forget what I did.... How inquisitive you are, Harry! You always want to know what one has been doing. I always want to forget what I have been doing. I came in at half-past two, if you wish to know the exact time. I had left my latch-key at home, and my servant had to let me in. If you want any corroborative evidence on the subject, you can ask him.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "“Yes,” he answered. Then he bit his lip. “No, I don’t mean that. I didn’t go to the club. I walked about. I forget what I did … How inquisitive you are, Harry! You always want to know what one has been doing. I always want to forget what I have been doing. I came in at half-past two, if you wish to know the exact time. I had left my latch-key at home, and my servant had to let me in. If you want any corroborative evidence on the subject, you can ask him.”"
     },
     {
       "order": 478,
@@ -3088,6 +3156,7 @@
       "order": 490,
       "chapterIndex": 9,
       "text": "CHAPTER XVI.",
+      "ttsText": "Chapter XVI.",
       "role": "heading"
     },
     {
@@ -3202,7 +3271,8 @@
       "order": 509,
       "chapterIndex": 9,
       "text": "“Darlington is not going to do anything. My brother paid the bill at last. George doesn’t speak to me either.... I don’t care,” he added with a sigh. “As long as one has this stuff, one doesn’t want friends. I think I have had too many friends.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsText": "“Darlington is not going to do anything. My brother paid the bill at last. George doesn’t speak to me either … I don’t care,” he added with a sigh. “As long as one has this stuff, one doesn’t want friends. I think I have had too many friends.”"
     },
     {
       "order": 510,
@@ -3400,6 +3470,7 @@
       "order": 542,
       "chapterIndex": 9,
       "text": "“You had better confess your sin, for as sure as I am James Vane, you are going to die.” There was a horrible moment. Dorian did not know what to say or do. “Down on your knees!” growled the man. “I give you one minute to make your peace—no more. I go on board to-night for India, and I must do my job first. One minute. That’s all.”",
+      "ttsText": "“You had better confess your sin, for as sure as I am James Vane, you are going to die.” There was a horrible moment. Dorian did not know what to say or do. “Down on your knees!” growled the man. “I give you one minute to make your peace, no more. I go on board to-night for India, and I must do my job first. One minute. That’s all.”",
       "role": "paragraph"
     },
     {
@@ -3532,6 +3603,7 @@
       "order": 564,
       "chapterIndex": 10,
       "text": "CHAPTER XVII.",
+      "ttsText": "Chapter XVII.",
       "role": "heading"
     },
     {
@@ -3556,6 +3628,7 @@
       "order": 568,
       "chapterIndex": 10,
       "text": "“My dear Gladys, I would not alter either name for the world. They are both perfect. I was thinking chiefly of flowers. Yesterday I cut an orchid, for my button-hole. It was a marvellous spotted thing, as effective as the seven deadly sins. In a thoughtless moment I asked one of the gardeners what it was called. He told me it was a fine specimen of Robinsoniana , or something dreadful of that kind. It is a sad truth, but we have lost the faculty of giving lovely names to things. Names are everything. I never quarrel with actions. My one quarrel is with words. That is the reason I hate vulgar realism in literature. The man who could call a spade a spade should be compelled to use one. It is the only thing he is fit for.”",
+      "ttsText": "“My dear Gladys, I would not alter either name for the world. They are both perfect. I was thinking chiefly of flowers. Yesterday I cut an orchid, for my button-hole. It was a marvellous spotted thing, as effective as the seven deadly sins. In a thoughtless moment I asked one of the gardeners what it was called. He told me it was a fine specimen of Robinsoniana, or something dreadful of that kind. It is a sad truth, but we have lost the faculty of giving lovely names to things. Names are everything. I never quarrel with actions. My one quarrel is with words. That is the reason I hate vulgar realism in literature. The man who could call a spade a spade should be compelled to use one. It is the only thing he is fit for.”",
       "role": "paragraph"
     },
     {
@@ -4054,6 +4127,7 @@
       "order": 651,
       "chapterIndex": 10,
       "text": "“Pace gives life,” was the riposte .",
+      "ttsText": "“Pace gives life,” was the riposte.",
       "role": "paragraph"
     },
     {
@@ -4234,6 +4308,7 @@
       "order": 681,
       "chapterIndex": 11,
       "text": "CHAPTER XVIII.",
+      "ttsText": "Chapter XVIII.",
       "role": "heading"
     },
     {
@@ -4336,6 +4411,7 @@
       "order": 698,
       "chapterIndex": 11,
       "text": "After a few moments—that were to him, in his perturbed state, like endless hours of pain—he felt a hand laid on his shoulder. He started and looked round.",
+      "ttsText": "After a few moments, that were to him, in his perturbed state, like endless hours of pain, he felt a hand laid on his shoulder. He started and looked round.",
       "role": "paragraph"
     },
     {
@@ -4348,6 +4424,7 @@
       "order": 700,
       "chapterIndex": 11,
       "text": "“I wish it were stopped for ever, Harry,” he answered bitterly. “The whole thing is hideous and cruel. Is the man ...?”",
+      "ttsText": "“I wish it were stopped for ever, Harry,” he answered bitterly. “The whole thing is hideous and cruel. Is the man …?”",
       "role": "paragraph"
     },
     {
@@ -4384,6 +4461,7 @@
       "order": 706,
       "chapterIndex": 11,
       "text": "The elder man laughed. “The only horrible thing in the world is ennui , Dorian. That is the one sin for which there is no forgiveness. But we are not likely to suffer from it unless these fellows keep chattering about this thing at dinner. I must tell them that the subject is to be tabooed. As for omens, there is no such thing as an omen. Destiny does not send us heralds. She is too wise or too cruel for that. Besides, what on earth could happen to you, Dorian? You have everything in the world that a man can want. There is no one who would not be delighted to change places with you.”",
+      "ttsText": "The elder man laughed. “The only horrible thing in the world is ennui, Dorian. That is the one sin for which there is no forgiveness. But we are not likely to suffer from it unless these fellows keep chattering about this thing at dinner. I must tell them that the subject is to be tabooed. As for omens, there is no such thing as an omen. Destiny does not send us heralds. She is too wise or too cruel for that. Besides, what on earth could happen to you, Dorian? You have everything in the world that a man can want. There is no one who would not be delighted to change places with you.”",
       "role": "paragraph"
     },
     {
@@ -4732,6 +4810,7 @@
       "order": 764,
       "chapterIndex": 11,
       "text": "“Some money, sir—not much, and a six-shooter. There was no name of any kind. A decent-looking man, sir, but rough-like. A sort of sailor we think.”",
+      "ttsText": "“Some money, sir, not much, and a six-shooter. There was no name of any kind. A decent-looking man, sir, but rough-like. A sort of sailor we think.”",
       "role": "paragraph"
     },
     {
@@ -4810,6 +4889,7 @@
       "order": 777,
       "chapterIndex": 12,
       "text": "CHAPTER I.",
+      "ttsText": "Chapter I.",
       "role": "heading"
     },
     {
@@ -4876,12 +4956,14 @@
       "order": 788,
       "chapterIndex": 12,
       "text": "“Too much of yourself in it! Upon my word, Basil, I didn’t know you were so vain; and I really can’t see any resemblance between you, with your rugged strong face and your coal-black hair, and this young Adonis, who looks as if he was made out of ivory and rose-leaves. Why, my dear Basil, he is a Narcissus, and you—well, of course you have an intellectual expression and all that. But beauty, real beauty, ends where an intellectual expression begins. Intellect is in itself a mode of exaggeration, and destroys the harmony of any face. The moment one sits down to think, one becomes all nose, or all forehead, or something horrid. Look at the successful men in any of the learned professions. How perfectly hideous they are! Except, of course, in the Church. But then in the Church they don’t think. A bishop keeps on saying at the age of eighty what he was told to say when he was a boy of eighteen, and as a natural consequence he always looks absolutely delightful. Your mysterious young friend, whose name you have never told me, but whose picture really fascinates me, never thinks. I feel quite sure of that. He is some brainless beautiful creature who should be always here in winter when we have no flowers to look at, and always here in summer when we want something to chill our intelligence. Don’t flatter yourself, Basil: you are not in the least like him.”",
+      "ttsText": "“Too much of yourself in it! Upon my word, Basil, I didn’t know you were so vain; and I really can’t see any resemblance between you, with your rugged strong face and your coal-black hair, and this young Adonis, who looks as if he was made out of ivory and rose-leaves. Why, my dear Basil, he is a Narcissus, and you, well, of course you have an intellectual expression and all that. But beauty, real beauty, ends where an intellectual expression begins. Intellect is in itself a mode of exaggeration, and destroys the harmony of any face. The moment one sits down to think, one becomes all nose, or all forehead, or something horrid. Look at the successful men in any of the learned professions. How perfectly hideous they are! Except, of course, in the Church. But then in the Church they don’t think. A bishop keeps on saying at the age of eighty what he was told to say when he was a boy of eighteen, and as a natural consequence he always looks absolutely delightful. Your mysterious young friend, whose name you have never told me, but whose picture really fascinates me, never thinks. I feel quite sure of that. He is some brainless beautiful creature who should be always here in winter when we have no flowers to look at, and always here in summer when we want something to chill our intelligence. Don’t flatter yourself, Basil: you are not in the least like him.”",
       "role": "paragraph"
     },
     {
       "order": 789,
       "chapterIndex": 12,
       "text": "“You don’t understand me, Harry,” answered the artist. “Of course I am not like him. I know that perfectly well. Indeed, I should be sorry to look like him. You shrug your shoulders? I am telling you the truth. There is a fatality about all physical and intellectual distinction, the sort of fatality that seems to dog through history the faltering steps of kings. It is better not to be different from one’s fellows. The ugly and the stupid have the best of it in this world. They can sit at their ease and gape at the play. If they know nothing of victory, they are at least spared the knowledge of defeat. They live as we all should live—undisturbed, indifferent, and without disquiet. They neither bring ruin upon others, nor ever receive it from alien hands. Your rank and wealth, Harry; my brains, such as they are—my art, whatever it may be worth; Dorian Gray’s good looks—we shall all suffer for what the gods have given us, suffer terribly.”",
+      "ttsText": "“You don’t understand me, Harry,” answered the artist. “Of course I am not like him. I know that perfectly well. Indeed, I should be sorry to look like him. You shrug your shoulders? I am telling you the truth. There is a fatality about all physical and intellectual distinction, the sort of fatality that seems to dog through history the faltering steps of kings. It is better not to be different from one’s fellows. The ugly and the stupid have the best of it in this world. They can sit at their ease and gape at the play. If they know nothing of victory, they are at least spared the knowledge of defeat. They live as we all should live, undisturbed, indifferent, and without disquiet. They neither bring ruin upon others, nor ever receive it from alien hands. Your rank and wealth, Harry; my brains, such as they are, my art, whatever it may be worth; Dorian Gray’s good looks, we shall all suffer for what the gods have given us, suffer terribly.”",
       "role": "paragraph"
     },
     {
@@ -4912,6 +4994,7 @@
       "order": 794,
       "chapterIndex": 12,
       "text": "“Not at all,” answered Lord Henry, “not at all, my dear Basil. You seem to forget that I am married, and the one charm of marriage is that it makes a life of deception absolutely necessary for both parties. I never know where my wife is, and my wife never knows what I am doing. When we meet—we do meet occasionally, when we dine out together, or go down to the Duke’s—we tell each other the most absurd stories with the most serious faces. My wife is very good at it—much better, in fact, than I am. She never gets confused over her dates, and I always do. But when she does find me out, she makes no row at all. I sometimes wish she would; but she merely laughs at me.”",
+      "ttsText": "“Not at all,” answered Lord Henry, “not at all, my dear Basil. You seem to forget that I am married, and the one charm of marriage is that it makes a life of deception absolutely necessary for both parties. I never know where my wife is, and my wife never knows what I am doing. When we meet, we do meet occasionally, when we dine out together, or go down to the Duke’s, we tell each other the most absurd stories with the most serious faces. My wife is very good at it, much better, in fact, than I am. She never gets confused over her dates, and I always do. But when she does find me out, she makes no row at all. I sometimes wish she would; but she merely laughs at me.”",
       "role": "paragraph"
     },
     {
@@ -5014,6 +5097,7 @@
       "order": 811,
       "chapterIndex": 12,
       "text": "“The story is simply this,” said the painter after some time. “Two months ago I went to a crush at Lady Brandon’s. You know we poor artists have to show ourselves in society from time to time, just to remind the public that we are not savages. With an evening coat and a white tie, as you told me once, anybody, even a stock-broker, can gain a reputation for being civilized. Well, after I had been in the room about ten minutes, talking to huge overdressed dowagers and tedious academicians, I suddenly became conscious that some one was looking at me. I turned half-way round and saw Dorian Gray for the first time. When our eyes met, I felt that I was growing pale. A curious sensation of terror came over me. I knew that I had come face to face with some one whose mere personality was so fascinating that, if I allowed it to do so, it would absorb my whole nature, my whole soul, my very art itself. I did not want any external influence in my life. You know yourself, Harry, how independent I am by nature. I have always been my own master; had at least always been so, till I met Dorian Gray. Then—but I don’t know how to explain it to you. Something seemed to tell me that I was on the verge of a terrible crisis in my life. I had a strange feeling that fate had in store for me exquisite joys and exquisite sorrows. I grew afraid and turned to quit the room. It was not conscience that made me do so: it was a sort of cowardice. I take no credit to myself for trying to escape.”",
+      "ttsText": "“The story is simply this,” said the painter after some time. “Two months ago I went to a crush at Lady Brandon’s. You know we poor artists have to show ourselves in society from time to time, just to remind the public that we are not savages. With an evening coat and a white tie, as you told me once, anybody, even a stock-broker, can gain a reputation for being civilized. Well, after I had been in the room about ten minutes, talking to huge overdressed dowagers and tedious academicians, I suddenly became conscious that some one was looking at me. I turned half-way round and saw Dorian Gray for the first time. When our eyes met, I felt that I was growing pale. A curious sensation of terror came over me. I knew that I had come face to face with some one whose mere personality was so fascinating that, if I allowed it to do so, it would absorb my whole nature, my whole soul, my very art itself. I did not want any external influence in my life. You know yourself, Harry, how independent I am by nature. I have always been my own master; had at least always been so, till I met Dorian Gray. Then, but I don’t know how to explain it to you. Something seemed to tell me that I was on the verge of a terrible crisis in my life. I had a strange feeling that fate had in store for me exquisite joys and exquisite sorrows. I grew afraid and turned to quit the room. It was not conscience that made me do so: it was a sort of cowardice. I take no credit to myself for trying to escape.”",
       "role": "paragraph"
     },
     {
@@ -5026,6 +5110,7 @@
       "order": 813,
       "chapterIndex": 12,
       "text": "“I don’t believe that, Harry, and I don’t believe you do either. However, whatever was my motive—and it may have been pride, for I used to be very proud—I certainly struggled to the door. There, of course, I stumbled against Lady Brandon. ‘You are not going to run away so soon, Mr. Hallward?’ she screamed out. You know her curiously shrill voice?”",
+      "ttsText": "“I don’t believe that, Harry, and I don’t believe you do either. However, whatever was my motive, and it may have been pride, for I used to be very proud, I certainly struggled to the door. There, of course, I stumbled against Lady Brandon. ‘You are not going to run away so soon, Mr. Hallward?’ she screamed out. You know her curiously shrill voice?”",
       "role": "paragraph"
     },
     {
@@ -5056,12 +5141,14 @@
       "order": 818,
       "chapterIndex": 12,
       "text": "“My dear fellow, she tried to found a salon , and only succeeded in opening a restaurant. How could I admire her? But tell me, what did she say about Mr. Dorian Gray?”",
+      "ttsText": "“My dear fellow, she tried to found a salon, and only succeeded in opening a restaurant. How could I admire her? But tell me, what did she say about Mr. Dorian Gray?”",
       "role": "paragraph"
     },
     {
       "order": 819,
       "chapterIndex": 12,
       "text": "“Oh, something like, ‘Charming boy—poor dear mother and I absolutely inseparable. Quite forget what he does—afraid he—doesn’t do anything—oh, yes, plays the piano—or is it the violin, dear Mr. Gray?’ Neither of us could help laughing, and we became friends at once.”",
+      "ttsText": "“Oh, something like, ‘Charming boy, poor dear mother and I absolutely inseparable. Quite forget what he does, afraid he, doesn’t do anything, oh, yes, plays the piano, or is it the violin, dear Mr. Gray?’ Neither of us could help laughing, and we became friends at once.”",
       "role": "paragraph"
     },
     {
@@ -5074,6 +5161,7 @@
       "order": 821,
       "chapterIndex": 12,
       "text": "Hallward shook his head. “You don’t understand what friendship is, Harry,” he murmured—“or what enmity is, for that matter. You like every one; that is to say, you are indifferent to every one.”",
+      "ttsText": "Hallward shook his head. “You don’t understand what friendship is, Harry,” he murmured, “or what enmity is, for that matter. You like every one; that is to say, you are indifferent to every one.”",
       "role": "paragraph"
     },
     {
@@ -5128,6 +5216,7 @@
       "order": 830,
       "chapterIndex": 12,
       "text": "Lord Henry stroked his pointed brown beard and tapped the toe of his patent-leather boot with a tasselled ebony cane. “How English you are Basil! That is the second time you have made that observation. If one puts forward an idea to a true Englishman—always a rash thing to do—he never dreams of considering whether the idea is right or wrong. The only thing he considers of any importance is whether one believes it oneself. Now, the value of an idea has nothing whatsoever to do with the sincerity of the man who expresses it. Indeed, the probabilities are that the more insincere the man is, the more purely intellectual will the idea be, as in that case it will not be coloured by either his wants, his desires, or his prejudices. However, I don’t propose to discuss politics, sociology, or metaphysics with you. I like persons better than principles, and I like persons with no principles better than anything else in the world. Tell me more about Mr. Dorian Gray. How often do you see him?”",
+      "ttsText": "Lord Henry stroked his pointed brown beard and tapped the toe of his patent-leather boot with a tasselled ebony cane. “How English you are Basil! That is the second time you have made that observation. If one puts forward an idea to a true Englishman, always a rash thing to do, he never dreams of considering whether the idea is right or wrong. The only thing he considers of any importance is whether one believes it oneself. Now, the value of an idea has nothing whatsoever to do with the sincerity of the man who expresses it. Indeed, the probabilities are that the more insincere the man is, the more purely intellectual will the idea be, as in that case it will not be coloured by either his wants, his desires, or his prejudices. However, I don’t propose to discuss politics, sociology, or metaphysics with you. I like persons better than principles, and I like persons with no principles better than anything else in the world. Tell me more about Mr. Dorian Gray. How often do you see him?”",
       "role": "paragraph"
     },
     {
@@ -5146,6 +5235,7 @@
       "order": 833,
       "chapterIndex": 12,
       "text": "“He is all my art to me now,” said the painter gravely. “I sometimes think, Harry, that there are only two eras of any importance in the world’s history. The first is the appearance of a new medium for art, and the second is the appearance of a new personality for art also. What the invention of oil-painting was to the Venetians, the face of Antinous was to late Greek sculpture, and the face of Dorian Gray will some day be to me. It is not merely that I paint from him, draw from him, sketch from him. Of course, I have done all that. But he is much more to me than a model or a sitter. I won’t tell you that I am dissatisfied with what I have done of him, or that his beauty is such that art cannot express it. There is nothing that art cannot express, and I know that the work I have done, since I met Dorian Gray, is good work, is the best work of my life. But in some curious way—I wonder will you understand me?—his personality has suggested to me an entirely new manner in art, an entirely new mode of style. I see things differently, I think of them differently. I can now recreate life in a way that was hidden from me before. ‘A dream of form in days of thought’—who is it who says that? I forget; but it is what Dorian Gray has been to me. The merely visible presence of this lad—for he seems to me little more than a lad, though he is really over twenty—his merely visible presence—ah! I wonder can you realize all that that means? Unconsciously he defines for me the lines of a fresh school, a school that is to have in it all the passion of the romantic spirit, all the perfection of the spirit that is Greek. The harmony of soul and body—how much that is! We in our madness have separated the two, and have invented a realism that is vulgar, an ideality that is void. Harry! if you only knew what Dorian Gray is to me! You remember that landscape of mine, for which Agnew offered me such a huge price but which I would not part with? It is one of the best things I have ever done. And why is it so? Because, while I was painting it, Dorian Gray sat beside me. Some subtle influence passed from him to me, and for the first time in my life I saw in the plain woodland the wonder I had always looked for and always missed.”",
+      "ttsText": "“He is all my art to me now,” said the painter gravely. “I sometimes think, Harry, that there are only two eras of any importance in the world’s history. The first is the appearance of a new medium for art, and the second is the appearance of a new personality for art also. What the invention of oil-painting was to the Venetians, the face of Antinous was to late Greek sculpture, and the face of Dorian Gray will some day be to me. It is not merely that I paint from him, draw from him, sketch from him. Of course, I have done all that. But he is much more to me than a model or a sitter. I won’t tell you that I am dissatisfied with what I have done of him, or that his beauty is such that art cannot express it. There is nothing that art cannot express, and I know that the work I have done, since I met Dorian Gray, is good work, is the best work of my life. But in some curious way, I wonder will you understand me?, his personality has suggested to me an entirely new manner in art, an entirely new mode of style. I see things differently, I think of them differently. I can now recreate life in a way that was hidden from me before. ‘A dream of form in days of thought’, who is it who says that? I forget; but it is what Dorian Gray has been to me. The merely visible presence of this lad, for he seems to me little more than a lad, though he is really over twenty, his merely visible presence, ah! I wonder can you realize all that that means? Unconsciously he defines for me the lines of a fresh school, a school that is to have in it all the passion of the romantic spirit, all the perfection of the spirit that is Greek. The harmony of soul and body, how much that is! We in our madness have separated the two, and have invented a realism that is vulgar, an ideality that is void. Harry! if you only knew what Dorian Gray is to me! You remember that landscape of mine, for which Agnew offered me such a huge price but which I would not part with? It is one of the best things I have ever done. And why is it so? Because, while I was painting it, Dorian Gray sat beside me. Some subtle influence passed from him to me, and for the first time in my life I saw in the plain woodland the wonder I had always looked for and always missed.”",
       "role": "paragraph"
     },
     {
@@ -5170,6 +5260,7 @@
       "order": 837,
       "chapterIndex": 12,
       "text": "“Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their microscope. There is too much of myself in the thing, Harry—too much of myself!”",
+      "ttsText": "“Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their microscope. There is too much of myself in the thing, Harry, too much of myself!”",
       "role": "paragraph"
     },
     {
@@ -5200,6 +5291,7 @@
       "order": 842,
       "chapterIndex": 12,
       "text": "“Days in summer, Basil, are apt to linger,” murmured Lord Henry. “Perhaps you will tire sooner than he will. It is a sad thing to think of, but there is no doubt that genius lasts longer than beauty. That accounts for the fact that we all take such pains to over-educate ourselves. In the wild struggle for existence, we want to have something that endures, and so we fill our minds with rubbish and facts, in the silly hope of keeping our place. The thoroughly well-informed man—that is the modern ideal. And the mind of the thoroughly well-informed man is a dreadful thing. It is like a bric-à-brac shop, all monsters and dust, with everything priced above its proper value. I think you will tire first, all the same. Some day you will look at your friend, and he will seem to you to be a little out of drawing, or you won’t like his tone of colour, or something. You will bitterly reproach him in your own heart, and seriously think that he has behaved very badly to you. The next time he calls, you will be perfectly cold and indifferent. It will be a great pity, for it will alter you. What you have told me is quite a romance, a romance of art one might call it, and the worst of having a romance of any kind is that it leaves one so unromantic.”",
+      "ttsText": "“Days in summer, Basil, are apt to linger,” murmured Lord Henry. “Perhaps you will tire sooner than he will. It is a sad thing to think of, but there is no doubt that genius lasts longer than beauty. That accounts for the fact that we all take such pains to over-educate ourselves. In the wild struggle for existence, we want to have something that endures, and so we fill our minds with rubbish and facts, in the silly hope of keeping our place. The thoroughly well-informed man, that is the modern ideal. And the mind of the thoroughly well-informed man is a dreadful thing. It is like a bric-à-brac shop, all monsters and dust, with everything priced above its proper value. I think you will tire first, all the same. Some day you will look at your friend, and he will seem to you to be a little out of drawing, or you won’t like his tone of colour, or something. You will bitterly reproach him in your own heart, and seriously think that he has behaved very badly to you. The next time he calls, you will be perfectly cold and indifferent. It will be a great pity, for it will alter you. What you have told me is quite a romance, a romance of art one might call it, and the worst of having a romance of any kind is that it leaves one so unromantic.”",
       "role": "paragraph"
     },
     {
@@ -5212,6 +5304,7 @@
       "order": 844,
       "chapterIndex": 12,
       "text": "“Ah, my dear Basil, that is exactly why I can feel it. Those who are faithful know only the trivial side of love: it is the faithless who know love’s tragedies.” And Lord Henry struck a light on a dainty silver case and began to smoke a cigarette with a self-conscious and satisfied air, as if he had summed up the world in a phrase. There was a rustle of chirruping sparrows in the green lacquer leaves of the ivy, and the blue cloud-shadows chased themselves across the grass like swallows. How pleasant it was in the garden! And how delightful other people’s emotions were!—much more delightful than their ideas, it seemed to him. One’s own soul, and the passions of one’s friends—those were the fascinating things in life. He pictured to himself with silent amusement the tedious luncheon that he had missed by staying so long with Basil Hallward. Had he gone to his aunt’s, he would have been sure to have met Lord Goodbody there, and the whole conversation would have been about the feeding of the poor and the necessity for model lodging-houses. Each class would have preached the importance of those virtues, for whose exercise there was no necessity in their own lives. The rich would have spoken on the value of thrift, and the idle grown eloquent over the dignity of labour. It was charming to have escaped all that! As he thought of his aunt, an idea seemed to strike him. He turned to Hallward and said, “My dear fellow, I have just remembered.”",
+      "ttsText": "“Ah, my dear Basil, that is exactly why I can feel it. Those who are faithful know only the trivial side of love: it is the faithless who know love’s tragedies.” And Lord Henry struck a light on a dainty silver case and began to smoke a cigarette with a self-conscious and satisfied air, as if he had summed up the world in a phrase. There was a rustle of chirruping sparrows in the green lacquer leaves of the ivy, and the blue cloud-shadows chased themselves across the grass like swallows. How pleasant it was in the garden! And how delightful other people’s emotions were!, much more delightful than their ideas, it seemed to him. One’s own soul, and the passions of one’s friends, those were the fascinating things in life. He pictured to himself with silent amusement the tedious luncheon that he had missed by staying so long with Basil Hallward. Had he gone to his aunt’s, he would have been sure to have met Lord Goodbody there, and the whole conversation would have been about the feeding of the poor and the necessity for model lodging-houses. Each class would have preached the importance of those virtues, for whose exercise there was no necessity in their own lives. The rich would have spoken on the value of thrift, and the idle grown eloquent over the dignity of labour. It was charming to have escaped all that! As he thought of his aunt, an idea seemed to strike him. He turned to Hallward and said, “My dear fellow, I have just remembered.”",
       "role": "paragraph"
     },
     {
@@ -5308,6 +5401,7 @@
       "order": 860,
       "chapterIndex": 13,
       "text": "CHAPTER XIX.",
+      "ttsText": "Chapter XIX.",
       "role": "heading"
     },
     {
@@ -5488,6 +5582,7 @@
       "order": 890,
       "chapterIndex": 13,
       "text": "“I forget,” said Dorian. “I suppose I did. But I never really liked it. I am sorry I sat for it. The memory of the thing is hateful to me. Why do you talk of it? It used to remind me of those curious lines in some play—Hamlet, I think—how do they run?—",
+      "ttsText": "“I forget,” said Dorian. “I suppose I did. But I never really liked it. I am sorry I sat for it. The memory of the thing is hateful to me. Why do you talk of it? It used to remind me of those curious lines in some play, Hamlet, I think, how do they run?,",
       "role": "paragraph"
     },
     {
@@ -5524,6 +5619,7 @@
       "order": 896,
       "chapterIndex": 13,
       "text": "The elder man lay back and looked at him with half-closed eyes. “By the way, Dorian,” he said after a pause, “‘what does it profit a man if he gain the whole world and lose—how does the quotation run?—his own soul’?”",
+      "ttsText": "The elder man lay back and looked at him with half-closed eyes. “By the way, Dorian,” he said after a pause, “‘what does it profit a man if he gain the whole world and lose, how does the quotation run?, his own soul’?”",
       "role": "paragraph"
     },
     {
@@ -5536,6 +5632,7 @@
       "order": 898,
       "chapterIndex": 13,
       "text": "“My dear fellow,” said Lord Henry, elevating his eyebrows in surprise, “I asked you because I thought you might be able to give me an answer. That is all. I was going through the park last Sunday, and close by the Marble Arch there stood a little crowd of shabby-looking people listening to some vulgar street-preacher. As I passed by, I heard the man yelling out that question to his audience. It struck me as being rather dramatic. London is very rich in curious effects of that kind. A wet Sunday, an uncouth Christian in a mackintosh, a ring of sickly white faces under a broken roof of dripping umbrellas, and a wonderful phrase flung into the air by shrill hysterical lips—it was really very good in its way, quite a suggestion. I thought of telling the prophet that art had a soul, but that man had not. I am afraid, however, he would not have understood me.”",
+      "ttsText": "“My dear fellow,” said Lord Henry, elevating his eyebrows in surprise, “I asked you because I thought you might be able to give me an answer. That is all. I was going through the park last Sunday, and close by the Marble Arch there stood a little crowd of shabby-looking people listening to some vulgar street-preacher. As I passed by, I heard the man yelling out that question to his audience. It struck me as being rather dramatic. London is very rich in curious effects of that kind. A wet Sunday, an uncouth Christian in a mackintosh, a ring of sickly white faces under a broken roof of dripping umbrellas, and a wonderful phrase flung into the air by shrill hysterical lips, it was really very good in its way, quite a suggestion. I thought of telling the prophet that art had a soul, but that man had not. I am afraid, however, he would not have understood me.”",
       "role": "paragraph"
     },
     {
@@ -5572,6 +5669,7 @@
       "order": 904,
       "chapterIndex": 13,
       "text": "“Yes, you are the same. I wonder what the rest of your life will be. Don’t spoil it by renunciations. At present you are a perfect type. Don’t make yourself incomplete. You are quite flawless now. You need not shake your head: you know you are. Besides, Dorian, don’t deceive yourself. Life is not governed by will or intention. Life is a question of nerves, and fibres, and slowly built-up cells in which thought hides itself and passion has its dreams. You may fancy yourself safe and think yourself strong. But a chance tone of colour in a room or a morning sky, a particular perfume that you had once loved and that brings subtle memories with it, a line from a forgotten poem that you had come across again, a cadence from a piece of music that you had ceased to play—I tell you, Dorian, that it is on things like these that our lives depend. Browning writes about that somewhere; but our own senses will imagine them for us. There are moments when the odour of lilas blanc passes suddenly across me, and I have to live the strangest month of my life over again. I wish I could change places with you, Dorian. The world has cried out against us both, but it has always worshipped you. It always will worship you. You are the type of what the age is searching for, and what it is afraid it has found. I am so glad that you have never done anything, never carved a statue, or painted a picture, or produced anything outside of yourself! Life has been your art. You have set yourself to music. Your days are your sonnets.”",
+      "ttsText": "“Yes, you are the same. I wonder what the rest of your life will be. Don’t spoil it by renunciations. At present you are a perfect type. Don’t make yourself incomplete. You are quite flawless now. You need not shake your head: you know you are. Besides, Dorian, don’t deceive yourself. Life is not governed by will or intention. Life is a question of nerves, and fibres, and slowly built-up cells in which thought hides itself and passion has its dreams. You may fancy yourself safe and think yourself strong. But a chance tone of colour in a room or a morning sky, a particular perfume that you had once loved and that brings subtle memories with it, a line from a forgotten poem that you had come across again, a cadence from a piece of music that you had ceased to play, I tell you, Dorian, that it is on things like these that our lives depend. Browning writes about that somewhere; but our own senses will imagine them for us. There are moments when the odour of lilas blanc passes suddenly across me, and I have to live the strangest month of my life over again. I wish I could change places with you, Dorian. The world has cried out against us both, but it has always worshipped you. It always will worship you. You are the type of what the age is searching for, and what it is afraid it has found. I am so glad that you have never done anything, never carved a statue, or painted a picture, or produced anything outside of yourself! Life has been your art. You have set yourself to music. Your days are your sonnets.”",
       "role": "paragraph"
     },
     {
@@ -5584,6 +5682,7 @@
       "order": 906,
       "chapterIndex": 13,
       "text": "“Why have you stopped playing, Dorian? Go back and give me the nocturne over again. Look at that great, honey-coloured moon that hangs in the dusky air. She is waiting for you to charm her, and if you play she will come closer to the earth. You won’t? Let us go to the club, then. It has been a charming evening, and we must end it charmingly. There is some one at White’s who wants immensely to know you—young Lord Poole, Bournemouth’s eldest son. He has already copied your neckties, and has begged me to introduce him to you. He is quite delightful and rather reminds me of you.”",
+      "ttsText": "“Why have you stopped playing, Dorian? Go back and give me the nocturne over again. Look at that great, honey-coloured moon that hangs in the dusky air. She is waiting for you to charm her, and if you play she will come closer to the earth. You won’t? Let us go to the club, then. It has been a charming evening, and we must end it charmingly. There is some one at White’s who wants immensely to know you, young Lord Poole, Bournemouth’s eldest son. He has already copied your neckties, and has begged me to introduce him to you. He is quite delightful and rather reminds me of you.”",
       "role": "paragraph"
     },
     {
@@ -5650,12 +5749,14 @@
       "order": 917,
       "chapterIndex": 14,
       "text": "CHAPTER XX.",
+      "ttsText": "Chapter XX.",
       "role": "heading"
     },
     {
       "order": 918,
       "chapterIndex": 14,
       "text": "It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, “That is Dorian Gray.” He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was. He had often told the girl whom he had lured to love him that he was poor, and she had believed him. He had told her once that he was wicked, and she had laughed at him and answered that wicked people were always very old and very ugly. What a laugh she had!—just like a thrush singing. And how pretty she had been in her cotton dresses and her large hats! She knew nothing, but she had everything that he had lost.",
+      "ttsText": "It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, “That is Dorian Gray.” He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was. He had often told the girl whom he had lured to love him that he was poor, and she had believed him. He had told her once that he was wicked, and she had laughed at him and answered that wicked people were always very old and very ugly. What a laugh she had!, just like a thrush singing. And how pretty she had been in her cotton dresses and her large hats! She knew nothing, but she had everything that he had lost.",
       "role": "paragraph"
     },
     {
@@ -5668,6 +5769,7 @@
       "order": 920,
       "chapterIndex": 14,
       "text": "Was it really true that one could never change? He felt a wild longing for the unstained purity of his boyhood—his rose-white boyhood, as Lord Henry had once called it. He knew that he had tarnished himself, filled his mind with corruption and given horror to his fancy; that he had been an evil influence to others, and had experienced a terrible joy in being so; and that of the lives that had crossed his own, it had been the fairest and the most full of promise that he had brought to shame. But was it all irretrievable? Was there no hope for him?",
+      "ttsText": "Was it really true that one could never change? He felt a wild longing for the unstained purity of his boyhood, his rose-white boyhood, as Lord Henry had once called it. He knew that he had tarnished himself, filled his mind with corruption and given horror to his fancy; that he had been an evil influence to others, and had experienced a terrible joy in being so; and that of the lives that had crossed his own, it had been the fairest and the most full of promise that he had brought to shame. But was it all irretrievable? Was there no hope for him?",
       "role": "paragraph"
     },
     {
@@ -5710,12 +5812,14 @@
       "order": 927,
       "chapterIndex": 14,
       "text": "He went in quietly, locking the door behind him, as was his custom, and dragged the purple hanging from the portrait. A cry of pain and indignation broke from him. He could see no change, save that in the eyes there was a look of cunning and in the mouth the curved wrinkle of the hypocrite. The thing was still loathsome—more loathsome, if possible, than before—and the scarlet dew that spotted the hand seemed brighter, and more like blood newly spilled. Then he trembled. Had it been merely vanity that had made him do his one good deed? Or the desire for a new sensation, as Lord Henry had hinted, with his mocking laugh? Or that passion to act a part that sometimes makes us do things finer than we are ourselves? Or, perhaps, all these? And why was the red stain larger than it had been? It seemed to have crept like a horrible disease over the wrinkled fingers. There was blood on the painted feet, as though the thing had dripped—blood even on the hand that had not held the knife. Confess? Did it mean that he was to confess? To give himself up and be put to death? He laughed. He felt that the idea was monstrous. Besides, even if he did confess, who would believe him? There was no trace of the murdered man anywhere. Everything belonging to him had been destroyed. He himself had burned what had been below-stairs. The world would simply say that he was mad. They would shut him up if he persisted in his story.... Yet it was his duty to confess, to suffer public shame, and to make public atonement. There was a God who called upon men to tell their sins to earth as well as to heaven. Nothing that he could do would cleanse him till he had told his own sin. His sin? He shrugged his shoulders. The death of Basil Hallward seemed very little to him. He was thinking of Hetty Merton. For it was an unjust mirror, this mirror of his soul that he was looking at. Vanity? Curiosity? Hypocrisy? Had there been nothing more in his renunciation than that? There had been something more. At least he thought so. But who could tell? ... No. There had been nothing more. Through vanity he had spared her. In hypocrisy he had worn the mask of goodness. For curiosity’s sake he had tried the denial of self. He recognized that now.",
+      "ttsText": "He went in quietly, locking the door behind him, as was his custom, and dragged the purple hanging from the portrait. A cry of pain and indignation broke from him. He could see no change, save that in the eyes there was a look of cunning and in the mouth the curved wrinkle of the hypocrite. The thing was still loathsome, more loathsome, if possible, than before, and the scarlet dew that spotted the hand seemed brighter, and more like blood newly spilled. Then he trembled. Had it been merely vanity that had made him do his one good deed? Or the desire for a new sensation, as Lord Henry had hinted, with his mocking laugh? Or that passion to act a part that sometimes makes us do things finer than we are ourselves? Or, perhaps, all these? And why was the red stain larger than it had been? It seemed to have crept like a horrible disease over the wrinkled fingers. There was blood on the painted feet, as though the thing had dripped, blood even on the hand that had not held the knife. Confess? Did it mean that he was to confess? To give himself up and be put to death? He laughed. He felt that the idea was monstrous. Besides, even if he did confess, who would believe him? There was no trace of the murdered man anywhere. Everything belonging to him had been destroyed. He himself had burned what had been below-stairs. The world would simply say that he was mad. They would shut him up if he persisted in his story … Yet it was his duty to confess, to suffer public shame, and to make public atonement. There was a God who called upon men to tell their sins to earth as well as to heaven. Nothing that he could do would cleanse him till he had told his own sin. His sin? He shrugged his shoulders. The death of Basil Hallward seemed very little to him. He was thinking of Hetty Merton. For it was an unjust mirror, this mirror of his soul that he was looking at. Vanity? Curiosity? Hypocrisy? Had there been nothing more in his renunciation than that? There had been something more. At least he thought so. But who could tell? … No. There had been nothing more. Through vanity he had spared her. In hypocrisy he had worn the mask of goodness. For curiosity’s sake he had tried the denial of self. He recognized that now.",
       "role": "paragraph"
     },
     {
       "order": 928,
       "chapterIndex": 14,
       "text": "But this murder—was it to dog him all his life? Was he always to be burdened by his past? Was he really to confess? Never. There was only one bit of evidence left against him. The picture itself—that was evidence. He would destroy it. Why had he kept it so long? Once it had given him pleasure to watch it changing and growing old. Of late he had felt no such pleasure. It had kept him awake at night. When he had been away, he had been filled with terror lest other eyes should look upon it. It had brought melancholy across his passions. Its mere memory had marred many moments of joy. It had been like conscience to him. Yes, it had been conscience. He would destroy it.",
+      "ttsText": "But this murder, was it to dog him all his life? Was he always to be burdened by his past? Was he really to confess? Never. There was only one bit of evidence left against him. The picture itself, that was evidence. He would destroy it. Why had he kept it so long? Once it had given him pleasure to watch it changing and growing old. Of late he had felt no such pleasure. It had kept him awake at night. When he had been away, he had been filled with terror lest other eyes should look upon it. It had brought melancholy across his passions. Its mere memory had marred many moments of joy. It had been like conscience to him. Yes, it had been conscience. He would destroy it.",
       "role": "paragraph"
     },
     {
@@ -5758,6 +5862,7 @@
       "order": 935,
       "chapterIndex": 14,
       "text": "After about a quarter of an hour, he got the coachman and one of the footmen and crept upstairs. They knocked, but there was no reply. They called out. Everything was still. Finally, after vainly trying to force the door, they got on the roof and dropped down on to the balcony. The windows yielded easily—their bolts were old.",
+      "ttsText": "After about a quarter of an hour, he got the coachman and one of the footmen and crept upstairs. They knocked, but there was no reply. They called out. Everything was still. Finally, after vainly trying to force the door, they got on the roof and dropped down on to the balcony. The windows yielded easily, their bolts were old.",
       "role": "paragraph"
     },
     {
@@ -5770,6 +5875,7 @@
       "order": 937,
       "chapterIndex": 14,
       "text": "THE END",
+      "ttsText": "The End",
       "role": "title"
     },
     {

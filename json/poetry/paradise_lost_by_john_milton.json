@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-20T07:40:43.0673463Z",
+  "generatedAt": "2026-04-07T14:54:54.7549563Z",
   "source": {
     "id": "pg26",
     "title": "Paradise Lost",
@@ -208,72 +208,84 @@
       "order": 16,
       "chapterIndex": 0,
       "text": "BOOK I",
+      "ttsText": "Book I",
       "role": "heading"
     },
     {
       "order": 17,
       "chapterIndex": 0,
       "text": "BOOK II",
+      "ttsText": "Book II",
       "role": "heading"
     },
     {
       "order": 18,
       "chapterIndex": 0,
       "text": "BOOK III",
+      "ttsText": "Book III",
       "role": "heading"
     },
     {
       "order": 19,
       "chapterIndex": 0,
       "text": "BOOK IV",
+      "ttsText": "Book IV",
       "role": "heading"
     },
     {
       "order": 20,
       "chapterIndex": 0,
       "text": "BOOK V",
+      "ttsText": "Book V",
       "role": "heading"
     },
     {
       "order": 21,
       "chapterIndex": 0,
       "text": "BOOK VI",
+      "ttsText": "Book VI",
       "role": "heading"
     },
     {
       "order": 22,
       "chapterIndex": 0,
       "text": "BOOK VII",
+      "ttsText": "Book VII",
       "role": "heading"
     },
     {
       "order": 23,
       "chapterIndex": 0,
       "text": "BOOK VIII",
+      "ttsText": "Book VIII",
       "role": "heading"
     },
     {
       "order": 24,
       "chapterIndex": 0,
       "text": "BOOK IX",
+      "ttsText": "Book IX",
       "role": "heading"
     },
     {
       "order": 25,
       "chapterIndex": 0,
       "text": "BOOK X",
+      "ttsText": "Book X",
       "role": "heading"
     },
     {
       "order": 26,
       "chapterIndex": 0,
       "text": "BOOK XI",
+      "ttsText": "Book XI",
       "role": "heading"
     },
     {
       "order": 27,
       "chapterIndex": 0,
       "text": "BOOK XII",
+      "ttsText": "Book XII",
       "role": "heading"
     },
     {
@@ -292,6 +304,7 @@
       "order": 30,
       "chapterIndex": 1,
       "text": "This etext was originally created in 1964-1965 according to Dr. Joseph Raben of Queens College, NY, to whom it is attributed by Project Gutenberg. We had heard of this etext for years but it was not until 1991 that we actually managed to track it down to a specific location, and then it took months to convince people to let us have a copy, then more months for them actually to do the copying and get it to us. Then another month to convert to something we could massage with our favorite 486 in DOS. After that it was only a matter of days to get it into this shape you will see below. The original was, of course, in CAPS only, and so were all the other etexts of the 60’s and early 70’s. Don’t let anyone fool you into thinking any etext with both upper and lower case is an original; all those original Project Gutenberg etexts were also in upper case and were translated or rewritten many times to get them into their current condition. They have been worked on by many people throughout the world.",
+      "ttsText": "This etext was originally created in 1964-1965 according to Dr. Joseph Raben of Queens College, Ny, to whom it is attributed by Project Gutenberg. We had heard of this etext for years but it was not until 1991 that we actually managed to track it down to a specific location, and then it took months to convince people to let us have a copy, then more months for them actually to do the copying and get it to us. Then another month to convert to something we could massage with our favorite 486 in Dos. After that it was only a matter of days to get it into this shape you will see below. The original was, of course, in Caps only, and so were all the other etexts of the 60’s and early 70’s. Don’t let anyone fool you into thinking any etext with both upper and lower case is an original; all those original Project Gutenberg etexts were also in upper case and were translated or rewritten many times to get them into their current condition. They have been worked on by many people throughout the world.",
       "role": "paragraph"
     },
     {
@@ -304,6 +317,7 @@
       "order": 32,
       "chapterIndex": 1,
       "text": "To give you an estimation of the difference in the original and what we have today: the original was probably entered on cards commonly known at the time as “IBM cards” (Do Not Fold, Spindle or Mutilate) and probably took in excess of 100,000 of them. A single card could hold 80 characters (hence 80 characters is an accepted standard for so many computer margins), and the entire original edition we received in all caps was over 800,000 chars in length, including line enumeration, symbols for caps and the punctuation marks, etc., since they were not available keyboard characters at the time (probably the keyboards operated at baud rates of around 113, meaning the typists had to type slowly for the keyboard to keep up).",
+      "ttsText": "To give you an estimation of the difference in the original and what we have today: the original was probably entered on cards commonly known at the time as “Ibm cards” (Do Not Fold, Spindle or Mutilate) and probably took in excess of 100,000 of them. A single card could hold 80 characters (hence 80 characters is an accepted standard for so many computer margins), and the entire original edition we received in all caps was over 800,000 chars in length, including line enumeration, symbols for caps and the punctuation marks, etc., since they were not available keyboard characters at the time (probably the keyboards operated at baud rates of around 113, meaning the typists had to type slowly for the keyboard to keep up).",
       "role": "paragraph"
     },
     {
@@ -6802,6 +6816,7 @@
       "order": 1115,
       "chapterIndex": 2,
       "text": "Be sure then.—How shall I behold the face",
+      "ttsText": "Be sure then., How shall I behold the face",
       "role": "paragraph"
     },
     {
@@ -6862,6 +6877,7 @@
       "order": 1125,
       "chapterIndex": 2,
       "text": "Hide me, where I may never see them more!—",
+      "ttsText": "Hide me, where I may never see them more!,",
       "role": "paragraph"
     },
     {
@@ -7762,6 +7778,7 @@
       "order": 1275,
       "chapterIndex": 3,
       "text": "On his transgression,—death denounced that day?",
+      "ttsText": "On his transgression,, death denounced that day?",
       "role": "paragraph"
     },
     {
@@ -8116,6 +8133,7 @@
       "order": 1334,
       "chapterIndex": 3,
       "text": "Absents thee, or what chance detains?—Come forth!",
+      "ttsText": "Absents thee, or what chance detains?, Come forth!",
       "role": "paragraph"
     },
     {
@@ -8284,6 +8302,7 @@
       "order": 1362,
       "chapterIndex": 3,
       "text": "Wouldst easily detect what I conceal.—",
+      "ttsText": "Wouldst easily detect what I conceal.,",
       "role": "paragraph"
     },
     {
@@ -10474,6 +10493,7 @@
       "order": 1727,
       "chapterIndex": 3,
       "text": "Or much more grievous pain?—Ye have the account",
+      "ttsText": "Or much more grievous pain?, Ye have the account",
       "role": "paragraph"
     },
     {
@@ -10954,6 +10974,7 @@
       "order": 1807,
       "chapterIndex": 3,
       "text": "Ophion, with Eurynome, the wide—",
+      "ttsText": "Ophion, with Eurynome, the wide,",
       "role": "paragraph"
     },
     {
@@ -11356,6 +11377,7 @@
       "order": 1874,
       "chapterIndex": 3,
       "text": "Or down from Heaven descend.—Such was their song;",
+      "ttsText": "Or down from Heaven descend., Such was their song;",
       "role": "paragraph"
     },
     {
@@ -11818,6 +11840,7 @@
       "order": 1951,
       "chapterIndex": 3,
       "text": "Of happiness!—Yet well, if here would end",
+      "ttsText": "Of happiness!, Yet well, if here would end",
       "role": "paragraph"
     },
     {
@@ -12346,6 +12369,7 @@
       "order": 2039,
       "chapterIndex": 3,
       "text": "To perpetuity;—Ay me! that fear",
+      "ttsText": "To perpetuity;, Ay me! that fear",
       "role": "paragraph"
     },
     {
@@ -12640,6 +12664,7 @@
       "order": 2088,
       "chapterIndex": 3,
       "text": "To answer, and resound far other song.—",
+      "ttsText": "To answer, and resound far other song.,",
       "role": "paragraph"
     },
     {
@@ -13216,6 +13241,7 @@
       "order": 2184,
       "chapterIndex": 3,
       "text": "But rise;—let us no more contend, nor blame",
+      "ttsText": "But rise;, let us no more contend, nor blame",
       "role": "paragraph"
     },
     {
@@ -13468,12 +13494,14 @@
       "order": 2226,
       "chapterIndex": 3,
       "text": "From what we fear for both, let us make short,—",
+      "ttsText": "From what we fear for both, let us make short,,",
       "role": "paragraph"
     },
     {
       "order": 2227,
       "chapterIndex": 3,
       "text": "Let us seek Death;—or, he not found, supply",
+      "ttsText": "Let us seek Death;, or, he not found, supply",
       "role": "paragraph"
     },
     {
@@ -13504,6 +13532,7 @@
       "order": 2232,
       "chapterIndex": 3,
       "text": "Destruction with destruction to destroy?—",
+      "ttsText": "Destruction with destruction to destroy?,",
       "role": "paragraph"
     },
     {
@@ -16300,6 +16329,7 @@
       "order": 2698,
       "chapterIndex": 4,
       "text": "Thy mortal passage when it comes.—Ascend",
+      "ttsText": "Thy mortal passage when it comes., Ascend",
       "role": "paragraph"
     },
     {
@@ -16360,6 +16390,7 @@
       "order": 2708,
       "chapterIndex": 4,
       "text": "If so I may attain.—So both ascend",
+      "ttsText": "If so I may attain., So both ascend",
       "role": "paragraph"
     },
     {
@@ -21082,6 +21113,7 @@
       "order": 3495,
       "chapterIndex": 5,
       "text": "Promised to Abraham and his seed:—The rest",
+      "ttsText": "Promised to Abraham and his seed:, The rest",
       "role": "paragraph"
     },
     {
@@ -23044,6 +23076,7 @@
       "order": 3822,
       "chapterIndex": 5,
       "text": "A Paradise within thee, happier far.—",
+      "ttsText": "A Paradise within thee, happier far.,",
       "role": "paragraph"
     },
     {

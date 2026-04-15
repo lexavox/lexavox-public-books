@@ -1,3 +1,7 @@
+# Source EPUBs — kept locally for JSON generation, not published to GitHub
+books/
+_source_fetch/
+
 # Internal tooling scripts (not part of the public repo)
 *.py
 *.ps1

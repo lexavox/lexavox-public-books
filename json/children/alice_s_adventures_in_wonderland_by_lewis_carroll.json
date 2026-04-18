@@ -181,7 +181,11 @@
       "chapterIndex": 0,
       "text": "THE MILLENNIUM FULCRUM EDITION 3.0",
       "ttsText": "The Millennium Fulcrum Edition 3.0",
-      "role": "title"
+      "role": "title",
+      "ttsSentenceEnds": [
+        33,
+        34
+      ]
     },
     {
       "order": 14,
@@ -296,7 +300,13 @@
       "chapterIndex": 1,
       "text": "There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear! Oh dear! I shall be late!” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket , and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.",
       "ttsText": "There was nothing so very remarkable in that; nor did Alice think it so very much out of the way to hear the Rabbit say to itself, “Oh dear! Oh dear! I shall be late!” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually took a watch out of its waistcoat-pocket, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        140,
+        149,
+        167,
+        733
+      ]
     },
     {
       "order": 33,
@@ -315,39 +325,88 @@
       "chapterIndex": 1,
       "text": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.",
       "ttsText": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labelled “Orange Marmalade”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        162,
+        432,
+        715
+      ]
     },
     {
       "order": 36,
       "chapterIndex": 1,
       "text": "“Well!” thought Alice to herself, “after such a fall as this, I shall think nothing of tumbling down stairs! How brave they’ll all think me at home! Why, I wouldn’t say anything about it, even if I fell off the top of the house!” (Which was very likely true.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        108,
+        148,
+        229,
+        259
+      ]
     },
     {
       "order": 37,
       "chapterIndex": 1,
       "text": "Down, down, down. Would the fall never come to an end? “I wonder how many miles I’ve fallen by this time?” she said aloud. “I must be getting somewhere near the centre of the earth. Let me see: that would be four thousand miles down, I think—” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over) “—yes, that’s about the right distance—but then I wonder what Latitude or Longitude I’ve got to?” (Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
       "ttsText": "Down, down, down. Would the fall never come to an end? “I wonder how many miles I’ve fallen by this time?” she said aloud. “I must be getting somewhere near the centre of the earth. Let me see: that would be four thousand miles down, I think, ” (for, you see, Alice had learnt several things of this sort in her lessons in the schoolroom, and though this was not a very good opportunity for showing off her knowledge, as there was no one to listen to her, still it was good practice to say it over) “, yes, that’s about the right distance, but then I wonder what Latitude or Longitude I’ve got to?” (Alice had no idea what Latitude was, or Longitude either, but thought they were nice grand words to say.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        54,
+        122,
+        181,
+        598,
+        705
+      ]
     },
     {
       "order": 38,
       "chapterIndex": 1,
       "text": "Presently she began again. “I wonder if I shall fall right through the earth! How funny it’ll seem to come out among the people that walk with their heads downward! The Antipathies, I think—” (she was rather glad there was no one listening, this time, as it didn’t sound at all the right word) “—but I shall have to ask them what the name of the country is, you know. Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke—fancy curtseying as you’re falling through the air! Do you think you could manage it?) “And what an ignorant little girl she’ll think me for asking! No, it’ll never do to ask: perhaps I shall see it written up somewhere.”",
       "ttsText": "Presently she began again. “I wonder if I shall fall right through the earth! How funny it’ll seem to come out among the people that walk with their heads downward! The Antipathies, I think, ” (she was rather glad there was no one listening, this time, as it didn’t sound at all the right word) “, but I shall have to ask them what the name of the country is, you know. Please, Ma’am, is this New Zealand or Australia?” (and she tried to curtsey as she spoke, fancy curtseying as you’re falling through the air! Do you think you could manage it?) “And what an ignorant little girl she’ll think me for asking! No, it’ll never do to ask: perhaps I shall see it written up somewhere.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        77,
+        164,
+        369,
+        419,
+        511,
+        546,
+        608,
+        681
+      ]
     },
     {
       "order": 39,
       "chapterIndex": 1,
       "text": "Down, down, down. There was nothing else to do, so Alice soon began talking again. “Dinah’ll miss me very much to-night, I should think!” (Dinah was the cat.) “I hope they’ll remember her saucer of milk at tea-time. Dinah my dear! I wish you were down here with me! There are no mice in the air, I’m afraid, but you might catch a bat, and that’s very like a mouse, you know. But do cats eat bats, I wonder?” And here Alice began to get rather sleepy, and went on saying to herself, in a dreamy sort of way, “Do cats eat bats? Do cats eat bats?” and sometimes, “Do bats eat cats?” for, you see, as she couldn’t answer either question, it didn’t much matter which way she put it. She felt that she was dozing off, and had just begun to dream that she was walking hand in hand with Dinah, and saying to her very earnestly, “Now, Dinah, tell me the truth: did you ever eat a bat?” when suddenly, thump! thump! down she came upon a heap of sticks and dry leaves, and the fall was over.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        82,
+        137,
+        158,
+        215,
+        230,
+        265,
+        374,
+        407,
+        525,
+        677,
+        980
+      ]
     },
     {
       "order": 40,
       "chapterIndex": 1,
       "text": "Alice was not a bit hurt, and she jumped up on to her feet in a moment: she looked up, but it was all dark overhead; before her was another long passage, and the White Rabbit was still in sight, hurrying down it. There was not a moment to be lost: away went Alice like the wind, and was just in time to hear it say, as it turned a corner, “Oh my ears and whiskers, how late it’s getting!” She was close behind it when she turned the corner, but the Rabbit was no longer to be seen: she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        212,
+        388,
+        578
+      ]
     },
     {
       "order": 41,
@@ -359,13 +418,24 @@
       "order": 42,
       "chapterIndex": 1,
       "text": "Suddenly she came upon a little three-legged table, all made of solid glass; there was nothing on it except a tiny golden key, and Alice’s first thought was that it might belong to one of the doors of the hall; but, alas! either the locks were too large, or the key was too small, but at any rate it would not open any of them. However, on the second time round, she came upon a low curtain she had not noticed before, and behind it was a little door about fifteen inches high: she tried the little golden key in the lock, and to her great delight it fitted!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        327,
+        558
+      ]
     },
     {
       "order": 43,
       "chapterIndex": 1,
       "text": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw. How she longed to get out of that dark hall, and wander about among those beds of bright flowers and those cool fountains, but she could not even get her head through the doorway; “and even if my head would go through,” thought poor Alice, “it would be of very little use without my shoulders. Oh, how I wish I could shut up like a telescope! I think I could, if I only knew how to begin.” For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        182,
+        476,
+        525,
+        572,
+        719
+      ]
     },
     {
       "order": 44,
@@ -378,7 +448,11 @@
       "order": 45,
       "chapterIndex": 1,
       "text": "It was all very well to say “Drink me,” but the wise little Alice was not going to do that in a hurry. “No, I’ll look first,” she said, “and see whether it’s marked ‘ poison ’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they would not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that if you cut your finger very deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked “poison,” it is almost certain to disagree with you, sooner or later.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        102,
+        695
+      ]
     },
     {
       "order": 46,
@@ -414,7 +488,13 @@
       "order": 51,
       "chapterIndex": 1,
       "text": "And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden. First, however, she waited for a few minutes to see if she was going to shrink any further: she felt a little nervous about this; “for it might end, you know,” said Alice to herself, “in my going out altogether, like a candle. I wonder what I should be like then?” And she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        188,
+        415,
+        453,
+        600
+      ]
     },
     {
       "order": 52,
@@ -426,20 +506,34 @@
       "order": 53,
       "chapterIndex": 1,
       "text": "“Come, there’s no use in crying like that!” said Alice to herself, rather sharply; “I advise you to leave off this minute!” She generally gave herself very good advice, (though she very seldom followed it), and sometimes she scolded herself so severely as to bring tears into her eyes; and once she remembered trying to box her own ears for having cheated herself in a game of croquet she was playing against herself, for this curious child was very fond of pretending to be two people. “But it’s no use now,” thought poor Alice, “to pretend to be two people! Why, there’s hardly enough of me left to make one respectable person!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        123,
+        486,
+        559,
+        630
+      ]
     },
     {
       "order": 54,
       "chapterIndex": 1,
       "text": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said Alice, “and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I’ll get into the garden, and I don’t care which happens!”",
       "ttsText": "Soon her eye fell on a little glass box that was lying under the table: she opened it, and found in it a very small cake, on which the words “Eat Me” were beautifully marked in currants. “Well, I’ll eat it,” said Alice, “and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I’ll get into the garden, and I don’t care which happens!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        186,
+        407
+      ]
     },
     {
       "order": 55,
       "chapterIndex": 1,
       "text": "She ate a little bit, and said anxiously to herself, “Which way? Which way?”, holding her hand on the top of her head to feel which way it was growing, and she was quite surprised to find that she remained the same size: to be sure, this generally happens when one eats cake, but Alice had got so much into the way of expecting nothing but out-of-the-way things to happen, that it seemed quite dull and stupid for life to go on in the common way.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        446
+      ]
     },
     {
       "order": 56,
@@ -489,7 +583,13 @@
       "chapterIndex": 2,
       "text": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but for a minute or two sobs choked his voice. “Same as if he had a bone in his throat,” said the Gryphon: and it set to work shaking him and punching him in the back. At last the Mock Turtle recovered his voice, and, with tears running down his cheeks, he went on again:—",
       "ttsText": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but for a minute or two sobs choked his voice. “Same as if he had a bone in his throat,” said the Gryphon: and it set to work shaking him and punching him in the back. At last the Mock Turtle recovered his voice, and, with tears running down his cheeks, he went on again:,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        80,
+        167,
+        288,
+        393
+      ]
     },
     {
       "order": 64,
@@ -502,7 +602,11 @@
       "order": 65,
       "chapterIndex": 2,
       "text": "“No, indeed,” said Alice. “What sort of a dance is it?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        55
+      ]
     },
     {
       "order": 66,
@@ -516,7 +620,11 @@
       "chapterIndex": 2,
       "text": "“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way—”",
       "ttsText": "“Two lines!” cried the Mock Turtle. “Seals, turtles, salmon, and so on; then, when you’ve cleared all the jelly-fish out of the way, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        134
+      ]
     },
     {
       "order": 68,
@@ -617,13 +725,22 @@
       "order": 83,
       "chapterIndex": 2,
       "text": "“Come, let’s try the first figure!” said the Mock Turtle to the Gryphon. “We can do without lobsters, you know. Which shall sing?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        72,
+        111,
+        130
+      ]
     },
     {
       "order": 84,
       "chapterIndex": 2,
       "text": "“Oh, you sing,” said the Gryphon. “I’ve forgotten the words.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        61
+      ]
     },
     {
       "order": 85,
@@ -774,38 +891,66 @@
       "chapterIndex": 2,
       "text": "“I believe so,” Alice replied thoughtfully. “They have their tails in their mouths—and they’re all over crumbs.”",
       "ttsText": "“I believe so,” Alice replied thoughtfully. “They have their tails in their mouths, and they’re all over crumbs.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        43,
+        113
+      ]
     },
     {
       "order": 109,
       "chapterIndex": 2,
       "text": "“You’re wrong about the crumbs,” said the Mock Turtle: “crumbs would all wash off in the sea. But they have their tails in their mouths; and the reason is—” here the Mock Turtle yawned and shut his eyes.—“Tell her about the reason and all that,” he said to the Gryphon.",
       "ttsText": "“You’re wrong about the crumbs,” said the Mock Turtle: “crumbs would all wash off in the sea. But they have their tails in their mouths; and the reason is, ” here the Mock Turtle yawned and shut his eyes., “Tell her about the reason and all that,” he said to the Gryphon.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        93,
+        271
+      ]
     },
     {
       "order": 110,
       "chapterIndex": 2,
       "text": "“The reason is,” said the Gryphon, “that they would go with the lobsters to the dance. So they got thrown out to sea. So they had to fall a long way. So they got their tails fast in their mouths. So they couldn’t get them out again. That’s all.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        86,
+        117,
+        149,
+        195,
+        232,
+        245
+      ]
     },
     {
       "order": 111,
       "chapterIndex": 2,
       "text": "“Thank you,” said Alice, “it’s very interesting. I never knew so much about a whiting before.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        94
+      ]
     },
     {
       "order": 112,
       "chapterIndex": 2,
       "text": "“I can tell you more than that, if you like,” said the Gryphon. “Do you know why it’s called a whiting?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        104
+      ]
     },
     {
       "order": 113,
       "chapterIndex": 2,
       "text": "“I never thought about it,” said Alice. “Why?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        46
+      ]
     },
     {
       "order": 114,
@@ -818,31 +963,51 @@
       "order": 115,
       "chapterIndex": 2,
       "text": "Alice was thoroughly puzzled. “Does the boots and shoes!” she repeated in a wondering tone.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        91
+      ]
     },
     {
       "order": 116,
       "chapterIndex": 2,
       "text": "“Why, what are your shoes done with?” said the Gryphon. “I mean, what makes them so shiny?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        91
+      ]
     },
     {
       "order": 117,
       "chapterIndex": 2,
       "text": "Alice looked down at them, and considered a little before she gave her answer. “They’re done with blacking, I believe.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        78,
+        119
+      ]
     },
     {
       "order": 118,
       "chapterIndex": 2,
       "text": "“Boots and shoes under the sea,” the Gryphon went on in a deep voice, “are done with a whiting. Now you know.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        95,
+        110
+      ]
     },
     {
       "order": 119,
       "chapterIndex": 2,
       "text": "“And what are they made of?” Alice asked in a tone of great curiosity.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        70
+      ]
     },
     {
       "order": 120,
@@ -885,7 +1050,11 @@
       "order": 126,
       "chapterIndex": 2,
       "text": "“I mean what I say,” the Mock Turtle replied in an offended tone. And the Gryphon added “Come, let’s hear some of your adventures.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        65,
+        131
+      ]
     },
     {
       "order": 127,
@@ -904,14 +1073,23 @@
       "order": 129,
       "chapterIndex": 2,
       "text": "“No, no! The adventures first,” said the Gryphon in an impatient tone: “explanations take such a dreadful time.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        112
+      ]
     },
     {
       "order": 130,
       "chapterIndex": 2,
       "text": "So Alice began telling them her adventures from the time when she first saw the White Rabbit. She was a little nervous about it just at first, the two creatures got so close to her, one on each side, and opened their eyes and mouths so very wide, but she gained courage as she went on. Her listeners were perfectly quiet till she got to the part about her repeating “ You are old, Father William ,” to the Caterpillar, and the words all coming different, and then the Mock Turtle drew a long breath, and said “That’s very curious.”",
       "ttsText": "So Alice began telling them her adventures from the time when she first saw the White Rabbit. She was a little nervous about it just at first, the two creatures got so close to her, one on each side, and opened their eyes and mouths so very wide, but she gained courage as she went on. Her listeners were perfectly quiet till she got to the part about her repeating “ You are old, Father William,” to the Caterpillar, and the words all coming different, and then the Mock Turtle drew a long breath, and said “That’s very curious.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        93,
+        285,
+        530
+      ]
     },
     {
       "order": 131,
@@ -923,7 +1101,13 @@
       "order": 132,
       "chapterIndex": 2,
       "text": "“It all came different!” the Mock Turtle repeated thoughtfully. “I should like to hear her try and repeat something now. Tell her to begin.” He looked at the Gryphon as if he thought it had some kind of authority over Alice.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        120,
+        140,
+        224
+      ]
     },
     {
       "order": 133,
@@ -937,7 +1121,11 @@
       "chapterIndex": 2,
       "text": "“How the creatures order one about, and make one repeat lessons!” thought Alice; “I might as well be at school at once.” However, she got up, and began to repeat it, but her head was so full of the Lobster Quadrille, that she hardly knew what she was saying, and the words came very queer indeed:—",
       "ttsText": "“How the creatures order one about, and make one repeat lessons!” thought Alice; “I might as well be at school at once.” However, she got up, and began to repeat it, but her head was so full of the Lobster Quadrille, that she hardly knew what she was saying, and the words came very queer indeed:,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        120,
+        297
+      ]
     },
     {
       "order": 135,
@@ -1021,19 +1209,31 @@
       "order": 148,
       "chapterIndex": 2,
       "text": "“She can’t explain it,” said the Gryphon hastily. “Go on with the next verse.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        78
+      ]
     },
     {
       "order": 149,
       "chapterIndex": 2,
       "text": "“But about his toes?” the Mock Turtle persisted. “How could he turn them out with his nose, you know?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        102
+      ]
     },
     {
       "order": 150,
       "chapterIndex": 2,
       "text": "“It’s the first position in dancing.” Alice said; but was dreadfully puzzled by the whole thing, and longed to change the subject.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        130
+      ]
     },
     {
       "order": 151,
@@ -1109,7 +1309,11 @@
       "order": 162,
       "chapterIndex": 2,
       "text": "“What is the use of repeating all that stuff,” the Mock Turtle interrupted, “if you don’t explain it as you go on? It’s by far the most confusing thing I ever heard!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        114,
+        166
+      ]
     },
     {
       "order": 163,
@@ -1121,14 +1325,23 @@
       "order": 164,
       "chapterIndex": 2,
       "text": "“Shall we try another figure of the Lobster Quadrille?” the Gryphon went on. “Or would you like the Mock Turtle to sing you a song?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        132
+      ]
     },
     {
       "order": 165,
       "chapterIndex": 2,
       "text": "“Oh, a song, please, if the Mock Turtle would be so kind,” Alice replied, so eagerly that the Gryphon said, in a rather offended tone, “Hm! No accounting for tastes! Sing her ‘ Turtle Soup ,’ will you, old fellow?”",
       "ttsText": "“Oh, a song, please, if the Mock Turtle would be so kind,” Alice replied, so eagerly that the Gryphon said, in a rather offended tone, “Hm! No accounting for tastes! Sing her ‘ Turtle Soup,’ will you, old fellow?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        139,
+        165,
+        213
+      ]
     },
     {
       "order": 166,
@@ -1198,7 +1411,11 @@
       "order": 176,
       "chapterIndex": 2,
       "text": "“Beautiful Soup! Who cares for fish,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        36
+      ]
     },
     {
       "order": 177,
@@ -1269,7 +1486,11 @@
       "chapterIndex": 2,
       "text": "“What trial is it?” Alice panted as she ran; but the Gryphon only answered “Come on!” and ran the faster, while more and more faintly came, carried on the breeze that followed them, the melancholy words:—",
       "ttsText": "“What trial is it?” Alice panted as she ran; but the Gryphon only answered “Come on!” and ran the faster, while more and more faintly came, carried on the breeze that followed them, the melancholy words:,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        204
+      ]
     },
     {
       "order": 188,
@@ -1308,13 +1529,22 @@
       "chapterIndex": 3,
       "text": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him; and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other. In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them—“I wish they’d get the trial done,” she thought, “and hand round the refreshments!” But there seemed to be no chance of this, so she began looking at everything about her, to pass away the time.",
       "ttsText": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them, all sorts of little birds and beasts, as well as the whole pack of cards: the Knave was standing before them, in chains, with a soldier on each side to guard him; and near the King was the White Rabbit, with a trumpet in one hand, and a scroll of parchment in the other. In the very middle of the court was a table, with a large dish of tarts upon it: they looked so good, that it made Alice quite hungry to look at them, “I wish they’d get the trial done,” she thought, “and hand round the refreshments!” But there seemed to be no chance of this, so she began looking at everything about her, to pass away the time.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        387,
+        622,
+        733
+      ]
     },
     {
       "order": 194,
       "chapterIndex": 3,
       "text": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there. “That’s the judge,” she said to herself, “because of his great wig.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        173,
+        242
+      ]
     },
     {
       "order": 195,
@@ -1326,13 +1556,24 @@
       "order": 196,
       "chapterIndex": 3,
       "text": "“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        207,
+        396,
+        446
+      ]
     },
     {
       "order": 197,
       "chapterIndex": 3,
       "text": "The twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        57,
+        80,
+        112,
+        182
+      ]
     },
     {
       "order": 198,
@@ -1344,19 +1585,32 @@
       "order": 199,
       "chapterIndex": 3,
       "text": "“Stupid things!” Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, “Silence in the court!” and the King put on his spectacles and looked anxiously round, to make out who was talking.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        229
+      ]
     },
     {
       "order": 200,
       "chapterIndex": 3,
       "text": "Alice could see, as well as if she were looking over their shoulders, that all the jurors were writing down “stupid things!” on their slates, and she could even make out that one of them didn’t know how to spell “stupid,” and that he had to ask his neighbour to tell him. “A nice muddle their slates’ll be in before the trial’s over!” thought Alice.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        271,
+        349
+      ]
     },
     {
       "order": 201,
       "chapterIndex": 3,
       "text": "One of the jurors had a pencil that squeaked. This of course, Alice could not stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away. She did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        187,
+        478
+      ]
     },
     {
       "order": 202,
@@ -1405,7 +1659,11 @@
       "order": 209,
       "chapterIndex": 3,
       "text": "“Not yet, not yet!” the Rabbit hastily interrupted. “There’s a great deal to come before that!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        95
+      ]
     },
     {
       "order": 210,
@@ -1417,19 +1675,32 @@
       "order": 211,
       "chapterIndex": 3,
       "text": "The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread-and-butter in the other. “I beg pardon, your Majesty,” he began, “for bringing these in: but I hadn’t quite finished my tea when I was sent for.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        116,
+        237
+      ]
     },
     {
       "order": 212,
       "chapterIndex": 3,
       "text": "“You ought to have finished,” said the King. “When did you begin?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        66
+      ]
     },
     {
       "order": 213,
       "chapterIndex": 3,
       "text": "The Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse. “Fourteenth of March, I think it was,” he said.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        103,
+        151
+      ]
     },
     {
       "order": 214,
@@ -1471,7 +1742,11 @@
       "order": 220,
       "chapterIndex": 3,
       "text": "“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        80,
+        95
+      ]
     },
     {
       "order": 221,
@@ -1501,7 +1776,11 @@
       "order": 225,
       "chapterIndex": 3,
       "text": "“I wish you wouldn’t squeeze so,” said the Dormouse, who was sitting next to her. “I can hardly breathe.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        81,
+        105
+      ]
     },
     {
       "order": 226,
@@ -1526,7 +1805,11 @@
       "order": 229,
       "chapterIndex": 3,
       "text": "“Yes, but I grow at a reasonable pace,” said the Dormouse: “not in that ridiculous fashion.” And he got up very sulkily and crossed over to the other side of the court.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        92,
+        168
+      ]
     },
     {
       "order": 230,
@@ -1563,7 +1846,12 @@
       "order": 235,
       "chapterIndex": 3,
       "text": "“Of course twinkling begins with a T!” said the King sharply. “Do you take me for a dunce? Go on!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        61,
+        90,
+        98
+      ]
     },
     {
       "order": 236,
@@ -1632,7 +1920,11 @@
       "order": 246,
       "chapterIndex": 3,
       "text": "The miserable Hatter dropped his teacup and bread-and-butter, and went down on one knee. “I’m a poor man, your Majesty,” he began.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        88,
+        130
+      ]
     },
     {
       "order": 247,
@@ -1645,13 +1937,22 @@
       "order": 248,
       "chapterIndex": 3,
       "text": "Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of the court. (As that is rather a hard word, I will just explain to you how it was done. They had a large canvas bag, which tied up at the mouth with strings: into this they slipped the guinea-pig, head first, and then sat upon it.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        97,
+        173,
+        317
+      ]
     },
     {
       "order": 249,
       "chapterIndex": 3,
       "text": "“I’m glad I’ve seen that done,” thought Alice. “I’ve so often read in the newspapers, at the end of trials, “There was some attempt at applause, which was immediately suppressed by the officers of the court,” and I never understood what it meant till now.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        256
+      ]
     },
     {
       "order": 250,
@@ -1681,7 +1982,11 @@
       "order": 254,
       "chapterIndex": 3,
       "text": "“Come, that finished the guinea-pigs!” thought Alice. “Now we shall get on better.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        83
+      ]
     },
     {
       "order": 255,
@@ -1712,7 +2017,11 @@
       "order": 259,
       "chapterIndex": 3,
       "text": "The next witness was the Duchess’s cook. She carried the pepper-box in her hand, and Alice guessed who it was, even before she got into the court, by the way the people near the door began sneezing all at once.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        210
+      ]
     },
     {
       "order": 260,
@@ -1754,7 +2063,15 @@
       "order": 266,
       "chapterIndex": 3,
       "text": "“Collar that Dormouse,” the Queen shrieked out. “Behead that Dormouse! Turn that Dormouse out of court! Suppress him! Pinch him! Off with his whiskers!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        70,
+        103,
+        117,
+        128,
+        152
+      ]
     },
     {
       "order": 267,
@@ -1766,14 +2083,24 @@
       "order": 268,
       "chapterIndex": 3,
       "text": "“Never mind!” said the King, with an air of great relief. “Call the next witness.” And he added in an undertone to the Queen, “Really, my dear, you must cross-examine the next witness. It quite makes my forehead ache!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        57,
+        82,
+        184,
+        218
+      ]
     },
     {
       "order": 269,
       "chapterIndex": 3,
       "text": "Alice watched the White Rabbit as he fumbled over the list, feeling very curious to see what the next witness would be like, “—for they haven’t got much evidence yet ,” she said to herself. Imagine her surprise, when the White Rabbit read out, at the top of his shrill little voice, the name “Alice!”",
       "ttsText": "Alice watched the White Rabbit as he fumbled over the list, feeling very curious to see what the next witness would be like, “, for they haven’t got much evidence yet,” she said to herself. Imagine her surprise, when the White Rabbit read out, at the top of his shrill little voice, the name “Alice!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        189,
+        300
+      ]
     },
     {
       "order": 270,
@@ -1817,7 +2144,11 @@
       "order": 276,
       "chapterIndex": 4,
       "text": "Alice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move. She soon got it out again, and put it right; “not that it signifies much,” she said to herself; “I should think it would be quite as much use in the trial one way up as the other.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        200,
+        381
+      ]
     },
     {
       "order": 277,
@@ -1853,7 +2184,11 @@
       "order": 282,
       "chapterIndex": 4,
       "text": "“That’s very important,” the King said, turning to the jury. They were just beginning to write this down on their slates, when the White Rabbit interrupted: “ Un important, your Majesty means, of course,” he said in a very respectful tone, but frowning and making faces at him as he spoke.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        289
+      ]
     },
     {
       "order": 283,
@@ -1872,14 +2207,22 @@
       "order": 285,
       "chapterIndex": 4,
       "text": "Some of the jury wrote it down “important,” and some “unimportant.” Alice could see this, as she was near enough to look over their slates; “but it doesn’t matter a bit,” she thought to herself.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        67,
+        194
+      ]
     },
     {
       "order": 286,
       "chapterIndex": 4,
       "text": "At this moment the King, who had been for some time busily writing in his note-book, cackled out “Silence!” and read out from his book, “Rule Forty-two. All persons more than a mile high to leave the court .”",
       "ttsText": "At this moment the King, who had been for some time busily writing in his note-book, cackled out “Silence!” and read out from his book, “Rule Forty-two. All persons more than a mile high to leave the court.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        152,
+        207
+      ]
     },
     {
       "order": 287,
@@ -1927,7 +2270,11 @@
       "order": 294,
       "chapterIndex": 4,
       "text": "The King turned pale, and shut his note-book hastily. “Consider your verdict,” he said to the jury, in a low, trembling voice.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        126
+      ]
     },
     {
       "order": 295,
@@ -1965,7 +2312,11 @@
       "chapterIndex": 4,
       "text": "“It isn’t directed at all,” said the White Rabbit; “in fact, there’s nothing written on the outside .” He unfolded the paper as he spoke, and added “It isn’t a letter, after all: it’s a set of verses.”",
       "ttsText": "“It isn’t directed at all,” said the White Rabbit; “in fact, there’s nothing written on the outside.” He unfolded the paper as he spoke, and added “It isn’t a letter, after all: it’s a set of verses.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        101,
+        200
+      ]
     },
     {
       "order": 301,
@@ -1977,13 +2328,21 @@
       "order": 302,
       "chapterIndex": 4,
       "text": "“No, they’re not,” said the White Rabbit, “and that’s the queerest thing about it.” (The jury all looked puzzled.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        83,
+        114
+      ]
     },
     {
       "order": 303,
       "chapterIndex": 4,
       "text": "“He must have imitated somebody else’s hand,” said the King. (The jury all brightened up again.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        96
+      ]
     },
     {
       "order": 304,
@@ -1995,7 +2354,11 @@
       "order": 305,
       "chapterIndex": 4,
       "text": "“If you didn’t sign it,” said the King, “that only makes the matter worse. You must have meant some mischief, or else you’d have signed your name like an honest man.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        74,
+        166
+      ]
     },
     {
       "order": 306,
@@ -2013,7 +2376,11 @@
       "order": 308,
       "chapterIndex": 4,
       "text": "“It proves nothing of the sort!” said Alice. “Why, you don’t even know what they’re about!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        91
+      ]
     },
     {
       "order": 309,
@@ -2025,7 +2392,11 @@
       "order": 310,
       "chapterIndex": 4,
       "text": "The White Rabbit put on his spectacles. “Where shall I begin, please your Majesty?” he asked.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        93
+      ]
     },
     {
       "order": 311,
@@ -2195,7 +2566,11 @@
       "order": 338,
       "chapterIndex": 4,
       "text": "“If any one of them can explain it,” said Alice, (she had grown so large in the last few minutes that she wasn’t a bit afraid of interrupting him), “I’ll give him sixpence. I don’t believe there’s an atom of meaning in it.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        172,
+        223
+      ]
     },
     {
       "order": 339,
@@ -2208,14 +2583,24 @@
       "chapterIndex": 4,
       "text": "“If there’s no meaning in it,” said the King, “that saves a world of trouble, you know, as we needn’t try to find any. And yet I don’t know,” he went on, spreading out the verses on his knee, and looking at them with one eye; “I seem to see some meaning in them, after all. “— said I could not swim —” you can’t swim, can you?” he added, turning to the Knave.",
       "ttsText": "“If there’s no meaning in it,” said the King, “that saves a world of trouble, you know, as we needn’t try to find any. And yet I don’t know,” he went on, spreading out the verses on his knee, and looking at them with one eye; “I seem to see some meaning in them, after all. “, said I could not swim, ” you can’t swim, can you?” he added, turning to the Knave.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        118,
+        273,
+        359
+      ]
     },
     {
       "order": 341,
       "chapterIndex": 4,
       "text": "The Knave shook his head sadly. “Do I look like it?” he said. (Which he certainly did not , being made entirely of cardboard.)",
       "ttsText": "The Knave shook his head sadly. “Do I look like it?” he said. (Which he certainly did not, being made entirely of cardboard.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        61,
+        125
+      ]
     },
     {
       "order": 342,
@@ -2236,19 +2621,32 @@
       "chapterIndex": 4,
       "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than that . Then again—‘ before she had this fit —’ you never had fits, my dear, I think?” he said to the Queen.",
       "ttsText": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than that. Then again, ‘ before she had this fit, ’ you never had fits, my dear, I think?” he said to the Queen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        86,
+        121,
+        223
+      ]
     },
     {
       "order": 345,
       "chapterIndex": 4,
       "text": "“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        83,
+        296
+      ]
     },
     {
       "order": 346,
       "chapterIndex": 4,
       "text": "“Then the words don’t fit you,” said the King, looking round the court with a smile. There was a dead silence.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        84,
+        110
+      ]
     },
     {
       "order": 347,
@@ -2261,13 +2659,21 @@
       "chapterIndex": 4,
       "text": "“No, no!” said the Queen. “Sentence first—verdict afterwards.”",
       "ttsText": "“No, no!” said the Queen. “Sentence first, verdict afterwards.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        63
+      ]
     },
     {
       "order": 349,
       "chapterIndex": 4,
       "text": "“Stuff and nonsense!” said Alice loudly. “The idea of having the sentence first!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        81
+      ]
     },
     {
       "order": 350,
@@ -2285,13 +2691,21 @@
       "order": 352,
       "chapterIndex": 4,
       "text": "“Off with her head!” the Queen shouted at the top of her voice. Nobody moved.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        77
+      ]
     },
     {
       "order": 353,
       "chapterIndex": 4,
       "text": "“Who cares for you?” said Alice, (she had grown to her full size by this time). “You’re nothing but a pack of cards!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        117
+      ]
     },
     {
       "order": 354,
@@ -2309,7 +2723,11 @@
       "order": 356,
       "chapterIndex": 4,
       "text": "“Oh, I’ve had such a curious dream!” said Alice, and she told her sister, as well as she could remember them, all these strange Adventures of hers that you have just been reading about; and when she had finished, her sister kissed her, and said, “It was a curious dream, dear, certainly: but now run in to your tea; it’s getting late.” So Alice got up and ran off, thinking while she ran, as well she might, what a wonderful dream it had been.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        335,
+        443
+      ]
     },
     {
       "order": 357,

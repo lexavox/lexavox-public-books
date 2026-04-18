@@ -199,13 +199,21 @@
       "chapterIndex": 1,
       "text": "A spectre is haunting Europe—the spectre of Communism. All the Powers of old Europe have entered into a holy alliance to exorcise this spectre: Pope and Czar, Metternich and Guizot, French Radicals and German police-spies.",
       "ttsText": "A spectre is haunting Europe, the spectre of Communism. All the Powers of old Europe have entered into a holy alliance to exorcise this spectre: Pope and Czar, Metternich and Guizot, French Radicals and German police-spies.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        223
+      ]
     },
     {
       "order": 22,
       "chapterIndex": 1,
       "text": "Where is the party in opposition that has not been decried as Communistic by its opponents in power? Where is the Opposition that has not hurled back the branding reproach of Communism, against the more advanced opposition parties, as well as against its reactionary adversaries?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        100,
+        279
+      ]
     },
     {
       "order": 23,
@@ -217,13 +225,21 @@
       "order": 24,
       "chapterIndex": 1,
       "text": "I. Communism is already acknowledged by all European Powers to be itself a Power.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        81
+      ]
     },
     {
       "order": 25,
       "chapterIndex": 1,
       "text": "II. It is high time that Communists should openly, in the face of the whole world, publish their views, their aims, their tendencies, and meet this nursery tale of the Spectre of Communism with a Manifesto of the party itself.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        3,
+        226
+      ]
     },
     {
       "order": 26,
@@ -266,43 +282,77 @@
       "order": 32,
       "chapterIndex": 2,
       "text": "In the earlier epochs of history, we find almost everywhere a complicated arrangement of society into various orders, a manifold gradation of social rank. In ancient Rome we have patricians, knights, plebeians, slaves; in the Middle Ages, feudal lords, vassals, guild-masters, journeymen, apprentices, serfs; in almost all of these classes, again, subordinate gradations.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        154,
+        371
+      ]
     },
     {
       "order": 33,
       "chapterIndex": 2,
       "text": "The modern bourgeois society that has sprouted from the ruins of feudal society has not done away with class antagonisms. It has but established new classes, new conditions of oppression, new forms of struggle in place of the old ones. Our epoch, the epoch of the bourgeoisie, possesses, however, this distinctive feature: it has simplified the class antagonisms. Society as a whole is more and more splitting up into two great hostile camps, into two great classes, directly facing each other: Bourgeoisie and Proletariat.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        121,
+        235,
+        363,
+        523
+      ]
     },
     {
       "order": 34,
       "chapterIndex": 2,
       "text": "From the serfs of the Middle Ages sprang the chartered burghers of the earliest towns. From these burgesses the first elements of the bourgeoisie were developed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        86,
+        161
+      ]
     },
     {
       "order": 35,
       "chapterIndex": 2,
       "text": "The discovery of America, the rounding of the Cape, opened up fresh ground for the rising bourgeoisie. The East-Indian and Chinese markets, the colonisation of America, trade with the colonies, the increase in the means of exchange and in commodities generally, gave to commerce, to navigation, to industry, an impulse never before known, and thereby, to the revolutionary element in the tottering feudal society, a rapid development.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        102,
+        434
+      ]
     },
     {
       "order": 36,
       "chapterIndex": 2,
       "text": "The feudal system of industry, under which industrial production was monopolised by closed guilds, now no longer sufficed for the growing wants of the new markets. The manufacturing system took its place. The guild-masters were pushed on one side by the manufacturing middle class; division of labour between the different corporate guilds vanished in the face of division of labour in each single workshop.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        163,
+        204,
+        407
+      ]
     },
     {
       "order": 37,
       "chapterIndex": 2,
       "text": "Meantime the markets kept ever growing, the demand ever rising. Even manufacture no longer sufficed. Thereupon, steam and machinery revolutionised industrial production. The place of manufacture was taken by the giant, Modern Industry, the place of the industrial middle class, by industrial millionaires, the leaders of whole industrial armies, the modern bourgeois.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        100,
+        169,
+        367
+      ]
     },
     {
       "order": 38,
       "chapterIndex": 2,
       "text": "Modern industry has established the world-market, for which the discovery of America paved the way. This market has given an immense development to commerce, to navigation, to communication by land. This development has, in its time, reacted on the extension of industry; and in proportion as industry, commerce, navigation, railways extended, in the same proportion the bourgeoisie developed, increased its capital, and pushed into the background every class handed down from the Middle Ages.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        99,
+        198,
+        493
+      ]
     },
     {
       "order": 39,
@@ -314,7 +364,12 @@
       "order": 40,
       "chapterIndex": 2,
       "text": "Each step in the development of the bourgeoisie was accompanied by a corresponding political advance of that class. An oppressed class under the sway of the feudal nobility, an armed and self-governing association in the mediaeval commune; here independent urban republic (as in Italy and Germany), there taxable “third estate” of the monarchy (as in France), afterwards, in the period of manufacture proper, serving either the semi-feudal or the absolute monarchy as a counterpoise against the nobility, and, in fact, corner-stone of the great monarchies in general, the bourgeoisie has at last, since the establishment of Modern Industry and of the world-market, conquered for itself, in the modern representative State, exclusive political sway. The executive of the modern State is but a committee for managing the common affairs of the whole bourgeoisie.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        115,
+        748,
+        859
+      ]
     },
     {
       "order": 41,
@@ -327,13 +382,24 @@
       "chapterIndex": 2,
       "text": "The bourgeoisie, wherever it has got the upper hand, has put an end to all feudal, patriarchal, idyllic relations. It has pitilessly torn asunder the motley feudal ties that bound man to his “natural superiors,” and has left remaining no other nexus between man and man than naked self-interest, than callous “cash payment.” It has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation. It has resolved personal worth into exchange value, and in place of the numberless and indefeasible chartered freedoms, has set up that single, unconscionable freedom—Free Trade. In one word, for exploitation, veiled by religious and political illusions, naked, shameless, direct, brutal exploitation.",
       "ttsText": "The bourgeoisie, wherever it has got the upper hand, has put an end to all feudal, patriarchal, idyllic relations. It has pitilessly torn asunder the motley feudal ties that bound man to his “natural superiors,” and has left remaining no other nexus between man and man than naked self-interest, than callous “cash payment.” It has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation. It has resolved personal worth into exchange value, and in place of the numberless and indefeasible chartered freedoms, has set up that single, unconscionable freedom, Free Trade. In one word, for exploitation, veiled by religious and political illusions, naked, shameless, direct, brutal exploitation.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        114,
+        324,
+        490,
+        670,
+        793
+      ]
     },
     {
       "order": 43,
       "chapterIndex": 2,
       "text": "The bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe. It has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage labourers.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        111,
+        227
+      ]
     },
     {
       "order": 44,
@@ -345,51 +411,103 @@
       "order": 45,
       "chapterIndex": 2,
       "text": "The bourgeoisie has disclosed how it came to pass that the brutal display of vigour in the Middle Ages, which Reactionists so much admire, found its fitting complement in the most slothful indolence. It has been the first to show what man’s activity can bring about. It has accomplished wonders far surpassing Egyptian pyramids, Roman aqueducts, and Gothic cathedrals; it has conducted expeditions that put in the shade all former Exoduses of nations and crusades.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        199,
+        266,
+        464
+      ]
     },
     {
       "order": 46,
       "chapterIndex": 2,
       "text": "The bourgeoisie cannot exist without constantly revolutionising the instruments of production, and thereby the relations of production, and with them the whole relations of society. Conservation of the old modes of production in unaltered form, was, on the contrary, the first condition of existence for all earlier industrial classes. Constant revolutionising of production, uninterrupted disturbance of all social conditions, everlasting uncertainty and agitation distinguish the bourgeois epoch from all earlier ones. All fixed, fast-frozen relations, with their train of ancient and venerable prejudices and opinions, are swept away, all new-formed ones become antiquated before they can ossify. All that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses, his real conditions of life, and his relations with his kind.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        181,
+        335,
+        520,
+        699,
+        881
+      ]
     },
     {
       "order": 47,
       "chapterIndex": 2,
       "text": "The need of a constantly expanding market for its products chases the bourgeoisie over the whole surface of the globe. It must nestle everywhere, settle everywhere, establish connexions everywhere.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        118,
+        197
+      ]
     },
     {
       "order": 48,
       "chapterIndex": 2,
       "text": "The bourgeoisie has through its exploitation of the world-market given a cosmopolitan character to production and consumption in every country. To the great chagrin of Reactionists, it has drawn from under the feet of industry the national ground on which it stood. All old-established national industries have been destroyed or are daily being destroyed. They are dislodged by new industries, whose introduction becomes a life and death question for all civilised nations, by industries that no longer work up indigenous raw material, but raw material drawn from the remotest zones; industries whose products are consumed, not only at home, but in every quarter of the globe. In place of the old wants, satisfied by the productions of the country, we find new wants, requiring for their satisfaction the products of distant lands and climes. In place of the old local and national seclusion and self-sufficiency, we have intercourse in every direction, universal inter-dependence of nations. And as in material, so also in intellectual production. The intellectual creations of individual nations become common property. National one-sidedness and narrow-mindedness become more and more impossible, and from the numerous national and local literatures, there arises a world literature.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        143,
+        265,
+        355,
+        676,
+        842,
+        992,
+        1048,
+        1121,
+        1286
+      ]
     },
     {
       "order": 49,
       "chapterIndex": 2,
       "text": "The bourgeoisie, by the rapid improvement of all instruments of production, by the immensely facilitated means of communication, draws all, even the most barbarian, nations into civilisation. The cheap prices of its commodities are the heavy artillery with which it batters down all Chinese walls, with which it forces the barbarians’ intensely obstinate hatred of foreigners to capitulate. It compels all nations, on pain of extinction, to adopt the bourgeois mode of production; it compels them to introduce what it calls civilisation into their midst, i.e ., to become bourgeois themselves. In one word, it creates a world after its own image.",
       "ttsText": "The bourgeoisie, by the rapid improvement of all instruments of production, by the immensely facilitated means of communication, draws all, even the most barbarian, nations into civilisation. The cheap prices of its commodities are the heavy artillery with which it batters down all Chinese walls, with which it forces the barbarians’ intensely obstinate hatred of foreigners to capitulate. It compels all nations, on pain of extinction, to adopt the bourgeois mode of production; it compels them to introduce what it calls civilisation into their midst, I.E., to become bourgeois themselves. In one word, it creates a world after its own image.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        191,
+        390,
+        557,
+        592,
+        645
+      ]
     },
     {
       "order": 50,
       "chapterIndex": 2,
       "text": "The bourgeoisie has subjected the country to the rule of the towns. It has created enormous cities, has greatly increased the urban population as compared with the rural, and has thus rescued a considerable part of the population from the idiocy of rural life. Just as it has made the country dependent on the towns, so it has made barbarian and semi-barbarian countries dependent on the civilised ones, nations of peasants on nations of bourgeois, the East on the West.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        67,
+        260,
+        470
+      ]
     },
     {
       "order": 51,
       "chapterIndex": 2,
       "text": "The bourgeoisie keeps more and more doing away with the scattered state of the population, of the means of production, and of property. It has agglomerated production, and has concentrated property in a few hands. The necessary consequence of this was political centralisation. Independent, or but loosely connected provinces, with separate interests, laws, governments and systems of taxation, became lumped together into one nation, with one government, one code of laws, one national class-interest, one frontier and one customs-tariff. The bourgeoisie, during its rule of scarce one hundred years, has created more massive and more colossal productive forces than have all preceding generations together. Subjection of Nature’s forces to man, machinery, application of chemistry to industry and agriculture, steam-navigation, railways, electric telegraphs, clearing of whole continents for cultivation, canalisation of rivers, whole populations conjured out of the ground—what earlier century had even a presentiment that such productive forces slumbered in the lap of social labour?",
       "ttsText": "The bourgeoisie keeps more and more doing away with the scattered state of the population, of the means of production, and of property. It has agglomerated production, and has concentrated property in a few hands. The necessary consequence of this was political centralisation. Independent, or but loosely connected provinces, with separate interests, laws, governments and systems of taxation, became lumped together into one nation, with one government, one code of laws, one national class-interest, one frontier and one customs-tariff. The bourgeoisie, during its rule of scarce one hundred years, has created more massive and more colossal productive forces than have all preceding generations together. Subjection of Nature’s forces to man, machinery, application of chemistry to industry and agriculture, steam-navigation, railways, electric telegraphs, clearing of whole continents for cultivation, canalisation of rivers, whole populations conjured out of the ground, what earlier century had even a presentiment that such productive forces slumbered in the lap of social labour?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        135,
+        213,
+        277,
+        539,
+        708,
+        1088
+      ]
     },
     {
       "order": 52,
       "chapterIndex": 2,
       "text": "We see then: the means of production and of exchange, on whose foundation the bourgeoisie built itself up, were generated in feudal society. At a certain stage in the development of these means of production and of exchange, the conditions under which feudal society produced and exchanged, the feudal organisation of agriculture and manufacturing industry, in one word, the feudal relations of property became no longer compatible with the already developed productive forces; they became so many fetters. They had to be burst asunder; they were burst asunder.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        140,
+        506,
+        561
+      ]
     },
     {
       "order": 53,
@@ -402,7 +520,22 @@
       "chapterIndex": 2,
       "text": "A similar movement is going on before our own eyes. Modern bourgeois society with its relations of production, of exchange and of property, a society that has conjured up such gigantic means of production and of exchange, is like the sorcerer, who is no longer able to control the powers of the nether world whom he has called up by his spells. For many a decade past the history of industry and commerce is but the history of the revolt of modern productive forces against modern conditions of production, against the property relations that are the conditions for the existence of the bourgeoisie and of its rule. It is enough to mention the commercial crises that by their periodical return put on its trial, each time more threateningly, the existence of the entire bourgeois society. In these crises a great part not only of the existing products, but also of the previously created productive forces, are periodically destroyed. In these crises there breaks out an epidemic that, in all earlier epochs, would have seemed an absurdity—the epidemic of over-production. Society suddenly finds itself put back into a state of momentary barbarism; it appears as if a famine, a universal war of devastation had cut off the supply of every means of subsistence; industry and commerce seem to be destroyed; and why? Because there is too much civilisation, too much means of subsistence, too much industry, too much commerce. The productive forces at the disposal of society no longer tend to further the development of the conditions of bourgeois property; on the contrary, they have become too powerful for these conditions, by which they are fettered, and so soon as they overcome these fetters, they bring disorder into the whole of bourgeois society, endanger the existence of bourgeois property. The conditions of bourgeois society are too narrow to comprise the wealth created by them. And how does the bourgeoisie get over these crises? On the one hand inforced destruction of a mass of productive forces; on the other, by the conquest of new markets, and by the more thorough exploitation of the old ones. That is to say, by paving the way for more extensive and more destructive crises, and by diminishing the means whereby crises are prevented.",
       "ttsText": "A similar movement is going on before our own eyes. Modern bourgeois society with its relations of production, of exchange and of property, a society that has conjured up such gigantic means of production and of exchange, is like the sorcerer, who is no longer able to control the powers of the nether world whom he has called up by his spells. For many a decade past the history of industry and commerce is but the history of the revolt of modern productive forces against modern conditions of production, against the property relations that are the conditions for the existence of the bourgeoisie and of its rule. It is enough to mention the commercial crises that by their periodical return put on its trial, each time more threateningly, the existence of the entire bourgeois society. In these crises a great part not only of the existing products, but also of the previously created productive forces, are periodically destroyed. In these crises there breaks out an epidemic that, in all earlier epochs, would have seemed an absurdity, the epidemic of over-production. Society suddenly finds itself put back into a state of momentary barbarism; it appears as if a famine, a universal war of devastation had cut off the supply of every means of subsistence; industry and commerce seem to be destroyed; and why? Because there is too much civilisation, too much means of subsistence, too much industry, too much commerce. The productive forces at the disposal of society no longer tend to further the development of the conditions of bourgeois property; on the contrary, they have become too powerful for these conditions, by which they are fettered, and so soon as they overcome these fetters, they bring disorder into the whole of bourgeois society, endanger the existence of bourgeois property. The conditions of bourgeois society are too narrow to comprise the wealth created by them. And how does the bourgeoisie get over these crises? On the one hand inforced destruction of a mass of productive forces; on the other, by the conquest of new markets, and by the more thorough exploitation of the old ones. That is to say, by paving the way for more extensive and more destructive crises, and by diminishing the means whereby crises are prevented.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        344,
+        615,
+        788,
+        934,
+        1073,
+        1314,
+        1423,
+        1799,
+        1890,
+        1942,
+        2112,
+        2253
+      ]
     },
     {
       "order": 55,
@@ -422,25 +555,50 @@
       "chapterIndex": 2,
       "text": "In proportion as the bourgeoisie, i.e ., capital, is developed, in the same proportion is the proletariat, the modern working class, developed—a class of labourers, who live only so long as they find work, and who find work only so long as their labour increases capital. These labourers, who must sell themselves piece-meal, are a commodity, like every other article of commerce, and are consequently exposed to all the vicissitudes of competition, to all the fluctuations of the market.",
       "ttsText": "In proportion as the bourgeoisie, I.E., capital, is developed, in the same proportion is the proletariat, the modern working class, developed, a class of labourers, who live only so long as they find work, and who find work only so long as their labour increases capital. These labourers, who must sell themselves piece-meal, are a commodity, like every other article of commerce, and are consequently exposed to all the vicissitudes of competition, to all the fluctuations of the market.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        271,
+        488
+      ]
     },
     {
       "order": 58,
       "chapterIndex": 2,
       "text": "Owing to the extensive use of machinery and to division of labour, the work of the proletarians has lost all individual character, and consequently, all charm for the workman. He becomes an appendage of the machine, and it is only the most simple, most monotonous, and most easily acquired knack, that is required of him. Hence, the cost of production of a workman is restricted, almost entirely, to the means of subsistence that he requires for his maintenance, and for the propagation of his race. But the price of a commodity, and therefore also of labour, is equal to its cost of production. In proportion therefore, as the repulsiveness of the work increases, the wage decreases. Nay more, in proportion as the use of machinery and division of labour increases, in the same proportion the burden of toil also increases, whether by prolongation of the working hours, by increase of the work exacted in a given time or by increased speed of the machinery, etc.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        175,
+        321,
+        499,
+        595,
+        684,
+        963
+      ]
     },
     {
       "order": 59,
       "chapterIndex": 2,
       "text": "Modern industry has converted the little workshop of the patriarchal master into the great factory of the industrial capitalist. Masses of labourers, crowded into the factory, are organised like soldiers. As privates of the industrial army they are placed under the command of a perfect hierarchy of officers and sergeants. Not only are they slaves of the bourgeois class, and of the bourgeois State; they are daily and hourly enslaved by the machine, by the over-looker, and, above all, by the individual bourgeois manufacturer himself. The more openly this despotism proclaims gain to be its end and aim, the more petty, the more hateful and the more embittering it is.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        128,
+        204,
+        323,
+        537,
+        671
+      ]
     },
     {
       "order": 60,
       "chapterIndex": 2,
       "text": "The less the skill and exertion of strength implied in manual labour, in other words, the more modern industry becomes developed, the more is the labour of men superseded by that of women. Differences of age and sex have no longer any distinctive social validity for the working class. All are instruments of labour, more or less expensive to use, according to their age and sex.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        188,
+        285,
+        379
+      ]
     },
     {
       "order": 61,
@@ -453,61 +611,122 @@
       "chapterIndex": 2,
       "text": "The lower strata of the middle class—the small tradespeople, shopkeepers, retired tradesmen generally, the handicraftsmen and peasants—all these sink gradually into the proletariat, partly because their diminutive capital does not suffice for the scale on which Modern Industry is carried on, and is swamped in the competition with the large capitalists, partly because their specialized skill is rendered worthless by the new methods of production. Thus the proletariat is recruited from all classes of the population.",
       "ttsText": "The lower strata of the middle class, the small tradespeople, shopkeepers, retired tradesmen generally, the handicraftsmen and peasants, all these sink gradually into the proletariat, partly because their diminutive capital does not suffice for the scale on which Modern Industry is carried on, and is swamped in the competition with the large capitalists, partly because their specialized skill is rendered worthless by the new methods of production. Thus the proletariat is recruited from all classes of the population.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        451,
+        521
+      ]
     },
     {
       "order": 63,
       "chapterIndex": 2,
       "text": "The proletariat goes through various stages of development. With its birth begins its struggle with the bourgeoisie. At first the contest is carried on by individual labourers, then by the workpeople of a factory, then by the operatives of one trade, in one locality, against the individual bourgeois who directly exploits them. They direct their attacks not against the bourgeois conditions of production, but against the instruments of production themselves; they destroy imported wares that compete with their labour, they smash to pieces machinery, they set factories ablaze, they seek to restore by force the vanished status of the workman of the Middle Ages.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        116,
+        328,
+        664
+      ]
     },
     {
       "order": 64,
       "chapterIndex": 2,
       "text": "At this stage the labourers still form an incoherent mass scattered over the whole country, and broken up by their mutual competition. If anywhere they unite to form more compact bodies, this is not yet the consequence of their own active union, but of the union of the bourgeoisie, which class, in order to attain its own political ends, is compelled to set the whole proletariat in motion, and is moreover yet, for a time, able to do so. At this stage, therefore, the proletarians do not fight their enemies, but the enemies of their enemies, the remnants of absolute monarchy, the landowners, the non-industrial bourgeois, the petty bourgeoisie. Thus the whole historical movement is concentrated in the hands of the bourgeoisie; every victory so obtained is a victory for the bourgeoisie.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        134,
+        439,
+        648,
+        792
+      ]
     },
     {
       "order": 65,
       "chapterIndex": 2,
       "text": "But with the development of industry the proletariat not only increases in number; it becomes concentrated in greater masses, its strength grows, and it feels that strength more. The various interests and conditions of life within the ranks of the proletariat are more and more equalised, in proportion as machinery obliterates all distinctions of labour, and nearly everywhere reduces wages to the same low level. The growing competition among the bourgeois, and the resulting commercial crises, make the wages of the workers ever more fluctuating. The unceasing improvement of machinery, ever more rapidly developing, makes their livelihood more and more precarious; the collisions between individual workmen and individual bourgeois take more and more the character of collisions between two classes. Thereupon the workers begin to form combinations (Trades Unions) against the bourgeois; they club together in order to keep up the rate of wages; they found permanent associations in order to make provision beforehand for these occasional revolts. Here and there the contest breaks out into riots.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        178,
+        414,
+        549,
+        803,
+        1051,
+        1101
+      ]
     },
     {
       "order": 66,
       "chapterIndex": 2,
       "text": "Now and then the workers are victorious, but only for a time. The real fruit of their battles lies, not in the immediate result, but in the ever-expanding union of the workers. This union is helped on by the improved means of communication that are created by modern industry and that place the workers of different localities in contact with one another. It was just this contact that was needed to centralise the numerous local struggles, all of the same character, into one national struggle between classes. But every class struggle is a political struggle. And that union, to attain which the burghers of the Middle Ages, with their miserable highways, required centuries, the modern proletarians, thanks to railways, achieve in a few years.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        61,
+        176,
+        355,
+        511,
+        561,
+        746
+      ]
     },
     {
       "order": 67,
       "chapterIndex": 2,
       "text": "This organisation of the proletarians into a class, and consequently into a political party, is continually being upset again by the competition between the workers themselves. But it ever rises up again, stronger, firmer, mightier. It compels legislative recognition of particular interests of the workers, by taking advantage of the divisions among the bourgeoisie itself. Thus the ten-hours’ bill in England was carried.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        176,
+        232,
+        374,
+        423
+      ]
     },
     {
       "order": 68,
       "chapterIndex": 2,
       "text": "Altogether collisions between the classes of the old society further, in many ways, the course of development of the proletariat. The bourgeoisie finds itself involved in a constant battle. At first with the aristocracy; later on, with those portions of the bourgeoisie itself, whose interests have become antagonistic to the progress of industry; at all times, with the bourgeoisie of foreign countries. In all these battles it sees itself compelled to appeal to the proletariat, to ask for its help, and thus, to drag it into the political arena. The bourgeoisie itself, therefore, supplies the proletariat with its own instruments of political and general education, in other words, it furnishes the proletariat with weapons for fighting the bourgeoisie.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        129,
+        189,
+        404,
+        548,
+        757
+      ]
     },
     {
       "order": 69,
       "chapterIndex": 2,
       "text": "Further, as we have already seen, entire sections of the ruling classes are, by the advance of industry, precipitated into the proletariat, or are at least threatened in their conditions of existence. These also supply the proletariat with fresh elements of enlightenment and progress.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        200,
+        285
+      ]
     },
     {
       "order": 70,
       "chapterIndex": 2,
       "text": "Finally, in times when the class struggle nears the decisive hour, the process of dissolution going on within the ruling class, in fact within the whole range of society, assumes such a violent, glaring character, that a small section of the ruling class cuts itself adrift, and joins the revolutionary class, the class that holds the future in its hands. Just as, therefore, at an earlier period, a section of the nobility went over to the bourgeoisie, so now a portion of the bourgeoisie goes over to the proletariat, and in particular, a portion of the bourgeois ideologists, who have raised themselves to the level of comprehending theoretically the historical movement as a whole.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        355,
+        685
+      ]
     },
     {
       "order": 71,
       "chapterIndex": 2,
       "text": "Of all the classes that stand face to face with the bourgeoisie today, the proletariat alone is a really revolutionary class. The other classes decay and finally disappear in the face of Modern Industry; the proletariat is its special and essential product. The lower middle class, the small manufacturer, the shopkeeper, the artisan, the peasant, all these fight against the bourgeoisie, to save from extinction their existence as fractions of the middle class. They are therefore not revolutionary, but conservative. Nay more, they are reactionary, for they try to roll back the wheel of history. If by chance they are revolutionary, they are so only in view of their impending transfer into the proletariat, they thus defend not their present, but their future interests, they desert their own standpoint to place themselves at that of the proletariat.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        125,
+        257,
+        462,
+        518,
+        598,
+        855
+      ]
     },
     {
       "order": 72,
@@ -519,25 +738,44 @@
       "order": 73,
       "chapterIndex": 2,
       "text": "In the conditions of the proletariat, those of old society at large are already virtually swamped. The proletarian is without property; his relation to his wife and children has no longer anything in common with the bourgeois family-relations; modern industrial labour, modern subjection to capital, the same in England as in France, in America as in Germany, has stripped him of every trace of national character. Law, morality, religion, are to him so many bourgeois prejudices, behind which lurk in ambush just as many bourgeois interests.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        98,
+        414,
+        542
+      ]
     },
     {
       "order": 74,
       "chapterIndex": 2,
       "text": "All the preceding classes that got the upper hand, sought to fortify their already acquired status by subjecting society at large to their conditions of appropriation. The proletarians cannot become masters of the productive forces of society, except by abolishing their own previous mode of appropriation, and thereby also every other previous mode of appropriation. They have nothing of their own to secure and to fortify; their mission is to destroy all previous securities for, and insurances of, individual property.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        167,
+        367,
+        521
+      ]
     },
     {
       "order": 75,
       "chapterIndex": 2,
       "text": "All previous historical movements were movements of minorities, or in the interests of minorities. The proletarian movement is the self-conscious, independent movement of the immense majority, in the interests of the immense majority. The proletariat, the lowest stratum of our present society, cannot stir, cannot raise itself up, without the whole superincumbent strata of official society being sprung into the air.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        98,
+        234,
+        418
+      ]
     },
     {
       "order": 76,
       "chapterIndex": 2,
       "text": "Though not in substance, yet in form, the struggle of the proletariat with the bourgeoisie is at first a national struggle. The proletariat of each country must, of course, first of all settle matters with its own bourgeoisie.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        123,
+        226
+      ]
     },
     {
       "order": 77,
@@ -549,13 +787,31 @@
       "order": 78,
       "chapterIndex": 2,
       "text": "Hitherto, every form of society has been based, as we have already seen, on the antagonism of oppressing and oppressed classes. But in order to oppress a class, certain conditions must be assured to it under which it can, at least, continue its slavish existence. The serf, in the period of serfdom, raised himself to membership in the commune, just as the petty bourgeois, under the yoke of feudal absolutism, managed to develop into a bourgeois. The modern laborer, on the contrary, instead of rising with the progress of industry, sinks deeper and deeper below the conditions of existence of his own class. He becomes a pauper, and pauperism develops more rapidly than population and wealth. And here it becomes evident, that the bourgeoisie is unfit any longer to be the ruling class in society, and to impose its conditions of existence upon society as an over-riding law. It is unfit to rule because it is incompetent to assure an existence to its slave within his slavery, because it cannot help letting him sink into such a state, that it has to feed him, instead of being fed by him. Society can no longer live under this bourgeoisie, in other words, its existence is no longer compatible with society.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        127,
+        263,
+        447,
+        609,
+        694,
+        877,
+        1092,
+        1211
+      ]
     },
     {
       "order": 79,
       "chapterIndex": 2,
       "text": "The essential condition for the existence, and for the sway of the bourgeois class, is the formation and augmentation of capital; the condition for capital is wage-labour. Wage-labour rests exclusively on competition between the laborers. The advance of industry, whose involuntary promoter is the bourgeoisie, replaces the isolation of the labourers, due to competition, by their revolutionary combination, due to association. The development of Modern Industry, therefore, cuts from under its feet the very foundation on which the bourgeoisie produces and appropriates products. What the bourgeoisie, therefore, produces, above all, is its own grave-diggers. Its fall and the victory of the proletariat are equally inevitable.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        171,
+        238,
+        427,
+        580,
+        660,
+        728
+      ]
     },
     {
       "order": 80,
@@ -604,7 +860,11 @@
       "order": 87,
       "chapterIndex": 3,
       "text": "The Communists are distinguished from the other working-class parties by this only: (1) In the national struggles of the proletarians of the different countries, they point out and bring to the front the common interests of the entire proletariat, independently of all nationality. (2) In the various stages of development which the struggle of the working class against the bourgeoisie has to pass through, they always and everywhere represent the interests of the movement as a whole.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        281,
+        486
+      ]
     },
     {
       "order": 88,
@@ -622,7 +882,12 @@
       "order": 90,
       "chapterIndex": 3,
       "text": "The theoretical conclusions of the Communists are in no way based on ideas or principles that have been invented, or discovered, by this or that would-be universal reformer. They merely express, in general terms, actual relations springing from an existing class struggle, from a historical movement going on under our very eyes. The abolition of existing property relations is not at all a distinctive feature of Communism.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        173,
+        329,
+        424
+      ]
     },
     {
       "order": 91,
@@ -640,7 +905,11 @@
       "order": 93,
       "chapterIndex": 3,
       "text": "The distinguishing feature of Communism is not the abolition of property generally, but the abolition of bourgeois property. But modern bourgeois private property is the final and most complete expression of the system of producing and appropriating products, that is based on class antagonisms, on the exploitation of the many by the few.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        124,
+        339
+      ]
     },
     {
       "order": 94,
@@ -658,7 +927,12 @@
       "order": 96,
       "chapterIndex": 3,
       "text": "Hard-won, self-acquired, self-earned property! Do you mean the property of the petty artisan and of the small peasant, a form of property that preceded the bourgeois form? There is no need to abolish that; the development of industry has to a great extent already destroyed it, and is still destroying it daily.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        171,
+        311
+      ]
     },
     {
       "order": 97,
@@ -671,13 +945,25 @@
       "chapterIndex": 3,
       "text": "But does wage-labour create any property for the labourer? Not a bit. It creates capital, i.e., that kind of property which exploits wage-labour, and which cannot increase except upon condition of begetting a new supply of wage-labour for fresh exploitation. Property, in its present form, is based on the antagonism of capital and wage-labour. Let us examine both sides of this antagonism.",
       "role": "paragraph",
-      "ttsText": "But does wage-labour create any property for the labourer? Not a bit. It creates capital, I.E., that kind of property which exploits wage-labour, and which cannot increase except upon condition of begetting a new supply of wage-labour for fresh exploitation. Property, in its present form, is based on the antagonism of capital and wage-labour. Let us examine both sides of this antagonism."
+      "ttsText": "But does wage-labour create any property for the labourer? Not a bit. It creates capital, I.E., that kind of property which exploits wage-labour, and which cannot increase except upon condition of begetting a new supply of wage-labour for fresh exploitation. Property, in its present form, is based on the antagonism of capital and wage-labour. Let us examine both sides of this antagonism.",
+      "ttsSentenceEnds": [
+        58,
+        69,
+        92,
+        258,
+        344,
+        390
+      ]
     },
     {
       "order": 99,
       "chapterIndex": 3,
       "text": "To be a capitalist, is to have not only a purely personal, but a social status in production. Capital is a collective product, and only by the united action of many members, nay, in the last resort, only by the united action of all members of society, can it be set in motion.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        93,
+        276
+      ]
     },
     {
       "order": 100,
@@ -689,7 +975,12 @@
       "order": 101,
       "chapterIndex": 3,
       "text": "When, therefore, capital is converted into common property, into the property of all members of society, personal property is not thereby transformed into social property. It is only the social character of the property that is changed. It loses its class-character.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        171,
+        236,
+        266
+      ]
     },
     {
       "order": 102,
@@ -702,25 +993,45 @@
       "chapterIndex": 3,
       "text": "The average price of wage-labour is the minimum wage, i.e ., that quantum of the means of subsistence, which is absolutely requisite in bare existence as a labourer. What, therefore, the wage-labourer appropriates by means of his labour, merely suffices to prolong and reproduce a bare existence. We by no means intend to abolish this personal appropriation of the products of labour, an appropriation that is made for the maintenance and reproduction of human life, and that leaves no surplus wherewith to command the labour of others. All that we want to do away with, is the miserable character of this appropriation, under which the labourer lives merely to increase capital, and is allowed to live only in so far as the interest of the ruling class requires it.",
       "ttsText": "The average price of wage-labour is the minimum wage, I.E., that quantum of the means of subsistence, which is absolutely requisite in bare existence as a labourer. What, therefore, the wage-labourer appropriates by means of his labour, merely suffices to prolong and reproduce a bare existence. We by no means intend to abolish this personal appropriation of the products of labour, an appropriation that is made for the maintenance and reproduction of human life, and that leaves no surplus wherewith to command the labour of others. All that we want to do away with, is the miserable character of this appropriation, under which the labourer lives merely to increase capital, and is allowed to live only in so far as the interest of the ruling class requires it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        56,
+        164,
+        295,
+        535,
+        765
+      ]
     },
     {
       "order": 104,
       "chapterIndex": 3,
       "text": "In bourgeois society, living labour is but a means to increase accumulated labour. In Communist society, accumulated labour is but a means to widen, to enrich, to promote the existence of the labourer.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        82,
+        201
+      ]
     },
     {
       "order": 105,
       "chapterIndex": 3,
       "text": "In bourgeois society, therefore, the past dominates the present; in Communist society, the present dominates the past. In bourgeois society capital is independent and has individuality, while the living person is dependent and has no individuality.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        118,
+        248
+      ]
     },
     {
       "order": 106,
       "chapterIndex": 3,
       "text": "And the abolition of this state of things is called by the bourgeois, abolition of individuality and freedom! And rightly so. The abolition of bourgeois individuality, bourgeois independence, and bourgeois freedom is undoubtedly aimed at.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        109,
+        125,
+        238
+      ]
     },
     {
       "order": 107,
@@ -732,32 +1043,53 @@
       "order": 108,
       "chapterIndex": 3,
       "text": "But if selling and buying disappears, free selling and buying disappears also. This talk about free selling and buying, and all the other “brave words” of our bourgeoisie about freedom in general, have a meaning, if any, only in contrast with restricted selling and buying, with the fettered traders of the Middle Ages, but have no meaning when opposed to the Communistic abolition of buying and selling, of the bourgeois conditions of production, and of the bourgeoisie itself.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        78,
+        478
+      ]
     },
     {
       "order": 109,
       "chapterIndex": 3,
       "text": "You are horrified at our intending to do away with private property. But in your existing society, private property is already done away with for nine-tenths of the population; its existence for the few is solely due to its non-existence in the hands of those nine-tenths. You reproach us, therefore, with intending to do away with a form of property, the necessary condition for whose existence is the non-existence of any property for the immense majority of society.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        68,
+        272,
+        469
+      ]
     },
     {
       "order": 110,
       "chapterIndex": 3,
       "text": "In one word, you reproach us with intending to do away with your property. Precisely so; that is just what we intend.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        74,
+        117
+      ]
     },
     {
       "order": 111,
       "chapterIndex": 3,
       "text": "From the moment when labour can no longer be converted into capital, money, or rent, into a social power capable of being monopolised, i.e ., from the moment when individual property can no longer be transformed into bourgeois property, into capital, from that moment, you say individuality vanishes.",
       "ttsText": "From the moment when labour can no longer be converted into capital, money, or rent, into a social power capable of being monopolised, I.E., from the moment when individual property can no longer be transformed into bourgeois property, into capital, from that moment, you say individuality vanishes.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        137,
+        299
+      ]
     },
     {
       "order": 112,
       "chapterIndex": 3,
       "text": "You must, therefore, confess that by “individual” you mean no other person than the bourgeois, than the middle-class owner of property. This person must, indeed, be swept out of the way, and made impossible.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        135,
+        207
+      ]
     },
     {
       "order": 113,
@@ -775,13 +1107,21 @@
       "order": 115,
       "chapterIndex": 3,
       "text": "According to this, bourgeois society ought long ago to have gone to the dogs through sheer idleness; for those of its members who work, acquire nothing, and those who acquire anything, do not work. The whole of this objection is but another expression of the tautology: that there can no longer be any wage-labour when there is no longer any capital.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        197,
+        350
+      ]
     },
     {
       "order": 116,
       "chapterIndex": 3,
       "text": "All objections urged against the Communistic mode of producing and appropriating material products, have, in the same way, been urged against the Communistic modes of producing and appropriating intellectual products. Just as, to the bourgeois, the disappearance of class property is the disappearance of production itself, so the disappearance of class culture is to him identical with the disappearance of all culture.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        217,
+        420
+      ]
     },
     {
       "order": 117,
@@ -800,19 +1140,33 @@
       "chapterIndex": 3,
       "text": "The selfish misconception that induces you to transform into eternal laws of nature and of reason, the social forms springing from your present mode of production and form of property—historical relations that rise and disappear in the progress of production—this misconception you share with every ruling class that has preceded you. What you see clearly in the case of ancient property, what you admit in the case of feudal property, you are of course forbidden to admit in the case of your own bourgeois form of property.",
       "ttsText": "The selfish misconception that induces you to transform into eternal laws of nature and of reason, the social forms springing from your present mode of production and form of property, historical relations that rise and disappear in the progress of production, this misconception you share with every ruling class that has preceded you. What you see clearly in the case of ancient property, what you admit in the case of feudal property, you are of course forbidden to admit in the case of your own bourgeois form of property.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        336,
+        526
+      ]
     },
     {
       "order": 120,
       "chapterIndex": 3,
       "text": "Abolition of the family! Even the most radical flare up at this infamous proposal of the Communists.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        100
+      ]
     },
     {
       "order": 121,
       "chapterIndex": 3,
       "text": "On what foundation is the present family, the bourgeois family, based? On capital, on private gain. In its completely developed form this family exists only among the bourgeoisie. But this state of things finds its complement in the practical absence of the family among the proletarians, and in public prostitution.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        99,
+        179,
+        316
+      ]
     },
     {
       "order": 122,
@@ -824,7 +1178,11 @@
       "order": 123,
       "chapterIndex": 3,
       "text": "Do you charge us with wanting to stop the exploitation of children by their parents? To this crime we plead guilty.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        84,
+        115
+      ]
     },
     {
       "order": 124,
@@ -836,7 +1194,12 @@
       "order": 125,
       "chapterIndex": 3,
       "text": "And your education! Is not that also social, and determined by the social conditions under which you educate, by the intervention, direct or indirect, of society, by means of schools, etc.? The Communists have not invented the intervention of society in education; they do but seek to alter the character of that intervention, and to rescue education from the influence of the ruling class.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        189,
+        390
+      ]
     },
     {
       "order": 126,
@@ -854,7 +1217,11 @@
       "order": 128,
       "chapterIndex": 3,
       "text": "The bourgeois sees in his wife a mere instrument of production. He hears that the instruments of production are to be exploited in common, and, naturally, can come to no other conclusion than that the lot of being common to all will likewise fall to the women.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        260
+      ]
     },
     {
       "order": 129,
@@ -866,7 +1233,11 @@
       "order": 130,
       "chapterIndex": 3,
       "text": "For the rest, nothing is more ridiculous than the virtuous indignation of our bourgeois at the community of women which, they pretend, is to be openly and officially established by the Communists. The Communists have no need to introduce community of women; it has existed almost from time immemorial.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        196,
+        301
+      ]
     },
     {
       "order": 131,
@@ -879,7 +1250,12 @@
       "chapterIndex": 3,
       "text": "Bourgeois marriage is in reality a system of wives in common and thus, at the most, what the Communists might possibly be reproached with, is that they desire to introduce, in substitution for a hypocritically concealed, an openly legalised community of women. For the rest, it is self-evident that the abolition of the present system of production must bring with it the abolition of the community of women springing from that system, i.e ., of prostitution both public and private.",
       "ttsText": "Bourgeois marriage is in reality a system of wives in common and thus, at the most, what the Communists might possibly be reproached with, is that they desire to introduce, in substitution for a hypocritically concealed, an openly legalised community of women. For the rest, it is self-evident that the abolition of the present system of production must bring with it the abolition of the community of women springing from that system, I.E., of prostitution both public and private.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        260,
+        438,
+        482
+      ]
     },
     {
       "order": 133,
@@ -891,7 +1267,12 @@
       "order": 134,
       "chapterIndex": 3,
       "text": "The working men have no country. We cannot take from them what they have not got. Since the proletariat must first of all acquire political supremacy, must rise to be the leading class of the nation, must constitute itself the nation, it is, so far, itself national, though not in the bourgeois sense of the word.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        81,
+        313
+      ]
     },
     {
       "order": 135,
@@ -903,13 +1284,21 @@
       "order": 136,
       "chapterIndex": 3,
       "text": "The supremacy of the proletariat will cause them to vanish still faster. United action, of the leading civilised countries at least, is one of the first conditions for the emancipation of the proletariat.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        72,
+        204
+      ]
     },
     {
       "order": 137,
       "chapterIndex": 3,
       "text": "In proportion as the exploitation of one individual by another is put an end to, the exploitation of one nation by another will also be put an end to. In proportion as the antagonism between classes within the nation vanishes, the hostility of one nation to another will come to an end.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        150,
+        286
+      ]
     },
     {
       "order": 138,
@@ -927,7 +1316,11 @@
       "order": 140,
       "chapterIndex": 3,
       "text": "What else does the history of ideas prove, than that intellectual production changes its character in proportion as material production is changed? The ruling ideas of each age have ever been the ideas of its ruling class.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        147,
+        222
+      ]
     },
     {
       "order": 141,
@@ -939,31 +1332,52 @@
       "order": 142,
       "chapterIndex": 3,
       "text": "When the ancient world was in its last throes, the ancient religions were overcome by Christianity. When Christian ideas succumbed in the 18th century to rationalist ideas, feudal society fought its death battle with the then revolutionary bourgeoisie. The ideas of religious liberty and freedom of conscience merely gave expression to the sway of free competition within the domain of knowledge.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        99,
+        252,
+        396
+      ]
     },
     {
       "order": 143,
       "chapterIndex": 3,
       "text": "“Undoubtedly,” it will be said, “religious, moral, philosophical and juridical ideas have been modified in the course of historical development. But religion, morality philosophy, political science, and law, constantly survived this change.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        144,
+        241
+      ]
     },
     {
       "order": 144,
       "chapterIndex": 3,
       "text": "“There are, besides, eternal truths, such as Freedom, Justice, etc. that are common to all states of society. But Communism abolishes eternal truths, it abolishes all religion, and all morality, instead of constituting them on a new basis; it therefore acts in contradiction to all past historical experience.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        109,
+        310
+      ]
     },
     {
       "order": 145,
       "chapterIndex": 3,
       "text": "What does this accusation reduce itself to? The history of all past society has consisted in the development of class antagonisms, antagonisms that assumed different forms at different epochs.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        43,
+        192
+      ]
     },
     {
       "order": 146,
       "chapterIndex": 3,
       "text": "But whatever form they may have taken, one fact is common to all past ages, viz., the exploitation of one part of society by the other. No wonder, then, that the social consciousness of past ages, despite all the multiplicity and variety it displays, moves within certain common forms, or general ideas, which cannot completely vanish except with the total disappearance of class antagonisms.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        135,
+        392
+      ]
     },
     {
       "order": 147,
@@ -988,7 +1402,11 @@
       "chapterIndex": 3,
       "text": "The proletariat will use its political supremacy to wrest, by degrees, all capital from the bourgeoisie, to centralise all instruments of production in the hands of the State, i.e ., of the proletariat organised as the ruling class; and to increase the total of productive forces as rapidly as possible.",
       "ttsText": "The proletariat will use its political supremacy to wrest, by degrees, all capital from the bourgeoisie, to centralise all instruments of production in the hands of the State, I.E., of the proletariat organised as the ruling class; and to increase the total of productive forces as rapidly as possible.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        178,
+        302
+      ]
     },
     {
       "order": 151,
@@ -1012,68 +1430,116 @@
       "order": 154,
       "chapterIndex": 3,
       "text": "1. Abolition of property in land and application of all rents of land to public purposes.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        89
+      ]
     },
     {
       "order": 155,
       "chapterIndex": 3,
       "text": "2. A heavy progressive or graduated income tax.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        47
+      ]
     },
     {
       "order": 156,
       "chapterIndex": 3,
       "text": "3. Abolition of all right of inheritance.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        41
+      ]
     },
     {
       "order": 157,
       "chapterIndex": 3,
       "text": "4. Confiscation of the property of all emigrants and rebels.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        60
+      ]
     },
     {
       "order": 158,
       "chapterIndex": 3,
       "text": "5. Centralisation of credit in the hands of the State, by means of a national bank with State capital and an exclusive monopoly.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        128
+      ]
     },
     {
       "order": 159,
       "chapterIndex": 3,
       "text": "6. Centralisation of the means of communication and transport in the hands of the State.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        88
+      ]
     },
     {
       "order": 160,
       "chapterIndex": 3,
       "text": "7. Extension of factories and instruments of production owned by the State; the bringing into cultivation of waste-lands, and the improvement of the soil generally in accordance with a common plan.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        197
+      ]
     },
     {
       "order": 161,
       "chapterIndex": 3,
       "text": "8. Equal liability of all to labour. Establishment of industrial armies, especially for agriculture.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        36,
+        100
+      ]
     },
     {
       "order": 162,
       "chapterIndex": 3,
       "text": "9. Combination of agriculture with manufacturing industries; gradual abolition of the distinction between town and country, by a more equable distribution of the population over the country.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        190
+      ]
     },
     {
       "order": 163,
       "chapterIndex": 3,
       "text": "10. Free education for all children in public schools. Abolition of children’s factory labour in its present form. Combination of education with industrial production, &c., &c.",
       "ttsText": "10. Free education for all children in public schools. Abolition of children’s factory labour in its present form. Combination of education with industrial production, and c., and c.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        3,
+        54,
+        114,
+        182
+      ]
     },
     {
       "order": 164,
       "chapterIndex": 3,
       "text": "When, in the course of development, class distinctions have disappeared, and all production has been concentrated in the hands of a vast association of the whole nation, the public power will lose its political character. Political power, properly so called, is merely the organised power of one class for oppressing another. If the proletariat during its contest with the bourgeoisie is compelled, by the force of circumstances, to organise itself as a class, if, by means of a revolution, it makes itself the ruling class, and, as such, sweeps away by force the old conditions of production, then it will, along with these conditions, have swept away the conditions for the existence of class antagonisms and of classes generally, and will thereby have abolished its own supremacy as a class.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        221,
+        325,
+        794
+      ]
     },
     {
       "order": 165,
@@ -1105,25 +1571,44 @@
       "chapterIndex": 4,
       "text": "1. REACTIONARY SOCIALISM",
       "ttsText": "1. Reactionary Socialism",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        24
+      ]
     },
     {
       "order": 170,
       "chapterIndex": 4,
       "text": "A. Feudal Socialism",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        2,
+        19
+      ]
     },
     {
       "order": 171,
       "chapterIndex": 4,
       "text": "Owing to their historical position, it became the vocation of the aristocracies of France and England to write pamphlets against modern bourgeois society. In the French revolution of July 1830, and in the English reform agitation, these aristocracies again succumbed to the hateful upstart. Thenceforth, a serious political contest was altogether out of the question. A literary battle alone remained possible. But even in the domain of literature the old cries of the restoration period had become impossible.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        154,
+        290,
+        367,
+        410,
+        510
+      ]
     },
     {
       "order": 172,
       "chapterIndex": 4,
       "text": "In order to arouse sympathy, the aristocracy were obliged to lose sight, apparently, of their own interests, and to formulate their indictment against the bourgeoisie in the interest of the exploited working class alone. Thus the aristocracy took their revenge by singing lampoons on their new master, and whispering in his ears sinister prophecies of coming catastrophe.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        220,
+        371
+      ]
     },
     {
       "order": 173,
@@ -1135,7 +1620,11 @@
       "order": 174,
       "chapterIndex": 4,
       "text": "The aristocracy, in order to rally the people to them, waved the proletarian alms-bag in front for a banner. But the people, so often as it joined them, saw on their hindquarters the old feudal coats of arms, and deserted with loud and irreverent laughter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        108,
+        256
+      ]
     },
     {
       "order": 175,
@@ -1147,7 +1636,11 @@
       "order": 176,
       "chapterIndex": 4,
       "text": "In pointing out that their mode of exploitation was different to that of the bourgeoisie, the feudalists forget that they exploited under circumstances and conditions that were quite different, and that are now antiquated. In showing that, under their rule, the modern proletariat never existed, they forget that the modern bourgeoisie is the necessary offspring of their own form of society.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        222,
+        392
+      ]
     },
     {
       "order": 177,
@@ -1177,44 +1670,77 @@
       "order": 181,
       "chapterIndex": 4,
       "text": "Nothing is easier than to give Christian asceticism a Socialist tinge. Has not Christianity declaimed against private property, against marriage, against the State? Has it not preached in the place of these, charity and poverty, celibacy and mortification of the flesh, monastic life and Mother Church? Christian Socialism is but the holy water with which the priest consecrates the heart-burnings of the aristocrat.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        164,
+        302,
+        416
+      ]
     },
     {
       "order": 182,
       "chapterIndex": 4,
       "text": "B. Petty-Bourgeois Socialism",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        2,
+        28
+      ]
     },
     {
       "order": 183,
       "chapterIndex": 4,
       "text": "The feudal aristocracy was not the only class that was ruined by the bourgeoisie, not the only class whose conditions of existence pined and perished in the atmosphere of modern bourgeois society. The mediaeval burgesses and the small peasant proprietors were the precursors of the modern bourgeoisie. In those countries which are but little developed, industrially and commercially, these two classes still vegetate side by side with the rising bourgeoisie.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        196,
+        301,
+        458
+      ]
     },
     {
       "order": 184,
       "chapterIndex": 4,
       "text": "In countries where modern civilisation has become fully developed, a new class of petty bourgeois has been formed, fluctuating between proletariat and bourgeoisie and ever renewing itself as a supplementary part of bourgeois society. The individual members of this class, however, are being constantly hurled down into the proletariat by the action of competition, and, as modern industry develops, they even see the moment approaching when they will completely disappear as an independent section of modern society, to be replaced, in manufactures, agriculture and commerce, by overlookers, bailiffs and shopmen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        233,
+        613
+      ]
     },
     {
       "order": 185,
       "chapterIndex": 4,
       "text": "In countries like France, where the peasants constitute far more than half of the population, it was natural that writers who sided with the proletariat against the bourgeoisie, should use, in their criticism of the bourgeois regime , the standard of the peasant and petty bourgeois, and from the standpoint of these intermediate classes should take up the cudgels for the working class. Thus arose petty-bourgeois Socialism. Sismondi was the head of this school, not only in France but also in England.",
       "ttsText": "In countries like France, where the peasants constitute far more than half of the population, it was natural that writers who sided with the proletariat against the bourgeoisie, should use, in their criticism of the bourgeois regime, the standard of the peasant and petty bourgeois, and from the standpoint of these intermediate classes should take up the cudgels for the working class. Thus arose petty-bourgeois Socialism. Sismondi was the head of this school, not only in France but also in England.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        386,
+        424,
+        502
+      ]
     },
     {
       "order": 186,
       "chapterIndex": 4,
       "text": "This school of Socialism dissected with great acuteness the contradictions in the conditions of modern production. It laid bare the hypocritical apologies of economists. It proved, incontrovertibly, the disastrous effects of machinery and division of labour; the concentration of capital and land in a few hands; overproduction and crises; it pointed out the inevitable ruin of the petty bourgeois and peasant, the misery of the proletariat, the anarchy in production, the crying inequalities in the distribution of wealth, the industrial war of extermination between nations, the dissolution of old moral bonds, of the old family relations, of the old nationalities.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        114,
+        169,
+        667
+      ]
     },
     {
       "order": 187,
       "chapterIndex": 4,
       "text": "In its positive aims, however, this form of Socialism aspires either to restoring the old means of production and of exchange, and with them the old property relations, and the old society, or to cramping the modern means of production and of exchange, within the framework of the old property relations that have been, and were bound to be, exploded by those means. In either case, it is both reactionary and Utopian.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        366,
+        418
+      ]
     },
     {
       "order": 188,
@@ -1232,7 +1758,11 @@
       "order": 190,
       "chapterIndex": 4,
       "text": "C. German, or “True,” Socialism",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        31
+      ]
     },
     {
       "order": 191,
@@ -1245,7 +1775,12 @@
       "chapterIndex": 4,
       "text": "German philosophers, would-be philosophers, and beaux esprits , eagerly seized on this literature, only forgetting, that when these writings immigrated from France into Germany, French social conditions had not immigrated along with them. In contact with German social conditions, this French literature lost all its immediate practical significance, and assumed a purely literary aspect. Thus, to the German philosophers of the eighteenth century, the demands of the first French Revolution were nothing more than the demands of “Practical Reason” in general, and the utterance of the will of the revolutionary French bourgeoisie signified in their eyes the law of pure Will, of Will as it was bound to be, of true human Will generally.",
       "ttsText": "German philosophers, would-be philosophers, and beaux esprits, eagerly seized on this literature, only forgetting, that when these writings immigrated from France into Germany, French social conditions had not immigrated along with them. In contact with German social conditions, this French literature lost all its immediate practical significance, and assumed a purely literary aspect. Thus, to the German philosophers of the eighteenth century, the demands of the first French Revolution were nothing more than the demands of “Practical Reason” in general, and the utterance of the will of the revolutionary French bourgeoisie signified in their eyes the law of pure Will, of Will as it was bound to be, of true human Will generally.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        237,
+        387,
+        736
+      ]
     },
     {
       "order": 193,
@@ -1263,7 +1798,13 @@
       "order": 195,
       "chapterIndex": 4,
       "text": "It is well known how the monks wrote silly lives of Catholic Saints over the manuscripts on which the classical works of ancient heathendom had been written. The German literati reversed this process with the profane French literature. They wrote their philosophical nonsense beneath the French original. For instance, beneath the French criticism of the economic functions of money, they wrote “Alienation of Humanity,” and beneath the French criticism of the bourgeois State they wrote “dethronement of the Category of the General,” and so forth.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        157,
+        235,
+        304,
+        548
+      ]
     },
     {
       "order": 196,
@@ -1275,7 +1816,11 @@
       "order": 197,
       "chapterIndex": 4,
       "text": "The French Socialist and Communist literature was thus completely emasculated. And, since it ceased in the hands of the German to express the struggle of one class with the other, he felt conscious of having overcome “French one-sidedness” and of representing, not true requirements, but the requirements of truth; not the interests of the proletariat, but the interests of Human Nature, of Man in general, who belongs to no class, has no reality, who exists only in the misty realm of philosophical fantasy.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        78,
+        508
+      ]
     },
     {
       "order": 198,
@@ -1293,7 +1838,11 @@
       "order": 200,
       "chapterIndex": 4,
       "text": "By this, the long wished-for opportunity was offered to “True” Socialism of confronting the political movement with the Socialist demands, of hurling the traditional anathemas against liberalism, against representative government, against bourgeois competition, bourgeois freedom of the press, bourgeois legislation, bourgeois liberty and equality, and of preaching to the masses that they had nothing to gain, and everything to lose, by this bourgeois movement. German Socialism forgot, in the nick of time, that the French criticism, whose silly echo it was, presupposed the existence of modern bourgeois society, with its corresponding economic conditions of existence, and the political constitution adapted thereto, the very things whose attainment was the object of the pending struggle in Germany.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        462,
+        804
+      ]
     },
     {
       "order": 201,
@@ -1311,32 +1860,56 @@
       "order": 203,
       "chapterIndex": 4,
       "text": "While this “True” Socialism thus served the governments as a weapon for fighting the German bourgeoisie, it, at the same time, directly represented a reactionary interest, the interest of the German Philistines. In Germany the petty bourgeois class, a relique of the sixteenth century, and since then constantly cropping up again under various forms, is the real social basis of the existing state of things.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        211,
+        408
+      ]
     },
     {
       "order": 204,
       "chapterIndex": 4,
       "text": "To preserve this class is to preserve the existing state of things in Germany. The industrial and political supremacy of the bourgeoisie threatens it with certain destruction; on the one hand, from the concentration of capital; on the other, from the rise of a revolutionary proletariat. “True” Socialism appeared to kill these two birds with one stone. It spread like an epidemic.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        78,
+        287,
+        353,
+        381
+      ]
     },
     {
       "order": 205,
       "chapterIndex": 4,
       "text": "The robe of speculative cobwebs, embroidered with flowers of rhetoric, steeped in the dew of sickly sentiment, this transcendental robe in which the German Socialists wrapped their sorry “eternal truths,” all skin and bone, served to wonderfully increase the sale of their goods amongst such a public. And on its part, German Socialism recognised, more and more, its own calling as the bombastic representative of the petty-bourgeois Philistine.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        301,
+        445
+      ]
     },
     {
       "order": 206,
       "chapterIndex": 4,
       "text": "It proclaimed the German nation to be the model nation, and the German petty Philistine to be the typical man. To every villainous meanness of this model man it gave a hidden, higher, Socialistic interpretation, the exact contrary of its real character. It went to the extreme length of directly opposing the “brutally destructive” tendency of Communism, and of proclaiming its supreme and impartial contempt of all class struggles. With very few exceptions, all the so-called Socialist and Communist publications that now (1847) circulate in Germany belong to the domain of this foul and enervating literature.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        110,
+        253,
+        432,
+        611
+      ]
     },
     {
       "order": 207,
       "chapterIndex": 4,
       "text": "2. CONSERVATIVE, OR BOURGEOIS, SOCIALISM",
       "ttsText": "2. Conservative, Or Bourgeois, Socialism",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        40
+      ]
     },
     {
       "order": 208,
@@ -1348,7 +1921,11 @@
       "order": 209,
       "chapterIndex": 4,
       "text": "To this section belong economists, philanthropists, humanitarians, improvers of the condition of the working class, organisers of charity, members of societies for the prevention of cruelty to animals, temperance fanatics, hole-and-corner reformers of every imaginable kind. This form of Socialism has, moreover, been worked out into complete systems.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        274,
+        351
+      ]
     },
     {
       "order": 210,
@@ -1360,13 +1937,24 @@
       "order": 211,
       "chapterIndex": 4,
       "text": "The Socialistic bourgeois want all the advantages of modern social conditions without the struggles and dangers necessarily resulting therefrom. They desire the existing state of society minus its revolutionary and disintegrating elements. They wish for a bourgeoisie without a proletariat. The bourgeoisie naturally conceives the world in which it is supreme to be the best; and bourgeois Socialism develops this comfortable conception into various more or less complete systems. In requiring the proletariat to carry out such a system, and thereby to march straightway into the social New Jerusalem, it but requires in reality, that the proletariat should remain within the bounds of existing society, but should cast away all its hateful ideas concerning the bourgeoisie.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        144,
+        239,
+        290,
+        480,
+        774
+      ]
     },
     {
       "order": 212,
       "chapterIndex": 4,
       "text": "A second and more practical, but less systematic, form of this Socialism sought to depreciate every revolutionary movement in the eyes of the working class, by showing that no mere political reform, but only a change in the material conditions of existence, in economic relations, could be of any advantage to them. By changes in the material conditions of existence, this form of Socialism, however, by no means understands abolition of the bourgeois relations of production, an abolition that can be effected only by a revolution, but administrative reforms, based on the continued existence of these relations; reforms, therefore, that in no respect affect the relations between capital and labour, but, at the best, lessen the cost, and simplify the administrative work, of bourgeois government.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        315,
+        799
+      ]
     },
     {
       "order": 213,
@@ -1378,7 +1966,13 @@
       "order": 214,
       "chapterIndex": 4,
       "text": "Free trade: for the benefit of the working class. Protective duties: for the benefit of the working class. Prison Reform: for the benefit of the working class. This is the last word and the only seriously meant word of bourgeois Socialism.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        106,
+        159,
+        239
+      ]
     },
     {
       "order": 215,
@@ -1392,7 +1986,11 @@
       "chapterIndex": 4,
       "text": "3. CRITICAL-UTOPIAN SOCIALISM AND COMMUNISM",
       "ttsText": "3. Critical-Utopian Socialism and Communism",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        43
+      ]
     },
     {
       "order": 217,
@@ -1404,43 +2002,74 @@
       "order": 218,
       "chapterIndex": 4,
       "text": "The first direct attempts of the proletariat to attain its own ends, made in times of universal excitement, when feudal society was being overthrown, these attempts necessarily failed, owing to the then undeveloped state of the proletariat, as well as to the absence of the economic conditions for its emancipation, conditions that had yet to be produced, and could be produced by the impending bourgeois epoch alone. The revolutionary literature that accompanied these first movements of the proletariat had necessarily a reactionary character. It inculcated universal asceticism and social levelling in its crudest form.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        417,
+        545,
+        622
+      ]
     },
     {
       "order": 219,
       "chapterIndex": 4,
       "text": "The Socialist and Communist systems properly so called, those of Saint-Simon, Fourier, Owen and others, spring into existence in the early undeveloped period, described above, of the struggle between proletariat and bourgeoisie (see Section 1. Bourgeois and Proletarians).",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        243,
+        272
+      ]
     },
     {
       "order": 220,
       "chapterIndex": 4,
       "text": "The founders of these systems see, indeed, the class antagonisms, as well as the action of the decomposing elements, in the prevailing form of society. But the proletariat, as yet in its infancy, offers to them the spectacle of a class without any historical initiative or any independent political movement.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        151,
+        308
+      ]
     },
     {
       "order": 221,
       "chapterIndex": 4,
       "text": "Since the development of class antagonism keeps even pace with the development of industry, the economic situation, as they find it, does not as yet offer to them the material conditions for the emancipation of the proletariat. They therefore search after a new social science, after new social laws, that are to create these conditions.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        227,
+        337
+      ]
     },
     {
       "order": 222,
       "chapterIndex": 4,
       "text": "Historical action is to yield to their personal inventive action, historically created conditions of emancipation to fantastic ones, and the gradual, spontaneous class-organisation of the proletariat to the organisation of society specially contrived by these inventors. Future history resolves itself, in their eyes, into the propaganda and the practical carrying out of their social plans.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        270,
+        391
+      ]
     },
     {
       "order": 223,
       "chapterIndex": 4,
       "text": "In the formation of their plans they are conscious of caring chiefly for the interests of the working class, as being the most suffering class. Only from the point of view of being the most suffering class does the proletariat exist for them.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        143,
+        242
+      ]
     },
     {
       "order": 224,
       "chapterIndex": 4,
       "text": "The undeveloped state of the class struggle, as well as their own surroundings, causes Socialists of this kind to consider themselves far superior to all class antagonisms. They want to improve the condition of every member of society, even that of the most favoured. Hence, they habitually appeal to society at large, without distinction of class; nay, by preference, to the ruling class. For how can people, when once they understand their system, fail to see in it the best possible plan of the best possible state of society?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        172,
+        267,
+        389,
+        529
+      ]
     },
     {
       "order": 225,
@@ -1459,14 +2088,30 @@
       "chapterIndex": 4,
       "text": "But these Socialist and Communist publications contain also a critical element. They attack every principle of existing society. Hence they are full of the most valuable materials for the enlightenment of the working class. The practical measures proposed in them—such as the abolition of the distinction between town and country, of the family, of the carrying on of industries for the account of private individuals, and of the wage system, the proclamation of social harmony, the conversion of the functions of the State into a mere superintendence of production, all these proposals, point solely to the disappearance of class antagonisms which were, at that time, only just cropping up, and which, in these publications, are recognised in their earliest, indistinct and undefined forms only. These proposals, therefore, are of a purely Utopian character.",
       "ttsText": "But these Socialist and Communist publications contain also a critical element. They attack every principle of existing society. Hence they are full of the most valuable materials for the enlightenment of the working class. The practical measures proposed in them, such as the abolition of the distinction between town and country, of the family, of the carrying on of industries for the account of private individuals, and of the wage system, the proclamation of social harmony, the conversion of the functions of the State into a mere superintendence of production, all these proposals, point solely to the disappearance of class antagonisms which were, at that time, only just cropping up, and which, in these publications, are recognised in their earliest, indistinct and undefined forms only. These proposals, therefore, are of a purely Utopian character.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        128,
+        223,
+        797,
+        860
+      ]
     },
     {
       "order": 228,
       "chapterIndex": 4,
       "text": "The significance of Critical-Utopian Socialism and Communism bears an inverse relation to historical development. In proportion as the modern class struggle develops and takes definite shape, this fantastic standing apart from the contest, these fantastic attacks on it, lose all practical value and all theoretical justification. Therefore, although the originators of these systems were, in many respects, revolutionary, their disciples have, in every case, formed mere reactionary sects. They hold fast by the original views of their masters, in opposition to the progressive historical development of the proletariat. They, therefore, endeavour, and that consistently, to deaden the class struggle and to reconcile the class antagonisms. They still dream of experimental realisation of their social Utopias, of founding isolated “phalansteres,” of establishing “Home Colonies,” of setting up a “Little Icaria”—duodecimo editions of the New Jerusalem—and to realise all these castles in the air, they are compelled to appeal to the feelings and purses of the bourgeois. By degrees they sink into the category of the reactionary conservative Socialists depicted above, differing from these only by more systematic pedantry, and by their fanatical and superstitious belief in the miraculous effects of their social science.",
       "ttsText": "The significance of Critical-Utopian Socialism and Communism bears an inverse relation to historical development. In proportion as the modern class struggle develops and takes definite shape, this fantastic standing apart from the contest, these fantastic attacks on it, lose all practical value and all theoretical justification. Therefore, although the originators of these systems were, in many respects, revolutionary, their disciples have, in every case, formed mere reactionary sects. They hold fast by the original views of their masters, in opposition to the progressive historical development of the proletariat. They, therefore, endeavour, and that consistently, to deaden the class struggle and to reconcile the class antagonisms. They still dream of experimental realisation of their social Utopias, of founding isolated “phalansteres,” of establishing “Home Colonies,” of setting up a “Little Icaria”, duodecimo editions of the New Jerusalem, and to realise all these castles in the air, they are compelled to appeal to the feelings and purses of the bourgeois. By degrees they sink into the category of the reactionary conservative Socialists depicted above, differing from these only by more systematic pedantry, and by their fanatical and superstitious belief in the miraculous effects of their social science.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        113,
+        330,
+        490,
+        621,
+        741,
+        1074,
+        1326
+      ]
     },
     {
       "order": 229,
@@ -1509,7 +2154,11 @@
       "order": 235,
       "chapterIndex": 5,
       "text": "The Communists fight for the attainment of the immediate aims, for the enforcement of the momentary interests of the working class; but in the movement of the present, they also represent and take care of the future of that movement. In France the Communists ally themselves with the Social-Democrats, against the conservative and radical bourgeoisie, reserving, however, the right to take up a critical position in regard to phrases and illusions traditionally handed down from the great Revolution.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        233,
+        500
+      ]
     },
     {
       "order": 236,
@@ -1563,7 +2212,14 @@
       "order": 244,
       "chapterIndex": 5,
       "text": "The Communists disdain to conceal their views and aims. They openly declare that their ends can be attained only by the forcible overthrow of all existing social conditions. Let the ruling classes tremble at a Communistic revolution. The proletarians have nothing to lose but their chains. They have a world to win.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        173,
+        233,
+        289,
+        315
+      ]
     },
     {
       "order": 245,

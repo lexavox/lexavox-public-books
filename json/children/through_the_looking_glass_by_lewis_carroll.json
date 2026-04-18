@@ -192,7 +192,11 @@
       "order": 14,
       "chapterIndex": 0,
       "text": "The Millennium Fulcrum Edition 1.7",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        34
+      ]
     },
     {
       "order": 15,
@@ -219,55 +223,115 @@
       "chapterIndex": 0,
       "text": "PIECES. PAWNS. PAWNS. PIECES.",
       "ttsText": "Pieces. Pawns. Pawns. Pieces.",
-      "role": "title"
+      "role": "title",
+      "ttsSentenceEnds": [
+        7,
+        14,
+        21,
+        29
+      ]
     },
     {
       "order": 19,
       "chapterIndex": 0,
       "text": "Tweedledee. Daisy. Daisy. Humpty Dumpty.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        18,
+        25,
+        40
+      ]
     },
     {
       "order": 20,
       "chapterIndex": 0,
       "text": "Unicorn. Haigha. Messenger. Carpenter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        16,
+        27,
+        38
+      ]
     },
     {
       "order": 21,
       "chapterIndex": 0,
       "text": "Sheep. Oyster. Oyster. Walrus.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        6,
+        14,
+        22,
+        30
+      ]
     },
     {
       "order": 22,
       "chapterIndex": 0,
       "text": "W. Queen. “Lily.” Tiger-lily. R. Queen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        2,
+        9,
+        17,
+        29,
+        32,
+        39
+      ]
     },
     {
       "order": 23,
       "chapterIndex": 0,
       "text": "W. King. Fawn. Rose. R. King.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        2,
+        8,
+        14,
+        20,
+        23,
+        29
+      ]
     },
     {
       "order": 24,
       "chapterIndex": 0,
       "text": "Aged man. Oyster. Oyster. Crow.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        17,
+        25,
+        31
+      ]
     },
     {
       "order": 25,
       "chapterIndex": 0,
       "text": "W. Knight. Hatta. Frog. R. Knight.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        2,
+        10,
+        17,
+        23,
+        26,
+        34
+      ]
     },
     {
       "order": 26,
       "chapterIndex": 0,
       "text": "Tweedledum. Daisy. Daisy. Lion.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        18,
+        25,
+        31
+      ]
     },
     {
       "order": 27,
@@ -293,136 +357,244 @@
       "chapterIndex": 0,
       "text": "1. Alice meets R. Q.",
       "role": "heading",
-      "ttsText": "1. Alice meets R.Q."
+      "ttsText": "1. Alice meets R.Q.",
+      "ttsSentenceEnds": [
+        2,
+        17,
+        19
+      ]
     },
     {
       "order": 31,
       "chapterIndex": 0,
       "text": "1. R. Q. to K. R.’s 4th",
       "role": "heading",
-      "ttsText": "1. R.Q.to K.R.’s 4th"
+      "ttsText": "1. R.Q.to K.R.’s 4th",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        12,
+        20
+      ]
     },
     {
       "order": 32,
       "chapterIndex": 0,
       "text": "2. Alice through Q.’s 3d ( by railway ) to 4th ( Tweedledum and Tweedledee )",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        76
+      ]
     },
     {
       "order": 33,
       "chapterIndex": 0,
       "text": "2. W. Q. to Q. B.’s 4th ( after shawl )",
       "role": "heading",
-      "ttsText": "2. W.Q.to Q.B.’s 4th ( after shawl )"
+      "ttsText": "2. W.Q.to Q.B.’s 4th ( after shawl )",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        12,
+        36
+      ]
     },
     {
       "order": 34,
       "chapterIndex": 0,
       "text": "3. Alice meets W. Q. ( with shawl )",
       "role": "heading",
-      "ttsText": "3. Alice meets W.Q.( with shawl )"
+      "ttsText": "3. Alice meets W.Q.( with shawl )",
+      "ttsSentenceEnds": [
+        2,
+        17,
+        19,
+        33
+      ]
     },
     {
       "order": 35,
       "chapterIndex": 0,
       "text": "3. W. Q. to Q.B.’s 5th ( becomes sheep )",
       "role": "heading",
-      "ttsText": "3. W.Q.to Q.B.’s 5th ( becomes sheep )"
+      "ttsText": "3. W.Q.to Q.B.’s 5th ( becomes sheep )",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        12,
+        38
+      ]
     },
     {
       "order": 36,
       "chapterIndex": 0,
       "text": "4. Alice to Q.’s 5th ( shop, river, shop )",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        42
+      ]
     },
     {
       "order": 37,
       "chapterIndex": 0,
       "text": "4. W. Q. to K. B.’s 8th ( leaves egg on shelf )",
       "role": "heading",
-      "ttsText": "4. W.Q.to K.B.’s 8th ( leaves egg on shelf )"
+      "ttsText": "4. W.Q.to K.B.’s 8th ( leaves egg on shelf )",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        12,
+        44
+      ]
     },
     {
       "order": 38,
       "chapterIndex": 0,
       "text": "5. Alice to Q.’s 6th ( Humpty Dumpty )",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        38
+      ]
     },
     {
       "order": 39,
       "chapterIndex": 0,
       "text": "5. W. Q. to Q. B.’s 8th ( flying from R. Kt. )",
       "role": "heading",
-      "ttsText": "5. W.Q.to Q.B.’s 8th ( flying from R. Kt. )"
+      "ttsText": "5. W.Q.to Q.B.’s 8th ( flying from R. Kt. )",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        12,
+        37,
+        43
+      ]
     },
     {
       "order": 40,
       "chapterIndex": 0,
       "text": "6. Alice to Q.’s 7th ( forest )",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        31
+      ]
     },
     {
       "order": 41,
       "chapterIndex": 0,
       "text": "6. R. Kt. to K.’s 2nd (ch.)",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        27
+      ]
     },
     {
       "order": 42,
       "chapterIndex": 0,
       "text": "7. W.Kt. takes R.Kt.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        17,
+        20
+      ]
     },
     {
       "order": 43,
       "chapterIndex": 0,
       "text": "7. W. Kt. to K. B’s 5th",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        15,
+        23
+      ]
     },
     {
       "order": 44,
       "chapterIndex": 0,
       "text": "8. Alice to Q.’s 8th ( coronation )",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        35
+      ]
     },
     {
       "order": 45,
       "chapterIndex": 0,
       "text": "8. R. Q. to K.’s sq. ( examination )",
       "role": "heading",
-      "ttsText": "8. R.Q.to K.’s sq. ( examination )"
+      "ttsText": "8. R.Q.to K.’s sq. ( examination )",
+      "ttsSentenceEnds": [
+        2,
+        5,
+        18,
+        34
+      ]
     },
     {
       "order": 46,
       "chapterIndex": 0,
       "text": "9. Alice becomes Queen",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        22
+      ]
     },
     {
       "order": 47,
       "chapterIndex": 0,
       "text": "9. Queens castle",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        2,
+        16
+      ]
     },
     {
       "order": 48,
       "chapterIndex": 0,
       "text": "10. Alice castles ( feast )",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        3,
+        27
+      ]
     },
     {
       "order": 49,
       "chapterIndex": 0,
       "text": "10. W.Q. to Q.R.’s 6th ( soup )",
       "role": "heading",
-      "ttsText": "10. W.Q.to Q.R.’s 6th ( soup )"
+      "ttsText": "10. W.Q.to Q.R.’s 6th ( soup )",
+      "ttsSentenceEnds": [
+        3,
+        6,
+        13,
+        30
+      ]
     },
     {
       "order": 50,
       "chapterIndex": 0,
       "text": "11. Alice takes R.Q. & wins",
       "ttsText": "11. Alice takes R.Q. and wins",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        3,
+        18,
+        29
+      ]
     },
     {
       "order": 51,
@@ -675,26 +847,50 @@
       "chapterIndex": 2,
       "text": "After a while the noise seemed gradually to die away, till all was dead silence, and Alice lifted up her head in some alarm. There was no one to be seen, and her first thought was that she must have been dreaming about the Lion and the Unicorn and those queer Anglo-Saxon Messengers. However, there was the great dish still lying at her feet, on which she had tried to cut the plum-cake, “So I wasn’t dreaming, after all,” she said to herself, “unless—unless we’re all part of the same dream. Only I do hope it’s my dream, and not the Red King’s! I don’t like belonging to another person’s dream,” she went on in a rather complaining tone: “I’ve a great mind to go and wake him, and see what happens!”",
       "ttsText": "After a while the noise seemed gradually to die away, till all was dead silence, and Alice lifted up her head in some alarm. There was no one to be seen, and her first thought was that she must have been dreaming about the Lion and the Unicorn and those queer Anglo-Saxon Messengers. However, there was the great dish still lying at her feet, on which she had tried to cut the plum-cake, “So I wasn’t dreaming, after all,” she said to herself, “unless, unless we’re all part of the same dream. Only I do hope it’s my dream, and not the Red King’s! I don’t like belonging to another person’s dream,” she went on in a rather complaining tone: “I’ve a great mind to go and wake him, and see what happens!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        124,
+        283,
+        493,
+        547,
+        702
+      ]
     },
     {
       "order": 92,
       "chapterIndex": 2,
       "text": "At this moment her thoughts were interrupted by a loud shouting of “Ahoy! Ahoy! Check!” and a Knight dressed in crimson armour came galloping down upon her, brandishing a great club. Just as he reached her, the horse stopped suddenly: “You’re my prisoner!” the Knight cried, as he tumbled off his horse.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        73,
+        79,
+        182,
+        303
+      ]
     },
     {
       "order": 93,
       "chapterIndex": 2,
       "text": "Startled as she was, Alice was more frightened for him than for herself at the moment, and watched him with some anxiety as he mounted again. As soon as he was comfortably in the saddle, he began once more “You’re my—” but here another voice broke in “Ahoy! Ahoy! Check!” and Alice looked round in some surprise for the new enemy.",
       "ttsText": "Startled as she was, Alice was more frightened for him than for herself at the moment, and watched him with some anxiety as he mounted again. As soon as he was comfortably in the saddle, he began once more “You’re my, ” but here another voice broke in “Ahoy! Ahoy! Check!” and Alice looked round in some surprise for the new enemy.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        141,
+        258,
+        264,
+        331
+      ]
     },
     {
       "order": 94,
       "chapterIndex": 2,
       "text": "This time it was a White Knight. He drew up at Alice’s side, and tumbled off his horse just as the Red Knight had done: then he got on again, and the two Knights sat and looked at each other for some time without speaking. Alice looked from one to the other in some bewilderment.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        222,
+        279
+      ]
     },
     {
       "order": 95,
@@ -731,7 +927,13 @@
       "chapterIndex": 2,
       "text": "“I wonder, now, what the Rules of Battle are,” she said to herself, as she watched the fight, timidly peeping out from her hiding-place: “one Rule seems to be, that if one Knight hits the other, he knocks him off his horse, and if he misses, he tumbles off himself—and another Rule seems to be that they hold their clubs with their arms, as if they were Punch and Judy—What a noise they make when they tumble! Just like a whole set of fire-irons falling into the fender! And how quiet the horses are! They let them get on and off them just as if they were tables!”",
       "ttsText": "“I wonder, now, what the Rules of Battle are,” she said to herself, as she watched the fight, timidly peeping out from her hiding-place: “one Rule seems to be, that if one Knight hits the other, he knocks him off his horse, and if he misses, he tumbles off himself, and another Rule seems to be that they hold their clubs with their arms, as if they were Punch and Judy, What a noise they make when they tumble! Just like a whole set of fire-irons falling into the fender! And how quiet the horses are! They let them get on and off them just as if they were tables!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        411,
+        472,
+        502,
+        566
+      ]
     },
     {
       "order": 101,
@@ -749,52 +951,91 @@
       "order": 103,
       "chapterIndex": 2,
       "text": "“I don’t know,” Alice said doubtfully. “I don’t want to be anybody’s prisoner. I want to be a Queen.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        78,
+        101
+      ]
     },
     {
       "order": 104,
       "chapterIndex": 2,
       "text": "“So you will, when you’ve crossed the next brook,” said the White Knight. “I’ll see you safe to the end of the wood—and then I must go back, you know. That’s the end of my move.”",
       "ttsText": "“So you will, when you’ve crossed the next brook,” said the White Knight. “I’ll see you safe to the end of the wood, and then I must go back, you know. That’s the end of my move.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        73,
+        151,
+        179
+      ]
     },
     {
       "order": 105,
       "chapterIndex": 2,
       "text": "“Thank you very much,” said Alice. “May I help you off with your helmet?” It was evidently more than he could manage by himself; however, she managed to shake him out of it at last.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        73,
+        181
+      ]
     },
     {
       "order": 106,
       "chapterIndex": 2,
       "text": "“Now one can breathe more easily,” said the Knight, putting back his shaggy hair with both hands, and turning his gentle face and large mild eyes to Alice. She thought she had never seen such a strange-looking soldier in all her life.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        155,
+        234
+      ]
     },
     {
       "order": 107,
       "chapterIndex": 2,
       "text": "He was dressed in tin armour, which seemed to fit him very badly, and he had a queer-shaped little deal box fastened across his shoulder, upside-down, and with the lid hanging open. Alice looked at it with great curiosity.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        181,
+        222
+      ]
     },
     {
       "order": 108,
       "chapterIndex": 2,
       "text": "“I see you’re admiring my little box.” the Knight said in a friendly tone. “It’s my own invention—to keep clothes and sandwiches in. You see I carry it upside-down, so that the rain can’t get in.”",
       "ttsText": "“I see you’re admiring my little box.” the Knight said in a friendly tone. “It’s my own invention, to keep clothes and sandwiches in. You see I carry it upside-down, so that the rain can’t get in.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        74,
+        133,
+        197
+      ]
     },
     {
       "order": 109,
       "chapterIndex": 2,
       "text": "“But the things can get out ,” Alice gently remarked. “Do you know the lid’s open?”",
       "ttsText": "“But the things can get out,” Alice gently remarked. “Do you know the lid’s open?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        82
+      ]
     },
     {
       "order": 110,
       "chapterIndex": 2,
       "text": "“I didn’t know it,” the Knight said, a shade of vexation passing over his face. “Then all the things must have fallen out! And the box is no use without them.” He unfastened it as he spoke, and was just going to throw it into the bushes, when a sudden thought seemed to strike him, and he hung it carefully on a tree. “Can you guess why I did that?” he said to Alice.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        122,
+        159,
+        317,
+        367
+      ]
     },
     {
       "order": 111,
@@ -821,13 +1062,23 @@
       "chapterIndex": 2,
       "text": "“Yes, it’s a very good bee-hive,” the Knight said in a discontented tone, “one of the best kind. But not a single bee has come near it yet. And the other thing is a mouse-trap. I suppose the mice keep the bees out—or the bees keep the mice out, I don’t know which.”",
       "ttsText": "“Yes, it’s a very good bee-hive,” the Knight said in a discontented tone, “one of the best kind. But not a single bee has come near it yet. And the other thing is a mouse-trap. I suppose the mice keep the bees out, or the bees keep the mice out, I don’t know which.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        96,
+        139,
+        176,
+        266
+      ]
     },
     {
       "order": 115,
       "chapterIndex": 2,
       "text": "“I was wondering what the mouse-trap was for,” said Alice. “It isn’t very likely there would be any mice on the horse’s back.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        126
+      ]
     },
     {
       "order": 116,
@@ -840,20 +1091,34 @@
       "chapterIndex": 2,
       "text": "“You see,” he went on after a pause, “it’s as well to be provided for everything . That’s the reason the horse has all those anklets round his feet.”",
       "ttsText": "“You see,” he went on after a pause, “it’s as well to be provided for everything. That’s the reason the horse has all those anklets round his feet.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        81,
+        148
+      ]
     },
     {
       "order": 118,
       "chapterIndex": 2,
       "text": "“But what are they for?” Alice asked in a tone of great curiosity.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        66
+      ]
     },
     {
       "order": 119,
       "chapterIndex": 2,
       "text": "“To guard against the bites of sharks,” the Knight replied. “It’s an invention of my own. And now help me on. I’ll go with you to the end of the wood—What’s the dish for?”",
       "ttsText": "“To guard against the bites of sharks,” the Knight replied. “It’s an invention of my own. And now help me on. I’ll go with you to the end of the wood, What’s the dish for?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        89,
+        109,
+        172
+      ]
     },
     {
       "order": 120,
@@ -865,13 +1130,23 @@
       "order": 121,
       "chapterIndex": 2,
       "text": "“We’d better take it with us,” the Knight said. “It’ll come in handy if we find any plum-cake. Help me to get it into this bag.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        94,
+        128
+      ]
     },
     {
       "order": 122,
       "chapterIndex": 2,
       "text": "This took a very long time to manage, though Alice held the bag open very carefully, because the Knight was so very awkward in putting in the dish: the first two or three times that he tried he fell in himself instead. “It’s rather a tight fit, you see,” he said, as they got it in a last; “There are so many candlesticks in the bag.” And he hung it to the saddle, which was already loaded with bunches of carrots, and fire-irons, and many other things.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        218,
+        334,
+        453
+      ]
     },
     {
       "order": 123,
@@ -889,19 +1164,32 @@
       "order": 125,
       "chapterIndex": 2,
       "text": "“That’s hardly enough,” he said, anxiously. “You see the wind is so very strong here. It’s as strong as soup.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        43,
+        85,
+        110
+      ]
     },
     {
       "order": 126,
       "chapterIndex": 2,
       "text": "“Have you invented a plan for keeping the hair from being blown off?” Alice enquired.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        69,
+        85
+      ]
     },
     {
       "order": 127,
       "chapterIndex": 2,
       "text": "“Not yet,” said the Knight. “But I’ve got a plan for keeping it from falling off.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        82
+      ]
     },
     {
       "order": 128,
@@ -914,7 +1202,14 @@
       "chapterIndex": 2,
       "text": "“First you take an upright stick,” said the Knight. “Then you make your hair creep up it, like a fruit-tree. Now the reason hair falls off is because it hangs down —things never fall upwards , you know. It’s a plan of my own invention. You may try it if you like.”",
       "ttsText": "“First you take an upright stick,” said the Knight. “Then you make your hair creep up it, like a fruit-tree. Now the reason hair falls off is because it hangs down, things never fall upwards, you know. It’s a plan of my own invention. You may try it if you like.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        108,
+        201,
+        234,
+        263
+      ]
     },
     {
       "order": 130,
@@ -926,7 +1221,11 @@
       "order": 131,
       "chapterIndex": 2,
       "text": "Whenever the horse stopped (which it did very often), he fell off in front; and whenever it went on again (which it generally did rather suddenly), he fell off behind. Otherwise he kept on pretty well, except that he had a habit of now and then falling off sideways; and as he generally did this on the side on which Alice was walking, she soon found that it was the best plan not to walk quite close to the horse.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        167,
+        414
+      ]
     },
     {
       "order": 132,
@@ -938,7 +1237,11 @@
       "order": 133,
       "chapterIndex": 2,
       "text": "The Knight looked very much surprised, and a little offended at the remark. “What makes you say that?” he asked, as he scrambled back into the saddle, keeping hold of Alice’s hair with one hand, to save himself from falling over on the other side.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        75,
+        247
+      ]
     },
     {
       "order": 134,
@@ -956,21 +1259,34 @@
       "order": 136,
       "chapterIndex": 2,
       "text": "Alice could think of nothing better to say than “Indeed?” but she said it as heartily as she could. They went on a little way in silence after this, the Knight with his eyes shut, muttering to himself, and Alice watching anxiously for the next tumble.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        99,
+        251
+      ]
     },
     {
       "order": 137,
       "chapterIndex": 2,
       "text": "“The great art of riding,” the Knight suddenly began in a loud voice, waving his right arm as he spoke, “is to keep—” Here the sentence ended as suddenly as it had begun, as the Knight fell heavily on the top of his head exactly in the path where Alice was walking. She was quite frightened this time, and said in an anxious tone, as she picked him up, “I hope no bones are broken?”",
       "ttsText": "“The great art of riding,” the Knight suddenly began in a loud voice, waving his right arm as he spoke, “is to keep, ” Here the sentence ended as suddenly as it had begun, as the Knight fell heavily on the top of his head exactly in the path where Alice was walking. She was quite frightened this time, and said in an anxious tone, as she picked him up, “I hope no bones are broken?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        266,
+        383
+      ]
     },
     {
       "order": 138,
       "chapterIndex": 2,
       "text": "“None to speak of,” the Knight said, as if he didn’t mind breaking two or three of them. “The great art of riding, as I was saying, is—to keep your balance properly. Like this, you know—”",
       "ttsText": "“None to speak of,” the Knight said, as if he didn’t mind breaking two or three of them. “The great art of riding, as I was saying, is, to keep your balance properly. Like this, you know, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        88,
+        166,
+        189
+      ]
     },
     {
       "order": 139,
@@ -982,13 +1298,21 @@
       "order": 140,
       "chapterIndex": 2,
       "text": "“Plenty of practice!” he went on repeating, all the time that Alice was getting him on his feet again. “Plenty of practice!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        102,
+        124
+      ]
     },
     {
       "order": 141,
       "chapterIndex": 2,
       "text": "“It’s too ridiculous!” cried Alice, losing all her patience this time. “You ought to have a wooden horse on wheels, that you ought!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        132
+      ]
     },
     {
       "order": 142,
@@ -1007,13 +1331,22 @@
       "chapterIndex": 2,
       "text": "“I’ll get one,” the Knight said thoughtfully to himself. “One or two—several.”",
       "ttsText": "“I’ll get one,” the Knight said thoughtfully to himself. “One or two, several.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        56,
+        79
+      ]
     },
     {
       "order": 145,
       "chapterIndex": 2,
       "text": "There was a short silence after this, and then the Knight went on again. “I’m a great hand at inventing things. Now, I daresay you noticed, that last time you picked me up, that I was looking rather thoughtful?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        72,
+        111,
+        211
+      ]
     },
     {
       "order": 146,
@@ -1039,7 +1372,12 @@
       "chapterIndex": 2,
       "text": "“I’ll tell you how I came to think of it,” said the Knight. “You see, I said to myself, ‘The only difficulty is with the feet: the head is high enough already.’ Now, first I put my head on the top of the gate—then I stand on my head—then the feet are high enough, you see—then I’m over, you see.”",
       "ttsText": "“I’ll tell you how I came to think of it,” said the Knight. “You see, I said to myself, ‘The only difficulty is with the feet: the head is high enough already.’ Now, first I put my head on the top of the gate, then I stand on my head, then the feet are high enough, you see, then I’m over, you see.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        160,
+        299
+      ]
     },
     {
       "order": 150,
@@ -1058,27 +1396,49 @@
       "order": 152,
       "chapterIndex": 2,
       "text": "He looked so vexed at the idea, that Alice changed the subject hastily. “What a curious helmet you’ve got!” she said cheerfully. “Is that your invention too?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        71,
+        128,
+        158
+      ]
     },
     {
       "order": 153,
       "chapterIndex": 2,
       "text": "The Knight looked down proudly at his helmet, which hung from the saddle. “Yes,” he said, “but I’ve invented a better one than that—like a sugar loaf. When I used to wear it, if I fell off the horse, it always touched the ground directly. So I had a very little way to fall, you see—But there was the danger of falling into it, to be sure. That happened to me once—and the worst of it was, before I could get out again, the other White Knight came and put it on. He thought it was his own helmet.”",
       "ttsText": "The Knight looked down proudly at his helmet, which hung from the saddle. “Yes,” he said, “but I’ve invented a better one than that, like a sugar loaf. When I used to wear it, if I fell off the horse, it always touched the ground directly. So I had a very little way to fall, you see, But there was the danger of falling into it, to be sure. That happened to me once, and the worst of it was, before I could get out again, the other White Knight came and put it on. He thought it was his own helmet.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        73,
+        151,
+        239,
+        341,
+        465,
+        500
+      ]
     },
     {
       "order": 154,
       "chapterIndex": 2,
       "text": "The knight looked so solemn about it that Alice did not dare to laugh. “I’m afraid you must have hurt him,” she said in a trembling voice, “being on the top of his head.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        170
+      ]
     },
     {
       "order": 155,
       "chapterIndex": 2,
       "text": "“I had to kick him, of course,” the Knight said, very seriously. “And then he took the helmet off again—but it took hours and hours to get me out. I was as fast as—as lightning, you know.”",
       "ttsText": "“I had to kick him, of course,” the Knight said, very seriously. “And then he took the helmet off again, but it took hours and hours to get me out. I was as fast as, as lightning, you know.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        147,
+        190
+      ]
     },
     {
       "order": 156,
@@ -1090,26 +1450,47 @@
       "order": 157,
       "chapterIndex": 2,
       "text": "The Knight shook his head. “It was all kinds of fastness with me, I can assure you!” he said. He raised his hands in some excitement as he said this, and instantly rolled out of the saddle, and fell headlong into a deep ditch.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        93,
+        226
+      ]
     },
     {
       "order": 158,
       "chapterIndex": 2,
       "text": "Alice ran to the side of the ditch to look for him. She was rather startled by the fall, as for some time he had kept on very well, and she was afraid that he really was hurt this time. However, though she could see nothing but the soles of his feet, she was much relieved to hear that he was talking on in his usual tone. “All kinds of fastness,” he repeated: “but it was careless of him to put another man’s helmet on—with the man in it, too.”",
       "ttsText": "Alice ran to the side of the ditch to look for him. She was rather startled by the fall, as for some time he had kept on very well, and she was afraid that he really was hurt this time. However, though she could see nothing but the soles of his feet, she was much relieved to hear that he was talking on in his usual tone. “All kinds of fastness,” he repeated: “but it was careless of him to put another man’s helmet on, with the man in it, too.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        185,
+        322,
+        446
+      ]
     },
     {
       "order": 159,
       "chapterIndex": 2,
       "text": "“How can you go on talking so quietly, head downwards?” Alice asked, as she dragged him out by the feet, and laid him in a heap on the bank.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        140
+      ]
     },
     {
       "order": 160,
       "chapterIndex": 2,
       "text": "The Knight looked surprised at the question. “What does it matter where my body happens to be?” he said. “My mind goes on working all the same. In fact, the more head downwards I am, the more I keep inventing new things.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        104,
+        143,
+        221
+      ]
     },
     {
       "order": 161,
@@ -1122,26 +1503,44 @@
       "chapterIndex": 2,
       "text": "“In time to have it cooked for the next course?” said Alice. “Well, not the next course,” the Knight said in a slow thoughtful tone: “no, certainly not the next course .”",
       "ttsText": "“In time to have it cooked for the next course?” said Alice. “Well, not the next course,” the Knight said in a slow thoughtful tone: “no, certainly not the next course.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        169
+      ]
     },
     {
       "order": 163,
       "chapterIndex": 2,
       "text": "“Then it would have to be the next day. I suppose you wouldn’t have two pudding-courses in one dinner?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        103
+      ]
     },
     {
       "order": 164,
       "chapterIndex": 2,
       "text": "“Well, not the next day,” the Knight repeated as before: “not the next day . In fact,” he went on, holding his head down, and his voice getting lower and lower, “I don’t believe that pudding ever was cooked! In fact, I don’t believe that pudding ever will be cooked! And yet it was a very clever pudding to invent.”",
       "ttsText": "“Well, not the next day,” the Knight repeated as before: “not the next day. In fact,” he went on, holding his head down, and his voice getting lower and lower, “I don’t believe that pudding ever was cooked! In fact, I don’t believe that pudding ever will be cooked! And yet it was a very clever pudding to invent.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        75,
+        206,
+        265,
+        314
+      ]
     },
     {
       "order": 165,
       "chapterIndex": 2,
       "text": "“What did you mean it to be made of?” Alice asked, hoping to cheer him up, for the poor Knight seemed quite low-spirited about it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        130
+      ]
     },
     {
       "order": 166,
@@ -1161,7 +1560,12 @@
       "chapterIndex": 2,
       "text": "“Not very nice alone ,” he interrupted, quite eagerly: “but you’ve no idea what a difference it makes mixing it with other things—such as gunpowder and sealing-wax. And here I must leave you.” They had just come to the end of the wood.",
       "ttsText": "“Not very nice alone,” he interrupted, quite eagerly: “but you’ve no idea what a difference it makes mixing it with other things, such as gunpowder and sealing-wax. And here I must leave you.” They had just come to the end of the wood.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        164,
+        192,
+        235
+      ]
     },
     {
       "order": 169,
@@ -1179,14 +1583,22 @@
       "order": 171,
       "chapterIndex": 2,
       "text": "“Is it very long?” Alice asked, for she had heard a good deal of poetry that day.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        81
+      ]
     },
     {
       "order": 172,
       "chapterIndex": 2,
       "text": "“It’s long,” said the Knight, “but very, very beautiful. Everybody that hears me sing it—either it brings the tears into their eyes, or else—”",
       "ttsText": "“It’s long,” said the Knight, “but very, very beautiful. Everybody that hears me sing it, either it brings the tears into their eyes, or else, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        56,
+        144
+      ]
     },
     {
       "order": 173,
@@ -1199,33 +1611,54 @@
       "chapterIndex": 2,
       "text": "“Or else it doesn’t, you know. The name of the song is called ‘ Haddocks’ Eyes .’”",
       "ttsText": "“Or else it doesn’t, you know. The name of the song is called ‘ Haddocks’ Eyes.’”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        81
+      ]
     },
     {
       "order": 175,
       "chapterIndex": 2,
       "text": "“Oh, that’s the name of the song, is it?” Alice said, trying to feel interested.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        80
+      ]
     },
     {
       "order": 176,
       "chapterIndex": 2,
       "text": "“No, you don’t understand,” the Knight said, looking a little vexed. “That’s what the name is called . The name really is ‘ The Aged Aged Man .’”",
       "ttsText": "“No, you don’t understand,” the Knight said, looking a little vexed. “That’s what the name is called. The name really is ‘ The Aged Aged Man.’”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        68,
+        101,
+        143
+      ]
     },
     {
       "order": 177,
       "chapterIndex": 2,
       "text": "“Then I ought to have said ‘That’s what the song is called’?” Alice corrected herself.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        61,
+        86
+      ]
     },
     {
       "order": 178,
       "chapterIndex": 2,
       "text": "“No, you oughtn’t: that’s quite another thing! The song is called ‘ Ways and Means ’: but that’s only what it’s called , you know!”",
       "ttsText": "“No, you oughtn’t: that’s quite another thing! The song is called ‘ Ways and Means ’: but that’s only what it’s called, you know!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        130
+      ]
     },
     {
       "order": 179,
@@ -1237,7 +1670,11 @@
       "order": 180,
       "chapterIndex": 2,
       "text": "“I was coming to that,” the Knight said. “The song really is ‘ A-sitting On A Gate ’: and the tune’s my own invention.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        119
+      ]
     },
     {
       "order": 181,
@@ -1250,14 +1687,22 @@
       "chapterIndex": 2,
       "text": "Of all the strange things that Alice saw in her journey Through The Looking-Glass, this was the one that she always remembered most clearly. Years afterwards she could bring the whole scene back again, as if it had been only yesterday—the mild blue eyes and kindly smile of the Knight—the setting sun gleaming through his hair, and shining on his armour in a blaze of light that quite dazzled her—the horse quietly moving about, with the reins hanging loose on his neck, cropping the grass at her feet—and the black shadows of the forest behind—all this she took in like a picture, as, with one hand shading her eyes, she leant against a tree, watching the strange pair, and listening, in a half dream, to the melancholy music of the song.",
       "ttsText": "Of all the strange things that Alice saw in her journey Through The Looking-Glass, this was the one that she always remembered most clearly. Years afterwards she could bring the whole scene back again, as if it had been only yesterday, the mild blue eyes and kindly smile of the Knight, the setting sun gleaming through his hair, and shining on his armour in a blaze of light that quite dazzled her, the horse quietly moving about, with the reins hanging loose on his neck, cropping the grass at her feet, and the black shadows of the forest behind, all this she took in like a picture, as, with one hand shading her eyes, she leant against a tree, watching the strange pair, and listening, in a half dream, to the melancholy music of the song.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        140,
+        744
+      ]
     },
     {
       "order": 183,
       "chapterIndex": 2,
       "text": "“But the tune isn’t his own invention,” she said to herself: “it’s ‘ I give thee all, I can no more .’” She stood and listened very attentively, but no tears came into her eyes.",
       "ttsText": "“But the tune isn’t his own invention,” she said to herself: “it’s ‘ I give thee all, I can no more.’” She stood and listened very attentively, but no tears came into her eyes.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        102,
+        176
+      ]
     },
     {
       "order": 184,
@@ -1287,7 +1732,11 @@
       "order": 188,
       "chapterIndex": 2,
       "text": "‘Who are you, aged man?’ I said,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        32
+      ]
     },
     {
       "order": 189,
@@ -1767,7 +2216,14 @@
       "chapterIndex": 2,
       "text": "As the Knight sang the last words of the ballad, he gathered up the reins, and turned his horse’s head along the road by which they had come. “You’ve only a few yards to go,” he said, “down the hill and over that little brook, and then you’ll be a Queen—But you’ll stay and see me off first?” he added as Alice turned with an eager look in the direction to which he pointed. “I shan’t be long. You’ll wait and wave your handkerchief when I get to that turn in the road? I think it’ll encourage me, you see.”",
       "ttsText": "As the Knight sang the last words of the ballad, he gathered up the reins, and turned his horse’s head along the road by which they had come. “You’ve only a few yards to go,” he said, “down the hill and over that little brook, and then you’ll be a Queen, But you’ll stay and see me off first?” he added as Alice turned with an eager look in the direction to which he pointed. “I shan’t be long. You’ll wait and wave your handkerchief when I get to that turn in the road? I think it’ll encourage me, you see.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        141,
+        375,
+        394,
+        470,
+        508
+      ]
     },
     {
       "order": 268,
@@ -1787,13 +2243,27 @@
       "chapterIndex": 2,
       "text": "So they shook hands, and then the Knight rode slowly away into the forest. “It won’t take long to see him off , I expect,” Alice said to herself, as she stood watching him. “There he goes! Right on his head as usual! However, he gets on again pretty easily—that comes of having so many things hung round the horse—” So she went on talking to herself, as she watched the horse walking leisurely along the road, and the Knight tumbling off, first on one side and then on the other. After the fourth or fifth tumble he reached the turn, and then she waved her handkerchief to him, and waited till he was out of sight.",
       "ttsText": "So they shook hands, and then the Knight rode slowly away into the forest. “It won’t take long to see him off, I expect,” Alice said to herself, as she stood watching him. “There he goes! Right on his head as usual! However, he gets on again pretty easily, that comes of having so many things hung round the horse, ” So she went on talking to herself, as she watched the horse walking leisurely along the road, and the Knight tumbling off, first on one side and then on the other. After the fourth or fifth tumble he reached the turn, and then she waved her handkerchief to him, and waited till he was out of sight.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        74,
+        171,
+        187,
+        215,
+        480,
+        615
+      ]
     },
     {
       "order": 271,
       "chapterIndex": 2,
       "text": "“I hope it encouraged him,” she said, as she turned to run down the hill: “and now for the last brook, and to be a Queen! How grand it sounds!” A very few steps brought her to the edge of the brook. “The Eighth Square at last!” she cried as she bounded across,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        121,
+        143,
+        198,
+        260
+      ]
     },
     {
       "order": 272,
@@ -1817,7 +2287,12 @@
       "order": 275,
       "chapterIndex": 2,
       "text": "and threw herself down to rest on a lawn as soft as moss, with little flower-beds dotted about it here and there. “Oh, how glad I am to get here! And what is this on my head?” she exclaimed in a tone of dismay, as she put her hands up to something very heavy, and fitted tight all round her head.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        113,
+        145,
+        296
+      ]
     },
     {
       "order": 276,
@@ -1855,7 +2330,12 @@
       "chapterIndex": 3,
       "text": "“Well, this is grand!” said Alice. “I never expected I should be a Queen so soon—and I’ll tell you what it is, your majesty,” she went on in a severe tone (she was always rather fond of scolding herself), “it’ll never do for you to be lolling about on the grass like that! Queens have to be dignified, you know!”",
       "ttsText": "“Well, this is grand!” said Alice. “I never expected I should be a Queen so soon, and I’ll tell you what it is, your majesty,” she went on in a severe tone (she was always rather fond of scolding herself), “it’ll never do for you to be lolling about on the grass like that! Queens have to be dignified, you know!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        273,
+        313
+      ]
     },
     {
       "order": 282,
@@ -1869,13 +2349,22 @@
       "chapterIndex": 3,
       "text": "Everything was happening so oddly that she didn’t feel a bit surprised at finding the Red Queen and the White Queen sitting close to her, one on each side: she would have liked very much to ask them how they came there, but she feared it would not be quite civil. However, there would be no harm, she thought, in asking if the game was over. “Please, would you tell me—” she began, looking timidly at the Red Queen.",
       "ttsText": "Everything was happening so oddly that she didn’t feel a bit surprised at finding the Red Queen and the White Queen sitting close to her, one on each side: she would have liked very much to ask them how they came there, but she feared it would not be quite civil. However, there would be no harm, she thought, in asking if the game was over. “Please, would you tell me, ” she began, looking timidly at the Red Queen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        263,
+        341,
+        416
+      ]
     },
     {
       "order": 284,
       "chapterIndex": 3,
       "text": "“Speak when you’re spoken to!” The Queen sharply interrupted her.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        65
+      ]
     },
     {
       "order": 285,
@@ -1889,7 +2378,15 @@
       "chapterIndex": 3,
       "text": "“Ridiculous!” cried the Queen. “Why, don’t you see, child—” here she broke off with a frown, and, after thinking for a minute, suddenly changed the subject of the conversation. “What do you mean by ‘If you really are a Queen’? What right have you to call yourself so? You can’t be a Queen, you know, till you’ve passed the proper examination. And the sooner we begin it, the better.”",
       "ttsText": "“Ridiculous!” cried the Queen. “Why, don’t you see, child, ” here she broke off with a frown, and, after thinking for a minute, suddenly changed the subject of the conversation. “What do you mean by ‘If you really are a Queen’? What right have you to call yourself so? You can’t be a Queen, you know, till you’ve passed the proper examination. And the sooner we begin it, the better.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        177,
+        227,
+        268,
+        343,
+        384
+      ]
     },
     {
       "order": 287,
@@ -1908,14 +2405,22 @@
       "order": 289,
       "chapterIndex": 3,
       "text": "“But she said a great deal more than that!” the White Queen moaned, wringing her hands. “Oh, ever so much more than that!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        87,
+        122
+      ]
     },
     {
       "order": 290,
       "chapterIndex": 3,
       "text": "“So you did, you know,” the Red Queen said to Alice. “Always speak the truth—think before you speak—and write it down afterwards.”",
       "ttsText": "“So you did, you know,” the Red Queen said to Alice. “Always speak the truth, think before you speak, and write it down afterwards.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        132
+      ]
     },
     {
       "order": 291,
@@ -1929,7 +2434,14 @@
       "chapterIndex": 3,
       "text": "“That’s just what I complain of! You should have meant! What do you suppose is the use of child without any meaning? Even a joke should have some meaning—and a child’s more important than a joke, I hope. You couldn’t deny that, even if you tried with both hands.”",
       "ttsText": "“That’s just what I complain of! You should have meant! What do you suppose is the use of child without any meaning? Even a joke should have some meaning, and a child’s more important than a joke, I hope. You couldn’t deny that, even if you tried with both hands.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        55,
+        116,
+        204,
+        264
+      ]
     },
     {
       "order": 293,
@@ -1942,7 +2454,11 @@
       "order": 294,
       "chapterIndex": 3,
       "text": "“Nobody said you did,” said the Red Queen. “I said you couldn’t if you tried.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        42,
+        78
+      ]
     },
     {
       "order": 295,
@@ -1986,25 +2502,42 @@
       "order": 301,
       "chapterIndex": 3,
       "text": "“Manners are not taught in lessons,” said Alice. “Lessons teach you to do sums, and things of that sort.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        105
+      ]
     },
     {
       "order": 302,
       "chapterIndex": 3,
       "text": "“And you do Addition?” the White Queen asked. “What’s one and one and one and one and one and one and one and one and one and one?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        131
+      ]
     },
     {
       "order": 303,
       "chapterIndex": 3,
       "text": "“I don’t know,” said Alice. “I lost count.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        43
+      ]
     },
     {
       "order": 304,
       "chapterIndex": 3,
       "text": "“She can’t do Addition,” the Red Queen interrupted. “Can you do Subtraction? Take nine from eight.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        76,
+        99
+      ]
     },
     {
       "order": 305,
@@ -2018,21 +2551,36 @@
       "chapterIndex": 3,
       "text": "“She can’t do Subtraction,” said the White Queen. “Can you do Division? Divide a loaf by a knife—what’s the answer to that?”",
       "ttsText": "“She can’t do Subtraction,” said the White Queen. “Can you do Division? Divide a loaf by a knife, what’s the answer to that?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        71,
+        125
+      ]
     },
     {
       "order": 307,
       "chapterIndex": 3,
       "text": "“I suppose—” Alice was beginning, but the Red Queen answered for her. “Bread-and-butter, of course. Try another Subtraction sum. Take a bone from a dog: what remains?”",
       "ttsText": "“I suppose, ” Alice was beginning, but the Red Queen answered for her. “Bread-and-butter, of course. Try another Subtraction sum. Take a bone from a dog: what remains?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        100,
+        129,
+        168
+      ]
     },
     {
       "order": 308,
       "chapterIndex": 3,
       "text": "Alice considered. “The bone wouldn’t remain, of course, if I took it—and the dog wouldn’t remain; it would come to bite me—and I’m sure I shouldn’t remain!”",
       "ttsText": "Alice considered. “The bone wouldn’t remain, of course, if I took it, and the dog wouldn’t remain; it would come to bite me, and I’m sure I shouldn’t remain!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        158
+      ]
     },
     {
       "order": 309,
@@ -2063,7 +2611,11 @@
       "order": 313,
       "chapterIndex": 3,
       "text": "“Why, look here!” the Red Queen cried. “The dog would lose its temper, wouldn’t it?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        84
+      ]
     },
     {
       "order": 314,
@@ -2081,7 +2633,11 @@
       "order": 316,
       "chapterIndex": 3,
       "text": "Alice said, as gravely as she could, “They might go different ways.” But she couldn’t help thinking to herself, “What dreadful nonsense we are talking!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        68,
+        152
+      ]
     },
     {
       "order": 317,
@@ -2094,14 +2650,22 @@
       "order": 318,
       "chapterIndex": 3,
       "text": "“Can you do sums?” Alice said, turning suddenly on the White Queen, for she didn’t like being found fault with so much.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        119
+      ]
     },
     {
       "order": 319,
       "chapterIndex": 3,
       "text": "The Queen gasped and shut her eyes. “I can do Addition, if you give me time—but I can’t do Subtraction, under any circumstances!”",
       "ttsText": "The Queen gasped and shut her eyes. “I can do Addition, if you give me time, but I can’t do Subtraction, under any circumstances!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        130
+      ]
     },
     {
       "order": 320,
@@ -2120,26 +2684,47 @@
       "chapterIndex": 3,
       "text": "“So do I,” the White Queen whispered: “we’ll often say it over together, dear. And I’ll tell you a secret—I can read words of one letter! Isn’t that grand! However, don’t be discouraged. You’ll come to it in time.”",
       "ttsText": "“So do I,” the White Queen whispered: “we’ll often say it over together, dear. And I’ll tell you a secret, I can read words of one letter! Isn’t that grand! However, don’t be discouraged. You’ll come to it in time.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        78,
+        138,
+        156,
+        187,
+        215
+      ]
     },
     {
       "order": 323,
       "chapterIndex": 3,
       "text": "Here the Red Queen began again. “Can you answer useful questions?” she said. “How is bread made?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        76,
+        97
+      ]
     },
     {
       "order": 324,
       "chapterIndex": 3,
       "text": "“I know that !” Alice cried eagerly. “You take some flour—”",
       "ttsText": "“I know that!” Alice cried eagerly. “You take some flour, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        35,
+        59
+      ]
     },
     {
       "order": 325,
       "chapterIndex": 3,
       "text": "“Where do you pick the flower?” the White Queen asked. “In a garden, or in the hedges?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        54,
+        87
+      ]
     },
     {
       "order": 326,
@@ -2152,19 +2737,33 @@
       "order": 327,
       "chapterIndex": 3,
       "text": "“How many acres of ground?” said the White Queen. “You mustn’t leave out so many things.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        89
+      ]
     },
     {
       "order": 328,
       "chapterIndex": 3,
       "text": "“Fan her head!” the Red Queen anxiously interrupted. “She’ll be feverish after so much thinking.” So they set to work and fanned her with bunches of leaves, till she had to beg them to leave off, it blew her hair about so.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        97,
+        222
+      ]
     },
     {
       "order": 329,
       "chapterIndex": 3,
       "text": "“She’s all right again now,” said the Red Queen. “Do you know Languages? What’s the French for fiddle-de-dee?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        72,
+        110
+      ]
     },
     {
       "order": 330,
@@ -2182,7 +2781,11 @@
       "order": 332,
       "chapterIndex": 3,
       "text": "Alice thought she saw a way out of the difficulty this time. “If you’ll tell me what language ‘fiddle-de-dee’ is, I’ll tell you the French for it!” she exclaimed triumphantly.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        175
+      ]
     },
     {
       "order": 333,
@@ -2200,14 +2803,22 @@
       "order": 335,
       "chapterIndex": 3,
       "text": "“Don’t let us quarrel,” the White Queen said in an anxious tone. “What is the cause of lightning?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        98
+      ]
     },
     {
       "order": 336,
       "chapterIndex": 3,
       "text": "“The cause of lightning,” Alice said very decidedly, for she felt quite certain about this, “is the thunder—no, no!” she hastily corrected herself. “I meant the other way.”",
       "ttsText": "“The cause of lightning,” Alice said very decidedly, for she felt quite certain about this, “is the thunder, no, no!” she hastily corrected herself. “I meant the other way.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        148,
+        173
+      ]
     },
     {
       "order": 337,
@@ -2226,20 +2837,32 @@
       "order": 339,
       "chapterIndex": 3,
       "text": "Alice was puzzled. “In our country,” she remarked, “there’s only one day at a time.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        84
+      ]
     },
     {
       "order": 340,
       "chapterIndex": 3,
       "text": "The Red Queen said, “That’s a poor thin way of doing things. Now here , we mostly have days and nights two or three at a time, and sometimes in the winter we take as many as five nights together—for warmth, you know.”",
       "ttsText": "The Red Queen said, “That’s a poor thin way of doing things. Now here, we mostly have days and nights two or three at a time, and sometimes in the winter we take as many as five nights together, for warmth, you know.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        217
+      ]
     },
     {
       "order": 341,
       "chapterIndex": 3,
       "text": "“Are five nights warmer than one night, then?” Alice ventured to ask.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        69
+      ]
     },
     {
       "order": 342,
@@ -2259,20 +2882,32 @@
       "chapterIndex": 3,
       "text": "“Just so!” cried the Red Queen. “Five times as warm, and five times as cold—just as I’m five times as rich as you are, and five times as clever!”",
       "ttsText": "“Just so!” cried the Red Queen. “Five times as warm, and five times as cold, just as I’m five times as rich as you are, and five times as clever!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        146
+      ]
     },
     {
       "order": 345,
       "chapterIndex": 3,
       "text": "Alice sighed and gave it up. “It’s exactly like a riddle with no answer!” she thought.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        86
+      ]
     },
     {
       "order": 346,
       "chapterIndex": 3,
       "text": "“Humpty Dumpty saw it too,” the White Queen went on in a low voice, more as if she were talking to herself. “He came to the door with a corkscrew in his hand—”",
       "ttsText": "“Humpty Dumpty saw it too,” the White Queen went on in a low voice, more as if she were talking to herself. “He came to the door with a corkscrew in his hand, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        160
+      ]
     },
     {
       "order": 347,
@@ -2284,13 +2919,21 @@
       "order": 348,
       "chapterIndex": 3,
       "text": "“He said he would come in,” the White Queen went on, “because he was looking for a hippopotamus. Now, as it happened, there wasn’t such a thing in the house, that morning.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        96,
+        172
+      ]
     },
     {
       "order": 349,
       "chapterIndex": 3,
       "text": "“Is there generally?” Alice asked in an astonished tone.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        56
+      ]
     },
     {
       "order": 350,
@@ -2310,13 +2953,23 @@
       "chapterIndex": 3,
       "text": "Here the White Queen began again. “It was such a thunderstorm, you can’t think!” (“She never could, you know,” said the Red Queen.) “And part of the roof came off, and ever so much thunder got in—and it went rolling round the room in great lumps—and knocking over the tables and things—till I was so frightened, I couldn’t remember my own name!”",
       "ttsText": "Here the White Queen began again. “It was such a thunderstorm, you can’t think!” (“She never could, you know,” said the Red Queen.) “And part of the roof came off, and ever so much thunder got in, and it went rolling round the room in great lumps, and knocking over the tables and things, till I was so frightened, I couldn’t remember my own name!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        80,
+        131,
+        348
+      ]
     },
     {
       "order": 353,
       "chapterIndex": 3,
       "text": "Alice thought to herself, “I never should try to remember my name in the middle of an accident! Where would be the use of it?” but she did not say this aloud, for fear of hurting the poor Queen’s feeling.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        95,
+        204
+      ]
     },
     {
       "order": 354,
@@ -2334,7 +2987,12 @@
       "order": 356,
       "chapterIndex": 3,
       "text": "“She never was really well brought up,” the Red Queen went on: “but it’s amazing how good-tempered she is! Pat her on the head, and see how pleased she’ll be!” But this was more than Alice had courage to do.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        106,
+        159,
+        207
+      ]
     },
     {
       "order": 357,
@@ -2347,14 +3005,22 @@
       "order": 358,
       "chapterIndex": 3,
       "text": "The White Queen gave a deep sigh, and laid her head on Alice’s shoulder. “I am so sleepy?” she moaned.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        72,
+        102
+      ]
     },
     {
       "order": 359,
       "chapterIndex": 3,
       "text": "“She’s tired, poor thing!” said the Red Queen. “Smooth her hair—lend her your nightcap—and sing her a soothing lullaby.”",
       "ttsText": "“She’s tired, poor thing!” said the Red Queen. “Smooth her hair, lend her your nightcap, and sing her a soothing lullaby.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        122
+      ]
     },
     {
       "order": 360,
@@ -2398,14 +3064,25 @@
       "chapterIndex": 3,
       "text": "“And now you know the words,” she added, as she put her head down on Alice’s other shoulder, “just sing it through to me . I’m getting sleepy, too.” In another moment both Queens were fast asleep, and snoring loud.",
       "ttsText": "“And now you know the words,” she added, as she put her head down on Alice’s other shoulder, “just sing it through to me. I’m getting sleepy, too.” In another moment both Queens were fast asleep, and snoring loud.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        121,
+        147,
+        213
+      ]
     },
     {
       "order": 367,
       "chapterIndex": 3,
       "text": "“What am I to do?” exclaimed Alice, looking about in great perplexity, as first one round head, and then the other, rolled down from her shoulder, and lay like a heavy lump in her lap. “I don’t think it ever happened before, that any one had to take care of two Queens asleep at once! No, not in all the History of England—it couldn’t, you know, because there never was more than one Queen at a time. Do wake up, you heavy things!” she went on in an impatient tone; but there was no answer but a gentle snoring.",
       "ttsText": "“What am I to do?” exclaimed Alice, looking about in great perplexity, as first one round head, and then the other, rolled down from her shoulder, and lay like a heavy lump in her lap. “I don’t think it ever happened before, that any one had to take care of two Queens asleep at once! No, not in all the History of England, it couldn’t, you know, because there never was more than one Queen at a time. Do wake up, you heavy things!” she went on in an impatient tone; but there was no answer but a gentle snoring.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        184,
+        284,
+        401,
+        512
+      ]
     },
     {
       "order": 368,
@@ -2425,7 +3102,12 @@
       "chapterIndex": 3,
       "text": "“I’ll wait till the song’s over,” thought Alice, “and then I’ll ring—the— which bell must I ring?” she went on, very much puzzled by the names. “I’m not a visitor, and I’m not a servant. There ought to be one marked ‘Queen,’ you know—”",
       "ttsText": "“I’ll wait till the song’s over,” thought Alice, “and then I’ll ring, the, which bell must I ring?” she went on, very much puzzled by the names. “I’m not a visitor, and I’m not a servant. There ought to be one marked ‘Queen,’ you know, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        144,
+        187,
+        237
+      ]
     },
     {
       "order": 371,
@@ -2449,7 +3131,11 @@
       "order": 374,
       "chapterIndex": 3,
       "text": "Alice turned round, ready to find fault with anybody. “Where’s the servant whose business it is to answer the door?” she began angrily.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        135
+      ]
     },
     {
       "order": 375,
@@ -2461,7 +3147,11 @@
       "order": 376,
       "chapterIndex": 3,
       "text": "Alice almost stamped with irritation at the slow drawl in which he spoke. “ This door, of course!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        73,
+        98
+      ]
     },
     {
       "order": 377,
@@ -2473,7 +3163,12 @@
       "order": 378,
       "chapterIndex": 3,
       "text": "“To answer the door?” he said. “What’s it been asking of?” He was so hoarse that Alice could scarcely hear him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        58,
+        111
+      ]
     },
     {
       "order": 379,
@@ -2485,20 +3180,36 @@
       "order": 380,
       "chapterIndex": 3,
       "text": "“I talks English, doesn’t I?” the Frog went on. “Or are you deaf? What did it ask you?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        65,
+        87
+      ]
     },
     {
       "order": 381,
       "chapterIndex": 3,
       "text": "“Nothing!” Alice said impatiently. “I’ve been knocking at it!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        34,
+        62
+      ]
     },
     {
       "order": 382,
       "chapterIndex": 3,
       "text": "“Shouldn’t do that—shouldn’t do that—” the Frog muttered. “Vexes it, you know.” Then he went up and gave the door a kick with one of his great feet. “You let it alone,” he panted out, as he hobbled back to his tree, “and it’ll let you alone, you know.”",
       "ttsText": "“Shouldn’t do that, shouldn’t do that, ” the Frog muttered. “Vexes it, you know.” Then he went up and gave the door a kick with one of his great feet. “You let it alone,” he panted out, as he hobbled back to his tree, “and it’ll let you alone, you know.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        81,
+        150,
+        254
+      ]
     },
     {
       "order": 383,
@@ -2565,7 +3276,12 @@
       "order": 393,
       "chapterIndex": 3,
       "text": "Then followed a confused noise of cheering, and Alice thought to herself, “Thirty times three makes ninety. I wonder if any one’s counting?” In a minute there was silence again, and the same shrill voice sang another verse;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        140,
+        223
+      ]
     },
     {
       "order": 394,
@@ -2628,32 +3344,56 @@
       "chapterIndex": 3,
       "text": "“Ninety times nine!” Alice repeated in despair, “Oh, that’ll never be done! I’d better go in at once—” and there was a dead silence the moment she appeared.",
       "ttsText": "“Ninety times nine!” Alice repeated in despair, “Oh, that’ll never be done! I’d better go in at once, ” and there was a dead silence the moment she appeared.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        75,
+        157
+      ]
     },
     {
       "order": 404,
       "chapterIndex": 3,
       "text": "Alice glanced nervously along the table, as she walked up the large hall, and noticed that there were about fifty guests, of all kinds: some were animals, some birds, and there were even a few flowers among them. “I’m glad they’ve come without waiting to be asked,” she thought: “I should never have known who were the right people to invite!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        212,
+        343
+      ]
     },
     {
       "order": 405,
       "chapterIndex": 3,
       "text": "There were three chairs at the head of the table; the Red and White Queens had already taken two of them, but the middle one was empty. Alice sat down in it, rather uncomfortable in the silence, and longing for some one to speak.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        135,
+        229
+      ]
     },
     {
       "order": 406,
       "chapterIndex": 3,
       "text": "At last the Red Queen began. “You’ve missed the soup and fish,” she said. “Put on the joint!” And the waiters set a leg of mutton before Alice, who looked at it rather anxiously, as she had never had to carve a joint before.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        73,
+        93,
+        224
+      ]
     },
     {
       "order": 407,
       "chapterIndex": 3,
       "text": "“You look a little shy; let me introduce you to that leg of mutton,” said the Red Queen. “Alice—Mutton; Mutton—Alice.” The leg of mutton got up in the dish and made a little bow to Alice; and Alice returned the bow, not knowing whether to be frightened or amused.",
       "ttsText": "“You look a little shy; let me introduce you to that leg of mutton,” said the Red Queen. “Alice, Mutton; Mutton, Alice.” The leg of mutton got up in the dish and made a little bow to Alice; and Alice returned the bow, not knowing whether to be frightened or amused.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        88,
+        120,
+        265
+      ]
     },
     {
       "order": 408,
@@ -2665,33 +3405,55 @@
       "order": 409,
       "chapterIndex": 3,
       "text": "“Certainly not,” the Red Queen said, very decidedly: “it isn’t etiquette to cut any one you’ve been introduced to. Remove the joint!” And the waiters carried it off, and brought a large plum-pudding in its place.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        114,
+        133,
+        212
+      ]
     },
     {
       "order": 410,
       "chapterIndex": 3,
       "text": "“I won’t be introduced to the pudding, please,” Alice said rather hastily, “or we shall get no dinner at all. May I give you some?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        109,
+        131
+      ]
     },
     {
       "order": 411,
       "chapterIndex": 3,
       "text": "But the Red Queen looked sulky, and growled “Pudding—Alice; Alice—Pudding. Remove the pudding!” and the waiters took it away so quickly that Alice couldn’t return its bow.",
       "ttsText": "But the Red Queen looked sulky, and growled “Pudding, Alice; Alice, Pudding. Remove the pudding!” and the waiters took it away so quickly that Alice couldn’t return its bow.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        173
+      ]
     },
     {
       "order": 412,
       "chapterIndex": 3,
       "text": "However, she didn’t see why the Red Queen should be the only one to give orders, so, as an experiment, she called out “Waiter! Bring back the pudding!” and there it was again in a moment like a conjuring-trick. It was so large that she couldn’t help feeling a little shy with it, as she had been with the mutton; however, she conquered her shyness by a great effort and cut a slice and handed it to the Red Queen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        126,
+        210,
+        413
+      ]
     },
     {
       "order": 413,
       "chapterIndex": 3,
       "text": "“What impertinence!” said the Pudding. “I wonder how you’d like it, if I were to cut a slice out of you , you creature!”",
       "ttsText": "“What impertinence!” said the Pudding. “I wonder how you’d like it, if I were to cut a slice out of you, you creature!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        119
+      ]
     },
     {
       "order": 414,
@@ -2710,20 +3472,34 @@
       "chapterIndex": 3,
       "text": "“Do you know, I’ve had such a quantity of poetry repeated to me to-day,” Alice began, a little frightened at finding that, the moment she opened her lips, there was dead silence, and all eyes were fixed upon her; “and it’s a very curious thing, I think—every poem was about fishes in some way. Do you know why they’re so fond of fishes, all about here?”",
       "ttsText": "“Do you know, I’ve had such a quantity of poetry repeated to me to-day,” Alice began, a little frightened at finding that, the moment she opened her lips, there was dead silence, and all eyes were fixed upon her; “and it’s a very curious thing, I think, every poem was about fishes in some way. Do you know why they’re so fond of fishes, all about here?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        294,
+        354
+      ]
     },
     {
       "order": 417,
       "chapterIndex": 3,
       "text": "She spoke to the Red Queen, whose answer was a little wide of the mark. “As to fishes,” she said, very slowly and solemnly, putting her mouth close to Alice’s ear, “her White Majesty knows a lovely riddle—all in poetry—all about fishes. Shall she repeat it?”",
       "ttsText": "She spoke to the Red Queen, whose answer was a little wide of the mark. “As to fishes,” she said, very slowly and solemnly, putting her mouth close to Alice’s ear, “her White Majesty knows a lovely riddle, all in poetry, all about fishes. Shall she repeat it?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        71,
+        238,
+        260
+      ]
     },
     {
       "order": 418,
       "chapterIndex": 3,
       "text": "“Her Red Majesty’s very kind to mention it,” the White Queen murmured into Alice’s other ear, in a voice like the cooing of a pigeon. “It would be such a treat! May I?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        133,
+        160,
+        168
+      ]
     },
     {
       "order": 419,
@@ -2735,7 +3511,11 @@
       "order": 420,
       "chapterIndex": 3,
       "text": "The White Queen laughed with delight, and stroked Alice’s cheek. Then she began:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        80
+      ]
     },
     {
       "order": 421,
@@ -2789,7 +3569,11 @@
       "order": 429,
       "chapterIndex": 3,
       "text": "‘Bring it here! Let me sup!’",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        28
+      ]
     },
     {
       "order": 430,
@@ -2839,7 +3623,11 @@
       "chapterIndex": 3,
       "text": "“Take a minute to think about it, and then guess,” said the Red Queen. “Meanwhile, we’ll drink your health—Queen Alice’s health!” she screamed at the top of her voice, and all the guests began drinking it directly, and very queerly they managed it: some of them put their glasses upon their heads like extinguishers, and drank all that trickled down their faces—others upset the decanters, and drank the wine as it ran off the edges of the table—and three of them (who looked like kangaroos) scrambled into the dish of roast mutton, and began eagerly lapping up the gravy, “just like pigs in a trough!” thought Alice.",
       "ttsText": "“Take a minute to think about it, and then guess,” said the Red Queen. “Meanwhile, we’ll drink your health, Queen Alice’s health!” she screamed at the top of her voice, and all the guests began drinking it directly, and very queerly they managed it: some of them put their glasses upon their heads like extinguishers, and drank all that trickled down their faces, others upset the decanters, and drank the wine as it ran off the edges of the table, and three of them (who looked like kangaroos) scrambled into the dish of roast mutton, and began eagerly lapping up the gravy, “just like pigs in a trough!” thought Alice.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        620
+      ]
     },
     {
       "order": 438,
@@ -2869,7 +3657,11 @@
       "order": 442,
       "chapterIndex": 3,
       "text": "(“And they did push so!” she said afterwards, when she was telling her sister the history of the feast. “You would have thought they wanted to squeeze me flat!”)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        103,
+        161
+      ]
     },
     {
       "order": 443,
@@ -2882,25 +3674,42 @@
       "order": 444,
       "chapterIndex": 3,
       "text": "“Take care of yourself!” screamed the White Queen, seizing Alice’s hair with both her hands. “Something’s going to happen!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        92,
+        123
+      ]
     },
     {
       "order": 445,
       "chapterIndex": 3,
       "text": "And then (as Alice afterwards described it) all sorts of things happened in a moment. The candles all grew up to the ceiling, looking something like a bed of rushes with fireworks at the top. As to the bottles, they each took a pair of plates, which they hastily fitted on as wings, and so, with forks for legs, went fluttering about in all directions: “and very like birds they look,” Alice thought to herself, as well as she could in the dreadful confusion that was beginning.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        85,
+        191,
+        478
+      ]
     },
     {
       "order": 446,
       "chapterIndex": 3,
       "text": "At this moment she heard a hoarse laugh at her side, and turned to see what was the matter with the White Queen; but, instead of the Queen, there was the leg of mutton sitting in the chair. “Here I am!” cried a voice from the soup tureen, and Alice turned again, just in time to see the Queen’s broad good-natured face grinning at her for a moment over the edge of the tureen, before she disappeared into the soup.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        189,
+        414
+      ]
     },
     {
       "order": 447,
       "chapterIndex": 3,
       "text": "There was not a moment to be lost. Already several of the guests were lying down in the dishes, and the soup ladle was walking up the table towards Alice’s chair, and beckoning to her impatiently to get out of its way.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        218
+      ]
     },
     {
       "order": 448,
@@ -2920,7 +3729,11 @@
       "chapterIndex": 3,
       "text": "At any other time, Alice would have felt surprised at this, but she was far too much excited to be surprised at anything now . “As for you ,” she repeated, catching hold of the little creature in the very act of jumping over a bottle which had just lighted upon the table, “I’ll shake you into a kitten, that I will!”",
       "ttsText": "At any other time, Alice would have felt surprised at this, but she was far too much excited to be surprised at anything now. “As for you,” she repeated, catching hold of the little creature in the very act of jumping over a bottle which had just lighted upon the table, “I’ll shake you into a kitten, that I will!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        125,
+        315
+      ]
     },
     {
       "order": 451,
@@ -2998,13 +3811,24 @@
       "chapterIndex": 5,
       "text": "“Your majesty shouldn’t purr so loud,” Alice said, rubbing her eyes, and addressing the kitten, respectfully, yet with some severity. “You woke me out of oh! such a nice dream! And you’ve been along with me, Kitty—all through the Looking-Glass world. Did you know it, dear?”",
       "ttsText": "“Your majesty shouldn’t purr so loud,” Alice said, rubbing her eyes, and addressing the kitten, respectfully, yet with some severity. “You woke me out of oh! such a nice dream! And you’ve been along with me, Kitty, all through the Looking-Glass world. Did you know it, dear?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        133,
+        176,
+        251,
+        275
+      ]
     },
     {
       "order": 463,
       "chapterIndex": 5,
       "text": "It is a very inconvenient habit of kittens (Alice had once made the remark) that, whatever you say to them, they always purr. “If they would only purr for ‘yes’ and mew for ‘no,’ or any rule of that sort,” she had said, “so that one could keep up a conversation! But how can you talk with a person if they always say the same thing?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        125,
+        262,
+        333
+      ]
     },
     {
       "order": 464,
@@ -3016,7 +3840,12 @@
       "order": 465,
       "chapterIndex": 5,
       "text": "So Alice hunted among the chessmen on the table till she had found the Red Queen: then she went down on her knees on the hearth-rug, and put the kitten and the Queen to look at each other. “Now, Kitty!” she cried, clapping her hands triumphantly. “Confess that was what you turned into!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        188,
+        246,
+        287
+      ]
     },
     {
       "order": 466,
@@ -3029,35 +3858,67 @@
       "chapterIndex": 5,
       "text": "“Sit up a little more stiffly, dear!” Alice cried with a merry laugh. “And curtsey while you’re thinking what to—what to purr. It saves time, remember!” And she caught it up and gave it one little kiss, “just in honour of having been a Red Queen.”",
       "ttsText": "“Sit up a little more stiffly, dear!” Alice cried with a merry laugh. “And curtsey while you’re thinking what to, what to purr. It saves time, remember!” And she caught it up and gave it one little kiss, “just in honour of having been a Red Queen.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        69,
+        127,
+        153,
+        248
+      ]
     },
     {
       "order": 468,
       "chapterIndex": 5,
       "text": "“Snowdrop, my pet!” she went on, looking over her shoulder at the White Kitten, which was still patiently undergoing its toilet, “when will Dinah have finished with your White Majesty, I wonder? That must be the reason you were so untidy in my dream—Dinah! do you know that you’re scrubbing a White Queen? Really, it’s most disrespectful of you!",
       "ttsText": "“Snowdrop, my pet!” she went on, looking over her shoulder at the White Kitten, which was still patiently undergoing its toilet, “when will Dinah have finished with your White Majesty, I wonder? That must be the reason you were so untidy in my dream, Dinah! do you know that you’re scrubbing a White Queen? Really, it’s most disrespectful of you!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        194,
+        306,
+        346
+      ]
     },
     {
       "order": 469,
       "chapterIndex": 5,
       "text": "“And what did Dinah turn to, I wonder?” she prattled on, as she settled comfortably down, with one elbow in the rug, and her chin in her hand, to watch the kittens. “Tell me, Dinah, did you turn to Humpty Dumpty? I think you did—however, you’d better not mention it to your friends just yet, for I’m not sure.",
       "ttsText": "“And what did Dinah turn to, I wonder?” she prattled on, as she settled comfortably down, with one elbow in the rug, and her chin in her hand, to watch the kittens. “Tell me, Dinah, did you turn to Humpty Dumpty? I think you did, however, you’d better not mention it to your friends just yet, for I’m not sure.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        164,
+        212,
+        310
+      ]
     },
     {
       "order": 470,
       "chapterIndex": 5,
       "text": "“By the way, Kitty, if only you’d been really with me in my dream, there was one thing you would have enjoyed—I had such a quantity of poetry said to me, all about fishes! To-morrow morning you shall have a real treat. All the time you’re eating your breakfast, I’ll repeat ‘The Walrus and the Carpenter’ to you; and then you can make believe it’s oysters, dear!",
       "ttsText": "“By the way, Kitty, if only you’d been really with me in my dream, there was one thing you would have enjoyed, I had such a quantity of poetry said to me, all about fishes! To-morrow morning you shall have a real treat. All the time you’re eating your breakfast, I’ll repeat ‘The Walrus and the Carpenter’ to you; and then you can make believe it’s oysters, dear!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        172,
+        219,
+        363
+      ]
     },
     {
       "order": 471,
       "chapterIndex": 5,
       "text": "“Now, Kitty, let’s consider who it was that dreamed it all. This is a serious question, my dear, and you should not go on licking your paw like that—as if Dinah hadn’t washed you this morning! You see, Kitty, it must have been either me or the Red King. He was part of my dream, of course—but then I was part of his dream, too! Was it the Red King, Kitty? You were his wife, my dear, so you ought to know—Oh, Kitty, do help to settle it! I’m sure your paw can wait!” But the provoking kitten only began on the other paw, and pretended it hadn’t heard the question.",
       "ttsText": "“Now, Kitty, let’s consider who it was that dreamed it all. This is a serious question, my dear, and you should not go on licking your paw like that, as if Dinah hadn’t washed you this morning! You see, Kitty, it must have been either me or the Red King. He was part of my dream, of course, but then I was part of his dream, too! Was it the Red King, Kitty? You were his wife, my dear, so you ought to know, Oh, Kitty, do help to settle it! I’m sure your paw can wait!” But the provoking kitten only began on the other paw, and pretended it hadn’t heard the question.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        193,
+        254,
+        329,
+        357,
+        440,
+        469,
+        567
+      ]
     },
     {
       "order": 472,

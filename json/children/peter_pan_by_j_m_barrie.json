@@ -218,13 +218,23 @@
       "chapterIndex": 0,
       "text": "by J. M. Barrie [James Matthew Barrie]",
       "role": "paragraph",
-      "ttsText": "by J.M.Barrie [James Matthew Barrie]"
+      "ttsText": "by J.M.Barrie [James Matthew Barrie]",
+      "ttsSentenceEnds": [
+        5,
+        7,
+        36
+      ]
     },
     {
       "order": 15,
       "chapterIndex": 0,
       "text": "A Millennium Fulcrum Edition produced in 1991 by Duncan Research. Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements. This text, which matches the 1911 original publication, is in the public domain in the US.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        65,
+        231,
+        322
+      ]
     },
     {
       "order": 16,
@@ -356,31 +366,61 @@
       "order": 37,
       "chapterIndex": 1,
       "text": "All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        106,
+        232,
+        383,
+        486,
+        521,
+        554
+      ]
     },
     {
       "order": 38,
       "chapterIndex": 1,
       "text": "Of course they lived at 14, and until Wendy came her mother was the chief one. She was a lovely lady, with a romantic mind and such a sweet mocking mouth. Her romantic mind was like the tiny boxes, one within the other, that come from the puzzling East, however many you discover there is always one more; and her sweet mocking mouth had one kiss on it that Wendy could never get, though there it was, perfectly conspicuous in the right-hand corner.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        78,
+        154,
+        449
+      ]
     },
     {
       "order": 39,
       "chapterIndex": 1,
       "text": "The way Mr. Darling won her was this: the many gentlemen who had been boys when she was a girl discovered simultaneously that they loved her, and they all ran to her house to propose to her except Mr. Darling, who took a cab and nipped in first, and so he got her. He got all of her, except the innermost box and the kiss. He never knew about the box, and in time he gave up trying for the kiss. Wendy thought Napoleon could have got it, but I can picture him trying, and then going off in a passion, slamming the door.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        264,
+        322,
+        395,
+        519
+      ]
     },
     {
       "order": 40,
       "chapterIndex": 1,
       "text": "Mr. Darling used to boast to Wendy that her mother not only loved him but respected him. He was one of those deep ones who know about stocks and shares. Of course no one really knows, but he quite seemed to know, and he often said stocks were up and shares were down in a way that would have made any woman respect him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        88,
+        152,
+        319
+      ]
     },
     {
       "order": 41,
       "chapterIndex": 1,
       "text": "Mrs. Darling was married in white, and at first she kept the books perfectly, almost gleefully, as if it were a game, not so much as a Brussels sprout was missing; but by and by whole cauliflowers dropped out, and instead of them there were pictures of babies without faces. She drew them when she should have been totting up. They were Mrs. Darling’s guesses.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        274,
+        326,
+        360
+      ]
     },
     {
       "order": 42,
@@ -392,7 +432,12 @@
       "order": 43,
       "chapterIndex": 1,
       "text": "For a week or two after Wendy came it was doubtful whether they would be able to keep her, as she was another mouth to feed. Mr. Darling was frightfully proud of her, but he was very honourable, and he sat on the edge of Mrs. Darling’s bed, holding her hand and calculating expenses, while she looked at him imploringly. She wanted to risk it, come what might, but that was not his way; his way was with a pencil and a piece of paper, and if she confused him with suggestions he had to begin at the beginning again.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        124,
+        320,
+        515
+      ]
     },
     {
       "order": 44,
@@ -411,14 +456,22 @@
       "order": 46,
       "chapterIndex": 1,
       "text": "“Of course we can, George,” she cried. But she was prejudiced in Wendy’s favour, and he was really the grander character of the two.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        132
+      ]
     },
     {
       "order": 47,
       "chapterIndex": 1,
       "text": "“Remember mumps,” he warned her almost threateningly, and off he went again. “Mumps one pound, that is what I have put down, but I daresay it will be more like thirty shillings—don’t speak—measles one five, German measles half a guinea, makes two fifteen six—don’t waggle your finger—whooping-cough, say fifteen shillings”—and so on it went, and it added up differently each time; but at last Wendy just got through, with mumps reduced to twelve six, and the two kinds of measles treated as one.",
       "ttsText": "“Remember mumps,” he warned her almost threateningly, and off he went again. “Mumps one pound, that is what I have put down, but I daresay it will be more like thirty shillings, don’t speak, measles one five, German measles half a guinea, makes two fifteen six, don’t waggle your finger, whooping-cough, say fifteen shillings”, and so on it went, and it added up differently each time; but at last Wendy just got through, with mumps reduced to twelve six, and the two kinds of measles treated as one.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        500
+      ]
     },
     {
       "order": 48,
@@ -430,7 +483,23 @@
       "order": 49,
       "chapterIndex": 1,
       "text": "Mrs. Darling loved to have everything just so, and Mr. Darling had a passion for being exactly like his neighbours; so, of course, they had a nurse. As they were poor, owing to the amount of milk the children drank, this nurse was a prim Newfoundland dog, called Nana, who had belonged to no one in particular until the Darlings engaged her. She had always thought children important, however, and the Darlings had become acquainted with her in Kensington Gardens, where she spent most of her spare time peeping into perambulators, and was much hated by careless nursemaids, whom she followed to their homes and complained of to their mistresses. She proved to be quite a treasure of a nurse. How thorough she was at bath-time, and up at any moment of the night if one of her charges made the slightest cry. Of course her kennel was in the nursery. She had a genius for knowing when a cough is a thing to have no patience with and when it needs stocking around your throat. She believed to her last day in old-fashioned remedies like rhubarb leaf, and made sounds of contempt over all this new-fangled talk about germs, and so on. It was a lesson in propriety to see her escorting the children to school, walking sedately by their side when they were well behaved, and butting them back into line if they strayed. On John’s footer days she never once forgot his sweater, and she usually carried an umbrella in her mouth in case of rain. There is a room in the basement of Miss Fulsom’s school where the nurses wait. They sat on forms, while Nana lay on the floor, but that was the only difference. They affected to ignore her as of an inferior social status to themselves, and she despised their light talk. She resented visits to the nursery from Mrs. Darling’s friends, but if they did come she first whipped off Michael’s pinafore and put him into the one with blue braiding, and smoothed out Wendy and made a dash at John’s hair.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        148,
+        341,
+        646,
+        692,
+        807,
+        848,
+        973,
+        1130,
+        1313,
+        1436,
+        1515,
+        1597,
+        1707,
+        1933
+      ]
     },
     {
       "order": 50,
@@ -448,43 +517,89 @@
       "order": 52,
       "chapterIndex": 1,
       "text": "Nana also troubled him in another way. He had sometimes a feeling that she did not admire him. “I know she admires you tremendously, George,” Mrs. Darling would assure him, and then she would sign to the children to be specially nice to father. Lovely dances followed, in which the only other servant, Liza, was sometimes allowed to join. Such a midget she looked in her long skirt and maid’s cap, though she had sworn, when engaged, that she would never see ten again. The gaiety of those romps! And gayest of all was Mrs. Darling, who would pirouette so wildly that all you could see of her was the kiss, and then if you had dashed at her you might have got it. There never was a simpler happier family until the coming of Peter Pan.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        94,
+        244,
+        338,
+        469,
+        496,
+        663,
+        735
+      ]
     },
     {
       "order": 53,
       "chapterIndex": 1,
       "text": "Mrs. Darling first heard of Peter when she was tidying up her children’s minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day. If you could keep awake (but of course you can’t) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        311,
+        456,
+        493,
+        785,
+        1039
+      ]
     },
     {
       "order": 54,
       "chapterIndex": 1,
       "text": "I don’t know whether you have ever seen a map of a person’s mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child’s mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        65,
+        286,
+        777,
+        1227
+      ]
     },
     {
       "order": 55,
       "chapterIndex": 1,
       "text": "Of course the Neverlands vary a good deal. John’s, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other’s nose, and so forth. On these magic shores children at play are for ever beaching their coracles. We too have been there; we can still hear the sound of the surf, though we shall land no more.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        42,
+        215,
+        339,
+        598,
+        675,
+        770
+      ]
     },
     {
       "order": 56,
       "chapterIndex": 1,
       "text": "Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        184,
+        345,
+        381
+      ]
     },
     {
       "order": 57,
       "chapterIndex": 1,
       "text": "Occasionally in her travels through her children’s minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael’s minds, while Wendy’s began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        167,
+        302,
+        442
+      ]
     },
     {
       "order": 58,
       "chapterIndex": 1,
       "text": "“Yes, he is rather cocky,” Wendy admitted with regret. Her mother had been questioning her.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        54,
+        91
+      ]
     },
     {
       "order": 59,
@@ -502,7 +617,12 @@
       "order": 61,
       "chapterIndex": 1,
       "text": "At first Mrs. Darling did not know, but after thinking back into her childhood she just remembered a Peter Pan who was said to live with the fairies. There were odd stories about him, as that when children died he went part of the way with them, so that they should not be frightened. She had believed in him at the time, but now that she was married and full of sense she quite doubted whether there was any such person.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        149,
+        284,
+        421
+      ]
     },
     {
       "order": 62,
@@ -514,13 +634,22 @@
       "order": 63,
       "chapterIndex": 1,
       "text": "“Oh no, he isn’t grown up,” Wendy assured her confidently, “and he is just my size.” She meant that he was her size in both mind and body; she didn’t know how she knew, she just knew it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        84,
+        186
+      ]
     },
     {
       "order": 64,
       "chapterIndex": 1,
       "text": "Mrs. Darling consulted Mr. Darling, but he smiled pooh-pooh. “Mark my words,” he said, “it is some nonsense Nana has been putting into their heads; just the sort of idea a dog would have. Leave it alone, and it will blow over.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        187,
+        227
+      ]
     },
     {
       "order": 65,
@@ -532,7 +661,13 @@
       "order": 66,
       "chapterIndex": 1,
       "text": "Children have the strangest adventures without being troubled by them. For instance, they may remember to mention, a week after the event happened, that when they were in the wood they had met their dead father and had a game with him. It was in this casual way that Wendy one morning made a disquieting revelation. Some leaves of a tree had been found on the nursery floor, which certainly were not there when the children went to bed, and Mrs. Darling was puzzling over them when Wendy said with a tolerant smile:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        235,
+        315,
+        515
+      ]
     },
     {
       "order": 67,
@@ -550,19 +685,31 @@
       "order": 69,
       "chapterIndex": 1,
       "text": "“It is so naughty of him not to wipe his feet,” Wendy said, sighing. She was a tidy child.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        68,
+        90
+      ]
     },
     {
       "order": 70,
       "chapterIndex": 1,
       "text": "She explained in quite a matter-of-fact way that she thought Peter sometimes came to the nursery in the night and sat on the foot of her bed and played on his pipes to her. Unfortunately she never woke, so she didn’t know how she knew, she just knew.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        172,
+        250
+      ]
     },
     {
       "order": 71,
       "chapterIndex": 1,
       "text": "“What nonsense you talk, precious. No one can get into the house without knocking.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        83
+      ]
     },
     {
       "order": 72,
@@ -604,7 +751,11 @@
       "order": 78,
       "chapterIndex": 1,
       "text": "“I forgot,” said Wendy lightly. She was in a hurry to get her breakfast.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        72
+      ]
     },
     {
       "order": 79,
@@ -616,7 +767,14 @@
       "order": 80,
       "chapterIndex": 1,
       "text": "But, on the other hand, there were the leaves. Mrs. Darling examined them very carefully; they were skeleton leaves, but she was sure they did not come from any tree that grew in England. She crawled about the floor, peering at it with a candle for marks of a strange foot. She rattled the poker up the chimney and tapped the walls. She let down a tape from the window to the pavement, and it was a sheer drop of thirty feet, without so much as a spout to climb up by.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        187,
+        273,
+        332,
+        468
+      ]
     },
     {
       "order": 81,
@@ -634,7 +792,11 @@
       "order": 83,
       "chapterIndex": 1,
       "text": "On the night we speak of all the children were once more in bed. It happened to be Nana’s evening off, and Mrs. Darling had bathed them and sung to them till one by one they had let go her hand and slid away into the land of sleep.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        231
+      ]
     },
     {
       "order": 84,
@@ -646,25 +808,50 @@
       "order": 85,
       "chapterIndex": 1,
       "text": "It was something for Michael, who on his birthday was getting into shirts. The fire was warm, however, and the nursery dimly lit by three night-lights, and presently the sewing lay on Mrs. Darling’s lap. Then her head nodded, oh, so gracefully. She was asleep. Look at the four of them, Wendy and Michael over there, John here, and Mrs. Darling by the fire. There should have been a fourth night-light.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        74,
+        203,
+        244,
+        260,
+        357,
+        402
+      ]
     },
     {
       "order": 86,
       "chapterIndex": 1,
       "text": "While she slept she had a dream. She dreamt that the Neverland had come too near and that a strange boy had broken through from it. He did not alarm her, for she thought she had seen him before in the faces of many women who have no children. Perhaps he is to be found in the faces of some mothers also. But in her dream he had rent the film that obscures the Neverland, and she saw Wendy and John and Michael peeping through the gap.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        131,
+        242,
+        303,
+        434
+      ]
     },
     {
       "order": 87,
       "chapterIndex": 1,
       "text": "The dream by itself would have been a trifle, but while she was dreaming the window of the nursery blew open, and a boy did drop on the floor. He was accompanied by a strange light, no bigger than your fist, which darted about the room like a living thing and I think it must have been this light that wakened Mrs. Darling.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        142,
+        323
+      ]
     },
     {
       "order": 88,
       "chapterIndex": 1,
       "text": "She started up with a cry, and saw the boy, and somehow she knew at once that he was Peter Pan. If you or I or Wendy had been there we should have seen that he was very like Mrs. Darling’s kiss. He was a lovely boy, clad in skeleton leaves and the juices that ooze out of trees but the most entrancing thing about him was that he had all his first teeth. When he saw she was a grown-up, he gnashed the little pearls at her.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        95,
+        194,
+        354,
+        423
+      ]
     },
     {
       "order": 89,
@@ -689,7 +876,13 @@
       "order": 92,
       "chapterIndex": 2,
       "text": "One important result of the brush on the lagoon was that it made the redskins their friends. Peter had saved Tiger Lily from a dreadful fate, and now there was nothing she and her braves would not do for him. All night they sat above, keeping watch over the home under the ground and awaiting the big attack by the pirates which obviously could not be much longer delayed. Even by day they hung about, smoking the pipe of peace, and looking almost as if they wanted tit-bits to eat.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        92,
+        208,
+        372,
+        482
+      ]
     },
     {
       "order": 93,
@@ -707,43 +900,75 @@
       "order": 95,
       "chapterIndex": 2,
       "text": "“Me Tiger Lily,” that lovely creature would reply. “Peter Pan save me, me his velly nice friend. Me no let pirates hurt him.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        50,
+        96,
+        125
+      ]
     },
     {
       "order": 96,
       "chapterIndex": 2,
       "text": "She was far too pretty to cringe in this way, but Peter thought it his due, and he would answer condescendingly, “It is good. Peter Pan has spoken.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        125,
+        148
+      ]
     },
     {
       "order": 97,
       "chapterIndex": 2,
       "text": "Always when he said, “Peter Pan has spoken,” it meant that they must now shut up, and they accepted it humbly in that spirit; but they were by no means so respectful to the other boys, whom they looked upon as just ordinary braves. They said “How-do?” to them, and things like that; and what annoyed the boys was that Peter seemed to think this all right.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        231,
+        355
+      ]
     },
     {
       "order": 98,
       "chapterIndex": 2,
       "text": "Secretly Wendy sympathised with them a little, but she was far too loyal a housewife to listen to any complaints against father. “Father knows best,” she always said, whatever her private opinion must be. Her private opinion was that the redskins should not call her a squaw.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        128,
+        204,
+        275
+      ]
     },
     {
       "order": 99,
       "chapterIndex": 2,
       "text": "We have now reached the evening that was to be known among them as the Night of Nights, because of its adventures and their upshot. The day, as if quietly gathering its forces, had been almost uneventful, and now the redskins in their blankets were at their posts above, while, below, the children were having their evening meal; all except Peter, who had gone out to get the time. The way you got the time on the island was to find the crocodile, and then stay near him till the clock struck.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        131,
+        381,
+        493
+      ]
     },
     {
       "order": 100,
       "chapterIndex": 2,
       "text": "The meal happened to be a make-believe tea, and they sat around the board, guzzling in their greed; and really, what with their chatter and recriminations, the noise, as Wendy said, was positively deafening. To be sure, she did not mind noise, but she simply would not have them grabbing things, and then excusing themselves by saying that Tootles had pushed their elbow. There was a fixed rule that they must never hit back at meals, but should refer the matter of dispute to Wendy by raising the right arm politely and saying, “I complain of so-and-so;” but what usually happened was that they forgot to do this or did it too much.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        207,
+        371,
+        633
+      ]
     },
     {
       "order": 101,
       "chapterIndex": 2,
       "text": "“Silence,” cried Wendy when for the twentieth time she had told them that they were not all to speak at once. “Is your mug empty, Slightly darling?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        109,
+        148
+      ]
     },
     {
       "order": 102,
@@ -791,25 +1016,42 @@
       "order": 109,
       "chapterIndex": 2,
       "text": "“Sit in father’s chair, John!” Wendy was scandalised. “Certainly not.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        53,
+        70
+      ]
     },
     {
       "order": 110,
       "chapterIndex": 2,
       "text": "“He is not really our father,” John answered. “He didn’t even know how a father does till I showed him.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        104
+      ]
     },
     {
       "order": 111,
       "chapterIndex": 2,
       "text": "This was grumbling. “We complain of John,” cried the twins.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        59
+      ]
     },
     {
       "order": 112,
       "chapterIndex": 2,
       "text": "Tootles held up his hand. He was so much the humblest of them, indeed he was the only humble one, that Wendy was specially gentle with him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        139
+      ]
     },
     {
       "order": 113,
@@ -839,7 +1081,11 @@
       "order": 117,
       "chapterIndex": 2,
       "text": "“No, I won’t,” Michael rapped out. He was already in his basket.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        64
+      ]
     },
     {
       "order": 118,
@@ -869,7 +1115,11 @@
       "order": 122,
       "chapterIndex": 2,
       "text": "Then at last he stopped. “I hadn’t really any hope,” he said.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        61
+      ]
     },
     {
       "order": 123,
@@ -941,13 +1191,21 @@
       "order": 134,
       "chapterIndex": 2,
       "text": "“I must have somebody in a cradle,” she said almost tartly, “and you are the littlest. A cradle is such a nice homely thing to have about a house.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        86,
+        147
+      ]
     },
     {
       "order": 135,
       "chapterIndex": 2,
       "text": "While she sewed they played around her; such a group of happy faces and dancing limbs lit up by that romantic fire. It had become a very familiar scene, this, in the home under the ground, but we are looking on it for the last time.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        115,
+        232
+      ]
     },
     {
       "order": 136,
@@ -959,7 +1217,11 @@
       "order": 137,
       "chapterIndex": 2,
       "text": "“Children, I hear your father’s step. He likes you to meet him at the door.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        76
+      ]
     },
     {
       "order": 138,
@@ -971,13 +1233,21 @@
       "order": 139,
       "chapterIndex": 2,
       "text": "“Watch well, braves. I have spoken.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        36
+      ]
     },
     {
       "order": 140,
       "chapterIndex": 2,
       "text": "And then, as so often before, the gay children dragged him from his tree. As so often before, but never again.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        73,
+        110
+      ]
     },
     {
       "order": 141,
@@ -1013,7 +1283,11 @@
       "order": 146,
       "chapterIndex": 2,
       "text": "The first twin came to Peter. “Father, we want to dance.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        57
+      ]
     },
     {
       "order": 147,
@@ -1037,7 +1311,11 @@
       "order": 150,
       "chapterIndex": 2,
       "text": "“Me! My old bones would rattle!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        4,
+        32
+      ]
     },
     {
       "order": 151,
@@ -1103,7 +1381,12 @@
       "order": 161,
       "chapterIndex": 2,
       "text": "“It is sweet, Peter, isn’t it?” Wendy said, frightfully gratified. “Peter, I think Curly has your nose.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        66,
+        104
+      ]
     },
     {
       "order": 162,
@@ -1145,7 +1428,11 @@
       "order": 168,
       "chapterIndex": 2,
       "text": "“I was just thinking,” he said, a little scared. “It is only make-believe, isn’t it, that I am their father?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        109
+      ]
     },
     {
       "order": 169,
@@ -1175,7 +1462,11 @@
       "order": 173,
       "chapterIndex": 2,
       "text": "“Not if you don’t wish it,” she replied; and she distinctly heard his sigh of relief. “Peter,” she asked, trying to speak firmly, “what are your exact feelings to me?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        85,
+        167
+      ]
     },
     {
       "order": 174,
@@ -1193,13 +1484,21 @@
       "order": 176,
       "chapterIndex": 2,
       "text": "“You are so queer,” he said, frankly puzzled, “and Tiger Lily is just the same. There is something she wants to be to me, but she says it is not my mother.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        156
+      ]
     },
     {
       "order": 177,
       "chapterIndex": 2,
       "text": "“No, indeed, it is not,” Wendy replied with frightful emphasis. Now we know why she was prejudiced against the redskins.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        120
+      ]
     },
     {
       "order": 178,
@@ -1217,13 +1516,21 @@
       "order": 180,
       "chapterIndex": 2,
       "text": "“Oh, very well,” Peter said, a little nettled. “Perhaps Tinker Bell will tell me.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        82
+      ]
     },
     {
       "order": 181,
       "chapterIndex": 2,
       "text": "“Oh yes, Tinker Bell will tell you,” Wendy retorted scornfully. “She is an abandoned little creature.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        102
+      ]
     },
     {
       "order": 182,
@@ -1241,7 +1548,11 @@
       "order": 184,
       "chapterIndex": 2,
       "text": "He had a sudden idea. “Perhaps Tink wants to be my mother?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        59
+      ]
     },
     {
       "order": 185,
@@ -1259,25 +1570,51 @@
       "order": 187,
       "chapterIndex": 2,
       "text": "“I almost agree with her,” Wendy snapped. Fancy Wendy snapping! But she had been much tried, and she little knew what was to happen before the night was out. If she had known she would not have snapped.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        63,
+        157,
+        202
+      ]
     },
     {
       "order": 188,
       "chapterIndex": 2,
       "text": "None of them knew. Perhaps it was best not to know. Their ignorance gave them one more glad hour; and as it was to be their last hour on the island, let us rejoice that there were sixty glad minutes in it. They sang and danced in their night-gowns. Such a deliciously creepy song it was, in which they pretended to be frightened at their own shadows, little witting that so soon shadows would close in upon them, from whom they would shrink in real fear. So uproariously gay was the dance, and how they buffeted each other on the bed and out of it! It was a pillow fight rather than a dance, and when it was finished, the pillows insisted on one bout more, like partners who know that they may never meet again. The stories they told, before it was time for Wendy’s good-night story! Even Slightly tried to tell a story that night, but the beginning was so fearfully dull that it appalled not only the others but himself, and he said gloomily:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        51,
+        205,
+        248,
+        454,
+        548,
+        711,
+        783,
+        943
+      ]
     },
     {
       "order": 189,
       "chapterIndex": 2,
       "text": "“Yes, it is a dull beginning. I say, let us pretend that it is the end.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        72
+      ]
     },
     {
       "order": 190,
       "chapterIndex": 2,
       "text": "And then at last they all got into bed for Wendy’s story, the story they loved best, the story Peter hated. Usually when she began to tell this story he left the room or put his hands over his ears; and possibly if he had done either of those things this time they might all still be on the island. But to-night he remained on his stool; and we shall see what happened.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        298,
+        369
+      ]
     },
     {
       "order": 191,
@@ -1303,7 +1640,11 @@
       "chapterIndex": 3,
       "text": "“Listen, then,” said Wendy, settling down to her story, with Michael at her feet and seven boys in the bed. “There was once a gentleman—”",
       "ttsText": "“Listen, then,” said Wendy, settling down to her story, with Michael at her feet and seven boys in the bed. “There was once a gentleman, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        138
+      ]
     },
     {
       "order": 195,
@@ -1322,13 +1663,21 @@
       "chapterIndex": 3,
       "text": "“Quiet,” their mother admonished them. “There was a lady also, and—”",
       "ttsText": "“Quiet,” their mother admonished them. “There was a lady also, and, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        69
+      ]
     },
     {
       "order": 198,
       "chapterIndex": 3,
       "text": "“Oh, mummy,” cried the first twin, “you mean that there is a lady also, don’t you? She is not dead, is she?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        82,
+        108
+      ]
     },
     {
       "order": 199,
@@ -1340,7 +1689,11 @@
       "order": 200,
       "chapterIndex": 3,
       "text": "“I am awfully glad she isn’t dead,” said Tootles. “Are you glad, John?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        71
+      ]
     },
     {
       "order": 201,
@@ -1430,7 +1783,11 @@
       "order": 215,
       "chapterIndex": 3,
       "text": "“Quiet, Tootles. They had three descendants.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        45
+      ]
     },
     {
       "order": 216,
@@ -1448,7 +1805,11 @@
       "order": 218,
       "chapterIndex": 3,
       "text": "“Did you hear that, John? I am a descendant.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        45
+      ]
     },
     {
       "order": 219,
@@ -1460,7 +1821,11 @@
       "order": 220,
       "chapterIndex": 3,
       "text": "“Oh dear, oh dear,” sighed Wendy. “Now these three children had a faithful nurse called Nana; but Mr. Darling was angry with her and chained her up in the yard, and so all the children flew away.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        196
+      ]
     },
     {
       "order": 221,
@@ -1478,7 +1843,11 @@
       "order": 223,
       "chapterIndex": 3,
       "text": "“I just thought they did,” Curly broke in excitedly. “I don’t know how it is, but I just thought they did!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        107
+      ]
     },
     {
       "order": 224,
@@ -1496,13 +1865,21 @@
       "order": 226,
       "chapterIndex": 3,
       "text": "“I am in a story. Hurrah, I am in a story, Nibs.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        49
+      ]
     },
     {
       "order": 227,
       "chapterIndex": 3,
       "text": "“Hush. Now I want you to consider the feelings of the unhappy parents with all their children flown away.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        6,
+        106
+      ]
     },
     {
       "order": 228,
@@ -1532,7 +1909,11 @@
       "order": 232,
       "chapterIndex": 3,
       "text": "“I don’t see how it can have a happy ending,” said the second twin. “Do you, Nibs?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        67,
+        83
+      ]
     },
     {
       "order": 233,
@@ -1544,13 +1925,21 @@
       "order": 234,
       "chapterIndex": 3,
       "text": "“If you knew how great is a mother’s love,” Wendy told them triumphantly, “you would have no fear.” She had now come to the part that Peter hated.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        99,
+        146
+      ]
     },
     {
       "order": 235,
       "chapterIndex": 3,
       "text": "“I do like a mother’s love,” said Tootles, hitting Nibs with a pillow. “Do you like a mother’s love, Nibs?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        107
+      ]
     },
     {
       "order": 236,
@@ -1574,7 +1963,11 @@
       "order": 239,
       "chapterIndex": 3,
       "text": "“Let us now,” said Wendy, bracing herself up for her finest effort, “take a peep into the future;” and they all gave themselves the twist that makes peeps into the future easier. “Years have rolled by, and who is this elegant lady of uncertain age alighting at London Station?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        178,
+        277
+      ]
     },
     {
       "order": 240,
@@ -1599,7 +1992,12 @@
       "order": 243,
       "chapterIndex": 3,
       "text": "“And who are the two noble portly figures accompanying her, now grown to man’s estate? Can they be John and Michael? They are!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        86,
+        116,
+        127
+      ]
     },
     {
       "order": 244,
@@ -1611,13 +2009,23 @@
       "order": 245,
       "chapterIndex": 3,
       "text": "“‘See, dear brothers,’ says Wendy pointing upwards, ‘there is the window still standing open. Ah, now we are rewarded for our sublime faith in a mother’s love.’ So up they flew to their mummy and daddy, and pen cannot describe the happy scene, over which we draw a veil.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        93,
+        160,
+        271
+      ]
     },
     {
       "order": 246,
       "chapterIndex": 3,
       "text": "That was the story, and they were as pleased with it as the fair narrator herself. Everything just as it should be, you see. Off we skip like the most heartless things in the world, which is what children are, but so attractive; and we have an entirely selfish time, and then when we have need of special attention we nobly return for it, confident that we shall be rewarded instead of smacked.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        82,
+        124,
+        394
+      ]
     },
     {
       "order": 247,
@@ -1635,7 +2043,12 @@
       "order": 249,
       "chapterIndex": 3,
       "text": "“What is it, Peter?” she cried, running to him, thinking he was ill. She felt him solicitously, lower down than his chest. “Where is it, Peter?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        68,
+        122,
+        144
+      ]
     },
     {
       "order": 250,
@@ -1689,13 +2102,21 @@
       "order": 258,
       "chapterIndex": 3,
       "text": "So this was the truth about mothers. The toads!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        47
+      ]
     },
     {
       "order": 259,
       "chapterIndex": 3,
       "text": "Still it is best to be careful; and no one knows so quickly as a child when he should give in. “Wendy, let us go home,” cried John and Michael together.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        94,
+        152
+      ]
     },
     {
       "order": 260,
@@ -1707,7 +2128,11 @@
       "order": 261,
       "chapterIndex": 3,
       "text": "“Not to-night?” asked the lost boys bewildered. They knew in what they called their hearts that one can get on quite well without a mother, and that it is only the mothers who think you can’t.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        192
+      ]
     },
     {
       "order": 262,
@@ -1731,19 +2156,31 @@
       "order": 265,
       "chapterIndex": 3,
       "text": "Not so much as a sorry-to-lose-you between them! If she did not mind the parting, he was going to show her, was Peter, that neither did he.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        139
+      ]
     },
     {
       "order": 266,
       "chapterIndex": 3,
       "text": "But of course he cared very much; and he was so full of wrath against grown-ups, who, as usual, were spoiling everything, that as soon as he got inside his tree he breathed intentionally quick short breaths at the rate of about five to a second. He did this because there is a saying in the Neverland that, every time you breathe, a grown-up dies; and Peter was killing them off vindictively as fast as possible.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        245,
+        412
+      ]
     },
     {
       "order": 267,
       "chapterIndex": 3,
       "text": "Then having given the necessary instructions to the redskins he returned to the home, where an unworthy scene had been enacted in his absence. Panic-stricken at the thought of losing Wendy the lost boys had advanced upon her threateningly.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        142,
+        239
+      ]
     },
     {
       "order": 268,
@@ -1785,25 +2222,43 @@
       "order": 274,
       "chapterIndex": 3,
       "text": "Was it not strange? She appealed to Tootles, quite the silliest one.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        68
+      ]
     },
     {
       "order": 275,
       "chapterIndex": 3,
       "text": "Grandly, however, did Tootles respond. For that one moment he dropped his silliness and spoke with dignity.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        107
+      ]
     },
     {
       "order": 276,
       "chapterIndex": 3,
       "text": "“I am just Tootles,” he said, “and nobody minds me. But the first who does not behave to Wendy like an English gentleman I will blood him severely.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        148
+      ]
     },
     {
       "order": 277,
       "chapterIndex": 3,
       "text": "He drew back his hanger; and for that instant his sun was at noon. The others held back uneasily. Then Peter returned, and they saw at once that they would get no support from him. He would keep no girl in the Neverland against her will.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        66,
+        97,
+        180,
+        237
+      ]
     },
     {
       "order": 278,
@@ -1821,7 +2276,11 @@
       "order": 280,
       "chapterIndex": 3,
       "text": "“Then,” he continued, in the short sharp voice of one accustomed to be obeyed, “Tinker Bell will take you across the sea. Wake her, Nibs.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        121,
+        138
+      ]
     },
     {
       "order": 281,
@@ -1833,7 +2292,12 @@
       "order": 282,
       "chapterIndex": 3,
       "text": "“Who are you? How dare you? Go away,” she cried.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        27,
+        48
+      ]
     },
     {
       "order": 283,
@@ -1845,13 +2309,21 @@
       "order": 284,
       "chapterIndex": 3,
       "text": "Of course Tink had been delighted to hear that Wendy was going; but she was jolly well determined not to be her courier, and she said so in still more offensive language. Then she pretended to be asleep again.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        170,
+        209
+      ]
     },
     {
       "order": 285,
       "chapterIndex": 3,
       "text": "“She says she won’t!” Nibs exclaimed, aghast at such insubordination, whereupon Peter went sternly toward the young lady’s chamber.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        131
+      ]
     },
     {
       "order": 286,
@@ -1864,13 +2336,22 @@
       "order": 287,
       "chapterIndex": 3,
       "text": "This made her leap to the floor. “Who said I wasn’t getting up?” she cried.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        75
+      ]
     },
     {
       "order": 288,
       "chapterIndex": 3,
       "text": "In the meantime the boys were gazing very forlornly at Wendy, now equipped with John and Michael for the journey. By this time they were dejected, not merely because they were about to lose her, but also because they felt that she was going off to something nice to which they had not been invited. Novelty was beckoning to them as usual.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        113,
+        298,
+        338
+      ]
     },
     {
       "order": 289,
@@ -1894,7 +2375,11 @@
       "order": 292,
       "chapterIndex": 3,
       "text": "“But won’t they think us rather a handful?” Nibs asked in the middle of his jump.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        43,
+        81
+      ]
     },
     {
       "order": 293,
@@ -1906,7 +2391,12 @@
       "order": 294,
       "chapterIndex": 3,
       "text": "“Peter, can we go?” they all cried imploringly. They took it for granted that if they went he would go also, but really they scarcely cared. Thus children are ever ready, when novelty knocks, to desert their dearest ones.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        140,
+        221
+      ]
     },
     {
       "order": 295,
@@ -1918,7 +2408,13 @@
       "order": 296,
       "chapterIndex": 3,
       "text": "“And now, Peter,” Wendy said, thinking she had put everything right, “I am going to give you your medicine before you go.” She loved to give them medicine, and undoubtedly gave them too much. Of course it was only water, but it was out of a bottle, and she always shook the bottle and counted the drops, which gave it a certain medicinal quality. On this occasion, however, she did not give Peter his draught, for just as she had prepared it, she saw a look on his face that made her heart sink.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        122,
+        191,
+        346,
+        495
+      ]
     },
     {
       "order": 297,
@@ -1948,7 +2444,11 @@
       "order": 301,
       "chapterIndex": 3,
       "text": "To show that her departure would leave him unmoved, he skipped up and down the room, playing gaily on his heartless pipes. She had to run about after him, though it was rather undignified.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        122,
+        188
+      ]
     },
     {
       "order": 302,
@@ -1960,7 +2460,12 @@
       "order": 303,
       "chapterIndex": 3,
       "text": "Now, if Peter had ever quite had a mother, he no longer missed her. He could do very well without one. He had thought them out, and remembered only their bad points.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        67,
+        102,
+        165
+      ]
     },
     {
       "order": 304,
@@ -1997,19 +2502,32 @@
       "order": 309,
       "chapterIndex": 3,
       "text": "Peter not coming! They gazed blankly at him, their sticks over their backs, and on each stick a bundle. Their first thought was that if Peter was not going he had probably changed his mind about letting them go.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        103,
+        211
+      ]
     },
     {
       "order": 310,
       "chapterIndex": 3,
       "text": "But he was far too proud for that. “If you find your mothers,” he said darkly, “I hope you will like them.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        107
+      ]
     },
     {
       "order": 311,
       "chapterIndex": 3,
       "text": "The awful cynicism of this made an uncomfortable impression, and most of them began to look rather doubtful. After all, their faces said, were they not noodles to want to go?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        108,
+        174
+      ]
     },
     {
       "order": 312,
@@ -2027,7 +2545,11 @@
       "order": 314,
       "chapterIndex": 3,
       "text": "“You will remember about changing your flannels, Peter?” she said, lingering over him. She was always so particular about their flannels.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        86,
+        137
+      ]
     },
     {
       "order": 315,
@@ -2051,7 +2573,12 @@
       "order": 318,
       "chapterIndex": 3,
       "text": "That seemed to be everything, and an awkward pause followed. Peter, however, was not the kind that breaks down before other people. “Are you ready, Tinker Bell?” he called out.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        131,
+        176
+      ]
     },
     {
       "order": 319,
@@ -2069,7 +2596,16 @@
       "order": 321,
       "chapterIndex": 3,
       "text": "Tink darted up the nearest tree; but no one followed her, for it was at this moment that the pirates made their dreadful attack upon the redskins. Above, where all had been so still, the air was rent with shrieks and the clash of steel. Below, there was dead silence. Mouths opened and remained open. Wendy fell on her knees, but her arms were extended toward Peter. All arms were extended to him, as if suddenly blown in his direction; they were beseeching him mutely not to desert them. As for Peter, he seized his sword, the same he thought he had slain Barbecue with, and the lust of battle was in his eye.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        146,
+        236,
+        267,
+        300,
+        366,
+        488,
+        610
+      ]
     },
     {
       "order": 322,
@@ -2100,7 +2636,17 @@
       "order": 326,
       "chapterIndex": 4,
       "text": "By all the unwritten laws of savage warfare it is always the redskin who attacks, and with the wiliness of his race he does it just before the dawn, at which time he knows the courage of the whites to be at its lowest ebb. The white men have in the meantime made a rude stockade on the summit of yonder undulating ground, at the foot of which a stream runs, for it is destruction to be too far from water. There they await the onslaught, the inexperienced ones clutching their revolvers and treading on twigs, but the old hands sleeping tranquilly until just before the dawn. Through the long black night the savage scouts wriggle, snake-like, among the grass without stirring a blade. The brushwood closes behind them, as silently as sand into which a mole has dived. Not a sound is to be heard, save when they give vent to a wonderful imitation of the lonely call of the coyote. The cry is answered by other braves; and some of them do it even better than the coyotes, who are not very good at it. So the chill hours wear on, and the long suspense is horribly trying to the paleface who has to live through it for the first time; but to the trained hand those ghastly calls and still ghastlier silences are but an intimation of how the night is marching.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        222,
+        405,
+        575,
+        685,
+        768,
+        880,
+        999,
+        1256
+      ]
     },
     {
       "order": 327,
@@ -2112,68 +2658,138 @@
       "order": 328,
       "chapterIndex": 4,
       "text": "The Piccaninnies, on their part, trusted implicitly to his honour, and their whole action of the night stands out in marked contrast to his. They left nothing undone that was consistent with the reputation of their tribe. With that alertness of the senses which is at once the marvel and despair of civilised peoples, they knew that the pirates were on the island from the moment one of them trod on a dry stick; and in an incredibly short space of time the coyote cries began. Every foot of ground between the spot where Hook had landed his forces and the home under the trees was stealthily examined by braves wearing their mocassins with the heels in front. They found only one hillock with a stream at its base, so that Hook had no choice; here he must establish himself and wait for just before the dawn. Everything being thus mapped out with almost diabolical cunning, the main body of the redskins folded their blankets around them, and in the phlegmatic manner that is to them, the pearl of manhood squatted above the children’s home, awaiting the cold moment when they should deal pale death.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        140,
+        221,
+        477,
+        660,
+        809,
+        1101
+      ]
     },
     {
       "order": 329,
       "chapterIndex": 4,
       "text": "Here dreaming, though wide-awake, of the exquisite tortures to which they were to put him at break of day, those confiding savages were found by the treacherous Hook. From the accounts afterwards supplied by such of the scouts as escaped the carnage, he does not seem even to have paused at the rising ground, though it is certain that in that grey light he must have seen it: no thought of waiting to be attacked appears from first to last to have visited his subtle mind; he would not even hold off till the night was nearly spent; on he pounded with no policy but to fall to. What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view, while they gave pathetic utterance to the coyote cry.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        166,
+        578,
+        800
+      ]
     },
     {
       "order": 330,
       "chapterIndex": 4,
       "text": "Around the brave Tiger Lily were a dozen of her stoutest warriors, and they suddenly saw the perfidious pirates bearing down upon them. Fell from their eyes then the film through which they had looked at victory. No more would they torture at the stake. For them the happy hunting-grounds was now. They knew it; but as their father’s sons they acquitted themselves. Even then they had time to gather in a phalanx that would have been hard to break had they risen quickly, but this they were forbidden to do by the traditions of their race. It is written that the noble savage must never express surprise in the presence of the white. Thus terrible as the sudden appearance of the pirates must have been to them, they remained stationary for a moment, not a muscle moving; as if the foe had come by invitation. Then, indeed, the tradition gallantly upheld, they seized their weapons, and the air was torn with the war-cry; but it was now too late.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        135,
+        212,
+        253,
+        297,
+        365,
+        539,
+        633,
+        809,
+        946
+      ]
     },
     {
       "order": 331,
       "chapterIndex": 4,
       "text": "It is no part of ours to describe what was a massacre rather than a fight. Thus perished many of the flower of the Piccaninny tribe. Not all unavenged did they die, for with Lean Wolf fell Alf Mason, to disturb the Spanish Main no more, and among others who bit the dust were Geo. Scourie, Chas. Turley, and the Alsatian Foggerty. Turley fell to the tomahawk of the terrible Panther, who ultimately cut a way through the pirates with Tiger Lily and a small remnant of the tribe.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        74,
+        132,
+        280,
+        295,
+        330,
+        478
+      ]
     },
     {
       "order": 332,
       "chapterIndex": 4,
       "text": "To what extent Hook is to blame for his tactics on this occasion is for the historian to decide. Had he waited on the rising ground till the proper hour he and his men would probably have been butchered; and in judging him it is only fair to take this into account. What he should perhaps have done was to acquaint his opponents that he proposed to follow a new method. On the other hand, this, as destroying the element of surprise, would have made his strategy of no avail, so that the whole question is beset with difficulties. One cannot at least withhold a reluctant admiration for the wit that had conceived so bold a scheme, and the fell genius with which it was carried out.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        96,
+        265,
+        369,
+        530,
+        682
+      ]
     },
     {
       "order": 333,
       "chapterIndex": 4,
       "text": "What were his own feelings about himself at that triumphant moment? Fain would his dogs have known, as breathing heavily and wiping their cutlasses, they gathered at a discreet distance from his hook, and squinted through their ferret eyes at this extraordinary man. Elation must have been in his heart, but his face did not reflect it: ever a dark and solitary enigma, he stood aloof from his followers in spirit as in substance.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        67,
+        266,
+        430
+      ]
     },
     {
       "order": 334,
       "chapterIndex": 4,
       "text": "The night’s work was not yet over, for it was not the redskins he had come out to destroy; they were but the bees to be smoked, so that he should get at the honey. It was Pan he wanted, Pan and Wendy and their band, but chiefly Pan.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        163,
+        232
+      ]
     },
     {
       "order": 335,
       "chapterIndex": 4,
       "text": "Peter was such a small boy that one tends to wonder at the man’s hatred of him. True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant. The truth is that there was a something about Peter which goaded the pirate captain to frenzy. It was not his courage, it was not his engaging appearance, it was not—. There is no beating about the bush, for we know quite well what it was, and have got to tell. It was Peter’s cockiness.",
       "ttsText": "Peter was such a small boy that one tends to wonder at the man’s hatred of him. True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant. The truth is that there was a something about Peter which goaded the pirate captain to frenzy. It was not his courage, it was not his engaging appearance, it was not,. There is no beating about the bush, for we know quite well what it was, and have got to tell. It was Peter’s cockiness.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        297,
+        392,
+        465,
+        559,
+        585
+      ]
     },
     {
       "order": 336,
       "chapterIndex": 4,
       "text": "This had got on Hook’s nerves; it made his iron claw twitch, and at night it disturbed him like an insect. While Peter lived, the tortured man felt that he was a lion in a cage into which a sparrow had come.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        106,
+        207
+      ]
     },
     {
       "order": 337,
       "chapterIndex": 4,
       "text": "The question now was how to get down the trees, or how to get his dogs down? He ran his greedy eyes over them, searching for the thinnest ones. They wriggled uncomfortably, for they knew he would not scruple to ram them down with poles.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        143,
+        236
+      ]
     },
     {
       "order": 338,
       "chapterIndex": 4,
       "text": "In the meantime, what of the boys? We have seen them at the first clang of the weapons, turned as it were into stone figures, open-mouthed, all appealing with outstretched arms to Peter; and we return to them as their mouths close, and their arms fall to their sides. The pandemonium above has ceased almost as suddenly as it arose, passed like a fierce gust of wind; but they know that in the passing it has determined their fate.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        267,
+        431
+      ]
     },
     {
       "order": 339,
@@ -2197,7 +2813,13 @@
       "order": 342,
       "chapterIndex": 4,
       "text": "Now Smee had found the tom-tom, and was at that moment sitting on it. “You will never hear the tom-tom again,” he muttered, but inaudibly of course, for strict silence had been enjoined. To his amazement Hook signed him to beat the tom-tom, and slowly there came to Smee an understanding of the dreadful wickedness of the order. Never, probably, had this simple man admired Hook so much.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        69,
+        186,
+        328,
+        387
+      ]
     },
     {
       "order": 343,
@@ -2215,7 +2837,13 @@
       "order": 345,
       "chapterIndex": 4,
       "text": "The doomed children answered with a cheer that was music to the black hearts above, and almost immediately they repeated their good-byes to Peter. This puzzled the pirates, but all their other feelings were swallowed by a base delight that the enemy were about to come up the trees. They smirked at each other and rubbed their hands. Rapidly and silently Hook gave his orders: one man to each tree, and the others to arrange themselves in a line two yards apart.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        146,
+        282,
+        333,
+        462
+      ]
     },
     {
       "order": 346,
@@ -2240,26 +2868,52 @@
       "order": 349,
       "chapterIndex": 5,
       "text": "The more quickly this horror is disposed of the better. The first to emerge from his tree was Curly. He rose out of it into the arms of Cecco, who flung him to Smee, who flung him to Starkey, who flung him to Bill Jukes, who flung him to Noodler, and so he was tossed from one to another till he fell at the feet of the black pirate. All the boys were plucked from their trees in this ruthless manner; and several of them were in the air at a time, like bales of goods flung from hand to hand.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        100,
+        333,
+        493
+      ]
     },
     {
       "order": 350,
       "chapterIndex": 5,
       "text": "A different treatment was accorded to Wendy, who came last. With ironical politeness Hook raised his hat to her, and, offering her his arm, escorted her to the spot where the others were being gagged. He did it with such an air, he was so frightfully distingué , that she was too fascinated to cry out. She was only a little girl.",
       "ttsText": "A different treatment was accorded to Wendy, who came last. With ironical politeness Hook raised his hat to her, and, offering her his arm, escorted her to the spot where the others were being gagged. He did it with such an air, he was so frightfully distingué, that she was too fascinated to cry out. She was only a little girl.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        200,
+        301,
+        329
+      ]
     },
     {
       "order": 351,
       "chapterIndex": 5,
       "text": "Perhaps it is tell-tale to divulge that for a moment Hook entranced her, and we tell on her only because her slip led to strange results. Had she haughtily unhanded him (and we should have loved to write it of her), she would have been hurled through the air like the others, and then Hook would probably not have been present at the tying of the children; and had he not been at the tying he would not have discovered Slightly’s secret, and without the secret he could not presently have made his foul attempt on Peter’s life.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        137,
+        527
+      ]
     },
     {
       "order": 352,
       "chapterIndex": 5,
       "text": "They were tied to prevent their flying away, doubled up with their knees close to their ears; and for the trussing of them the black pirate had cut a rope into nine equal pieces. All went well until Slightly’s turn came, when he was found to be like those irritating parcels that use up all the string in going round and leave no tags with which to tie a knot. The pirates kicked him in their rage, just as you kick the parcel (though in fairness you should kick the string); and strange to say it was Hook who told them to belay their violence. His lip was curled with malicious triumph. While his dogs were merely sweating because every time they tried to pack the unhappy lad tight in one part he bulged out in another, Hook’s master mind had gone far beneath Slightly’s surface, probing not for effects but for causes; and his exultation showed that he had found them. Slightly, white to the gills, knew that Hook had surprised his secret, which was this, that no boy so blown out could use a tree wherein an average man need stick. Poor Slightly, most wretched of all the children now, for he was in a panic about Peter, bitterly regretted what he had done. Madly addicted to the drinking of water when he was hot, he had swelled in consequence to his present girth, and instead of reducing himself to fit his tree he had, unknown to the others, whittled his tree to make it fit him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        178,
+        360,
+        545,
+        588,
+        872,
+        1036,
+        1162,
+        1388
+      ]
     },
     {
       "order": 353,
@@ -2271,91 +2925,183 @@
       "order": 354,
       "chapterIndex": 5,
       "text": "How to convey them? Hunched up in their ropes they might indeed be rolled down hill like barrels, but most of the way lay through a morass. Again Hook’s genius surmounted difficulties. He indicated that the little house must be used as a conveyance. The children were flung into it, four stout pirates raised it on their shoulders, the others fell in behind, and singing the hateful pirate chorus the strange procession set off through the wood. I don’t know whether any of the children were crying; if so, the singing drowned the sound; but as the little house disappeared in the forest, a brave though tiny jet of smoke issued from its chimney as if defying Hook.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        139,
+        184,
+        249,
+        445,
+        665
+      ]
     },
     {
       "order": 355,
       "chapterIndex": 5,
       "text": "Hook saw it, and it did Peter a bad service. It dried up any trickle of pity for him that may have remained in the pirate’s infuriated breast.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        142
+      ]
     },
     {
       "order": 356,
       "chapterIndex": 5,
       "text": "The first thing he did on finding himself alone in the fast falling night was to tiptoe to Slightly’s tree, and make sure that it provided him with a passage. Then for long he remained brooding; his hat of ill omen on the sward, so that any gentle breeze which had arisen might play refreshingly through his hair. Dark as were his thoughts his blue eyes were as soft as the periwinkle. Intently he listened for any sound from the nether world, but all was as silent below as above; the house under the ground seemed to be but one more empty tenement in the void. Was that boy asleep, or did he stand waiting at the foot of Slightly’s tree, with his dagger in his hand?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        158,
+        313,
+        385,
+        562,
+        668
+      ]
     },
     {
       "order": 357,
       "chapterIndex": 5,
       "text": "There was no way of knowing, save by going down. Hook let his cloak slip softly to the ground, and then biting his lips till a lewd blood stood on them, he stepped into the tree. He was a brave man, but for a moment he had to stop there and wipe his brow, which was dripping like a candle. Then, silently, he let himself go into the unknown.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        178,
+        289,
+        341
+      ]
     },
     {
       "order": 358,
       "chapterIndex": 5,
       "text": "He arrived unmolested at the foot of the shaft, and stood still again, biting at his breath, which had almost left him. As his eyes became accustomed to the dim light various objects in the home under the trees took shape; but the only one on which his greedy gaze rested, long sought for and found at last, was the great bed. On the bed lay Peter fast asleep.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        119,
+        326,
+        360
+      ]
     },
     {
       "order": 359,
       "chapterIndex": 5,
       "text": "Unaware of the tragedy being enacted above, Peter had continued, for a little time after the children left, to play gaily on his pipes: no doubt rather a forlorn attempt to prove to himself that he did not care. Then he decided not to take his medicine, so as to grieve Wendy. Then he lay down on the bed outside the coverlet, to vex her still more; for she had always tucked them inside it, because you never know that you may not grow chilly at the turn of the night. Then he nearly cried; but it struck him how indignant she would be if he laughed instead; so he laughed a haughty laugh and fell asleep in the middle of it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        211,
+        276,
+        469,
+        626
+      ]
     },
     {
       "order": 360,
       "chapterIndex": 5,
       "text": "Sometimes, though not often, he had dreams, and they were more painful than the dreams of other boys. For hours he could not be separated from these dreams, though he wailed piteously in them. They had to do, I think, with the riddle of his existence. At such times it had been Wendy’s custom to take him out of bed and sit with him on her lap, soothing him in dear ways of her own invention, and when he grew calmer to put him back to bed before he quite woke up, so that he should not know of the indignity to which she had subjected him. But on this occasion he had fallen at once into a dreamless sleep. One arm dropped over the edge of the bed, one leg was arched, and the unfinished part of his laugh was stranded on his mouth, which was open, showing the little pearls.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        101,
+        192,
+        251,
+        540,
+        607,
+        776
+      ]
     },
     {
       "order": 361,
       "chapterIndex": 5,
       "text": "Thus defenceless Hook found him. He stood silent at the foot of the tree looking across the chamber at his enemy. Did no feeling of compassion disturb his sombre breast? The man was not wholly evil; he loved flowers (I have been told) and sweet music (he was himself no mean performer on the harpsichord); and, let it be frankly admitted, the idyllic nature of the scene stirred him profoundly. Mastered by his better self he would have returned reluctantly up the tree, but for one thing.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        113,
+        169,
+        394,
+        489
+      ]
     },
     {
       "order": 362,
       "chapterIndex": 5,
       "text": "What stayed him was Peter’s impertinent appearance as he slept. The open mouth, the drooping arm, the arched knee: they were such a personification of cockiness as, taken together, will never again, one may hope, be presented to eyes so sensitive to their offensiveness. They steeled Hook’s heart. If his rage had broken him into a hundred pieces every one of them would have disregarded the incident, and leapt at the sleeper.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        270,
+        297,
+        427
+      ]
     },
     {
       "order": 363,
       "chapterIndex": 5,
       "text": "Though a light from the one lamp shone dimly on the bed, Hook stood in darkness himself, and at the first stealthy step forward he discovered an obstacle, the door of Slightly’s tree. It did not entirely fill the aperture, and he had been looking over it. Feeling for the catch, he found to his fury that it was low down, beyond his reach. To his disordered brain it seemed then that the irritating quality in Peter’s face and figure visibly increased, and he rattled the door and flung himself against it. Was his enemy to escape him after all?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        183,
+        255,
+        339,
+        506,
+        545
+      ]
     },
     {
       "order": 364,
       "chapterIndex": 5,
       "text": "But what was that? The red in his eye had caught sight of Peter’s medicine standing on a ledge within easy reach. He fathomed what it was straightaway, and immediately knew that the sleeper was in his power.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        113,
+        207
+      ]
     },
     {
       "order": 365,
       "chapterIndex": 5,
       "text": "Lest he should be taken alive, Hook always carried about his person a dreadful drug, blended by himself of all the death-dealing rings that had come into his possession. These he had boiled down into a yellow liquid quite unknown to science, which was probably the most virulent poison in existence.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        169,
+        299
+      ]
     },
     {
       "order": 366,
       "chapterIndex": 5,
       "text": "Five drops of this he now added to Peter’s cup. His hand shook, but it was in exultation rather than in shame. As he did it he avoided glancing at the sleeper, but not lest pity should unnerve him; merely to avoid spilling. Then one long gloating look he cast upon his victim, and turning, wormed his way with difficulty up the tree. As he emerged at the top he looked the very spirit of evil breaking from its hole. Donning his hat at its most rakish angle, he wound his cloak around him, holding one end in front as if to conceal his person from the night, of which it was the blackest part, and muttering strangely to himself, stole away through the trees.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        110,
+        223,
+        333,
+        416,
+        659
+      ]
     },
     {
       "order": 367,
       "chapterIndex": 5,
       "text": "Peter slept on. The light guttered and went out, leaving the tenement in darkness; but still he slept. It must have been not less than ten o’clock by the crocodile, when he suddenly sat up in his bed, wakened by he knew not what. It was a soft cautious tapping on the door of his tree.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        102,
+        229,
+        285
+      ]
     },
     {
       "order": 368,
       "chapterIndex": 5,
       "text": "Soft and cautious, but in that stillness it was sinister. Peter felt for his dagger till his hand gripped it. Then he spoke.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        57,
+        109,
+        124
+      ]
     },
     {
       "order": 369,
@@ -2385,7 +3131,12 @@
       "order": 373,
       "chapterIndex": 5,
       "text": "He was thrilled, and he loved being thrilled. In two strides he reached the door. Unlike Slightly’s door, it filled the aperture, so that he could not see beyond it, nor could the one knocking see him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        81,
+        201
+      ]
     },
     {
       "order": 374,
@@ -2409,7 +3160,11 @@
       "order": 377,
       "chapterIndex": 5,
       "text": "It was Tink, and quickly he unbarred to her. She flew in excitedly, her face flushed and her dress stained with mud.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        116
+      ]
     },
     {
       "order": 378,
@@ -2421,19 +3176,32 @@
       "order": 379,
       "chapterIndex": 5,
       "text": "“Oh, you could never guess!” she cried, and offered him three guesses. “Out with it!” he shouted, and in one ungrammatical sentence, as long as the ribbons that conjurers pull from their mouths, she told of the capture of Wendy and the boys.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        241
+      ]
     },
     {
       "order": 380,
       "chapterIndex": 5,
       "text": "Peter’s heart bobbed up and down as he listened. Wendy bound, and on the pirate ship; she who loved everything to be just so!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        125
+      ]
     },
     {
       "order": 381,
       "chapterIndex": 5,
       "text": "“I’ll rescue her!” he cried, leaping at his weapons. As he leapt he thought of something he could do to please her. He could take his medicine.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        115,
+        143
+      ]
     },
     {
       "order": 382,
@@ -2463,7 +3231,11 @@
       "order": 386,
       "chapterIndex": 5,
       "text": "“Poisoned? Who could have poisoned it?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        39
+      ]
     },
     {
       "order": 387,
@@ -2475,13 +3247,22 @@
       "order": 388,
       "chapterIndex": 5,
       "text": "“Don’t be silly. How could Hook have got down here?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        52
+      ]
     },
     {
       "order": 389,
       "chapterIndex": 5,
       "text": "Alas, Tinker Bell could not explain this, for even she did not know the dark secret of Slightly’s tree. Nevertheless Hook’s words had left no room for doubt. The cup was poisoned.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        103,
+        157,
+        179
+      ]
     },
     {
       "order": 390,
@@ -2493,7 +3274,11 @@
       "order": 391,
       "chapterIndex": 5,
       "text": "He raised the cup. No time for words now; time for deeds; and with one of her lightning movements Tink got between his lips and the draught, and drained it to the dregs.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        169
+      ]
     },
     {
       "order": 392,
@@ -2505,7 +3290,11 @@
       "order": 393,
       "chapterIndex": 5,
       "text": "But she did not answer. Already she was reeling in the air.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        59
+      ]
     },
     {
       "order": 394,
@@ -2541,25 +3330,43 @@
       "order": 399,
       "chapterIndex": 5,
       "text": "Her wings would scarcely carry her now, but in reply she alighted on his shoulder and gave his nose a loving bite. She whispered in his ear “You silly ass,” and then, tottering to her chamber, lay down on the bed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        114,
+        213
+      ]
     },
     {
       "order": 400,
       "chapterIndex": 5,
       "text": "His head almost filled the fourth wall of her little room as he knelt near her in distress. Every moment her light was growing fainter; and he knew that if it went out she would be no more. She liked his tears so much that she put out her beautiful finger and let them run over it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        91,
+        189,
+        281
+      ]
     },
     {
       "order": 401,
       "chapterIndex": 5,
       "text": "Her voice was so low that at first he could not make out what she said. Then he made it out. She was saying that she thought she could get well again if children believed in fairies.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        71,
+        92,
+        182
+      ]
     },
     {
       "order": 402,
       "chapterIndex": 5,
       "text": "Peter flung out his arms. There were no children there, and it was night time; but he addressed all who might be dreaming of the Neverland, and who were therefore nearer to him than you think: boys and girls in their nighties, and naked papooses in their baskets hung from trees.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        279
+      ]
     },
     {
       "order": 403,
@@ -2613,7 +3420,12 @@
       "order": 411,
       "chapterIndex": 5,
       "text": "The clapping stopped suddenly; as if countless mothers had rushed to their nurseries to see what on earth was happening; but already Tink was saved. First her voice grew strong, then she popped out of bed, then she was flashing through the room more merry and impudent than ever. She never thought of thanking those who believed, but she would have liked to get at the ones who had hissed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        148,
+        279,
+        389
+      ]
     },
     {
       "order": 412,
@@ -2625,7 +3437,12 @@
       "order": 413,
       "chapterIndex": 5,
       "text": "The moon was riding in a cloudy heaven when Peter rose from his tree, begirt with weapons and wearing little else, to set out upon his perilous quest. It was not such a night as he would have chosen. He had hoped to fly, keeping not far from the ground so that nothing unwonted should escape his eyes; but in that fitful light to have flown low would have meant trailing his shadow through the trees, thus disturbing birds and acquainting a watchful foe that he was astir.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        150,
+        199,
+        472
+      ]
     },
     {
       "order": 414,
@@ -2637,7 +3454,16 @@
       "order": 415,
       "chapterIndex": 5,
       "text": "There was no other course but to press forward in redskin fashion, at which happily he was an adept. But in what direction, for he could not be sure that the children had been taken to the ship? A light fall of snow had obliterated all footmarks; and a deathly silence pervaded the island, as if for a space Nature stood still in horror of the recent carnage. He had taught the children something of the forest lore that he had himself learned from Tiger Lily and Tinker Bell, and knew that in their dire hour they were not likely to forget it. Slightly, if he had an opportunity, would blaze the trees, for instance, Curly would drop seeds, and Wendy would leave her handkerchief at some important place. The morning was needed to search for such guidance, and he could not wait. The upper world had called him, but would give no help.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        100,
+        194,
+        359,
+        544,
+        705,
+        780,
+        836
+      ]
     },
     {
       "order": 416,
@@ -2655,7 +3481,11 @@
       "order": 418,
       "chapterIndex": 5,
       "text": "Now he crawled forward like a snake, and again erect, he darted across a space on which the moonlight played, one finger on his lip and his dagger at the ready. He was frightfully happy.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        160,
+        186
+      ]
     },
     {
       "order": 419,
@@ -2681,13 +3511,23 @@
       "chapterIndex": 6,
       "text": "One green light squinting over Kidd’s Creek, which is near the mouth of the pirate river, marked where the brig, the Jolly Roger , lay, low in the water; a rakish-looking craft foul to the hull, every beam in her detestable, like ground strewn with mangled feathers. She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name.",
       "ttsText": "One green light squinting over Kidd’s Creek, which is near the mouth of the pirate river, marked where the brig, the Jolly Roger, lay, low in the water; a rakish-looking craft foul to the hull, every beam in her detestable, like ground strewn with mangled feathers. She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        265,
+        386
+      ]
     },
     {
       "order": 423,
       "chapterIndex": 6,
       "text": "She was wrapped in the blanket of night, through which no sound from her could have reached the shore. There was little sound, and none agreeable save the whir of the ship’s sewing machine at which Smee sat, ever industrious and obliging, the essence of the commonplace, pathetic Smee. I know not why he was so infinitely pathetic, unless it were because he was so pathetically unaware of it; but even strong men had to turn hastily from looking at him, and more than once on summer evenings he had touched the fount of Hook’s tears and made it flow. Of this, as of almost everything else, Smee was quite unconscious.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        102,
+        285,
+        550,
+        617
+      ]
     },
     {
       "order": 424,
@@ -2699,37 +3539,68 @@
       "order": 425,
       "chapterIndex": 6,
       "text": "Hook trod the deck in thought. O man unfathomable. It was his hour of triumph. Peter had been removed for ever from his path, and all the other boys were in the brig, about to walk the plank. It was his grimmest deed since the days when he had brought Barbecue to heel; and knowing as we do how vain a tabernacle is man, could we be surprised had he now paced the deck unsteadily, bellied out by the winds of his success?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        50,
+        78,
+        191,
+        421
+      ]
     },
     {
       "order": 426,
       "chapterIndex": 6,
       "text": "But there was no elation in his gait, which kept pace with the action of his sombre mind. Hook was profoundly dejected.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        89,
+        119
+      ]
     },
     {
       "order": 427,
       "chapterIndex": 6,
       "text": "He was often thus when communing with himself on board ship in the quietude of the night. It was because he was so terribly alone. This inscrutable man never felt more alone than when surrounded by his dogs. They were socially inferior to him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        89,
+        130,
+        207,
+        243
+      ]
     },
     {
       "order": 428,
       "chapterIndex": 6,
       "text": "Hook was not his true name. To reveal who he really was would even at this date set the country in a blaze; but as those who read between the lines must already have guessed, he had been at a famous public school; and its traditions still clung to him like garments, with which indeed they are largely concerned. Thus it was offensive to him even now to board a ship in the same dress in which he grappled her, and he still adhered in his walk to the school’s distinguished slouch. But above all he retained the passion for good form.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        312,
+        481,
+        534
+      ]
     },
     {
       "order": 429,
       "chapterIndex": 6,
       "text": "Good form! However much he may have degenerated, he still knew that this is all that really matters.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        100
+      ]
     },
     {
       "order": 430,
       "chapterIndex": 6,
       "text": "From far within him he heard a creaking as of rusty portals, and through them came a stern tap-tap-tap, like hammering in the night when one cannot sleep. “Have you been good form to-day?” was their eternal question.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        154,
+        216
+      ]
     },
     {
       "order": 431,
@@ -2766,7 +3637,12 @@
       "order": 436,
       "chapterIndex": 6,
       "text": "His vitals were tortured by this problem. It was a claw within him sharper than the iron one; and as it tore him, the perspiration dripped down his tallow countenance and streaked his doublet. Ofttimes he drew his sleeve across his face, but there was no damming that trickle.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        192,
+        276
+      ]
     },
     {
       "order": 437,
@@ -2778,13 +3654,22 @@
       "order": 438,
       "chapterIndex": 6,
       "text": "There came to him a presentiment of his early dissolution. It was as if Peter’s terrible oath had boarded the ship. Hook felt a gloomy desire to make his dying speech, lest presently there should be no time for it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        115,
+        214
+      ]
     },
     {
       "order": 439,
       "chapterIndex": 6,
       "text": "“Better for Hook,” he cried, “if he had had less ambition!” It was in his darkest hours only that he referred to himself in the third person.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        141
+      ]
     },
     {
       "order": 440,
@@ -2796,20 +3681,39 @@
       "order": 441,
       "chapterIndex": 6,
       "text": "Strange that he should think of this, which had never troubled him before; perhaps the sewing machine brought it to his mind. For long he muttered to himself, staring at Smee, who was hemming placidly, under the conviction that all children feared him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        125,
+        252
+      ]
     },
     {
       "order": 442,
       "chapterIndex": 6,
       "text": "Feared him! Feared Smee! There was not a child on board the brig that night who did not already love him. He had said horrid things to them and hit them with the palm of his hand, because he could not hit with his fist, but they had only clung to him the more. Michael had tried on his spectacles.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        24,
+        105,
+        260,
+        297
+      ]
     },
     {
       "order": 443,
       "chapterIndex": 6,
       "text": "To tell poor Smee that they thought him lovable! Hook itched to do it, but it seemed too brutal. Instead, he revolved this mystery in his mind: why do they find Smee lovable? He pursued the problem like the sleuth-hound that he was. If Smee was lovable, what was it that made him so? A terrible answer suddenly presented itself—“Good form?”",
       "ttsText": "To tell poor Smee that they thought him lovable! Hook itched to do it, but it seemed too brutal. Instead, he revolved this mystery in his mind: why do they find Smee lovable? He pursued the problem like the sleuth-hound that he was. If Smee was lovable, what was it that made him so? A terrible answer suddenly presented itself, “Good form?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        96,
+        174,
+        232,
+        283,
+        341
+      ]
     },
     {
       "order": 444,
@@ -2827,7 +3731,11 @@
       "order": 446,
       "chapterIndex": 6,
       "text": "With a cry of rage he raised his iron hand over Smee’s head; but he did not tear. What arrested him was this reflection:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        81,
+        120
+      ]
     },
     {
       "order": 447,
@@ -2857,7 +3765,11 @@
       "order": 451,
       "chapterIndex": 6,
       "text": "“Quiet, you scugs,” he cried, “or I’ll cast anchor in you;” and at once the din was hushed. “Are all the children chained, so that they cannot fly away?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        91,
+        153
+      ]
     },
     {
       "order": 452,
@@ -2875,44 +3787,76 @@
       "order": 454,
       "chapterIndex": 6,
       "text": "The wretched prisoners were dragged from the hold, all except Wendy, and ranged in line in front of him. For a time he seemed unconscious of their presence. He lolled at his ease, humming, not unmelodiously, snatches of a rude song, and fingering a pack of cards. Ever and anon the light from his cigar gave a touch of colour to his face.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        104,
+        156,
+        263,
+        338
+      ]
     },
     {
       "order": 455,
       "chapterIndex": 6,
       "text": "“Now then, bullies,” he said briskly, “six of you walk the plank to-night, but I have room for two cabin boys. Which of you is it to be?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        110,
+        137
+      ]
     },
     {
       "order": 456,
       "chapterIndex": 6,
       "text": "“Don’t irritate him unnecessarily,” had been Wendy’s instructions in the hold; so Tootles stepped forward politely. Tootles hated the idea of signing under such a man, but an instinct told him that it would be prudent to lay the responsibility on an absent person; and though a somewhat silly boy, he knew that mothers alone are always willing to be the buffer. All children know this about mothers, and despise them for it, but make constant use of it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        115,
+        361,
+        453
+      ]
     },
     {
       "order": 457,
       "chapterIndex": 6,
       "text": "So Tootles explained prudently, “You see, sir, I don’t think my mother would like me to be a pirate. Would your mother like you to be a pirate, Slightly?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        100,
+        154
+      ]
     },
     {
       "order": 458,
       "chapterIndex": 6,
       "text": "He winked at Slightly, who said mournfully, “I don’t think so,” as if he wished things had been otherwise. “Would your mother like you to be a pirate, Twin?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        106,
+        157
+      ]
     },
     {
       "order": 459,
       "chapterIndex": 6,
       "text": "“I don’t think so,” said the first twin, as clever as the others. “Nibs, would—”",
       "ttsText": "“I don’t think so,” said the first twin, as clever as the others. “Nibs, would, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        65,
+        81
+      ]
     },
     {
       "order": 460,
       "chapterIndex": 6,
       "text": "“Stow this gab,” roared Hook, and the spokesmen were dragged back. “You, boy,” he said, addressing John, “you look as if you had a little pluck in you. Didst never want to be a pirate, my hearty?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        66,
+        151,
+        196
+      ]
     },
     {
       "order": 461,
@@ -2930,7 +3874,11 @@
       "order": 463,
       "chapterIndex": 6,
       "text": "“And a good name too. We’ll call you that here, bully, if you join.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        68
+      ]
     },
     {
       "order": 464,
@@ -2942,7 +3890,11 @@
       "order": 465,
       "chapterIndex": 6,
       "text": "“What would you call me if I join?” Michael demanded.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        53
+      ]
     },
     {
       "order": 466,
@@ -2954,13 +3906,22 @@
       "order": 467,
       "chapterIndex": 6,
       "text": "Michael was naturally impressed. “What do you think, John?” He wanted John to decide, and John wanted him to decide.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        59,
+        116
+      ]
     },
     {
       "order": 468,
       "chapterIndex": 6,
       "text": "“Shall we still be respectful subjects of the King?” John inquired.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        67
+      ]
     },
     {
       "order": 469,
@@ -2996,19 +3957,34 @@
       "order": 474,
       "chapterIndex": 6,
       "text": "The infuriated pirates buffeted them in the mouth; and Hook roared out, “That seals your doom. Bring up their mother. Get the plank ready.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        94,
+        117,
+        139
+      ]
     },
     {
       "order": 475,
       "chapterIndex": 6,
       "text": "They were only boys, and they went white as they saw Jukes and Cecco preparing the fatal plank. But they tried to look brave when Wendy was brought up.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        95,
+        151
+      ]
     },
     {
       "order": 476,
       "chapterIndex": 6,
       "text": "No words of mine can tell you how Wendy despised those pirates. To the boys there was at least some glamour in the pirate calling; but all that she saw was that the ship had not been tidied for years. There was not a porthole on the grimy glass of which you might not have written with your finger “Dirty pig”; and she had already written it on several. But as the boys gathered round her she had no thought, of course, save for them.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        200,
+        353,
+        434
+      ]
     },
     {
       "order": 477,
@@ -3020,7 +3996,11 @@
       "order": 478,
       "chapterIndex": 6,
       "text": "Fine gentlemen though he was, the intensity of his communings had soiled his ruff, and suddenly he knew that she was gazing at it. With a hasty gesture he tried to hide it, but he was too late.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        130,
+        193
+      ]
     },
     {
       "order": 479,
@@ -3032,32 +4012,53 @@
       "order": 480,
       "chapterIndex": 6,
       "text": "“They are,” he snarled. “Silence all,” he called gloatingly, “for a mother’s last words to her children.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        105
+      ]
     },
     {
       "order": 481,
       "chapterIndex": 6,
       "text": "At this moment Wendy was grand. “These are my last words, dear boys,” she said firmly. “I feel that I have a message to you from your real mothers, and it is this: ‘We hope our sons will die like English gentlemen.’”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        86,
+        216
+      ]
     },
     {
       "order": 482,
       "chapterIndex": 6,
       "text": "Even the pirates were awed, and Tootles cried out hysterically, “I am going to do what my mother hopes. What are you to do, Nibs?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        103,
+        130
+      ]
     },
     {
       "order": 483,
       "chapterIndex": 6,
       "text": "“What my mother hopes. What are you to do, Twin?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        49
+      ]
     },
     {
       "order": 484,
       "chapterIndex": 6,
       "text": "“What my mother hopes. John, what are—”",
       "ttsText": "“What my mother hopes. John, what are, ”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        40
+      ]
     },
     {
       "order": 485,
@@ -3075,25 +4076,43 @@
       "order": 487,
       "chapterIndex": 6,
       "text": "It was Smee who tied her to the mast. “See here, honey,” he whispered, “I’ll save you if you promise to be my mother.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        118
+      ]
     },
     {
       "order": 488,
       "chapterIndex": 6,
       "text": "But not even for Smee would she make such a promise. “I would almost rather have no children at all,” she said disdainfully.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        124
+      ]
     },
     {
       "order": 489,
       "chapterIndex": 6,
       "text": "It is sad to know that not a boy was looking at her as Smee tied her to the mast; the eyes of all were on the plank: that last little walk they were about to take. They were no longer able to hope that they would walk it manfully, for the capacity to think had gone from them; they could stare and shiver only.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        163,
+        310
+      ]
     },
     {
       "order": 490,
       "chapterIndex": 6,
       "text": "Hook smiled on them with his teeth closed, and took a step toward Wendy. His intention was to turn her face so that she should see the boys walking the plank one by one. But he never reached her, he never heard the cry of anguish he hoped to wring from her. He heard something else instead.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        72,
+        169,
+        257,
+        290
+      ]
     },
     {
       "order": 491,
@@ -3106,13 +4125,22 @@
       "chapterIndex": 6,
       "text": "They all heard it—pirates, boys, Wendy; and immediately every head was blown in one direction; not to the water whence the sound proceeded, but toward Hook. All knew that what was about to happen concerned him alone, and that from being actors they were suddenly become spectators.",
       "ttsText": "They all heard it, pirates, boys, Wendy; and immediately every head was blown in one direction; not to the water whence the sound proceeded, but toward Hook. All knew that what was about to happen concerned him alone, and that from being actors they were suddenly become spectators.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        157,
+        282
+      ]
     },
     {
       "order": 493,
       "chapterIndex": 6,
       "text": "Very frightful was it to see the change that came over him. It was as if he had been clipped at every joint. He fell in a little heap.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        108,
+        134
+      ]
     },
     {
       "order": 494,
@@ -3124,7 +4152,12 @@
       "order": 495,
       "chapterIndex": 6,
       "text": "Even the iron claw hung inactive; as if knowing that it was no intrinsic part of what the attacking force wanted. Left so fearfully alone, any other man would have lain with his eyes shut where he fell: but the gigantic brain of Hook was still working, and under its guidance he crawled on the knees along the deck as far from the sound as he could go. The pirates respectfully cleared a passage for him, and it was only when he brought up against the bulwarks that he spoke.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        113,
+        352,
+        475
+      ]
     },
     {
       "order": 496,
@@ -3136,19 +4169,33 @@
       "order": 497,
       "chapterIndex": 6,
       "text": "They gathered round him, all eyes averted from the thing that was coming aboard. They had no thought of fighting it. It was Fate.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        80,
+        116,
+        129
+      ]
     },
     {
       "order": 498,
       "chapterIndex": 6,
       "text": "Only when Hook was hidden from them did curiosity loosen the limbs of the boys so that they could rush to the ship’s side to see the crocodile climbing it. Then they got the strangest surprise of the Night of Nights; for it was no crocodile that was coming to their aid. It was Peter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        155,
+        270,
+        284
+      ]
     },
     {
       "order": 499,
       "chapterIndex": 6,
       "text": "He signed to them not to give vent to any cry of admiration that might rouse suspicion. Then he went on ticking.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        87,
+        112
+      ]
     },
     {
       "order": 500,
@@ -3173,19 +4220,39 @@
       "order": 503,
       "chapterIndex": 7,
       "text": "Odd things happen to all of us on our way through life without our noticing for a time that they have happened. Thus, to take an instance, we suddenly discover that we have been deaf in one ear for we don’t know how long, but, say, half an hour. Now such an experience had come that night to Peter. When last we saw him he was stealing across the island with one finger to his lips and his dagger at the ready. He had seen the crocodile pass by without noticing anything peculiar about it, but by and by he remembered that it had not been ticking. At first he thought this eerie, but soon concluded rightly that the clock had run down.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        111,
+        245,
+        298,
+        410,
+        547,
+        635
+      ]
     },
     {
       "order": 504,
       "chapterIndex": 7,
       "text": "Without giving a thought to what might be the feelings of a fellow-creature thus abruptly deprived of its closest companion, Peter began to consider how he could turn the catastrophe to his own use; and he decided to tick, so that wild beasts should believe he was the crocodile and let him pass unmolested. He ticked superbly, but with one unforeseen result. The crocodile was among those who heard the sound, and it followed him, though whether with the purpose of regaining what it had lost, or merely as a friend under the belief that it was again ticking itself, will never be certainly known, for, like slaves to a fixed idea, it was a stupid beast.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        307,
+        359,
+        655
+      ]
     },
     {
       "order": 505,
       "chapterIndex": 7,
       "text": "Peter reached the shore without mishap, and went straight on, his legs encountering the water as if quite unaware that they had entered a new element. Thus many animals pass from land to water, but no other human of whom I know. As he swam he had but one thought: “Hook or me this time.” He had ticked so long that he now went on ticking without knowing that he was doing it. Had he known he would have stopped, for to board the brig by help of the tick, though an ingenious idea, had not occurred to him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        150,
+        228,
+        287,
+        375,
+        505
+      ]
     },
     {
       "order": 506,
@@ -3197,43 +4264,81 @@
       "order": 507,
       "chapterIndex": 7,
       "text": "The crocodile! No sooner did Peter remember it than he heard the ticking. At first he thought the sound did come from the crocodile, and he looked behind him swiftly. Then he realised that he was doing it himself, and in a flash he understood the situation. “How clever of me!” he thought at once, and signed to the boys not to burst into applause.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        73,
+        166,
+        257,
+        348
+      ]
     },
     {
       "order": 508,
       "chapterIndex": 7,
       "text": "It was at this moment that Ed Teynte the quartermaster emerged from the forecastle and came along the deck. Now, reader, time what happened by your watch. Peter struck true and deep. John clapped his hands on the ill-fated pirate’s mouth to stifle the dying groan. He fell forward. Four boys caught him to prevent the thud. Peter gave the signal, and the carrion was cast overboard. There was a splash, and then silence. How long has it taken?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        154,
+        182,
+        264,
+        281,
+        323,
+        382,
+        420,
+        443
+      ]
     },
     {
       "order": 509,
       "chapterIndex": 7,
       "text": "“One!” (Slightly had begun to count.)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        6,
+        37
+      ]
     },
     {
       "order": 510,
       "chapterIndex": 7,
       "text": "None too soon, Peter, every inch of him on tiptoe, vanished into the cabin; for more than one pirate was screwing up his courage to look round. They could hear each other’s distressed breathing now, which showed them that the more terrible sound had passed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        143,
+        257
+      ]
     },
     {
       "order": 511,
       "chapterIndex": 7,
       "text": "“It’s gone, captain,” Smee said, wiping off his spectacles. “All’s still again.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        80
+      ]
     },
     {
       "order": 512,
       "chapterIndex": 7,
       "text": "Slowly Hook let his head emerge from his ruff, and listened so intently that he could have caught the echo of the tick. There was not a sound, and he drew himself up firmly to his full height.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        119,
+        192
+      ]
     },
     {
       "order": 513,
       "chapterIndex": 7,
       "text": "“Then here’s to Johnny Plank!” he cried brazenly, hating the boys more than ever because they had seen him unbend. He broke into the villainous ditty:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        114,
+        150
+      ]
     },
     {
       "order": 514,
@@ -3269,7 +4374,11 @@
       "order": 519,
       "chapterIndex": 7,
       "text": "At that they fell on their knees. “No, no!” they cried so piteously that every pirate smiled.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        93
+      ]
     },
     {
       "order": 520,
@@ -3281,13 +4390,22 @@
       "order": 521,
       "chapterIndex": 7,
       "text": "The cabin! Peter was in the cabin! The children gazed at each other.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        34,
+        68
+      ]
     },
     {
       "order": 522,
       "chapterIndex": 7,
       "text": "“Ay, ay,” said Jukes blithely, and he strode into the cabin. They followed him with their eyes; they scarce knew that Hook had resumed his song, his dogs joining in with him:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        174
+      ]
     },
     {
       "order": 523,
@@ -3312,7 +4430,12 @@
       "order": 526,
       "chapterIndex": 7,
       "text": "What was the last line will never be known, for of a sudden the song was stayed by a dreadful screech from the cabin. It wailed through the ship, and died away. Then was heard a crowing sound which was well understood by the boys, but to the pirates was almost more eerie than the screech.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        117,
+        160,
+        289
+      ]
     },
     {
       "order": 527,
@@ -3330,7 +4453,11 @@
       "order": 529,
       "chapterIndex": 7,
       "text": "The Italian Cecco hesitated for a moment and then swung into the cabin. He tottered out, haggard.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        71,
+        97
+      ]
     },
     {
       "order": 530,
@@ -3384,19 +4511,31 @@
       "order": 538,
       "chapterIndex": 7,
       "text": "Cecco went, first flinging his arms despairingly. There was no more singing, all listened now; and again came a death-screech and again a crow.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        143
+      ]
     },
     {
       "order": 539,
       "chapterIndex": 7,
       "text": "No one spoke except Slightly. “Three,” he said.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        47
+      ]
     },
     {
       "order": 540,
       "chapterIndex": 7,
       "text": "Hook rallied his dogs with a gesture. “’S’death and odds fish,” he thundered, “who is to bring me that doodle-doo?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        115
+      ]
     },
     {
       "order": 541,
@@ -3414,13 +4553,21 @@
       "order": 543,
       "chapterIndex": 7,
       "text": "“No, by thunder!” Starkey cried.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        32
+      ]
     },
     {
       "order": 544,
       "chapterIndex": 7,
       "text": "“My hook thinks you did,” said Hook, crossing to him. “I wonder if it would not be advisable, Starkey, to humour the hook?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        123
+      ]
     },
     {
       "order": 545,
@@ -3432,13 +4579,21 @@
       "order": 546,
       "chapterIndex": 7,
       "text": "“Is this mutiny?” asked Hook more pleasantly than ever. “Starkey’s ringleader!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        79
+      ]
     },
     {
       "order": 547,
       "chapterIndex": 7,
       "text": "“Captain, mercy!” Starkey whimpered, all of a tremble now.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        58
+      ]
     },
     {
       "order": 548,
@@ -3450,7 +4605,12 @@
       "order": 549,
       "chapterIndex": 7,
       "text": "Starkey looked round for help, but all deserted him. As he backed up Hook advanced, and now the red spark was in his eye. With a despairing scream the pirate leapt upon Long Tom and precipitated himself into the sea.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        121,
+        216
+      ]
     },
     {
       "order": 550,
@@ -3462,13 +4622,22 @@
       "order": 551,
       "chapterIndex": 7,
       "text": "“And now,” Hook said courteously, “did any other gentlemen say mutiny?” Seizing a lantern and raising his claw with a menacing gesture, “I’ll bring out that doodle-doo myself,” he said, and sped into the cabin.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        71,
+        210
+      ]
     },
     {
       "order": 552,
       "chapterIndex": 7,
       "text": "“Five.” How Slightly longed to say it. He wetted his lips to be ready, but Hook came staggering out, without his lantern.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        38,
+        121
+      ]
     },
     {
       "order": 553,
@@ -3498,13 +4667,21 @@
       "order": 557,
       "chapterIndex": 7,
       "text": "His reluctance to return to the cabin impressed them all unfavourably, and the mutinous sounds again broke forth. All pirates are superstitious, and Cookson cried, “They do say the surest sign a ship’s accurst is when there’s one on board more than can be accounted for.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        113,
+        271
+      ]
     },
     {
       "order": 558,
       "chapterIndex": 7,
       "text": "“I’ve heard,” muttered Mullins, “he always boards the pirate craft last. Had he a tail, captain?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        72,
+        97
+      ]
     },
     {
       "order": 559,
@@ -3516,43 +4693,79 @@
       "order": 560,
       "chapterIndex": 7,
       "text": "“Had he a hook, captain?” asked Cookson insolently; and one after another took up the cry, “The ship’s doomed!” At this the children could not resist raising a cheer. Hook had well-nigh forgotten his prisoners, but as he swung round on them now his face lit up again.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        111,
+        166,
+        267
+      ]
     },
     {
       "order": 561,
       "chapterIndex": 7,
       "text": "“Lads,” he cried to his crew, “now here’s a notion. Open the cabin door and drive them in. Let them fight the doodle-doo for their lives. If they kill him, we’re so much the better; if he kills them, we’re none the worse.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        90,
+        137,
+        222
+      ]
     },
     {
       "order": 562,
       "chapterIndex": 7,
       "text": "For the last time his dogs admired Hook, and devotedly they did his bidding. The boys, pretending to struggle, were pushed into the cabin and the door was closed on them.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        170
+      ]
     },
     {
       "order": 563,
       "chapterIndex": 7,
       "text": "“Now, listen!” cried Hook, and all listened. But not one dared to face the door. Yes, one, Wendy, who all this time had been bound to the mast. It was for neither a scream nor a crow that she was watching, it was for the reappearance of Peter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        80,
+        143,
+        243
+      ]
     },
     {
       "order": 564,
       "chapterIndex": 7,
       "text": "She had not long to wait. In the cabin he had found the thing for which he had gone in search: the key that would free the children of their manacles, and now they all stole forth, armed with such weapons as they could find. First signing them to hide, Peter cut Wendy’s bonds, and then nothing could have been easier than for them all to fly off together; but one thing barred the way, an oath, “Hook or me this time.” So when he had freed Wendy, he whispered for her to conceal herself with the others, and himself took her place by the mast, her cloak around him so that he should pass for her. Then he took a great breath and crowed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        224,
+        419,
+        597,
+        637
+      ]
     },
     {
       "order": 565,
       "chapterIndex": 7,
       "text": "To the pirates it was a voice crying that all the boys lay slain in the cabin; and they were panic-stricken. Hook tried to hearten them; but like the dogs he had made them they showed him their fangs, and he knew that if he took his eyes off them now they would leap at him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        108,
+        274
+      ]
     },
     {
       "order": 566,
       "chapterIndex": 7,
       "text": "“Lads,” he said, ready to cajole or strike as need be, but never quailing for an instant, “I’ve thought it out. There’s a Jonah aboard.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        111,
+        136
+      ]
     },
     {
       "order": 567,
@@ -3564,13 +4777,22 @@
       "order": 568,
       "chapterIndex": 7,
       "text": "“No, lads, no, it’s the girl. Never was luck on a pirate ship wi’ a woman on board. We’ll right the ship when she’s gone.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        83,
+        122
+      ]
     },
     {
       "order": 569,
       "chapterIndex": 7,
       "text": "Some of them remembered that this had been a saying of Flint’s. “It’s worth trying,” they said doubtfully.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        106
+      ]
     },
     {
       "order": 570,
@@ -3600,7 +4822,12 @@
       "order": 574,
       "chapterIndex": 7,
       "text": "“Peter Pan the avenger!” came the terrible answer; and as he spoke Peter flung off his cloak. Then they all knew who ’twas that had been undoing them in the cabin, and twice Hook essayed to speak and twice he failed. In that frightful moment I think his fierce heart broke.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        93,
+        216,
+        273
+      ]
     },
     {
       "order": 575,
@@ -3613,13 +4840,27 @@
       "chapterIndex": 7,
       "text": "“Down, boys, and at them!” Peter’s voice rang out; and in another moment the clash of arms was resounding through the ship. Had the pirates kept together it is certain that they would have won; but the onset came when they were still unstrung, and they ran hither and thither, striking wildly, each thinking himself the last survivor of the crew. Man to man they were the stronger; but they fought on the defensive only, which enabled the boys to hunt in pairs and choose their quarry. Some of the miscreants leapt into the sea; others hid in dark recesses, where they were found by Slightly, who did not fight, but ran about with a lantern which he flashed in their faces, so that they were half blinded and fell as an easy prey to the reeking swords of the other boys. There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting—five—six—seven—eight—nine—ten—eleven.",
       "ttsText": "“Down, boys, and at them!” Peter’s voice rang out; and in another moment the clash of arms was resounding through the ship. Had the pirates kept together it is certain that they would have won; but the onset came when they were still unstrung, and they ran hither and thither, striking wildly, each thinking himself the last survivor of the crew. Man to man they were the stronger; but they fought on the defensive only, which enabled the boys to hunt in pairs and choose their quarry. Some of the miscreants leapt into the sea; others hid in dark recesses, where they were found by Slightly, who did not fight, but ran about with a lantern which he flashed in their faces, so that they were half blinded and fell as an easy prey to the reeking swords of the other boys. There was little sound to be heard but the clang of weapons, an occasional screech or splash, and Slightly monotonously counting, five, six, seven, eight, nine, ten, eleven.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        123,
+        346,
+        485,
+        770,
+        944
+      ]
     },
     {
       "order": 577,
       "chapterIndex": 7,
       "text": "I think all were gone when a group of savage boys surrounded Hook, who seemed to have a charmed life, as he kept them at bay in that circle of fire. They had done for his dogs, but this man alone seemed to be a match for them all. Again and again they closed upon him, and again and again he hewed a clear space. He had lifted up one boy with his hook, and was using him as a buckler, when another, who had just passed his sword through Mullins, sprang into the fray.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        148,
+        230,
+        312,
+        467
+      ]
     },
     {
       "order": 578,
@@ -3631,7 +4872,11 @@
       "order": 579,
       "chapterIndex": 7,
       "text": "Thus suddenly Hook found himself face to face with Peter. The others drew back and formed a ring around them.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        57,
+        109
+      ]
     },
     {
       "order": 580,
@@ -3667,13 +4912,24 @@
       "order": 585,
       "chapterIndex": 7,
       "text": "Without more words they fell to, and for a space there was no advantage to either blade. Peter was a superb swordsman, and parried with dazzling rapidity; ever and anon he followed up a feint with a lunge that got past his foe’s defence, but his shorter reach stood him in ill stead, and he could not drive the steel home. Hook, scarcely his inferior in brilliancy, but not quite so nimble in wrist play, forced him back by the weight of his onset, hoping suddenly to end all with a favourite thrust, taught him long ago by Barbecue at Rio; but to his astonishment he found this thrust turned aside again and again. Then he sought to close and give the quietus with his iron hook, which all this time had been pawing the air; but Peter doubled under it and, lunging fiercely, pierced him in the ribs. At the sight of his own blood, whose peculiar colour, you remember, was offensive to him, the sword fell from Hook’s hand, and he was at Peter’s mercy.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        88,
+        322,
+        615,
+        800,
+        952
+      ]
     },
     {
       "order": 586,
       "chapterIndex": 7,
       "text": "“Now!” cried all the boys, but with a magnificent gesture Peter invited his opponent to pick up his sword. Hook did so instantly, but with a tragic feeling that Peter was showing good form.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        106,
+        189
+      ]
     },
     {
       "order": 587,
@@ -3709,13 +4965,21 @@
       "order": 592,
       "chapterIndex": 7,
       "text": "He fought now like a human flail, and every sweep of that terrible sword would have severed in twain any man or boy who obstructed it; but Peter fluttered round him as if the very wind it made blew him out of the danger zone. And again and again he darted in and pricked.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        225,
+        271
+      ]
     },
     {
       "order": 593,
       "chapterIndex": 7,
       "text": "Hook was fighting now without hope. That passionate breast no longer asked for life; but for one boon it craved: to see Peter show bad form before it was cold forever.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        167
+      ]
     },
     {
       "order": 594,
@@ -3745,7 +5009,13 @@
       "order": 598,
       "chapterIndex": 7,
       "text": "What sort of form was Hook himself showing? Misguided man though he was, we may be glad, without sympathising with him, that in the end he was true to the traditions of his race. The other boys were flying around him now, flouting, scornful; and he staggered about the deck striking up at them impotently, his mind was no longer with them; it was slouching in the playing fields of long ago, or being sent up for good, or watching the wall-game from a famous wall. And his shoes were right, and his waistcoat was right, and his tie was right, and his socks were right.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        43,
+        178,
+        464,
+        568
+      ]
     },
     {
       "order": 599,
@@ -3763,13 +5033,22 @@
       "order": 601,
       "chapterIndex": 7,
       "text": "Seeing Peter slowly advancing upon him through the air with dagger poised, he sprang upon the bulwarks to cast himself into the sea. He did not know that the crocodile was waiting for him; for we purposely stopped the clock that this knowledge might be spared him: a little mark of respect from us at the end.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        132,
+        309
+      ]
     },
     {
       "order": 602,
       "chapterIndex": 7,
       "text": "He had one last triumph, which I think we need not grudge him. As he stood on the bulwark looking over his shoulder at Peter gliding through the air, he invited him with a gesture to use his foot. It made Peter kick instead of stab.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        62,
+        196,
+        232
+      ]
     },
     {
       "order": 603,
@@ -3793,19 +5072,34 @@
       "order": 606,
       "chapterIndex": 7,
       "text": "“Seventeen,” Slightly sang out; but he was not quite correct in his figures. Fifteen paid the penalty for their crimes that night; but two reached the shore: Starkey to be captured by the redskins, who made him nurse for all their papooses, a melancholy come-down for a pirate; and Smee, who henceforth wandered about the world in his spectacles, making a precarious living by saying he was the only man that Jas. Hook had feared.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        413,
+        430
+      ]
     },
     {
       "order": 607,
       "chapterIndex": 7,
       "text": "Wendy, of course, had stood by taking no part in the fight, though watching Peter with glistening eyes; but now that all was over she became prominent again. She praised them equally, and shuddered delightfully when Michael showed her the place where he had killed one; and then she took them into Hook’s cabin and pointed to his watch which was hanging on a nail. It said “half-past one!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        157,
+        364,
+        389
+      ]
     },
     {
       "order": 608,
       "chapterIndex": 7,
       "text": "The lateness of the hour was almost the biggest thing of all. She got them to bed in the pirates’ bunks pretty quickly, you may be sure; all but Peter, who strutted up and down on the deck, until at last he fell asleep by the side of Long Tom. He had one of his dreams that night, and cried in his sleep for a long time, and Wendy held him tightly.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        61,
+        243,
+        348
+      ]
     },
     {
       "order": 609,
@@ -3830,13 +5124,26 @@
       "order": 612,
       "chapterIndex": 8,
       "text": "By three bells that morning they were all stirring their stumps; for there was a big sea running; and Tootles, the bo’sun, was among them, with a rope’s end in his hand and chewing tobacco. They all donned pirate clothes cut off at the knee, shaved smartly, and tumbled up, with the true nautical roll and hitching their trousers.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        189,
+        330
+      ]
     },
     {
       "order": 613,
       "chapterIndex": 8,
       "text": "It need not be said who was the captain. Nibs and John were first and second mate. There was a woman aboard. The rest were tars before the mast, and lived in the fo’c’sle. Peter had already lashed himself to the wheel; but he piped all hands and delivered a short address to them; said he hoped they would do their duty like gallant hearties, but that he knew they were the scum of Rio and the Gold Coast, and if they snapped at him he would tear them. The bluff strident words struck the note sailors understood, and they cheered him lustily. Then a few sharp orders were given, and they turned the ship round, and nosed her for the mainland.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        82,
+        108,
+        171,
+        452,
+        543,
+        643
+      ]
     },
     {
       "order": 614,
@@ -3848,25 +5155,54 @@
       "order": 615,
       "chapterIndex": 8,
       "text": "Some of them wanted it to be an honest ship and others were in favour of keeping it a pirate; but the captain treated them as dogs, and they dared not express their wishes to him even in a round robin. Instant obedience was the only safe thing. Slightly got a dozen for looking perplexed when told to take soundings. The general feeling was that Peter was honest just now to lull Wendy’s suspicions, but that there might be a change when the new suit was ready, which, against her will, she was making for him out of some of Hook’s wickedest garments. It was afterwards whispered among them that on the first night he wore this suit he sat long in the cabin with Hook’s cigar-holder in his mouth and one hand clenched, all but for the forefinger, which he bent and held threateningly aloft like a hook.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        201,
+        244,
+        316,
+        551,
+        802
+      ]
     },
     {
       "order": 616,
       "chapterIndex": 8,
       "text": "Instead of watching the ship, however, we must now return to that desolate home from which three of our characters had taken heartless flight so long ago. It seems a shame to have neglected No. 14 all this time; and yet we may be sure that Mrs. Darling does not blame us. If we had returned sooner to look with sorrowful sympathy at her, she would probably have cried, “Don’t be silly; what do I matter? Do go back and keep an eye on the children.” So long as mothers are like this their children will take advantage of them; and they may lay to that.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        154,
+        271,
+        403,
+        448,
+        551
+      ]
     },
     {
       "order": 617,
       "chapterIndex": 8,
       "text": "Even now we venture into that familiar nursery only because its lawful occupants are on their way home; we are merely hurrying on in advance of them to see that their beds are properly aired and that Mr. and Mrs. Darling do not go out for the evening. We are no more than servants. Why on earth should their beds be properly aired, seeing that they left them in such a thankless hurry? Would it not serve them jolly well right if they came back and found that their parents were spending the week-end in the country? It would be the moral lesson they have been in need of ever since we met them; but if we contrived things in this way Mrs. Darling would never forgive us.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        251,
+        281,
+        385,
+        516,
+        671
+      ]
     },
     {
       "order": 618,
       "chapterIndex": 8,
       "text": "One thing I should like to do immensely, and that is to tell her, in the way authors have, that the children are coming back, that indeed they will be here on Thursday week. This would spoil so completely the surprise to which Wendy and John and Michael are looking forward. They have been planning it out on the ship: mother’s rapture, father’s shout of joy, Nana’s leap through the air to embrace them first, when what they ought to be prepared for is a good hiding. How delicious to spoil it all by breaking the news in advance; so that when they enter grandly Mrs. Darling may not even offer Wendy her mouth, and Mr. Darling may exclaim pettishly, “Dash it all, here are those boys again.” However, we should get no thanks even for this. We are beginning to know Mrs. Darling by this time, and may be sure that she would upbraid us for depriving the children of their little pleasure.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        173,
+        274,
+        468,
+        693,
+        741,
+        888
+      ]
     },
     {
       "order": 619,
@@ -3878,7 +5214,11 @@
       "order": 620,
       "chapterIndex": 8,
       "text": "“Yes, but at what a cost! By depriving the children of ten minutes of delight.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        79
+      ]
     },
     {
       "order": 621,
@@ -3896,13 +5236,30 @@
       "order": 623,
       "chapterIndex": 8,
       "text": "You see, the woman had no proper spirit. I had meant to say extraordinarily nice things about her; but I despise her, and not one of them will I say now. She does not really need to be told to have things ready, for they are ready. All the beds are aired, and she never leaves the house, and observe, the window is open. For all the use we are to her, we might well go back to the ship. However, as we are here we may as well stay and look on. That is all we are, lookers-on. Nobody really wants us. So let us watch and say jaggy things, in the hope that some of them will hurt.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        153,
+        231,
+        320,
+        386,
+        443,
+        475,
+        499,
+        578
+      ]
     },
     {
       "order": 624,
       "chapterIndex": 8,
       "text": "The only change to be seen in the night-nursery is that between nine and six the kennel is no longer there. When the children flew away, Mr. Darling felt in his bones that all the blame was his for having chained Nana up, and that from first to last she had been wiser than he. Of course, as we have seen, he was quite a simple man; indeed he might have passed for a boy again if he had been able to take his baldness off; but he had also a noble sense of justice and a lion’s courage to do what seemed right to him; and having thought the matter out with anxious care after the flight of the children, he went down on all fours and crawled into the kennel. To all Mrs. Darling’s dear invitations to him to come out he replied sadly but firmly:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        277,
+        657,
+        744
+      ]
     },
     {
       "order": 625,
@@ -3914,31 +5271,62 @@
       "order": 626,
       "chapterIndex": 8,
       "text": "In the bitterness of his remorse he swore that he would never leave the kennel until his children came back. Of course this was a pity; but whatever Mr. Darling did he had to do in excess, otherwise he soon gave up doing it. And there never was a more humble man than the once proud George Darling, as he sat in the kennel of an evening talking with his wife of their children and all their pretty ways.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        108,
+        224,
+        403
+      ]
     },
     {
       "order": 627,
       "chapterIndex": 8,
       "text": "Very touching was his deference to Nana. He would not let her come into the kennel, but on all other matters he followed her wishes implicitly.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        143
+      ]
     },
     {
       "order": 628,
       "chapterIndex": 8,
       "text": "Every morning the kennel was carried with Mr. Darling in it to a cab, which conveyed him to his office, and he returned home in the same way at six. Something of the strength of character of the man will be seen if we remember how sensitive he was to the opinion of neighbours: this man whose every movement now attracted surprised attention. Inwardly he must have suffered torture; but he preserved a calm exterior even when the young criticised his little home, and he always lifted his hat courteously to any lady who looked inside.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        148,
+        342,
+        535
+      ]
     },
     {
       "order": 629,
       "chapterIndex": 8,
       "text": "It may have been Quixotic, but it was magnificent. Soon the inward meaning of it leaked out, and the great heart of the public was touched. Crowds followed the cab, cheering it lustily; charming girls scaled it to get his autograph; interviews appeared in the better class of papers, and society invited him to dinner and added, “Do come in the kennel.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        50,
+        139,
+        353
+      ]
     },
     {
       "order": 630,
       "chapterIndex": 8,
       "text": "On that eventful Thursday week, Mrs. Darling was in the night-nursery awaiting George’s return home; a very sad-eyed woman. Now that we look at her closely and remember the gaiety of her in the old days, all gone now just because she has lost her babes, I find I won’t be able to say nasty things about her after all. If she was too fond of her rubbishy children, she couldn’t help it. Look at her in her chair, where she has fallen asleep. The corner of her mouth, where one looks first, is almost withered up. Her hand moves restlessly on her breast as if she had a pain there. Some like Peter best, and some like Wendy best, but I like her best. Suppose, to make her happy, we whisper to her in her sleep that the brats are coming back. They are really within two miles of the window now, and flying strong, but all we need whisper is that they are on the way. Let’s.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        123,
+        317,
+        385,
+        440,
+        511,
+        579,
+        648,
+        739,
+        863,
+        870
+      ]
     },
     {
       "order": 631,
@@ -3956,13 +5344,21 @@
       "order": 633,
       "chapterIndex": 8,
       "text": "Nana had filmy eyes, but all she could do was put her paw gently on her mistress’s lap; and they were sitting together thus when the kennel was brought back. As Mr. Darling puts his head out to kiss his wife, we see that his face is more worn than of yore, but has a softer expression.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        157,
+        285
+      ]
     },
     {
       "order": 634,
       "chapterIndex": 8,
       "text": "He gave his hat to Liza, who took it scornfully; for she had no imagination, and was quite incapable of understanding the motives of such a man. Outside, the crowd who had accompanied the cab home were still cheering, and he was naturally not unmoved.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        144,
+        251
+      ]
     },
     {
       "order": 635,
@@ -3980,13 +5376,22 @@
       "order": 637,
       "chapterIndex": 8,
       "text": "“There were several adults to-day,” he assured her with a faint flush; but when she tossed her head he had not a word of reproof for her. Social success had not spoilt him; it had made him sweeter. For some time he sat with his head out of the kennel, talking with Mrs. Darling of this success, and pressing her hand reassuringly when she said she hoped his head would not be turned by it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        137,
+        197,
+        389
+      ]
     },
     {
       "order": 638,
       "chapterIndex": 8,
       "text": "“But if I had been a weak man,” he said. “Good heavens, if I had been a weak man!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        82
+      ]
     },
     {
       "order": 639,
@@ -3998,13 +5403,21 @@
       "order": 640,
       "chapterIndex": 8,
       "text": "“Full of remorse as ever, dearest! See my punishment: living in a kennel.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        74
+      ]
     },
     {
       "order": 641,
       "chapterIndex": 8,
       "text": "“But it is punishment, isn’t it, George? You are sure you are not enjoying it?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        79
+      ]
     },
     {
       "order": 642,
@@ -4022,13 +5435,21 @@
       "order": 644,
       "chapterIndex": 8,
       "text": "“Won’t you play me to sleep,” he asked, “on the nursery piano?” and as she was crossing to the day-nursery he added thoughtlessly, “And shut that window. I feel a draught.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        153,
+        172
+      ]
     },
     {
       "order": 645,
       "chapterIndex": 8,
       "text": "“O George, never ask me to do that. The window must always be left open for them, always, always.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        98
+      ]
     },
     {
       "order": 646,
@@ -4052,19 +5473,34 @@
       "order": 649,
       "chapterIndex": 8,
       "text": "“Quick Tink,” he whispered, “close the window; bar it! That’s right. Now you and I must get away by the door; and when Wendy comes she will think her mother has barred her out; and she will have to go back with me.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        54,
+        68,
+        215
+      ]
     },
     {
       "order": 650,
       "chapterIndex": 8,
       "text": "Now I understand what had hitherto puzzled me, why when Peter had exterminated the pirates he did not return to the island and leave Tink to escort the children to the mainland. This trick had been in his head all the time.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        177,
+        223
+      ]
     },
     {
       "order": 651,
       "chapterIndex": 8,
       "text": "Instead of feeling that he was behaving badly he danced with glee; then he peeped into the day-nursery to see who was playing. He whispered to Tink, “It’s Wendy’s mother! She is a pretty lady, but not so pretty as my mother. Her mouth is full of thimbles, but not so full as my mother’s was.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        126,
+        170,
+        224,
+        292
+      ]
     },
     {
       "order": 652,
@@ -4100,31 +5536,53 @@
       "order": 657,
       "chapterIndex": 8,
       "text": "“She’s awfully fond of Wendy,” he said to himself. He was angry with her now for not seeing why she could not have Wendy.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        50,
+        121
+      ]
     },
     {
       "order": 658,
       "chapterIndex": 8,
       "text": "The reason was so simple: “I’m fond of her too. We can’t both have her, lady.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        78
+      ]
     },
     {
       "order": 659,
       "chapterIndex": 8,
       "text": "But the lady would not make the best of it, and he was unhappy. He ceased to look at her, but even then she would not let go of him. He skipped about and made funny faces, but when he stopped it was just as if she were inside him, knocking.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        63,
+        132,
+        240
+      ]
     },
     {
       "order": 660,
       "chapterIndex": 8,
       "text": "“Oh, all right,” he said at last, and gulped. Then he unbarred the window. “Come on, Tink,” he cried, with a frightful sneer at the laws of nature; “we don’t want any silly mothers;” and he flew away.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        74,
+        200
+      ]
     },
     {
       "order": 661,
       "chapterIndex": 8,
       "text": "Thus Wendy and John and Michael found the window open for them after all, which of course was more than they deserved. They alighted on the floor, quite unashamed of themselves, and the youngest one had already forgotten his home.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        118,
+        230
+      ]
     },
     {
       "order": 662,
@@ -4136,7 +5594,11 @@
       "order": 663,
       "chapterIndex": 8,
       "text": "“Of course you have, you silly. There is your old bed.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        55
+      ]
     },
     {
       "order": 664,
@@ -4160,7 +5622,11 @@
       "order": 667,
       "chapterIndex": 8,
       "text": "But John whistled. “Hullo,” he said, “there’s a man inside it.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        63
+      ]
     },
     {
       "order": 668,
@@ -4172,7 +5638,11 @@
       "order": 669,
       "chapterIndex": 8,
       "text": "“Let me see father,” Michael begged eagerly, and he took a good look. “He is not so big as the pirate I killed,” he said with such frank disappointment that I am glad Mr. Darling was asleep; it would have been sad if those had been the first words he heard his little Michael say.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        69,
+        280
+      ]
     },
     {
       "order": 670,
@@ -4256,7 +5726,13 @@
       "order": 683,
       "chapterIndex": 8,
       "text": "And so when Mrs. Darling went back to the night-nursery to see if her husband was asleep, all the beds were occupied. The children waited for her cry of joy, but it did not come. She saw them, but she did not believe they were there. You see, she saw them in their beds so often in her dreams that she thought this was just the dream hanging around her still.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        117,
+        178,
+        233,
+        359
+      ]
     },
     {
       "order": 684,
@@ -4274,7 +5750,11 @@
       "order": 686,
       "chapterIndex": 8,
       "text": "“Mother!” Wendy cried.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        22
+      ]
     },
     {
       "order": 687,
@@ -4298,19 +5778,32 @@
       "order": 690,
       "chapterIndex": 8,
       "text": "“Mother!” cried Michael. He knew her now.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        41
+      ]
     },
     {
       "order": 691,
       "chapterIndex": 8,
       "text": "“That’s Michael,” she said, and she stretched out her arms for the three little selfish children they would never envelop again. Yes, they did, they went round Wendy and John and Michael, who had slipped out of bed and run to her.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        128,
+        230
+      ]
     },
     {
       "order": 692,
       "chapterIndex": 8,
       "text": "“George, George!” she cried when she could speak; and Mr. Darling woke to share her bliss, and Nana came rushing in. There could not have been a lovelier sight; but there was none to see it except a little boy who was staring in at the window. He had had ecstasies innumerable that other children can never know; but he was looking through the window at the one joy from which he must be for ever barred.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        116,
+        243,
+        404
+      ]
     },
     {
       "order": 693,
@@ -4335,7 +5828,15 @@
       "order": 696,
       "chapterIndex": 9,
       "text": "I hope you want to know what became of the other boys. They were waiting below to give Wendy time to explain about them; and when they had counted five hundred they went up. They went up by the stair, because they thought this would make a better impression. They stood in a row in front of Mrs. Darling, with their hats off, and wishing they were not wearing their pirate clothes. They said nothing, but their eyes asked her to have them. They ought to have looked at Mr. Darling also, but they forgot about him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        54,
+        173,
+        258,
+        381,
+        439,
+        513
+      ]
     },
     {
       "order": 697,
@@ -4353,13 +5854,22 @@
       "order": 699,
       "chapterIndex": 9,
       "text": "The first twin was the proud one, and he asked, flushing, “Do you think we should be too much of a handful, sir? Because, if so, we can go away.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        112,
+        145
+      ]
     },
     {
       "order": 700,
       "chapterIndex": 9,
       "text": "“Father!” Wendy cried, shocked; but still the cloud was on him. He knew he was behaving unworthily, but he could not help it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        63,
+        125
+      ]
     },
     {
       "order": 701,
@@ -4377,31 +5887,51 @@
       "order": 703,
       "chapterIndex": 9,
       "text": "“George!” Mrs. Darling exclaimed, pained to see her dear one showing himself in such an unfavourable light.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        107
+      ]
     },
     {
       "order": 704,
       "chapterIndex": 9,
       "text": "Then he burst into tears, and the truth came out. He was as glad to have them as she was, he said, but he thought they should have asked his consent as well as hers, instead of treating him as a cypher in his own house.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        219
+      ]
     },
     {
       "order": 705,
       "chapterIndex": 9,
       "text": "“I don’t think he is a cypher,” Tootles cried instantly. “Do you think he is a cypher, Curly?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        56,
+        94
+      ]
     },
     {
       "order": 706,
       "chapterIndex": 9,
       "text": "“No, I don’t. Do you think he is a cypher, Slightly?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        53
+      ]
     },
     {
       "order": 707,
       "chapterIndex": 9,
       "text": "“Rather not. Twin, what do you think?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        38
+      ]
     },
     {
       "order": 708,
@@ -4419,7 +5949,12 @@
       "order": 710,
       "chapterIndex": 9,
       "text": "“Then follow the leader,” he cried gaily. “Mind you, I am not sure that we have a drawing-room, but we pretend we have, and it’s all the same. Hoop la!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        142,
+        152
+      ]
     },
     {
       "order": 711,
@@ -4431,7 +5966,12 @@
       "order": 712,
       "chapterIndex": 9,
       "text": "As for Peter, he saw Wendy once again before he flew away. He did not exactly come to the window, but he brushed against it in passing so that she could open it if she liked and call to him. That is what she did.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        190,
+        212
+      ]
     },
     {
       "order": 713,
@@ -4479,7 +6019,11 @@
       "order": 720,
       "chapterIndex": 9,
       "text": "Mrs. Darling came to the window, for at present she was keeping a sharp eye on Wendy. She told Peter that she had adopted all the other boys, and would like to adopt him also.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        85,
+        175
+      ]
     },
     {
       "order": 721,
@@ -4521,7 +6065,12 @@
       "order": 727,
       "chapterIndex": 9,
       "text": "“I don’t want to go to school and learn solemn things,” he told her passionately. “I don’t want to be a man. O Wendy’s mother, if I was to wake up and feel there was a beard!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        81,
+        108,
+        175
+      ]
     },
     {
       "order": 728,
@@ -4545,7 +6094,11 @@
       "order": 731,
       "chapterIndex": 9,
       "text": "“With Tink in the house we built for Wendy. The fairies are to put it high up among the tree tops where they sleep at nights.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        43,
+        126
+      ]
     },
     {
       "order": 732,
@@ -4563,7 +6116,11 @@
       "order": 734,
       "chapterIndex": 9,
       "text": "“There are always a lot of young ones,” explained Wendy, who was now quite an authority, “because you see when a new baby laughs for the first time a new fairy is born, and as there are always new babies there are always new fairies. They live in nests on the tops of trees; and the mauve ones are boys and the white ones are girls, and the blue ones are just little sillies who are not sure what they are.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        233,
+        407
+      ]
     },
     {
       "order": 735,
@@ -4593,7 +6150,11 @@
       "order": 739,
       "chapterIndex": 9,
       "text": "“Sneaky tell-tale!” Tink called out from somewhere round the corner.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        68
+      ]
     },
     {
       "order": 740,
@@ -4623,7 +6184,11 @@
       "order": 744,
       "chapterIndex": 9,
       "text": "“Certainly not. I have got you home again, and I mean to keep you.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        67
+      ]
     },
     {
       "order": 745,
@@ -4641,7 +6206,13 @@
       "order": 747,
       "chapterIndex": 9,
       "text": "“Oh, all right,” Peter said, as if he had asked her from politeness merely; but Mrs. Darling saw his mouth twitch, and she made this handsome offer: to let Wendy go to him for a week every year to do his spring cleaning. Wendy would have preferred a more permanent arrangement; and it seemed to her that spring would be long in coming; but this promise sent Peter away quite gay again. He had no sense of time, and was so full of adventures that all I have told you about him is only a halfpenny-worth of them. I suppose it was because Wendy knew this that her last words to him were these rather plaintive ones:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        220,
+        385,
+        510,
+        612
+      ]
     },
     {
       "order": 748,
@@ -4653,19 +6224,39 @@
       "order": 749,
       "chapterIndex": 9,
       "text": "Of course Peter promised; and then he flew away. He took Mrs. Darling’s kiss with him. The kiss that had been for no one else, Peter took quite easily. Funny. But she seemed satisfied.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        86,
+        151,
+        158,
+        184
+      ]
     },
     {
       "order": 750,
       "chapterIndex": 9,
       "text": "Of course all the boys went to school; and most of them got into Class III, but Slightly was put first into Class IV and then into Class V. Class I is the top class. Before they had attended school a week they saw what goats they had been not to remain on the island; but it was too late now, and soon they settled down to being as ordinary as you or me or Jenkins minor. It is sad to have to say that the power to fly gradually left them. At first Nana tied their feet to the bed-posts so that they should not fly away in the night; and one of their diversions by day was to pretend to fall off buses; but by and by they ceased to tug at their bonds in bed, and found that they hurt themselves when they let go of the bus. In time they could not even fly after their hats. Want of practice, they called it; but what it really meant was that they no longer believed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        139,
+        165,
+        371,
+        439,
+        723,
+        773,
+        866
+      ]
     },
     {
       "order": 751,
       "chapterIndex": 9,
       "text": "Michael believed longer than the other boys, though they jeered at him; so he was with Wendy when Peter came for her at the end of the first year. She flew away with Peter in the frock she had woven from leaves and berries in the Neverland, and her one fear was that he might notice how short it had become; but he never noticed, he had so much to say about himself.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        146,
+        366
+      ]
     },
     {
       "order": 752,
@@ -4707,7 +6298,11 @@
       "order": 758,
       "chapterIndex": 9,
       "text": "“There are such a lot of them,” he said. “I expect she is no more.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        67
+      ]
     },
     {
       "order": 759,
@@ -4719,13 +6314,21 @@
       "order": 760,
       "chapterIndex": 9,
       "text": "Wendy was pained too to find that the past year was but as yesterday to Peter; it had seemed such a long year of waiting to her. But he was exactly as fascinating as ever, and they had a lovely spring cleaning in the little house on the tree tops.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        128,
+        247
+      ]
     },
     {
       "order": 761,
       "chapterIndex": 9,
       "text": "Next year he did not come for her. She waited in a new frock because the old one simply would not meet; but he never came.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        122
+      ]
     },
     {
       "order": 762,
@@ -4755,43 +6358,85 @@
       "order": 766,
       "chapterIndex": 9,
       "text": "That was the last time the girl Wendy ever saw him. For a little longer she tried for his sake not to have growing pains; and she felt she was untrue to him when she got a prize for general knowledge. But the years came and went without bringing the careless boy; and when they met again Wendy was a married woman, and Peter was no more to her than a little dust in the box in which she had kept her toys. Wendy was grown up. You need not be sorry for her. She was one of the kind that likes to grow up. In the end she grew up of her own free will a day quicker than other girls.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        200,
+        405,
+        425,
+        456,
+        503,
+        579
+      ]
     },
     {
       "order": 767,
       "chapterIndex": 9,
       "text": "All the boys were grown up and done for by this time; so it is scarcely worth while saying anything more about them. You may see the twins and Nibs and Curly any day going to an office, each carrying a little bag and an umbrella. Michael is an engine-driver. Slightly married a lady of title, and so he became a lord. You see that judge in a wig coming out at the iron door? That used to be Tootles. The bearded man who doesn’t know any story to tell his children was once John.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        116,
+        229,
+        258,
+        317,
+        374,
+        399,
+        478
+      ]
     },
     {
       "order": 768,
       "chapterIndex": 9,
       "text": "Wendy was married in white with a pink sash. It is strange to think that Peter did not alight in the church and forbid the banns.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        129
+      ]
     },
     {
       "order": 769,
       "chapterIndex": 9,
       "text": "Years rolled on again, and Wendy had a daughter. This ought not to be written in ink but in a golden splash.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        108
+      ]
     },
     {
       "order": 770,
       "chapterIndex": 9,
       "text": "She was called Jane, and always had an odd inquiring look, as if from the moment she arrived on the mainland she wanted to ask questions. When she was old enough to ask them they were mostly about Peter Pan. She loved to hear of Peter, and Wendy told her all she could remember in the very nursery from which the famous flight had taken place. It was Jane’s nursery now, for her father had bought it at the three per cents from Wendy’s father, who was no longer fond of stairs. Mrs. Darling was now dead and forgotten.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        137,
+        207,
+        343,
+        477,
+        518
+      ]
     },
     {
       "order": 771,
       "chapterIndex": 9,
       "text": "There were only two beds in the nursery now, Jane’s and her nurse’s; and there was no kennel, for Nana also had passed away. She died of old age, and at the end she had been rather difficult to get on with; being very firmly convinced that no one knew how to look after children except herself.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        124,
+        294
+      ]
     },
     {
       "order": 772,
       "chapterIndex": 9,
       "text": "Once a week Jane’s nurse had her evening off; and then it was Wendy’s part to put Jane to bed. That was the time for stories. It was Jane’s invention to raise the sheet over her mother’s head and her own, thus making a tent, and in the awful darkness to whisper:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        94,
+        125,
+        262
+      ]
     },
     {
       "order": 773,
@@ -4815,7 +6460,11 @@
       "order": 776,
       "chapterIndex": 9,
       "text": "“That is a long time ago, sweetheart,” says Wendy. “Ah me, how time flies!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        50,
+        75
+      ]
     },
     {
       "order": 777,
@@ -4827,7 +6476,11 @@
       "order": 778,
       "chapterIndex": 9,
       "text": "“The way I flew? Do you know, Jane, I sometimes wonder whether I ever did really fly.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        86
+      ]
     },
     {
       "order": 779,
@@ -4851,7 +6504,11 @@
       "order": 782,
       "chapterIndex": 9,
       "text": "“Because I am grown up, dearest. When people grow up they forget the way.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        74
+      ]
     },
     {
       "order": 783,
@@ -4863,13 +6520,21 @@
       "order": 784,
       "chapterIndex": 9,
       "text": "“Because they are no longer gay and innocent and heartless. It is only the gay and innocent and heartless who can fly.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        119
+      ]
     },
     {
       "order": 785,
       "chapterIndex": 9,
       "text": "“What is gay and innocent and heartless? I do wish I were gay and innocent and heartless.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        90
+      ]
     },
     {
       "order": 786,
@@ -4887,7 +6552,11 @@
       "order": 788,
       "chapterIndex": 9,
       "text": "“I do believe it is,” says Jane. “Go on.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        41
+      ]
     },
     {
       "order": 789,
@@ -4905,7 +6574,11 @@
       "order": 791,
       "chapterIndex": 9,
       "text": "“You have missed a bit,” interrupts Jane, who now knows the story better than her mother. “When you saw him sitting on the floor crying, what did you say?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        89,
+        155
+      ]
     },
     {
       "order": 792,
@@ -4941,7 +6614,11 @@
       "order": 797,
       "chapterIndex": 9,
       "text": "“Yes, so do I. What was the last thing Peter ever said to you?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        63
+      ]
     },
     {
       "order": 798,
@@ -4959,13 +6636,21 @@
       "order": 800,
       "chapterIndex": 9,
       "text": "“But, alas, he forgot all about me,” Wendy said it with a smile. She was as grown up as that.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        93
+      ]
     },
     {
       "order": 801,
       "chapterIndex": 9,
       "text": "“What did his crow sound like?” Jane asked one evening.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        55
+      ]
     },
     {
       "order": 802,
@@ -4983,7 +6668,11 @@
       "order": 804,
       "chapterIndex": 9,
       "text": "Wendy was a little startled. “My darling, how can you know?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        60
+      ]
     },
     {
       "order": 805,
@@ -5007,7 +6696,13 @@
       "order": 808,
       "chapterIndex": 9,
       "text": "And then one night came the tragedy. It was the spring of the year, and the story had been told for the night, and Jane was now asleep in her bed. Wendy was sitting on the floor, very close to the fire, so as to see to darn, for there was no other light in the nursery; and while she sat darning she heard a crow. Then the window blew open as of old, and Peter dropped in on the floor.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        146,
+        313,
+        385
+      ]
     },
     {
       "order": 809,
@@ -5019,7 +6714,11 @@
       "order": 810,
       "chapterIndex": 9,
       "text": "He was a little boy, and she was grown up. She huddled by the fire not daring to move, helpless and guilty, a big woman.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        42,
+        120
+      ]
     },
     {
       "order": 811,
@@ -5031,7 +6730,11 @@
       "order": 812,
       "chapterIndex": 9,
       "text": "“Hullo, Peter,” she replied faintly, squeezing herself as small as possible. Something inside her was crying “Woman, Woman, let go of me.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        138
+      ]
     },
     {
       "order": 813,
@@ -5067,7 +6770,11 @@
       "order": 818,
       "chapterIndex": 9,
       "text": "Peter looked. “Hullo, is it a new one?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        39
+      ]
     },
     {
       "order": 819,
@@ -5103,7 +6810,11 @@
       "order": 824,
       "chapterIndex": 9,
       "text": "“Of course; that is why I have come.” He added a little sternly, “Have you forgotten that this is spring cleaning time?”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        120
+      ]
     },
     {
       "order": 825,
@@ -5133,7 +6844,11 @@
       "order": 829,
       "chapterIndex": 9,
       "text": "She had risen; and now at last a fear assailed him. “What is it?” he cried, shrinking.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        86
+      ]
     },
     {
       "order": 830,
@@ -5145,19 +6860,31 @@
       "order": 831,
       "chapterIndex": 9,
       "text": "For almost the only time in his life that I know of, Peter was afraid. “Don’t turn up the light,” he cried.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        70,
+        107
+      ]
     },
     {
       "order": 832,
       "chapterIndex": 9,
       "text": "She let her hands play in the hair of the tragic boy. She was not a little girl heart-broken about him; she was a grown woman smiling at it all, but they were wet-eyed smiles.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        175
+      ]
     },
     {
       "order": 833,
       "chapterIndex": 9,
       "text": "Then she turned up the light, and Peter saw. He gave a cry of pain; and when the tall beautiful creature stooped to lift him in her arms he drew back sharply.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        158
+      ]
     },
     {
       "order": 834,
@@ -5175,7 +6902,12 @@
       "order": 836,
       "chapterIndex": 9,
       "text": "“I am old, Peter. I am ever so much more than twenty. I grew up long ago.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        53,
+        74
+      ]
     },
     {
       "order": 837,
@@ -5187,7 +6919,11 @@
       "order": 838,
       "chapterIndex": 9,
       "text": "“I couldn’t help it. I am a married woman, Peter.”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        50
+      ]
     },
     {
       "order": 839,
@@ -5211,13 +6947,23 @@
       "order": 842,
       "chapterIndex": 9,
       "text": "But he supposed she was; and he took a step towards the sleeping child with his dagger upraised. Of course he did not strike. He sat down on the floor instead and sobbed; and Wendy did not know how to comfort him, though she could have done it so easily once. She was only a woman now, and she ran out of the room to try to think.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        96,
+        125,
+        259,
+        330
+      ]
     },
     {
       "order": 843,
       "chapterIndex": 9,
       "text": "Peter continued to cry, and soon his sobs woke Jane. She sat up in bed, and was interested at once.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        99
+      ]
     },
     {
       "order": 844,
@@ -5331,13 +7077,22 @@
       "order": 862,
       "chapterIndex": 9,
       "text": "Of course in the end Wendy let them fly away together. Our last glimpse of her shows her at the window, watching them receding into the sky until they were as small as stars.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        54,
+        174
+      ]
     },
     {
       "order": 863,
       "chapterIndex": 9,
       "text": "As you look at Wendy, you may see her hair becoming white, and her figure little again, for all this happened long ago. Jane is now a common grown-up, with a daughter called Margaret; and every spring cleaning time, except when he forgets, Peter comes for Margaret and takes her to the Neverland, where she tells him stories about himself, to which he listens eagerly. When Margaret grows up she will have a daughter, who is to be Peter’s mother in turn; and thus it will go on, so long as children are gay and innocent and heartless.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        119,
+        368,
+        534
+      ]
     },
     {
       "order": 864,

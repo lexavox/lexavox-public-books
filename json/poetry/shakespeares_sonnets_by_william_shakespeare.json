@@ -1496,7 +1496,11 @@
       "order": 113,
       "chapterIndex": 7,
       "text": "Such seems your beauty still. Three winters cold,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        49
+      ]
     },
     {
       "order": 114,
@@ -2738,7 +2742,11 @@
       "order": 320,
       "chapterIndex": 20,
       "text": "Admit impediments. Love is not love",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        35
+      ]
     },
     {
       "order": 321,
@@ -4232,7 +4240,11 @@
       "order": 569,
       "chapterIndex": 35,
       "text": "O! none but unthrifts. Dear my love, you know,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        46
+      ]
     },
     {
       "order": 570,
@@ -5930,7 +5942,11 @@
       "order": 852,
       "chapterIndex": 53,
       "text": "Eat up thy charge? Is this thy body’s end?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        42
+      ]
     },
     {
       "order": 853,
@@ -6128,7 +6144,11 @@
       "order": 885,
       "chapterIndex": 55,
       "text": "How can it? O! how can Love’s eye be true,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        42
+      ]
     },
     {
       "order": 886,
@@ -6518,7 +6538,11 @@
       "order": 950,
       "chapterIndex": 59,
       "text": "As his triumphant prize. Proud of this pride,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        45
+      ]
     },
     {
       "order": 951,
@@ -6590,7 +6614,11 @@
       "order": 962,
       "chapterIndex": 60,
       "text": "When I break twenty? I am perjur’d most;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        40
+      ]
     },
     {
       "order": 963,

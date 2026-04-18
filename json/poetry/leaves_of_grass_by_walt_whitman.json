@@ -2238,7 +2238,11 @@
       "chapterIndex": 0,
       "text": "BOOK IV. CHILDREN OF ADAM",
       "ttsText": "Book IV. Children of Adam",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        25
+      ]
     },
     {
       "order": 52,
@@ -2292,7 +2296,11 @@
       "order": 60,
       "chapterIndex": 0,
       "text": "O Hymen! O Hymenee!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        19
+      ]
     },
     {
       "order": 61,
@@ -2335,7 +2343,11 @@
       "chapterIndex": 0,
       "text": "BOOK V. CALAMUS",
       "ttsText": "Book V. Calamus",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        7,
+        15
+      ]
     },
     {
       "order": 68,
@@ -2653,13 +2665,21 @@
       "chapterIndex": 0,
       "text": "BOOK XVII. BIRDS OF PASSAGE",
       "ttsText": "Book XVII. Birds of Passage",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        27
+      ]
     },
     {
       "order": 119,
       "chapterIndex": 0,
       "text": "Pioneers! O Pioneers!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        21
+      ]
     },
     {
       "order": 120,
@@ -2703,7 +2723,11 @@
       "chapterIndex": 0,
       "text": "BOOK XIX. SEA-DRIFT",
       "ttsText": "Book XIX. Sea-Drift",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        19
+      ]
     },
     {
       "order": 127,
@@ -2770,7 +2794,11 @@
       "chapterIndex": 0,
       "text": "BOOK XX. BY THE ROADSIDE",
       "ttsText": "Book XX. By the Roadside",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        24
+      ]
     },
     {
       "order": 138,
@@ -2812,7 +2840,11 @@
       "order": 144,
       "chapterIndex": 0,
       "text": "O Me! O Life!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        13
+      ]
     },
     {
       "order": 145,
@@ -2939,7 +2971,11 @@
       "chapterIndex": 0,
       "text": "BOOK XXI. DRUM-TAPS",
       "ttsText": "Book XXI. Drum-Taps",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        19
+      ]
     },
     {
       "order": 166,
@@ -2951,7 +2987,12 @@
       "order": 167,
       "chapterIndex": 0,
       "text": "Beat! Beat! Drums!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        11,
+        18
+      ]
     },
     {
       "order": 168,
@@ -3199,13 +3240,21 @@
       "chapterIndex": 0,
       "text": "BOOK XXII. MEMORIES OF PRESIDENT LINCOLN",
       "ttsText": "Book XXII. Memories of President Lincoln",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        40
+      ]
     },
     {
       "order": 209,
       "chapterIndex": 0,
       "text": "O Captain! My Captain!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        22
+      ]
     },
     {
       "order": 210,
@@ -3237,7 +3286,11 @@
       "chapterIndex": 0,
       "text": "BOOK XXIV. AUTUMN RIVULETS",
       "ttsText": "Book XXIV. Autumn Rivulets",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        26
+      ]
     },
     {
       "order": 215,
@@ -3304,7 +3357,11 @@
       "chapterIndex": 0,
       "text": "Outlines for a Tomb [G. P., Buried 1870]",
       "role": "paragraph",
-      "ttsText": "Outlines for a Tomb [G.P., Buried 1870]"
+      "ttsText": "Outlines for a Tomb [G.P., Buried 1870]",
+      "ttsSentenceEnds": [
+        23,
+        39
+      ]
     },
     {
       "order": 226,
@@ -3496,7 +3553,11 @@
       "chapterIndex": 0,
       "text": "BOOK XXX. WHISPERS OF HEAVENLY DEATH",
       "ttsText": "Book XXX. Whispers of Heavenly Death",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        36
+      ]
     },
     {
       "order": 257,
@@ -3618,7 +3679,11 @@
       "chapterIndex": 0,
       "text": "BOOK XXXII. FROM NOON TO STARRY NIGHT",
       "ttsText": "Book XXXII. From Noon to Starry Night",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        11,
+        37
+      ]
     },
     {
       "order": 277,
@@ -3739,7 +3804,11 @@
       "chapterIndex": 0,
       "text": "BOOK XXXIII. SONGS OF PARTING",
       "ttsText": "Book XXXIII. Songs of Parting",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        12,
+        29
+      ]
     },
     {
       "order": 297,
@@ -3793,7 +3862,11 @@
       "order": 305,
       "chapterIndex": 0,
       "text": "The Sobbing of the Bells [Midnight, Sept. 19-20, 1881]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        54
+      ]
     },
     {
       "order": 306,
@@ -3842,7 +3915,11 @@
       "chapterIndex": 0,
       "text": "BOOK XXXIV. SANDS AT SEVENTY",
       "ttsText": "Book XXXIV. Sands at Seventy",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        11,
+        28
+      ]
     },
     {
       "order": 314,
@@ -3938,7 +4015,11 @@
       "order": 329,
       "chapterIndex": 0,
       "text": "Abraham Lincoln, Born Feb. 12, 1809",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        35
+      ]
     },
     {
       "order": 330,
@@ -4185,7 +4266,11 @@
       "chapterIndex": 0,
       "text": "BOOKXXXV. GOOD-BYE MY FANCY",
       "ttsText": "Bookxxxv. Good-Bye My Fancy",
-      "role": "title"
+      "role": "title",
+      "ttsSentenceEnds": [
+        9,
+        27
+      ]
     },
     {
       "order": 371,
@@ -4380,7 +4465,11 @@
       "chapterIndex": 1,
       "text": "BOOK I. INSCRIPTIONS",
       "ttsText": "Book I. Inscriptions",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        7,
+        20
+      ]
     },
     {
       "order": 403,
@@ -5094,7 +5183,11 @@
       "order": 520,
       "chapterIndex": 5,
       "text": "Libertad! I do not know whether others behold what I behold,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        60
+      ]
     },
     {
       "order": 521,
@@ -5745,7 +5838,11 @@
       "chapterIndex": 6,
       "text": "BOOK XIX. SEA-DRIFT",
       "ttsText": "Book XIX. Sea-Drift",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        19
+      ]
     },
     {
       "order": 629,
@@ -6316,7 +6413,11 @@
       "order": 723,
       "chapterIndex": 6,
       "text": "Land! land! O land!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        19
+      ]
     },
     {
       "order": 724,
@@ -6352,7 +6453,11 @@
       "order": 729,
       "chapterIndex": 6,
       "text": "O throat! O trembling throat!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        29
+      ]
     },
     {
       "order": 730,
@@ -6496,7 +6601,11 @@
       "order": 753,
       "chapterIndex": 6,
       "text": "O darkness! O in vain!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        22
+      ]
     },
     {
       "order": 754,
@@ -6520,7 +6629,11 @@
       "order": 757,
       "chapterIndex": 6,
       "text": "O throat! O throbbing heart!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        28
+      ]
     },
     {
       "order": 758,
@@ -6532,7 +6645,12 @@
       "order": 759,
       "chapterIndex": 6,
       "text": "O past! O happy life! O songs of joy!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        21,
+        37
+      ]
     },
     {
       "order": 760,
@@ -6664,7 +6782,11 @@
       "order": 781,
       "chapterIndex": 6,
       "text": "Demon or bird! (said the boy’s soul,)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        37
+      ]
     },
     {
       "order": 782,
@@ -6760,7 +6882,11 @@
       "order": 797,
       "chapterIndex": 6,
       "text": "O give me the clue! (it lurks in the night here somewhere,)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        59
+      ]
     },
     {
       "order": 798,
@@ -7754,7 +7880,11 @@
       "order": 962,
       "chapterIndex": 10,
       "text": "But O the ship, the immortal ship! O ship aboard the ship!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        58
+      ]
     },
     {
       "order": 963,
@@ -8675,7 +8805,11 @@
       "chapterIndex": 18,
       "text": "BOOK XX. BY THE ROADSIDE",
       "ttsText": "Book XX. By the Roadside",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        24
+      ]
     },
     {
       "order": 1116,
@@ -9832,13 +9966,21 @@
       "order": 1304,
       "chapterIndex": 26,
       "text": "O Me! O Life!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        13
+      ]
     },
     {
       "order": 1305,
       "chapterIndex": 26,
       "text": "O me! O life! of the questions of these recurring,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        50
+      ]
     },
     {
       "order": 1306,
@@ -10908,7 +11050,12 @@
       "order": 1481,
       "chapterIndex": 48,
       "text": "What a filthy Presidentiad! (O South, your torrid suns! O North,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        55,
+        64
+      ]
     },
     {
       "order": 1482,
@@ -10969,7 +11116,11 @@
       "chapterIndex": 49,
       "text": "BOOK XXI. DRUM-TAPS",
       "ttsText": "Book XXI. Drum-Taps",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        19
+      ]
     },
     {
       "order": 1492,
@@ -11005,13 +11156,21 @@
       "order": 1497,
       "chapterIndex": 49,
       "text": "(O superb! O Manhattan, my own, my peerless!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        44
+      ]
     },
     {
       "order": 1498,
       "chapterIndex": 49,
       "text": "O strongest you in the hour of danger, in crisis! O truer than steel!)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        70
+      ]
     },
     {
       "order": 1499,
@@ -11120,7 +11279,11 @@
       "order": 1516,
       "chapterIndex": 49,
       "text": "Leapt they tumultuous, and lo! Manhattan arming.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        48
+      ]
     },
     {
       "order": 1517,
@@ -11379,7 +11542,11 @@
       "order": 1559,
       "chapterIndex": 49,
       "text": "Unlimber them! (no more as the past forty years for salutes for",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        63
+      ]
     },
     {
       "order": 1560,
@@ -11584,7 +11751,12 @@
       "order": 1593,
       "chapterIndex": 51,
       "text": "Beat! Beat! Drums!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        11,
+        18
+      ]
     },
     {
       "order": 1594,
@@ -11956,7 +12128,11 @@
       "order": 1653,
       "chapterIndex": 53,
       "text": "Crying with trumpet voice, Arouse and beware! Beware and arouse!)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        65
+      ]
     },
     {
       "order": 1654,
@@ -12805,7 +12981,11 @@
       "order": 1793,
       "chapterIndex": 53,
       "text": "Insensate! insensate! (yet I at any rate chant you,) O banner!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        62
+      ]
     },
     {
       "order": 1794,
@@ -12938,7 +13118,11 @@
       "order": 1815,
       "chapterIndex": 53,
       "text": "O you up there! O pennant! where you undulate like a snake hissing",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        66
+      ]
     },
     {
       "order": 1816,
@@ -12997,7 +13181,11 @@
       "order": 1824,
       "chapterIndex": 53,
       "text": "I see but you, O warlike pennant! O banner so broad, with stripes,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        66
+      ]
     },
     {
       "order": 1825,
@@ -13093,7 +13281,11 @@
       "order": 1840,
       "chapterIndex": 54,
       "text": "Saw from below what arose and mounted, (O superb! O wild as my",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        62
+      ]
     },
     {
       "order": 1841,
@@ -13527,7 +13719,11 @@
       "order": 1911,
       "chapterIndex": 56,
       "text": "(O the black ships! O the fierce ships!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        39
+      ]
     },
     {
       "order": 1912,
@@ -13539,7 +13735,11 @@
       "order": 1913,
       "chapterIndex": 56,
       "text": "City of the world! (for all races are here,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 1914,
@@ -14518,7 +14718,11 @@
       "order": 2074,
       "chapterIndex": 58,
       "text": "Ah, hills and slopes of Brooklyn! I perceive you are more valuable",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        66
+      ]
     },
     {
       "order": 2075,
@@ -16196,7 +16400,11 @@
       "chapterIndex": 71,
       "text": "One turns to me his appealing eyes—poor boy! I never knew you,",
       "ttsText": "One turns to me his appealing eyes, poor boy! I never knew you,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        63
+      ]
     },
     {
       "order": 2352,
@@ -16760,7 +16968,11 @@
       "order": 2444,
       "chapterIndex": 73,
       "text": "O such for me! O an intense life, full to repletion and varied!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        63
+      ]
     },
     {
       "order": 2445,
@@ -17024,7 +17236,11 @@
       "order": 2488,
       "chapterIndex": 74,
       "text": "O my soldiers twain! O my veterans passing to burial!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        53
+      ]
     },
     {
       "order": 2489,
@@ -17186,7 +17402,11 @@
       "order": 2515,
       "chapterIndex": 75,
       "text": "I, ecstatic, O partners! O lands! with the love of lovers tie you.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        66
+      ]
     },
     {
       "order": 2516,
@@ -18164,7 +18384,11 @@
       "order": 2677,
       "chapterIndex": 87,
       "text": "Dear camerado! I confess I have urged you onward with me, and still",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        67
+      ]
     },
     {
       "order": 2678,
@@ -18207,7 +18431,11 @@
       "order": 2684,
       "chapterIndex": 88,
       "text": "Flag of death! (how I watch’d you through the smoke of battle pressing!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        71
+      ]
     },
     {
       "order": 2685,
@@ -18995,7 +19223,11 @@
       "chapterIndex": 96,
       "text": "BOOK XXII. MEMORIES OF PRESIDENT LINCOLN",
       "ttsText": "Book XXII. Memories of President Lincoln",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        40
+      ]
     },
     {
       "order": 2814,
@@ -20536,7 +20768,11 @@
       "order": 3068,
       "chapterIndex": 97,
       "text": "O Captain! My Captain!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        22
+      ]
     },
     {
       "order": 3069,
@@ -22563,7 +22799,11 @@
       "order": 3403,
       "chapterIndex": 100,
       "text": "What does it mean to American persons, progresses, cities? Chicago,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        67
+      ]
     },
     {
       "order": 3404,
@@ -23544,7 +23784,11 @@
       "order": 3566,
       "chapterIndex": 100,
       "text": "Bards of the great Idea! bards of the peaceful inventions! (for the",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        67
+      ]
     },
     {
       "order": 3567,
@@ -23678,7 +23922,11 @@
       "chapterIndex": 103,
       "text": "BOOK XXIV. AUTUMN RIVULETS",
       "ttsText": "Book XXIV. Autumn Rivulets",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        26
+      ]
     },
     {
       "order": 3589,
@@ -27086,7 +27334,11 @@
       "order": 4152,
       "chapterIndex": 113,
       "text": "I leave in him revolt, (O latent right of insurrection! O",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        57
+      ]
     },
     {
       "order": 4153,
@@ -27231,7 +27483,11 @@
       "order": 4176,
       "chapterIndex": 114,
       "text": "Cries, help! O help! and wrings her hands,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        42
+      ]
     },
     {
       "order": 4177,
@@ -27255,7 +27511,11 @@
       "order": 4180,
       "chapterIndex": 114,
       "text": "O heart-sick days! O nights of woe!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        35
+      ]
     },
     {
       "order": 4181,
@@ -27675,7 +27935,11 @@
       "chapterIndex": 116,
       "text": "Outlines for a Tomb [G. P., Buried 1870]",
       "role": "paragraph",
-      "ttsText": "Outlines for a Tomb [G.P., Buried 1870]"
+      "ttsText": "Outlines for a Tomb [G.P., Buried 1870]",
+      "ttsSentenceEnds": [
+        23,
+        39
+      ]
     },
     {
       "order": 4250,
@@ -28592,7 +28856,11 @@
       "chapterIndex": 120,
       "text": "O culpable! I acknowledge—I expose!",
       "ttsText": "O culpable! I acknowledge, I expose!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        36
+      ]
     },
     {
       "order": 4402,
@@ -30398,13 +30666,21 @@
       "order": 4699,
       "chapterIndex": 137,
       "text": "O star! O ship of France, beat back and baffled long!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        53
+      ]
     },
     {
       "order": 4700,
       "chapterIndex": 137,
       "text": "Bear up O smitten orb! O ship continue on!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        42
+      ]
     },
     {
       "order": 4701,
@@ -31070,7 +31346,11 @@
       "order": 4809,
       "chapterIndex": 140,
       "text": "What if one gift thou lackest? (the ultimate human problem never solving,)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        74
+      ]
     },
     {
       "order": 4810,
@@ -33002,7 +33282,11 @@
       "order": 5129,
       "chapterIndex": 144,
       "text": "What is this earth to our affections? (unloving earth, without a",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        64
+      ]
     },
     {
       "order": 5130,
@@ -33911,7 +34195,11 @@
       "order": 5280,
       "chapterIndex": 144,
       "text": "Of you O waters of the sea! O winding creeks and rivers!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        56
+      ]
     },
     {
       "order": 5281,
@@ -33929,7 +34217,12 @@
       "order": 5283,
       "chapterIndex": 144,
       "text": "O morning red! O clouds! O rain and snows!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        24,
+        42
+      ]
     },
     {
       "order": 5284,
@@ -33941,7 +34234,11 @@
       "order": 5285,
       "chapterIndex": 144,
       "text": "O sun and moon and all you stars! Sirius and Jupiter!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        53
+      ]
     },
     {
       "order": 5286,
@@ -37195,7 +37492,11 @@
       "chapterIndex": 150,
       "text": "BOOK XXX. WHISPERS OF HEAVENLY DEATH",
       "ttsText": "Book XXX. Whispers of Heavenly Death",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        36
+      ]
     },
     {
       "order": 5824,
@@ -37291,7 +37592,11 @@
       "order": 5839,
       "chapterIndex": 150,
       "text": "Equal, equipt at last, (O joy! O fruit of all!) them to fulfil O soul.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        70
+      ]
     },
     {
       "order": 5840,
@@ -37511,7 +37816,11 @@
       "chapterIndex": 152,
       "text": "From this side, lo! the Lord Christ gazes—lo! Hermes I—lo! mine is",
       "ttsText": "From this side, lo! the Lord Christ gazes, lo! Hermes I, lo! mine is",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        68
+      ]
     },
     {
       "order": 5876,
@@ -39383,7 +39692,11 @@
       "order": 6184,
       "chapterIndex": 168,
       "text": "Foremost! century marches! Libertad! masses!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        44
+      ]
     },
     {
       "order": 6185,
@@ -39744,7 +40057,11 @@
       "order": 6244,
       "chapterIndex": 168,
       "text": "And employments! I will put in my poems that with you is heroism",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        64
+      ]
     },
     {
       "order": 6245,
@@ -40216,7 +40533,11 @@
       "chapterIndex": 168,
       "text": "O such themes—equalities! O divine average!",
       "ttsText": "O such themes, equalities! O divine average!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        44
+      ]
     },
     {
       "order": 6323,
@@ -40756,7 +41077,11 @@
       "order": 6412,
       "chapterIndex": 168,
       "text": "Land of the Old Thirteen! Massachusetts land! land of Vermont and",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        65
+      ]
     },
     {
       "order": 6413,
@@ -40804,7 +41129,12 @@
       "order": 6420,
       "chapterIndex": 168,
       "text": "Far breath’d land! Arctic braced! Mexican breez’d! the diverse! the",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        33,
+        67
+      ]
     },
     {
       "order": 6421,
@@ -40822,7 +41152,11 @@
       "order": 6423,
       "chapterIndex": 168,
       "text": "O all and each well-loved by me! my intrepid nations! O I at any",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        64
+      ]
     },
     {
       "order": 6424,
@@ -40840,7 +41174,11 @@
       "order": 6426,
       "chapterIndex": 168,
       "text": "O death! O for all that, I am yet of you unseen this hour with",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        62
+      ]
     },
     {
       "order": 6427,
@@ -41338,7 +41676,11 @@
       "order": 6508,
       "chapterIndex": 168,
       "text": "O camerado close! O you and me at last, and us two only.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        56
+      ]
     },
     {
       "order": 6509,
@@ -41350,7 +41692,11 @@
       "order": 6510,
       "chapterIndex": 168,
       "text": "O something ecstatic and undemonstrable! O music wild!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        54
+      ]
     },
     {
       "order": 6511,
@@ -42591,7 +42937,11 @@
       "chapterIndex": 172,
       "text": "BOOK XXXII. FROM NOON TO STARRY NIGHT",
       "ttsText": "Book XXXII. From Noon to Starry Night",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        11,
+        37
+      ]
     },
     {
       "order": 6715,
@@ -43176,7 +43526,11 @@
       "chapterIndex": 173,
       "text": "Out of this face emerge banners and horses—O superb! I see what is coming,",
       "ttsText": "Out of this face emerge banners and horses, O superb! I see what is coming,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        53,
+        75
+      ]
     },
     {
       "order": 6812,
@@ -43315,7 +43669,11 @@
       "order": 6834,
       "chapterIndex": 173,
       "text": "Whist! I am fully content.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        6,
+        26
+      ]
     },
     {
       "order": 6835,
@@ -44220,13 +44578,21 @@
       "order": 6982,
       "chapterIndex": 176,
       "text": "O magnet-south! O glistening perfumed South! my South!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        54
+      ]
     },
     {
       "order": 6983,
       "chapterIndex": 176,
       "text": "O quick mettle, rich blood, impulse and love! good and evil! O all",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        66
+      ]
     },
     {
       "order": 6984,
@@ -44462,19 +44828,31 @@
       "order": 7022,
       "chapterIndex": 176,
       "text": "O my heart! O tender and fierce pangs, I can stand them not, I will depart;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        75
+      ]
     },
     {
       "order": 7023,
       "chapterIndex": 176,
       "text": "O to be a Virginian where I grew up! O to be a Carolinian!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        58
+      ]
     },
     {
       "order": 7024,
       "chapterIndex": 176,
       "text": "O longings irrepressible! O I will go back to old Tennessee and",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        63
+      ]
     },
     {
       "order": 7025,
@@ -45648,7 +46026,11 @@
       "order": 7219,
       "chapterIndex": 179,
       "text": "How could I answer the child? I do not know what it is any more than he.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        72
+      ]
     },
     {
       "order": 7220,
@@ -47305,7 +47687,11 @@
       "order": 7495,
       "chapterIndex": 179,
       "text": "(Miserable! I do not laugh at your oaths nor jeer you;)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        55
+      ]
     },
     {
       "order": 7496,
@@ -48404,7 +48790,11 @@
       "chapterIndex": 179,
       "text": "You sea! I resign myself to you also—I guess what you mean,",
       "ttsText": "You sea! I resign myself to you also, I guess what you mean,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        60
+      ]
     },
     {
       "order": 7678,
@@ -48812,7 +49202,11 @@
       "order": 7745,
       "chapterIndex": 179,
       "text": "By God! I will accept nothing which all cannot have their",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        57
+      ]
     },
     {
       "order": 7746,
@@ -52145,7 +52539,11 @@
       "order": 8300,
       "chapterIndex": 179,
       "text": "In at the conquer’d doors they crowd! I am possess’d!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        53
+      ]
     },
     {
       "order": 8301,
@@ -52253,7 +52651,11 @@
       "order": 8318,
       "chapterIndex": 179,
       "text": "Somehow I have been stunn’d. Stand back!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        40
+      ]
     },
     {
       "order": 8319,
@@ -52391,7 +52793,11 @@
       "order": 8341,
       "chapterIndex": 179,
       "text": "Is he from the Mississippi country? Iowa, Oregon, California?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        61
+      ]
     },
     {
       "order": 8342,
@@ -53218,7 +53624,11 @@
       "chapterIndex": 181,
       "text": "And who has been happiest? O I think it is I—I think no one was",
       "ttsText": "And who has been happiest? O I think it is I, I think no one was",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        64
+      ]
     },
     {
       "order": 8479,
@@ -55163,7 +55573,11 @@
       "order": 8799,
       "chapterIndex": 190,
       "text": "Old age superbly rising! O welcome, ineffable grace of dying days!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        66
+      ]
     },
     {
       "order": 8800,
@@ -56183,7 +56597,12 @@
       "order": 8968,
       "chapterIndex": 190,
       "text": "Perhaps I might tell more. Outlines! I plead for my brothers and sisters.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        36,
+        73
+      ]
     },
     {
       "order": 8969,
@@ -56478,7 +56897,12 @@
       "chapterIndex": 191,
       "text": "[To U. S. G. return’d from his World’s Tour]",
       "role": "paragraph",
-      "ttsText": "[To U.S.G.return’d from his World’s Tour]"
+      "ttsText": "[To U.S.G.return’d from his World’s Tour]",
+      "ttsSentenceEnds": [
+        6,
+        8,
+        41
+      ]
     },
     {
       "order": 9017,
@@ -56861,7 +57285,11 @@
       "chapterIndex": 194,
       "text": "BOOK XXXIII. SONGS OF PARTING",
       "ttsText": "Book XXXIII. Songs of Parting",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        12,
+        29
+      ]
     },
     {
       "order": 9080,
@@ -57169,7 +57597,11 @@
       "order": 9130,
       "chapterIndex": 195,
       "text": "Your dreams O years, how they penetrate through me! (I know not",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        63
+      ]
     },
     {
       "order": 9131,
@@ -58076,7 +58508,11 @@
       "order": 9279,
       "chapterIndex": 198,
       "text": "How the water sports and sings! (surely it is alive!)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        53
+      ]
     },
     {
       "order": 9280,
@@ -58438,7 +58874,11 @@
       "chapterIndex": 201,
       "text": "BOOK IV. CHILDREN OF ADAM",
       "ttsText": "Book IV. Children of Adam",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        25
+      ]
     },
     {
       "order": 9340,
@@ -58661,7 +59101,12 @@
       "order": 9376,
       "chapterIndex": 202,
       "text": "O years and graves! O air and soil! O my dead, an aroma sweet!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        35,
+        62
+      ]
     },
     {
       "order": 9377,
@@ -58871,7 +59316,11 @@
       "order": 9411,
       "chapterIndex": 204,
       "text": "The Sobbing of the Bells [Midnight, Sept. 19-20, 1881]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        54
+      ]
     },
     {
       "order": 9412,
@@ -59464,7 +59913,11 @@
       "chapterIndex": 211,
       "text": "Salute me—salute the days once more. Peal the old cry once more.",
       "ttsText": "Salute me, salute the days once more. Peal the old cry once more.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        65
+      ]
     },
     {
       "order": 9510,
@@ -59815,7 +60268,11 @@
       "order": 9567,
       "chapterIndex": 212,
       "text": "O for you whoever you are your correlative body! O it, more than all",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        68
+      ]
     },
     {
       "order": 9568,
@@ -60170,7 +60627,11 @@
       "chapterIndex": 213,
       "text": "BOOK XXXIV. SANDS AT SEVENTY",
       "ttsText": "Book XXXIV. Sands at Seventy",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        11,
+        28
+      ]
     },
     {
       "order": 9627,
@@ -60653,13 +61114,21 @@
       "order": 9704,
       "chapterIndex": 222,
       "text": "Or placid skies and sun? Wilt stir the waters yet?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        50
+      ]
     },
     {
       "order": 9705,
       "chapterIndex": 222,
       "text": "Or haply cut me short for good? Or leave me here as now,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        56
+      ]
     },
     {
       "order": 9706,
@@ -62018,7 +62487,11 @@
       "order": 9931,
       "chapterIndex": 224,
       "text": "O my body! I dare not desert the likes of you in other men and",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        62
+      ]
     },
     {
       "order": 9932,
@@ -62570,7 +63043,11 @@
       "order": 10022,
       "chapterIndex": 231,
       "text": "Abraham Lincoln, Born Feb. 12, 1809",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        35
+      ]
     },
     {
       "order": 10023,
@@ -65163,7 +65640,11 @@
       "chapterIndex": 247,
       "text": "Yonnondio! Yonnondio!—unlimn’d they disappear;",
       "ttsText": "Yonnondio! Yonnondio!, unlimn’d they disappear;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        47
+      ]
     },
     {
       "order": 10442,
@@ -65352,13 +65833,21 @@
       "order": 10471,
       "chapterIndex": 250,
       "text": "a simple, separate person. That, for the use of the New World, I sing.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        70
+      ]
     },
     {
       "order": 10472,
       "chapterIndex": 250,
       "text": "Man’s physiology complete, from top to toe, I sing. Not physiognomy alone,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        74
+      ]
     },
     {
       "order": 10473,
@@ -65371,13 +65860,21 @@
       "order": 10474,
       "chapterIndex": 250,
       "text": "is worthier far. The Female equally with the Male, I sing.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        58
+      ]
     },
     {
       "order": 10475,
       "chapterIndex": 250,
       "text": "Nor cease at the theme of One’s-Self. I speak the word of the",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        61
+      ]
     },
     {
       "order": 10476,
@@ -65839,7 +66336,12 @@
       "order": 10549,
       "chapterIndex": 257,
       "text": "One hour to madness and joy! O furious! O confine me not!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        39,
+        57
+      ]
     },
     {
       "order": 10550,
@@ -65863,7 +66365,11 @@
       "order": 10553,
       "chapterIndex": 257,
       "text": "O savage and tender achings! (I bequeath them to you my children,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        65
+      ]
     },
     {
       "order": 10554,
@@ -65887,7 +66393,11 @@
       "order": 10557,
       "chapterIndex": 257,
       "text": "O to return to Paradise! O bashful and feminine!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        48
+      ]
     },
     {
       "order": 10558,
@@ -66064,7 +66574,11 @@
       "order": 10586,
       "chapterIndex": 258,
       "text": "Shall wake and fill. Thou shalt perceive the simple shows, the",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        62
+      ]
     },
     {
       "order": 10587,
@@ -66488,7 +67002,11 @@
       "order": 10654,
       "chapterIndex": 263,
       "text": "(Then what the told-out story of those twenty years? What of the future?)",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        52,
+        73
+      ]
     },
     {
       "order": 10655,
@@ -66656,7 +67174,11 @@
       "order": 10681,
       "chapterIndex": 267,
       "text": "Not meagre, latent boughs alone, O songs! (scaly and bare, like",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        63
+      ]
     },
     {
       "order": 10682,
@@ -66982,13 +67504,23 @@
       "order": 10734,
       "chapterIndex": 272,
       "text": "Or Beat! Beat! Drums! or To the Leaven’d Soil they Trod,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        14,
+        56
+      ]
     },
     {
       "order": 10735,
       "chapterIndex": 272,
       "text": "Or Captain! My Captain! Kosmos, Quicksand Years, or Thoughts,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        23,
+        61
+      ]
     },
     {
       "order": 10736,
@@ -67280,7 +67812,11 @@
       "chapterIndex": 276,
       "text": "BOOKXXXV. GOOD-BYE MY FANCY",
       "ttsText": "Bookxxxv. Good-Bye My Fancy",
-      "role": "title"
+      "role": "title",
+      "ttsSentenceEnds": [
+        9,
+        27
+      ]
     },
     {
       "order": 10782,
@@ -67774,13 +68310,21 @@
       "order": 10861,
       "chapterIndex": 283,
       "text": "But I do not forget thee. Hast thou then faded?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        47
+      ]
     },
     {
       "order": 10862,
       "chapterIndex": 283,
       "text": "Is the odor exhaled? Are the colors, vitalities, dead?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        54
+      ]
     },
     {
       "order": 10863,
@@ -67936,7 +68480,11 @@
       "order": 10887,
       "chapterIndex": 286,
       "text": "(Have I fought out and done indeed the battle?) Is there no shot left,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        70
+      ]
     },
     {
       "order": 10888,
@@ -68510,7 +69058,11 @@
       "order": 10979,
       "chapterIndex": 292,
       "text": "Art thou not universal concrete’s distillation? Law’s, all",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        58
+      ]
     },
     {
       "order": 10980,
@@ -68522,7 +69074,11 @@
       "order": 10981,
       "chapterIndex": 292,
       "text": "Hast thou no soul? Can I not know, identify thee?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        49
+      ]
     },
     {
       "order": 10982,
@@ -69515,7 +70071,11 @@
       "order": 11143,
       "chapterIndex": 300,
       "text": "“Has the estray wander’d far? Is the reason-why strangely hidden?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        65
+      ]
     },
     {
       "order": 11144,
@@ -69576,13 +70136,21 @@
       "order": 11153,
       "chapterIndex": 301,
       "text": "O Hymen! O Hymenee!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        19
+      ]
     },
     {
       "order": 11154,
       "chapterIndex": 301,
       "text": "O hymen! O hymenee! why do you tantalize me thus?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        49
+      ]
     },
     {
       "order": 11155,
@@ -69594,7 +70162,11 @@
       "order": 11156,
       "chapterIndex": 301,
       "text": "Why can you not continue? O why do you now cease?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        49
+      ]
     },
     {
       "order": 11157,

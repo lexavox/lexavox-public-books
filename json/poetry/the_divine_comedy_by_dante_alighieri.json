@@ -1362,13 +1362,23 @@
       "chapterIndex": 0,
       "text": "THE REV. H. F. CARY, M.A.",
       "ttsText": "The Rev. H.F.Cary, M.A.",
-      "role": "title"
+      "role": "title",
+      "ttsSentenceEnds": [
+        11,
+        13,
+        21,
+        23
+      ]
     },
     {
       "order": 20,
       "chapterIndex": 0,
       "text": "Illustrated by M. Gustave Doré",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        30
+      ]
     },
     {
       "order": 21,
@@ -1423,7 +1433,11 @@
       "order": 29,
       "chapterIndex": 2,
       "text": "The eye could catch its beam. I turning round",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        45
+      ]
     },
     {
       "order": 30,
@@ -1514,7 +1528,11 @@
       "order": 44,
       "chapterIndex": 2,
       "text": "The slimy pool we pass.” As one who hears",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        41
+      ]
     },
     {
       "order": 45,
@@ -1532,7 +1550,11 @@
       "order": 47,
       "chapterIndex": 2,
       "text": "In his fierce ire. My guide descending stepp’d",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        46
+      ]
     },
     {
       "order": 48,
@@ -1550,7 +1572,11 @@
       "order": 50,
       "chapterIndex": 2,
       "text": "The vessel freighted. Soon as both embark’d,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        44
+      ]
     },
     {
       "order": 51,
@@ -1610,13 +1636,21 @@
       "order": 60,
       "chapterIndex": 2,
       "text": "Curs’d spirit! tarry thou. I know thee well,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        44
+      ]
     },
     {
       "order": 61,
       "chapterIndex": 2,
       "text": "E’en thus in filth disguis’d.” Then stretch’d he forth",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        54
+      ]
     },
     {
       "order": 62,
@@ -1652,7 +1686,11 @@
       "order": 67,
       "chapterIndex": 2,
       "text": "Thou was conceiv’d! He in the world was one",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        43
+      ]
     },
     {
       "order": 68,
@@ -1670,7 +1708,11 @@
       "order": 70,
       "chapterIndex": 2,
       "text": "Here is his shadow furious. There above",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        39
+      ]
     },
     {
       "order": 71,
@@ -1718,7 +1760,11 @@
       "order": 78,
       "chapterIndex": 2,
       "text": "Which well deserves completion.” Scarce his words",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        49
+      ]
     },
     {
       "order": 79,
@@ -1754,13 +1800,21 @@
       "order": 84,
       "chapterIndex": 2,
       "text": "Turn’d his avenging fangs. Him here we left,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        44
+      ]
     },
     {
       "order": 85,
       "chapterIndex": 2,
       "text": "Nor speak I of him more. But on mine ear",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        40
+      ]
     },
     {
       "order": 86,
@@ -1814,7 +1868,11 @@
       "order": 94,
       "chapterIndex": 2,
       "text": "Had issu’d.” He replied: “Eternal fire,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        39
+      ]
     },
     {
       "order": 95,
@@ -1838,13 +1896,21 @@
       "order": 98,
       "chapterIndex": 2,
       "text": "This region comfortless. The walls appear’d",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        43
+      ]
     },
     {
       "order": 99,
       "chapterIndex": 2,
       "text": "As they were fram’d of iron. We had made",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        40
+      ]
     },
     {
       "order": 100,
@@ -1862,7 +1928,11 @@
       "order": 102,
       "chapterIndex": 2,
       "text": "The entrance is here!” Upon the gates I spied",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        45
+      ]
     },
     {
       "order": 103,
@@ -1874,7 +1944,11 @@
       "order": 104,
       "chapterIndex": 2,
       "text": "Were hurl’d. With ireful gestures, “Who is this,”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        49
+      ]
     },
     {
       "order": 105,
@@ -1886,7 +1960,11 @@
       "order": 106,
       "chapterIndex": 2,
       "text": "The regions of the dead?” My sapient guide",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        42
+      ]
     },
     {
       "order": 107,
@@ -1922,7 +2000,11 @@
       "order": 112,
       "chapterIndex": 2,
       "text": "If well he know it, let him prove. For thee,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        44
+      ]
     },
     {
       "order": 113,
@@ -1934,7 +2016,11 @@
       "order": 114,
       "chapterIndex": 2,
       "text": "Hast been his escort.” Now bethink thee, reader!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        48
+      ]
     },
     {
       "order": 115,
@@ -2006,7 +2092,11 @@
       "order": 126,
       "chapterIndex": 2,
       "text": "Authority permitted. But do thou",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        32
+      ]
     },
     {
       "order": 127,
@@ -2036,7 +2126,11 @@
       "order": 131,
       "chapterIndex": 2,
       "text": "And quits me. Hesitating I remain",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        33
+      ]
     },
     {
       "order": 132,
@@ -2060,7 +2154,11 @@
       "order": 135,
       "chapterIndex": 2,
       "text": "To trial fled within. Clos’d were the gates",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        43
+      ]
     },
     {
       "order": 136,
@@ -2078,7 +2176,11 @@
       "order": 138,
       "chapterIndex": 2,
       "text": "To me with tardy steps. Upon the ground",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        39
+      ]
     },
     {
       "order": 139,
@@ -2120,7 +2222,11 @@
       "order": 145,
       "chapterIndex": 2,
       "text": "For hindrance. This their insolence, not new,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        45
+      ]
     },
     {
       "order": 146,
@@ -2187,7 +2293,11 @@
       "order": 156,
       "chapterIndex": 3,
       "text": "Which in his own blood Christ espous’d. Meanwhile",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        49
+      ]
     },
     {
       "order": 157,
@@ -2271,7 +2381,11 @@
       "order": 170,
       "chapterIndex": 3,
       "text": "From that soft winnowing. Shadow none, the vast",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        47
+      ]
     },
     {
       "order": 171,
@@ -2289,7 +2403,11 @@
       "order": 173,
       "chapterIndex": 3,
       "text": "Obstructed aught. For, through the universe,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        44
+      ]
     },
     {
       "order": 174,
@@ -2319,7 +2437,11 @@
       "order": 178,
       "chapterIndex": 3,
       "text": "Their love and vision fix’d. O trinal beam",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        42
+      ]
     },
     {
       "order": 179,
@@ -2403,7 +2525,11 @@
       "order": 192,
       "chapterIndex": 3,
       "text": "Or hear. And, as a pilgrim, when he rests",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        41
+      ]
     },
     {
       "order": 193,
@@ -2439,7 +2565,11 @@
       "order": 198,
       "chapterIndex": 3,
       "text": "Visiting every step. Looks I beheld,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        36
+      ]
     },
     {
       "order": 199,
@@ -2505,7 +2635,11 @@
       "order": 209,
       "chapterIndex": 3,
       "text": "Rob’d, as the rest, in glory. Joy benign",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        40
+      ]
     },
     {
       "order": 210,
@@ -2535,7 +2669,11 @@
       "order": 214,
       "chapterIndex": 3,
       "text": "“I come to aid thy wish. Looking aloft",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        38
+      ]
     },
     {
       "order": 215,
@@ -2553,7 +2691,11 @@
       "order": 217,
       "chapterIndex": 3,
       "text": "Hath plac’d her.” Answering not, mine eyes I rais’d,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        52
+      ]
     },
     {
       "order": 218,
@@ -2619,7 +2761,11 @@
       "order": 228,
       "chapterIndex": 3,
       "text": "And goodness, virtue owe and grace. Of slave,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        35,
+        45
+      ]
     },
     {
       "order": 229,
@@ -2655,7 +2801,11 @@
       "order": 234,
       "chapterIndex": 3,
       "text": "Favour with thee.” So I my suit preferr’d:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        42
+      ]
     },
     {
       "order": 235,
@@ -2727,7 +2877,11 @@
       "order": 246,
       "chapterIndex": 3,
       "text": "Am her own faithful Bernard.” Like a wight,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        43
+      ]
     },
     {
       "order": 247,
@@ -2769,7 +2923,11 @@
       "order": 253,
       "chapterIndex": 3,
       "text": "And was this semblance thine?” So gaz’d I then",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        46
+      ]
     },
     {
       "order": 254,
@@ -2787,7 +2945,11 @@
       "order": 256,
       "chapterIndex": 3,
       "text": "Stood lively before me. “Child of grace!”",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        41
+      ]
     },
     {
       "order": 257,
@@ -2805,7 +2967,11 @@
       "order": 259,
       "chapterIndex": 3,
       "text": "Still in this depth below. But search around",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        44
+      ]
     },
     {
       "order": 260,
@@ -2823,7 +2989,11 @@
       "order": 262,
       "chapterIndex": 3,
       "text": "Is sovran.” Straight mine eyes I rais’d; and bright,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        52
+      ]
     },
     {
       "order": 263,
@@ -2907,7 +3077,11 @@
       "order": 276,
       "chapterIndex": 3,
       "text": "Distinct, and quaint adornment. At their glee",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        45
+      ]
     },
     {
       "order": 277,
@@ -2943,7 +3117,11 @@
       "order": 282,
       "chapterIndex": 3,
       "text": "Of that enchantment. When he saw mine eyes",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        42
+      ]
     },
     {
       "order": 283,
@@ -3010,7 +3188,11 @@
       "order": 293,
       "chapterIndex": 4,
       "text": "Rachel with Beatrice. Sarah next,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        33
+      ]
     },
     {
       "order": 294,
@@ -3076,7 +3258,11 @@
       "order": 304,
       "chapterIndex": 4,
       "text": "In Christ divides them. On this part, where blooms",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        50
+      ]
     },
     {
       "order": 305,
@@ -3160,7 +3346,11 @@
       "order": 318,
       "chapterIndex": 4,
       "text": "Thus far from round to round. So heav’n’s decree",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        48
+      ]
     },
     {
       "order": 319,
@@ -3238,7 +3428,11 @@
       "order": 331,
       "chapterIndex": 4,
       "text": "Thy subtle thoughts have bound thee. From this realm",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        52
+      ]
     },
     {
       "order": 332,
@@ -3342,7 +3536,11 @@
       "order": 348,
       "chapterIndex": 4,
       "text": "To, have struggled in the womb. Therefore, as grace",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        51
+      ]
     },
     {
       "order": 349,
@@ -3420,7 +3618,11 @@
       "order": 361,
       "chapterIndex": 4,
       "text": "Must linger yet below. Now raise thy view",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        41
+      ]
     },
     {
       "order": 362,
@@ -3438,7 +3640,11 @@
       "order": 364,
       "chapterIndex": 4,
       "text": "The pow’r to look on him.” Forthwith I saw",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        42
+      ]
     },
     {
       "order": 365,
@@ -3504,7 +3710,11 @@
       "order": 375,
       "chapterIndex": 4,
       "text": "Brooded the deep serene. “Father rever’d:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        41
+      ]
     },
     {
       "order": 376,
@@ -3606,7 +3816,11 @@
       "order": 392,
       "chapterIndex": 4,
       "text": "The chiefest nobles. Those, highest in bliss,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        45
+      ]
     },
     {
       "order": 393,
@@ -3666,7 +3880,11 @@
       "order": 402,
       "chapterIndex": 4,
       "text": "Was won. And, near unto the other, rests",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        40
+      ]
     },
     {
       "order": 403,
@@ -3756,7 +3974,11 @@
       "order": 417,
       "chapterIndex": 4,
       "text": "As sight can bear thee. Yet, alas! in sooth",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        43
+      ]
     },
     {
       "order": 418,
@@ -3774,7 +3996,11 @@
       "order": 420,
       "chapterIndex": 4,
       "text": "Her grace, whose might can help thee. Thou in prayer",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        52
+      ]
     },
     {
       "order": 421,
@@ -3786,7 +4012,11 @@
       "order": 422,
       "chapterIndex": 4,
       "text": "Attend, and yield me all thy heart.” He said,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        45
+      ]
     },
     {
       "order": 423,
@@ -3907,7 +4137,11 @@
       "order": 442,
       "chapterIndex": 5,
       "text": "Fly without wings. Nor only him who asks,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        41
+      ]
     },
     {
       "order": 443,
@@ -3919,7 +4153,11 @@
       "order": 444,
       "chapterIndex": 5,
       "text": "Forerun the asking. Whatsoe’er may be",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        37
+      ]
     },
     {
       "order": 445,
@@ -3937,7 +4175,11 @@
       "order": 447,
       "chapterIndex": 5,
       "text": "Are all combin’d in thee. Here kneeleth one,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        44
+      ]
     },
     {
       "order": 448,
@@ -3967,7 +4209,11 @@
       "order": 452,
       "chapterIndex": 5,
       "text": "Toward the bliss supreme. And I, who ne’er",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        42
+      ]
     },
     {
       "order": 453,
@@ -4027,7 +4273,11 @@
       "order": 462,
       "chapterIndex": 5,
       "text": "Lo! Where, with Beatrice, many a saint",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        3,
+        38
+      ]
     },
     {
       "order": 463,
@@ -4069,7 +4319,11 @@
       "order": 469,
       "chapterIndex": 5,
       "text": "Can travel inward. I, meanwhile, who drew",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        41
+      ]
     },
     {
       "order": 470,
@@ -4087,7 +4341,11 @@
       "order": 472,
       "chapterIndex": 5,
       "text": "Ended within me. Beck’ning smil’d the sage,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        43
+      ]
     },
     {
       "order": 473,
@@ -4117,7 +4375,11 @@
       "order": 477,
       "chapterIndex": 5,
       "text": "Of sovran light. Thenceforward, what I saw,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        43
+      ]
     },
     {
       "order": 478,
@@ -4183,7 +4445,11 @@
       "order": 488,
       "chapterIndex": 5,
       "text": "The Sybil’s sentence. O eternal beam!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        37
+      ]
     },
     {
       "order": 489,
@@ -4315,7 +4581,11 @@
       "order": 510,
       "chapterIndex": 5,
       "text": "The whole. And of such bond methinks I saw",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        42
+      ]
     },
     {
       "order": 511,
@@ -4375,7 +4645,11 @@
       "order": 520,
       "chapterIndex": 5,
       "text": "Was kindled, as I gaz’d. It may not be,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        39
+      ]
     },
     {
       "order": 521,
@@ -4405,7 +4679,11 @@
       "order": 525,
       "chapterIndex": 5,
       "text": "Complete. My tongue shall utter now, no more",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        44
+      ]
     },
     {
       "order": 526,
@@ -4447,7 +4725,11 @@
       "order": 532,
       "chapterIndex": 5,
       "text": "And toil’d me with the change. In that abyss",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        44
+      ]
     },
     {
       "order": 533,
@@ -4477,7 +4759,11 @@
       "order": 537,
       "chapterIndex": 5,
       "text": "Seem’d fire, breath’d equally from both. Oh speech",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        50
+      ]
     },
     {
       "order": 538,
@@ -4489,13 +4775,21 @@
       "order": 539,
       "chapterIndex": 5,
       "text": "Conception birth! Yet this to what I saw",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        40
+      ]
     },
     {
       "order": 540,
       "chapterIndex": 5,
       "text": "Is less than little. Oh eternal light!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        38
+      ]
     },
     {
       "order": 541,
@@ -4537,7 +4831,11 @@
       "order": 547,
       "chapterIndex": 5,
       "text": "I therefore por’d upon the view. As one",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        39
+      ]
     },
     {
       "order": 548,

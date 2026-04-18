@@ -493,7 +493,11 @@
       "chapterIndex": 1,
       "text": "SCENE. Elsinore.",
       "ttsText": "Scene. Elsinore.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        6,
+        16
+      ]
     },
     {
       "order": 67,
@@ -513,7 +517,12 @@
       "chapterIndex": 2,
       "text": "SCENE I. Elsinore. A platform before the Castle.",
       "ttsText": "Scene I. Elsinore. A platform before the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        18,
+        48
+      ]
     },
     {
       "order": 70,
@@ -546,7 +555,11 @@
       "order": 74,
       "chapterIndex": 2,
       "text": "Nay, answer me. Stand and unfold yourself.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        42
+      ]
     },
     {
       "order": 75,
@@ -611,7 +624,11 @@
       "order": 84,
       "chapterIndex": 2,
       "text": "’Tis now struck twelve. Get thee to bed, Francisco.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        51
+      ]
     },
     {
       "order": 85,
@@ -701,7 +718,12 @@
       "order": 98,
       "chapterIndex": 2,
       "text": "I think I hear them. Stand, ho! Who is there?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        31,
+        45
+      ]
     },
     {
       "order": 99,
@@ -766,7 +788,11 @@
       "order": 108,
       "chapterIndex": 2,
       "text": "Barnardo has my place. Give you good-night.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        43
+      ]
     },
     {
       "order": 109,
@@ -824,7 +850,11 @@
       "order": 117,
       "chapterIndex": 2,
       "text": "Welcome, Horatio. Welcome, good Marcellus.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        42
+      ]
     },
     {
       "order": 118,
@@ -1013,7 +1043,11 @@
       "order": 147,
       "chapterIndex": 2,
       "text": "Peace, break thee off. Look where it comes again.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        49
+      ]
     },
     {
       "order": 148,
@@ -1059,7 +1093,11 @@
       "order": 154,
       "chapterIndex": 2,
       "text": "Looks it not like the King? Mark it, Horatio.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 155,
@@ -1072,7 +1110,11 @@
       "order": 156,
       "chapterIndex": 2,
       "text": "Most like. It harrows me with fear and wonder.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        46
+      ]
     },
     {
       "order": 157,
@@ -1129,7 +1171,11 @@
       "order": 165,
       "chapterIndex": 2,
       "text": "Did sometimes march? By heaven I charge thee speak.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        51
+      ]
     },
     {
       "order": 166,
@@ -1168,7 +1214,11 @@
       "order": 171,
       "chapterIndex": 2,
       "text": "Stay! speak, speak! I charge thee speak!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        40
+      ]
     },
     {
       "order": 172,
@@ -1201,7 +1251,11 @@
       "order": 176,
       "chapterIndex": 2,
       "text": "How now, Horatio! You tremble and look pale.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        44
+      ]
     },
     {
       "order": 177,
@@ -1424,7 +1478,11 @@
       "order": 212,
       "chapterIndex": 2,
       "text": "At least, the whisper goes so. Our last King,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        45
+      ]
     },
     {
       "order": 213,
@@ -1514,7 +1572,11 @@
       "order": 227,
       "chapterIndex": 2,
       "text": "His fell to Hamlet. Now, sir, young Fortinbras,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        47
+      ]
     },
     {
       "order": 228,
@@ -1568,7 +1630,11 @@
       "order": 236,
       "chapterIndex": 2,
       "text": "So by his father lost. And this, I take it,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        43
+      ]
     },
     {
       "order": 237,
@@ -1721,13 +1787,21 @@
       "order": 261,
       "chapterIndex": 2,
       "text": "But, soft, behold! Lo, where it comes again!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        44
+      ]
     },
     {
       "order": 262,
       "chapterIndex": 2,
       "text": "I’ll cross it, though it blast me. Stay, illusion!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        50
+      ]
     },
     {
       "order": 263,
@@ -1799,7 +1873,11 @@
       "order": 274,
       "chapterIndex": 2,
       "text": "Speak of it. Stay, and speak!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        29
+      ]
     },
     {
       "order": 275,
@@ -1939,7 +2017,11 @@
       "order": 296,
       "chapterIndex": 2,
       "text": "Upon a fearful summons. I have heard",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        36
+      ]
     },
     {
       "order": 297,
@@ -1975,7 +2057,11 @@
       "order": 302,
       "chapterIndex": 2,
       "text": "To his confine. And of the truth herein",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        39
+      ]
     },
     {
       "order": 303,
@@ -2129,7 +2215,12 @@
       "chapterIndex": 2,
       "text": "SCENE II. Elsinore. A room of state in the Castle.",
       "ttsText": "Scene II. Elsinore. A room of state in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        19,
+        50
+      ]
     },
     {
       "order": 328,
@@ -2245,7 +2336,11 @@
       "order": 346,
       "chapterIndex": 2,
       "text": "With this affair along. For all, our thanks.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        44
+      ]
     },
     {
       "order": 347,
@@ -2299,7 +2394,11 @@
       "order": 355,
       "chapterIndex": 2,
       "text": "To our most valiant brother. So much for him.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        45
+      ]
     },
     {
       "order": 356,
@@ -2428,7 +2527,11 @@
       "order": 376,
       "chapterIndex": 2,
       "text": "You told us of some suit. What is’t, Laertes?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        45
+      ]
     },
     {
       "order": 377,
@@ -2440,7 +2543,11 @@
       "order": 378,
       "chapterIndex": 2,
       "text": "And lose your voice. What wouldst thou beg, Laertes,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        52
+      ]
     },
     {
       "order": 379,
@@ -2532,7 +2639,11 @@
       "order": 393,
       "chapterIndex": 2,
       "text": "Have you your father’s leave? What says Polonius?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        49
+      ]
     },
     {
       "order": 394,
@@ -2716,7 +2827,11 @@
       "order": 422,
       "chapterIndex": 2,
       "text": "Seems, madam! Nay, it is; I know not seems.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        43
+      ]
     },
     {
       "order": 423,
@@ -2758,7 +2873,11 @@
       "order": 429,
       "chapterIndex": 2,
       "text": "That can denote me truly. These indeed seem,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        44
+      ]
     },
     {
       "order": 430,
@@ -2819,7 +2938,11 @@
       "order": 439,
       "chapterIndex": 2,
       "text": "To do obsequious sorrow. But to persevere",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        41
+      ]
     },
     {
       "order": 440,
@@ -2873,7 +2996,11 @@
       "order": 448,
       "chapterIndex": 2,
       "text": "Take it to heart? Fie, ’tis a fault to heaven,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        46
+      ]
     },
     {
       "order": 449,
@@ -2903,7 +3030,11 @@
       "order": 453,
       "chapterIndex": 2,
       "text": "‘This must be so.’ We pray you throw to earth",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        45
+      ]
     },
     {
       "order": 454,
@@ -2939,7 +3070,11 @@
       "order": 459,
       "chapterIndex": 2,
       "text": "Do I impart toward you. For your intent",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        39
+      ]
     },
     {
       "order": 460,
@@ -3020,7 +3155,11 @@
       "order": 472,
       "chapterIndex": 2,
       "text": "Be as ourself in Denmark. Madam, come;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        38
+      ]
     },
     {
       "order": 473,
@@ -3056,7 +3195,11 @@
       "order": 478,
       "chapterIndex": 2,
       "text": "Re-speaking earthly thunder. Come away.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        39
+      ]
     },
     {
       "order": 479,
@@ -3094,7 +3237,12 @@
       "order": 484,
       "chapterIndex": 2,
       "text": "His canon ’gainst self-slaughter. O God! O God!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        40,
+        47
+      ]
     },
     {
       "order": 485,
@@ -3112,7 +3260,11 @@
       "order": 487,
       "chapterIndex": 2,
       "text": "Fie on’t! Oh fie! ’tis an unweeded garden",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        9,
+        41
+      ]
     },
     {
       "order": 488,
@@ -3124,7 +3276,11 @@
       "order": 489,
       "chapterIndex": 2,
       "text": "Possess it merely. That it should come to this!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        47
+      ]
     },
     {
       "order": 490,
@@ -3155,13 +3311,21 @@
       "order": 494,
       "chapterIndex": 2,
       "text": "Visit her face too roughly. Heaven and earth!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 495,
       "chapterIndex": 2,
       "text": "Must I remember? Why, she would hang on him",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        43
+      ]
     },
     {
       "order": 496,
@@ -3206,7 +3370,11 @@
       "order": 502,
       "chapterIndex": 2,
       "text": "O God! A beast that wants discourse of reason",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        6,
+        45
+      ]
     },
     {
       "order": 503,
@@ -3225,7 +3393,11 @@
       "order": 505,
       "chapterIndex": 2,
       "text": "Than I to Hercules. Within a month,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        35
+      ]
     },
     {
       "order": 506,
@@ -3243,7 +3415,11 @@
       "order": 508,
       "chapterIndex": 2,
       "text": "She married. O most wicked speed, to post",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        41
+      ]
     },
     {
       "order": 509,
@@ -3428,7 +3604,11 @@
       "order": 537,
       "chapterIndex": 2,
       "text": "Against yourself. I know you are no truant.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        43
+      ]
     },
     {
       "order": 538,
@@ -3498,7 +3678,11 @@
       "order": 548,
       "chapterIndex": 2,
       "text": "Thrift, thrift, Horatio! The funeral bak’d meats",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        48
+      ]
     },
     {
       "order": 549,
@@ -3607,7 +3791,11 @@
       "order": 565,
       "chapterIndex": 2,
       "text": "Saw? Who?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        4,
+        9
+      ]
     },
     {
       "order": 566,
@@ -3708,7 +3896,11 @@
       "order": 581,
       "chapterIndex": 2,
       "text": "Been thus encounter’d. A figure like your father,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        49
+      ]
     },
     {
       "order": 582,
@@ -3750,7 +3942,11 @@
       "order": 588,
       "chapterIndex": 2,
       "text": "Stand dumb, and speak not to him. This to me",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        44
+      ]
     },
     {
       "order": 589,
@@ -3780,7 +3976,11 @@
       "order": 593,
       "chapterIndex": 2,
       "text": "The apparition comes. I knew your father;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        41
+      ]
     },
     {
       "order": 594,
@@ -4138,7 +4338,11 @@
       "order": 649,
       "chapterIndex": 2,
       "text": "Very like, very like. Stay’d it long?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        37
+      ]
     },
     {
       "order": 650,
@@ -4266,7 +4470,11 @@
       "order": 669,
       "chapterIndex": 2,
       "text": "And bid me hold my peace. I pray you all,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        41
+      ]
     },
     {
       "order": 670,
@@ -4296,7 +4504,11 @@
       "order": 674,
       "chapterIndex": 2,
       "text": "I will requite your loves. So, fare ye well.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        44
+      ]
     },
     {
       "order": 675,
@@ -4347,7 +4559,11 @@
       "order": 682,
       "chapterIndex": 2,
       "text": "My father’s spirit in arms! All is not well;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        44
+      ]
     },
     {
       "order": 683,
@@ -4378,7 +4594,11 @@
       "chapterIndex": 2,
       "text": "SCENE III. A room in Polonius’s house.",
       "ttsText": "Scene III. A room in Polonius’s house.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        38
+      ]
     },
     {
       "order": 688,
@@ -4398,7 +4618,11 @@
       "order": 690,
       "chapterIndex": 2,
       "text": "My necessaries are embark’d. Farewell.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        38
+      ]
     },
     {
       "order": 691,
@@ -4522,7 +4746,11 @@
       "order": 710,
       "chapterIndex": 2,
       "text": "Grows wide withal. Perhaps he loves you now,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        44
+      ]
     },
     {
       "order": 711,
@@ -4582,7 +4810,11 @@
       "order": 720,
       "chapterIndex": 2,
       "text": "Whereof he is the head. Then if he says he loves you,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        53
+      ]
     },
     {
       "order": 721,
@@ -4721,7 +4953,11 @@
       "order": 743,
       "chapterIndex": 2,
       "text": "As watchman to my heart. But good my brother,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        45
+      ]
     },
     {
       "order": 744,
@@ -4770,7 +5006,11 @@
       "order": 751,
       "chapterIndex": 2,
       "text": "I stay too long. But here my father comes.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        42
+      ]
     },
     {
       "order": 752,
@@ -4802,7 +5042,11 @@
       "order": 756,
       "chapterIndex": 2,
       "text": "Yet here, Laertes? Aboard, aboard, for shame.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        45
+      ]
     },
     {
       "order": 757,
@@ -4814,7 +5058,11 @@
       "order": 758,
       "chapterIndex": 2,
       "text": "And you are stay’d for. There, my blessing with you.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        52
+      ]
     },
     {
       "order": 759,
@@ -4832,7 +5080,11 @@
       "order": 761,
       "chapterIndex": 2,
       "text": "Look thou character. Give thy thoughts no tongue,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        49
+      ]
     },
     {
       "order": 762,
@@ -4868,7 +5120,11 @@
       "order": 767,
       "chapterIndex": 2,
       "text": "Of each new-hatch’d, unfledg’d comrade. Beware",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        46
+      ]
     },
     {
       "order": 768,
@@ -5136,7 +5392,11 @@
       "order": 810,
       "chapterIndex": 2,
       "text": "What is between you? Give me up the truth.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        42
+      ]
     },
     {
       "order": 811,
@@ -5168,7 +5428,12 @@
       "order": 815,
       "chapterIndex": 2,
       "text": "Affection! Pooh! You speak like a green girl,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        16,
+        45
+      ]
     },
     {
       "order": 816,
@@ -5218,7 +5483,11 @@
       "order": 823,
       "chapterIndex": 2,
       "text": "Which are not sterling. Tender yourself more dearly;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        52
+      ]
     },
     {
       "order": 824,
@@ -5296,7 +5565,11 @@
       "order": 835,
       "chapterIndex": 2,
       "text": "Ay, springes to catch woodcocks. I do know,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        43
+      ]
     },
     {
       "order": 836,
@@ -5326,7 +5599,11 @@
       "order": 840,
       "chapterIndex": 2,
       "text": "You must not take for fire. From this time",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        42
+      ]
     },
     {
       "order": 841,
@@ -5344,7 +5621,11 @@
       "order": 843,
       "chapterIndex": 2,
       "text": "Than a command to parley. For Lord Hamlet,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        42
+      ]
     },
     {
       "order": 844,
@@ -5362,7 +5643,11 @@
       "order": 846,
       "chapterIndex": 2,
       "text": "Than may be given you. In few, Ophelia,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        39
+      ]
     },
     {
       "order": 847,
@@ -5392,7 +5677,11 @@
       "order": 851,
       "chapterIndex": 2,
       "text": "The better to beguile. This is for all:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        39
+      ]
     },
     {
       "order": 852,
@@ -5442,7 +5731,11 @@
       "chapterIndex": 2,
       "text": "SCENE IV. The platform.",
       "ttsText": "Scene IV. The platform.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        23
+      ]
     },
     {
       "order": 860,
@@ -5527,7 +5820,12 @@
       "order": 872,
       "chapterIndex": 2,
       "text": "Indeed? I heard it not. It then draws near the season",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        23,
+        53
+      ]
     },
     {
       "order": 873,
@@ -5749,7 +6047,11 @@
       "order": 908,
       "chapterIndex": 2,
       "text": "From that particular fault. The dram of evil",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        44
+      ]
     },
     {
       "order": 909,
@@ -5824,13 +6126,21 @@
       "order": 920,
       "chapterIndex": 2,
       "text": "That I will speak to thee. I’ll call thee Hamlet,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        49
+      ]
     },
     {
       "order": 921,
       "chapterIndex": 2,
       "text": "King, father, royal Dane. O, answer me!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        39
+      ]
     },
     {
       "order": 922,
@@ -5866,7 +6176,11 @@
       "order": 927,
       "chapterIndex": 2,
       "text": "To cast thee up again! What may this mean,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        42
+      ]
     },
     {
       "order": 928,
@@ -5902,7 +6216,12 @@
       "order": 933,
       "chapterIndex": 2,
       "text": "Say, why is this? Wherefore? What should we do?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        28,
+        47
+      ]
     },
     {
       "order": 934,
@@ -6035,7 +6354,11 @@
       "order": 954,
       "chapterIndex": 2,
       "text": "It waves me forth again. I’ll follow it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        40
+      ]
     },
     {
       "order": 955,
@@ -6078,7 +6401,11 @@
       "order": 961,
       "chapterIndex": 2,
       "text": "And draw you into madness? Think of it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        39
+      ]
     },
     {
       "order": 962,
@@ -6197,7 +6524,11 @@
       "order": 980,
       "chapterIndex": 2,
       "text": "Still am I call’d. Unhand me, gentlemen.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        40
+      ]
     },
     {
       "order": 981,
@@ -6262,7 +6593,11 @@
       "order": 990,
       "chapterIndex": 2,
       "text": "Have after. To what issue will this come?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        41
+      ]
     },
     {
       "order": 991,
@@ -6314,7 +6649,11 @@
       "chapterIndex": 2,
       "text": "SCENE V. A more remote part of the Castle.",
       "ttsText": "Scene V. A more remote part of the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        42
+      ]
     },
     {
       "order": 999,
@@ -6334,7 +6673,11 @@
       "order": 1001,
       "chapterIndex": 2,
       "text": "Whither wilt thou lead me? Speak, I’ll go no further.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        53
+      ]
     },
     {
       "order": 1002,
@@ -6493,7 +6836,11 @@
       "order": 1026,
       "chapterIndex": 2,
       "text": "Are burnt and purg’d away. But that I am forbid",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        47
+      ]
     },
     {
       "order": 1027,
@@ -6547,7 +6894,11 @@
       "order": 1035,
       "chapterIndex": 2,
       "text": "To ears of flesh and blood. List, list, O, list!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        48
+      ]
     },
     {
       "order": 1036,
@@ -6668,7 +7019,11 @@
       "order": 1054,
       "chapterIndex": 2,
       "text": "Wouldst thou not stir in this. Now, Hamlet, hear.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        49
+      ]
     },
     {
       "order": 1055,
@@ -6798,7 +7153,11 @@
       "order": 1075,
       "chapterIndex": 2,
       "text": "To those of mine. But virtue, as it never will be mov’d,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        56
+      ]
     },
     {
       "order": 1076,
@@ -6834,7 +7193,11 @@
       "order": 1081,
       "chapterIndex": 2,
       "text": "Brief let me be. Sleeping within my orchard,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        44
+      ]
     },
     {
       "order": 1082,
@@ -6900,7 +7263,11 @@
       "order": 1092,
       "chapterIndex": 2,
       "text": "The thin and wholesome blood. So did it mine;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        45
+      ]
     },
     {
       "order": 1093,
@@ -6960,7 +7327,11 @@
       "order": 1102,
       "chapterIndex": 2,
       "text": "O horrible! O horrible! most horrible!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        38
+      ]
     },
     {
       "order": 1103,
@@ -7008,7 +7379,11 @@
       "order": 1110,
       "chapterIndex": 2,
       "text": "To prick and sting her. Fare thee well at once!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        47
+      ]
     },
     {
       "order": 1111,
@@ -7026,7 +7401,11 @@
       "order": 1113,
       "chapterIndex": 2,
       "text": "Adieu, adieu, adieu. Remember me.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        33
+      ]
     },
     {
       "order": 1114,
@@ -7045,13 +7424,23 @@
       "order": 1116,
       "chapterIndex": 2,
       "text": "O all you host of heaven! O earth! What else?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        34,
+        45
+      ]
     },
     {
       "order": 1117,
       "chapterIndex": 2,
       "text": "And shall I couple hell? O, fie! Hold, my heart;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        32,
+        48
+      ]
     },
     {
       "order": 1118,
@@ -7063,7 +7452,11 @@
       "order": 1119,
       "chapterIndex": 2,
       "text": "But bear me stiffly up. Remember thee?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        38
+      ]
     },
     {
       "order": 1120,
@@ -7075,7 +7468,11 @@
       "order": 1121,
       "chapterIndex": 2,
       "text": "In this distracted globe. Remember thee?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        40
+      ]
     },
     {
       "order": 1122,
@@ -7117,7 +7514,11 @@
       "order": 1128,
       "chapterIndex": 2,
       "text": "Unmix’d with baser matter. Yes, by heaven!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        42
+      ]
     },
     {
       "order": 1129,
@@ -7135,7 +7536,11 @@
       "order": 1131,
       "chapterIndex": 2,
       "text": "My tables. Meet it is I set it down,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        36
+      ]
     },
     {
       "order": 1132,
@@ -7159,7 +7564,11 @@
       "order": 1135,
       "chapterIndex": 2,
       "text": "So, uncle, there you are. Now to my word;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        41
+      ]
     },
     {
       "order": 1136,
@@ -7249,7 +7658,11 @@
       "order": 1149,
       "chapterIndex": 2,
       "text": "Hillo, ho, ho, boy! Come, bird, come.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        37
+      ]
     },
     {
       "order": 1150,
@@ -7533,7 +7946,11 @@
       "order": 1193,
       "chapterIndex": 2,
       "text": "And much offence too. Touching this vision here,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        48
+      ]
     },
     {
       "order": 1194,
@@ -7551,7 +7968,11 @@
       "order": 1196,
       "chapterIndex": 2,
       "text": "O’ermaster’t as you may. And now, good friends,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        47
+      ]
     },
     {
       "order": 1197,
@@ -7576,7 +7997,11 @@
       "order": 1200,
       "chapterIndex": 2,
       "text": "What is’t, my lord? We will.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        28
+      ]
     },
     {
       "order": 1201,
@@ -7706,7 +8131,11 @@
       "order": 1220,
       "chapterIndex": 2,
       "text": "Ha, ha boy, sayst thou so? Art thou there, truepenny?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        53
+      ]
     },
     {
       "order": 1221,
@@ -7776,7 +8205,11 @@
       "order": 1231,
       "chapterIndex": 2,
       "text": "Hic et ubique? Then we’ll shift our ground.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        43
+      ]
     },
     {
       "order": 1232,
@@ -7826,13 +8259,21 @@
       "order": 1239,
       "chapterIndex": 2,
       "text": "Well said, old mole! Canst work i’ th’earth so fast?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        52
+      ]
     },
     {
       "order": 1240,
       "chapterIndex": 2,
       "text": "A worthy pioner! Once more remove, good friends.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        48
+      ]
     },
     {
       "order": 1241,
@@ -7870,7 +8311,11 @@
       "order": 1246,
       "chapterIndex": 2,
       "text": "Than are dreamt of in your philosophy. But come,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        48
+      ]
     },
     {
       "order": 1247,
@@ -7977,7 +8422,11 @@
       "order": 1263,
       "chapterIndex": 2,
       "text": "Rest, rest, perturbed spirit. So, gentlemen,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        44
+      ]
     },
     {
       "order": 1264,
@@ -8001,7 +8450,11 @@
       "order": 1267,
       "chapterIndex": 2,
       "text": "God willing, shall not lack. Let us go in together,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        51
+      ]
     },
     {
       "order": 1268,
@@ -8013,7 +8466,11 @@
       "order": 1269,
       "chapterIndex": 2,
       "text": "The time is out of joint. O cursed spite,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        41
+      ]
     },
     {
       "order": 1270,
@@ -8051,7 +8508,11 @@
       "chapterIndex": 3,
       "text": "SCENE I. A room in Polonius’s house.",
       "ttsText": "Scene I. A room in Polonius’s house.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        36
+      ]
     },
     {
       "order": 1276,
@@ -8135,7 +8596,11 @@
       "order": 1288,
       "chapterIndex": 3,
       "text": "Marry, well said; very well said. Look you, sir,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        48
+      ]
     },
     {
       "order": 1289,
@@ -8290,7 +8755,11 @@
       "order": 1313,
       "chapterIndex": 3,
       "text": "Quarrelling, drabbing. You may go so far.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        41
+      ]
     },
     {
       "order": 1314,
@@ -8518,7 +8987,11 @@
       "order": 1349,
       "chapterIndex": 3,
       "text": "By the mass, I was about to say something. Where did I leave?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        42,
+        61
+      ]
     },
     {
       "order": 1350,
@@ -8594,7 +9067,11 @@
       "chapterIndex": 3,
       "text": "Videlicet , a brothel, or so forth. See you now;",
       "ttsText": "Videlicet, a brothel, or so forth. See you now;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        47
+      ]
     },
     {
       "order": 1362,
@@ -8630,7 +9107,11 @@
       "order": 1367,
       "chapterIndex": 3,
       "text": "Shall you my son. You have me, have you not?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        44
+      ]
     },
     {
       "order": 1368,
@@ -8911,7 +9392,11 @@
       "order": 1411,
       "chapterIndex": 3,
       "text": "As he would draw it. Long stay’d he so,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        39
+      ]
     },
     {
       "order": 1412,
@@ -8942,7 +9427,11 @@
       "order": 1416,
       "chapterIndex": 3,
       "text": "And end his being. That done, he lets me go,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        44
+      ]
     },
     {
       "order": 1417,
@@ -8979,7 +9468,11 @@
       "order": 1422,
       "chapterIndex": 3,
       "text": "Come, go with me. I will go seek the King.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        42
+      ]
     },
     {
       "order": 1423,
@@ -9010,7 +9503,11 @@
       "chapterIndex": 3,
       "text": "That does afflict our natures. I am sorry,—",
       "ttsText": "That does afflict our natures. I am sorry,,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        43
+      ]
     },
     {
       "order": 1428,
@@ -9066,13 +9563,21 @@
       "order": 1436,
       "chapterIndex": 3,
       "text": "I had not quoted him. I fear’d he did but trifle,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        49
+      ]
     },
     {
       "order": 1437,
       "chapterIndex": 3,
       "text": "And meant to wreck thee. But beshrew my jealousy!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        49
+      ]
     },
     {
       "order": 1438,
@@ -9096,7 +9601,11 @@
       "order": 1441,
       "chapterIndex": 3,
       "text": "To lack discretion. Come, go we to the King.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        44
+      ]
     },
     {
       "order": 1442,
@@ -9121,7 +9630,11 @@
       "chapterIndex": 3,
       "text": "SCENE II. A room in the Castle.",
       "ttsText": "Scene II. A room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        31
+      ]
     },
     {
       "order": 1446,
@@ -9159,7 +9672,11 @@
       "order": 1451,
       "chapterIndex": 3,
       "text": "Our hasty sending. Something have you heard",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 1452,
@@ -9177,7 +9694,11 @@
       "order": 1454,
       "chapterIndex": 3,
       "text": "Resembles that it was. What it should be,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        41
+      ]
     },
     {
       "order": 1455,
@@ -9195,7 +9716,11 @@
       "order": 1457,
       "chapterIndex": 3,
       "text": "I cannot dream of. I entreat you both",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        37
+      ]
     },
     {
       "order": 1458,
@@ -9268,7 +9793,11 @@
       "order": 1469,
       "chapterIndex": 3,
       "text": "To whom he more adheres. If it will please you",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        46
+      ]
     },
     {
       "order": 1470,
@@ -9398,7 +9927,11 @@
       "order": 1490,
       "chapterIndex": 3,
       "text": "My too much changed son. Go, some of you,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        41
+      ]
     },
     {
       "order": 1491,
@@ -9495,7 +10028,11 @@
       "order": 1505,
       "chapterIndex": 3,
       "text": "Have I, my lord? Assure you, my good liege,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        43
+      ]
     },
     {
       "order": 1506,
@@ -9892,7 +10429,11 @@
       "order": 1569,
       "chapterIndex": 3,
       "text": "I will be brief. Your noble son is mad.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        39
+      ]
     },
     {
       "order": 1570,
@@ -9948,7 +10489,11 @@
       "order": 1578,
       "chapterIndex": 3,
       "text": "And pity ’tis ’tis true. A foolish figure,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        42
+      ]
     },
     {
       "order": 1579,
@@ -9960,7 +10505,11 @@
       "order": 1580,
       "chapterIndex": 3,
       "text": "Mad let us grant him then. And now remains",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        42
+      ]
     },
     {
       "order": 1581,
@@ -9984,7 +10533,11 @@
       "order": 1584,
       "chapterIndex": 3,
       "text": "Thus it remains, and the remainder thus. Perpend,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        40,
+        49
+      ]
     },
     {
       "order": 1585,
@@ -10003,7 +10556,11 @@
       "order": 1587,
       "chapterIndex": 3,
       "text": "Hath given me this. Now gather, and surmise.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        44
+      ]
     },
     {
       "order": 1588,
@@ -10103,7 +10660,13 @@
       "order": 1603,
       "chapterIndex": 3,
       "text": "O dear Ophelia, I am ill at these numbers. I have not art to reckon my groans. But that I love thee best, O most best, believe it. Adieu.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        42,
+        78,
+        130,
+        137
+      ]
     },
     {
       "order": 1604,
@@ -10192,7 +10755,11 @@
       "order": 1617,
       "chapterIndex": 3,
       "text": "I would fain prove so. But what might you think,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        48
+      ]
     },
     {
       "order": 1618,
@@ -10240,7 +10807,11 @@
       "order": 1625,
       "chapterIndex": 3,
       "text": "What might you think? No, I went round to work,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        47
+      ]
     },
     {
       "order": 1626,
@@ -10258,7 +10829,11 @@
       "order": 1628,
       "chapterIndex": 3,
       "text": "This must not be.’ And then I precepts gave her,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        48
+      ]
     },
     {
       "order": 1629,
@@ -10484,7 +11059,11 @@
       "order": 1664,
       "chapterIndex": 3,
       "text": "Mark the encounter. If he love her not,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        39
+      ]
     },
     {
       "order": 1665,
@@ -10553,7 +11132,11 @@
       "order": 1675,
       "chapterIndex": 3,
       "text": "I’ll board him presently. O, give me leave.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 1676,
@@ -10605,7 +11188,11 @@
       "order": 1683,
       "chapterIndex": 3,
       "text": "Excellent well. You are a fishmonger.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        37
+      ]
     },
     {
       "order": 1684,
@@ -10716,7 +11303,12 @@
       "order": 1700,
       "chapterIndex": 3,
       "text": "Let her not walk i’ th’ sun. Conception is a blessing, but not as your daughter may conceive. Friend, look to’t.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        93,
+        112
+      ]
     },
     {
       "order": 1701,
@@ -10730,7 +11322,15 @@
       "chapterIndex": 3,
       "text": "How say you by that? [ Aside. ] Still harping on my daughter. Yet he knew me not at first; he said I was a fishmonger. He is far gone, far gone. And truly in my youth I suffered much extremity for love; very near this. I’ll speak to him again.—What do you read, my lord?",
       "ttsText": "How say you by that? [ Aside. ] Still harping on my daughter. Yet he knew me not at first; he said I was a fishmonger. He is far gone, far gone. And truly in my youth I suffered much extremity for love; very near this. I’ll speak to him again., What do you read, my lord?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        61,
+        118,
+        144,
+        218,
+        271
+      ]
     },
     {
       "order": 1703,
@@ -10795,7 +11395,13 @@
       "order": 1712,
       "chapterIndex": 3,
       "text": "Slanders, sir. For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams. All which, sir, though I most powerfully and potently believe, yet I hold it not honesty to have it thus set down. For you yourself, sir, should be old as I am, if like a crab you could go backward.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        234,
+        349,
+        433
+      ]
     },
     {
       "order": 1713,
@@ -10841,7 +11447,13 @@
       "order": 1719,
       "chapterIndex": 3,
       "text": "Indeed, that is out o’ the air. [ Aside. ] How pregnant sometimes his replies are! A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of. I will leave him and suddenly contrive the means of meeting between him and my daughter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        82,
+        189,
+        278
+      ]
     },
     {
       "order": 1720,
@@ -10965,7 +11577,13 @@
       "order": 1738,
       "chapterIndex": 3,
       "text": "My excellent good friends! How dost thou, Guildenstern? Ah, Rosencrantz. Good lads, how do ye both?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        55,
+        72,
+        99
+      ]
     },
     {
       "order": 1739,
@@ -11062,7 +11680,12 @@
       "order": 1753,
       "chapterIndex": 3,
       "text": "In the secret parts of Fortune? O, most true; she is a strumpet. What’s the news?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        64,
+        81
+      ]
     },
     {
       "order": 1754,
@@ -11088,7 +11711,13 @@
       "order": 1757,
       "chapterIndex": 3,
       "text": "Then is doomsday near. But your news is not true. Let me question more in particular. What have you, my good friends, deserved at the hands of Fortune, that she sends you to prison hither?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        49,
+        85,
+        188
+      ]
     },
     {
       "order": 1758,
@@ -11166,7 +11795,11 @@
       "order": 1769,
       "chapterIndex": 3,
       "text": "Why, then ’tis none to you; for there is nothing either good or bad but thinking makes it so. To me it is a prison.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        93,
+        115
+      ]
     },
     {
       "order": 1770,
@@ -11244,7 +11877,12 @@
       "order": 1781,
       "chapterIndex": 3,
       "text": "Then are our beggars bodies, and our monarchs and outstretch’d heroes the beggars’ shadows. Shall we to th’ court? For, by my fay, I cannot reason.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        91,
+        114,
+        147
+      ]
     },
     {
       "order": 1782,
@@ -11270,7 +11908,12 @@
       "order": 1785,
       "chapterIndex": 3,
       "text": "No such matter. I will not sort you with the rest of my servants; for, to speak to you like an honest man, I am most dreadfully attended. But, in the beaten way of friendship, what make you at Elsinore?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        137,
+        202
+      ]
     },
     {
       "order": 1786,
@@ -11296,7 +11939,16 @@
       "order": 1789,
       "chapterIndex": 3,
       "text": "Beggar that I am, I am even poor in thanks; but I thank you. And sure, dear friends, my thanks are too dear a halfpenny. Were you not sent for? Is it your own inclining? Is it a free visitation? Come, deal justly with me. Come, come; nay, speak.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        120,
+        143,
+        169,
+        194,
+        221,
+        245
+      ]
     },
     {
       "order": 1790,
@@ -11322,7 +11974,13 @@
       "order": 1793,
       "chapterIndex": 3,
       "text": "Why, anything. But to the purpose. You were sent for; and there is a kind of confession in your looks, which your modesties have not craft enough to colour. I know the good King and Queen have sent for you.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        34,
+        156,
+        206
+      ]
     },
     {
       "order": 1794,
@@ -11348,7 +12006,11 @@
       "order": 1797,
       "chapterIndex": 3,
       "text": "That you must teach me. But let me conjure you, by the rights of our fellowship, by the consonancy of our youth, by the obligation of our ever-preserved love, and by what more dear a better proposer could charge you withal, be even and direct with me, whether you were sent for or no.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        284
+      ]
     },
     {
       "order": 1798,
@@ -11374,7 +12036,11 @@
       "order": 1801,
       "chapterIndex": 3,
       "text": "[ Aside. ] Nay, then I have an eye of you. If you love me, hold not off.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        42,
+        72
+      ]
     },
     {
       "order": 1802,
@@ -11400,7 +12066,14 @@
       "order": 1805,
       "chapterIndex": 3,
       "text": "I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather. I have of late, but wherefore I know not, lost all my mirth, forgone all custom of exercises; and indeed, it goes so heavily with my disposition that this goodly frame the earth, seems to me a sterile promontory; this most excellent canopy the air, look you, this brave o’erhanging firmament, this majestical roof fretted with golden fire, why, it appears no other thing to me than a foul and pestilent congregation of vapours. What a piece of work is man, how noble in reason, how infinite in faculties, in form and moving, how express and admirable; in action how like an angel, in apprehension, how like a god: the beauty of the world, the paragon of animals. And yet, to me, what is this quintessence of dust? Man delights not me; no, nor woman neither, though by your smiling you seem to say so.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        126,
+        554,
+        789,
+        840,
+        927
+      ]
     },
     {
       "order": 1806,
@@ -11439,7 +12112,11 @@
       "order": 1811,
       "chapterIndex": 3,
       "text": "To think, my lord, if you delight not in man, what Lenten entertainment the players shall receive from you. We coted them on the way, and hither are they coming to offer you service.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        107,
+        182
+      ]
     },
     {
       "order": 1812,
@@ -11453,7 +12130,11 @@
       "chapterIndex": 3,
       "text": "He that plays the king shall be welcome,—his Majesty shall have tribute of me; the adventurous knight shall use his foil and target; the lover shall not sigh gratis, the humorous man shall end his part in peace; the clown shall make those laugh whose lungs are tickle o’ th’ sere; and the lady shall say her mind freely, or the blank verse shall halt for’t. What players are they?",
       "ttsText": "He that plays the king shall be welcome,, his Majesty shall have tribute of me; the adventurous knight shall use his foil and target; the lover shall not sigh gratis, the humorous man shall end his part in peace; the clown shall make those laugh whose lungs are tickle o’ th’ sere; and the lady shall say her mind freely, or the blank verse shall halt for’t. What players are they?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        358,
+        381
+      ]
     },
     {
       "order": 1814,
@@ -11480,7 +12161,11 @@
       "order": 1817,
       "chapterIndex": 3,
       "text": "How chances it they travel? Their residence, both in reputation and profit, was better both ways.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        97
+      ]
     },
     {
       "order": 1818,
@@ -11506,7 +12191,11 @@
       "order": 1821,
       "chapterIndex": 3,
       "text": "Do they hold the same estimation they did when I was in the city? Are they so followed?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        65,
+        87
+      ]
     },
     {
       "order": 1822,
@@ -11532,7 +12221,11 @@
       "order": 1825,
       "chapterIndex": 3,
       "text": "How comes it? Do they grow rusty?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        33
+      ]
     },
     {
       "order": 1826,
@@ -11546,7 +12239,11 @@
       "chapterIndex": 3,
       "text": "Nay, their endeavour keeps in the wonted pace; but there is, sir, an aerie of children, little eyases, that cry out on the top of question, and are most tyrannically clapped for’t. These are now the fashion, and so berattle the common stages—so they call them—that many wearing rapiers are afraid of goose-quills and dare scarce come thither.",
       "ttsText": "Nay, their endeavour keeps in the wonted pace; but there is, sir, an aerie of children, little eyases, that cry out on the top of question, and are most tyrannically clapped for’t. These are now the fashion, and so berattle the common stages, so they call them, that many wearing rapiers are afraid of goose-quills and dare scarce come thither.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        180,
+        344
+      ]
     },
     {
       "order": 1828,
@@ -11560,7 +12257,14 @@
       "chapterIndex": 3,
       "text": "What, are they children? Who maintains ’em? How are they escoted? Will they pursue the quality no longer than they can sing? Will they not say afterwards, if they should grow themselves to common players—as it is most like, if their means are no better—their writers do them wrong to make them exclaim against their own succession?",
       "ttsText": "What, are they children? Who maintains ’em? How are they escoted? Will they pursue the quality no longer than they can sing? Will they not say afterwards, if they should grow themselves to common players, as it is most like, if their means are no better, their writers do them wrong to make them exclaim against their own succession?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        43,
+        65,
+        124,
+        333
+      ]
     },
     {
       "order": 1830,
@@ -11573,7 +12277,11 @@
       "order": 1831,
       "chapterIndex": 3,
       "text": "Faith, there has been much to do on both sides; and the nation holds it no sin to tarre them to controversy. There was for a while, no money bid for argument unless the poet and the player went to cuffs in the question.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        108,
+        219
+      ]
     },
     {
       "order": 1832,
@@ -11625,7 +12333,11 @@
       "order": 1839,
       "chapterIndex": 3,
       "text": "Ay, that they do, my lord. Hercules and his load too.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        53
+      ]
     },
     {
       "order": 1840,
@@ -11670,7 +12382,15 @@
       "order": 1846,
       "chapterIndex": 3,
       "text": "Gentlemen, you are welcome to Elsinore. Your hands, come. The appurtenance of welcome is fashion and ceremony. Let me comply with you in this garb, lest my extent to the players, which I tell you must show fairly outward, should more appear like entertainment than yours. You are welcome. But my uncle-father and aunt-mother are deceived.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        57,
+        110,
+        271,
+        288,
+        338
+      ]
     },
     {
       "order": 1847,
@@ -11696,7 +12416,11 @@
       "order": 1850,
       "chapterIndex": 3,
       "text": "I am but mad north-north-west. When the wind is southerly, I know a hawk from a handsaw.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        88
+      ]
     },
     {
       "order": 1851,
@@ -11729,7 +12453,11 @@
       "order": 1855,
       "chapterIndex": 3,
       "text": "Hark you, Guildenstern, and you too, at each ear a hearer. That great baby you see there is not yet out of his swaddling clouts.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        128
+      ]
     },
     {
       "order": 1856,
@@ -11756,7 +12484,11 @@
       "chapterIndex": 3,
       "text": "I will prophesy he comes to tell me of the players. Mark it.—You say right, sir: for a Monday morning ’twas so indeed.",
       "ttsText": "I will prophesy he comes to tell me of the players. Mark it., You say right, sir: for a Monday morning ’twas so indeed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        119
+      ]
     },
     {
       "order": 1860,
@@ -11783,7 +12515,11 @@
       "chapterIndex": 3,
       "text": "My lord, I have news to tell you. When Roscius was an actor in Rome—",
       "ttsText": "My lord, I have news to tell you. When Roscius was an actor in Rome,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        68
+      ]
     },
     {
       "order": 1864,
@@ -11849,7 +12585,12 @@
       "order": 1873,
       "chapterIndex": 3,
       "text": "The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited. Seneca cannot be too heavy, nor Plautus too light, for the law of writ and the liberty. These are the only men.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        212,
+        300,
+        324
+      ]
     },
     {
       "order": 1874,
@@ -12003,7 +12744,11 @@
       "order": 1897,
       "chapterIndex": 3,
       "text": "The first row of the pious chanson will show you more. For look where my abridgement comes.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        54,
+        91
+      ]
     },
     {
       "order": 1898,
@@ -12016,7 +12761,23 @@
       "order": 1899,
       "chapterIndex": 3,
       "text": "You are welcome, masters, welcome all. I am glad to see thee well. Welcome, good friends. O, my old friend! Thy face is valanc’d since I saw thee last. Com’st thou to beard me in Denmark? What, my young lady and mistress! By’r lady, your ladyship is nearer to heaven than when I saw you last, by the altitude of a chopine. Pray God your voice, like a piece of uncurrent gold, be not cracked within the ring. Masters, you are all welcome. We’ll e’en to’t like French falconers, fly at anything we see. We’ll have a speech straight. Come, give us a taste of your quality. Come, a passionate speech.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        38,
+        66,
+        89,
+        107,
+        151,
+        187,
+        221,
+        322,
+        407,
+        437,
+        500,
+        530,
+        569,
+        596
+      ]
     },
     {
       "order": 1900,
@@ -12043,7 +12804,14 @@
       "chapterIndex": 3,
       "text": "I heard thee speak me a speech once, but it was never acted, or if it was, not above once, for the play, I remember, pleased not the million, ’twas caviare to the general. But it was—as I received it, and others, whose judgements in such matters cried in the top of mine—an excellent play, well digested in the scenes, set down with as much modesty as cunning. I remember one said there were no sallets in the lines to make the matter savoury, nor no matter in the phrase that might indite the author of affectation, but called it an honest method, as wholesome as sweet, and by very much more handsome than fine. One speech in it, I chiefly loved. ’Twas Aeneas’ tale to Dido, and thereabout of it especially where he speaks of Priam’s slaughter. If it live in your memory, begin at this line, let me see, let me see:",
       "ttsText": "I heard thee speak me a speech once, but it was never acted, or if it was, not above once, for the play, I remember, pleased not the million, ’twas caviare to the general. But it was, as I received it, and others, whose judgements in such matters cried in the top of mine, an excellent play, well digested in the scenes, set down with as much modesty as cunning. I remember one said there were no sallets in the lines to make the matter savoury, nor no matter in the phrase that might indite the author of affectation, but called it an honest method, as wholesome as sweet, and by very much more handsome than fine. One speech in it, I chiefly loved. ’Twas Aeneas’ tale to Dido, and thereabout of it especially where he speaks of Priam’s slaughter. If it live in your memory, begin at this line, let me see, let me see:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        171,
+        362,
+        615,
+        748,
+        819
+      ]
     },
     {
       "order": 1904,
@@ -12087,7 +12855,11 @@
       "order": 1910,
       "chapterIndex": 3,
       "text": "With heraldry more dismal. Head to foot",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        39
+      ]
     },
     {
       "order": 1911,
@@ -12117,7 +12889,11 @@
       "order": 1915,
       "chapterIndex": 3,
       "text": "To their vile murders. Roasted in wrath and fire,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        49
+      ]
     },
     {
       "order": 1916,
@@ -12173,7 +12949,11 @@
       "order": 1924,
       "chapterIndex": 3,
       "text": "Striking too short at Greeks. His antique sword,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        48
+      ]
     },
     {
       "order": 1925,
@@ -12185,7 +12965,11 @@
       "order": 1926,
       "chapterIndex": 3,
       "text": "Repugnant to command. Unequal match’d,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        38
+      ]
     },
     {
       "order": 1927,
@@ -12203,7 +12987,11 @@
       "order": 1929,
       "chapterIndex": 3,
       "text": "Th’unnerved father falls. Then senseless Ilium,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        47
+      ]
     },
     {
       "order": 1930,
@@ -12221,7 +13009,11 @@
       "order": 1932,
       "chapterIndex": 3,
       "text": "Takes prisoner Pyrrhus’ ear. For lo, his sword,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        47
+      ]
     },
     {
       "order": 1933,
@@ -12317,7 +13109,11 @@
       "order": 1948,
       "chapterIndex": 3,
       "text": "Out, out, thou strumpet Fortune! All you gods,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        46
+      ]
     },
     {
       "order": 1949,
@@ -12420,7 +13216,11 @@
       "order": 1964,
       "chapterIndex": 3,
       "text": "That’s good! ‘Mobled queen’ is good.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        36
+      ]
     },
     {
       "order": 1965,
@@ -12439,7 +13239,11 @@
       "order": 1967,
       "chapterIndex": 3,
       "text": "With bisson rheum. A clout upon that head",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        41
+      ]
     },
     {
       "order": 1968,
@@ -12527,7 +13331,11 @@
       "order": 1981,
       "chapterIndex": 3,
       "text": "Look, where he has not turn’d his colour, and has tears in’s eyes. Pray you, no more.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        66,
+        85
+      ]
     },
     {
       "order": 1982,
@@ -12541,7 +13349,13 @@
       "chapterIndex": 3,
       "text": "’Tis well. I’ll have thee speak out the rest of this soon.—Good my lord, will you see the players well bestowed? Do you hear, let them be well used; for they are the abstracts and brief chronicles of the time. After your death you were better have a bad epitaph than their ill report while you live.",
       "ttsText": "’Tis well. I’ll have thee speak out the rest of this soon., Good my lord, will you see the players well bestowed? Do you hear, let them be well used; for they are the abstracts and brief chronicles of the time. After your death you were better have a bad epitaph than their ill report while you live.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        113,
+        210,
+        300
+      ]
     },
     {
       "order": 1984,
@@ -12567,7 +13381,14 @@
       "order": 1987,
       "chapterIndex": 3,
       "text": "God’s bodikin, man, much better. Use every man after his desert, and who should ’scape whipping? Use them after your own honour and dignity. The less they deserve, the more merit is in your bounty. Take them in.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        96,
+        140,
+        197,
+        211
+      ]
     },
     {
       "order": 1988,
@@ -12593,7 +13414,11 @@
       "order": 1991,
       "chapterIndex": 3,
       "text": "Follow him, friends. We’ll hear a play tomorrow.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        48
+      ]
     },
     {
       "order": 1992,
@@ -12606,7 +13431,11 @@
       "chapterIndex": 3,
       "text": "Dost thou hear me, old friend? Can you play The Murder of Gonzago ?",
       "ttsText": "Dost thou hear me, old friend? Can you play The Murder of Gonzago?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        66
+      ]
     },
     {
       "order": 1994,
@@ -12632,7 +13461,11 @@
       "order": 1997,
       "chapterIndex": 3,
       "text": "We’ll ha’t tomorrow night. You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        149
+      ]
     },
     {
       "order": 1998,
@@ -12658,7 +13491,11 @@
       "order": 2001,
       "chapterIndex": 3,
       "text": "Very well. Follow that lord, and look you mock him not.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        55
+      ]
     },
     {
       "order": 2002,
@@ -12671,7 +13508,11 @@
       "order": 2003,
       "chapterIndex": 3,
       "text": "[ To Rosencrantz and Guildenstern ] My good friends, I’ll leave you till night. You are welcome to Elsinore.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        79,
+        108
+      ]
     },
     {
       "order": 2004,
@@ -12704,7 +13545,11 @@
       "order": 2008,
       "chapterIndex": 3,
       "text": "Ay, so, God b’ wi’ ye. Now I am alone.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        38
+      ]
     },
     {
       "order": 2009,
@@ -12752,7 +13597,11 @@
       "order": 2016,
       "chapterIndex": 3,
       "text": "With forms to his conceit? And all for nothing!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        47
+      ]
     },
     {
       "order": 2017,
@@ -12770,7 +13619,11 @@
       "order": 2019,
       "chapterIndex": 3,
       "text": "That he should weep for her? What would he do,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        46
+      ]
     },
     {
       "order": 2020,
@@ -12782,7 +13635,11 @@
       "order": 2021,
       "chapterIndex": 3,
       "text": "That I have? He would drown the stage with tears",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        48
+      ]
     },
     {
       "order": 2022,
@@ -12806,7 +13663,11 @@
       "order": 2025,
       "chapterIndex": 3,
       "text": "The very faculties of eyes and ears. Yet I,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        43
+      ]
     },
     {
       "order": 2026,
@@ -12824,7 +13685,11 @@
       "order": 2028,
       "chapterIndex": 3,
       "text": "And can say nothing. No, not for a king",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        39
+      ]
     },
     {
       "order": 2029,
@@ -12836,7 +13701,11 @@
       "order": 2030,
       "chapterIndex": 3,
       "text": "A damn’d defeat was made. Am I a coward?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        40
+      ]
     },
     {
       "order": 2031,
@@ -12860,7 +13729,11 @@
       "order": 2034,
       "chapterIndex": 3,
       "text": "As deep as to the lungs? Who does me this?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        42
+      ]
     },
     {
       "order": 2035,
@@ -12890,7 +13763,11 @@
       "order": 2039,
       "chapterIndex": 3,
       "text": "With this slave’s offal. Bloody, bawdy villain!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        47
+      ]
     },
     {
       "order": 2040,
@@ -12908,7 +13785,11 @@
       "order": 2042,
       "chapterIndex": 3,
       "text": "Why, what an ass am I! This is most brave,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        42
+      ]
     },
     {
       "order": 2043,
@@ -12938,13 +13819,22 @@
       "order": 2047,
       "chapterIndex": 3,
       "text": "A scullion! Fie upon’t! Foh!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        23,
+        28
+      ]
     },
     {
       "order": 2048,
       "chapterIndex": 3,
       "text": "About, my brain! I have heard",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        29
+      ]
     },
     {
       "order": 2049,
@@ -12980,7 +13870,11 @@
       "order": 2054,
       "chapterIndex": 3,
       "text": "With most miraculous organ. I’ll have these players",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        51
+      ]
     },
     {
       "order": 2055,
@@ -12992,19 +13886,31 @@
       "order": 2056,
       "chapterIndex": 3,
       "text": "Before mine uncle. I’ll observe his looks;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        42
+      ]
     },
     {
       "order": 2057,
       "chapterIndex": 3,
       "text": "I’ll tent him to the quick. If he but blench,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 2058,
       "chapterIndex": 3,
       "text": "I know my course. The spirit that I have seen",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        45
+      ]
     },
     {
       "order": 2059,
@@ -13034,13 +13940,21 @@
       "order": 2063,
       "chapterIndex": 3,
       "text": "Abuses me to damn me. I’ll have grounds",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        39
+      ]
     },
     {
       "order": 2064,
       "chapterIndex": 3,
       "text": "More relative than this. The play’s the thing",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        45
+      ]
     },
     {
       "order": 2065,
@@ -13072,7 +13986,11 @@
       "chapterIndex": 4,
       "text": "SCENE I. A room in the Castle.",
       "ttsText": "Scene I. A room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        30
+      ]
     },
     {
       "order": 2070,
@@ -13250,7 +14168,11 @@
       "order": 2097,
       "chapterIndex": 4,
       "text": "We o’er-raught on the way. Of these we told him,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        48
+      ]
     },
     {
       "order": 2098,
@@ -13262,7 +14184,11 @@
       "order": 2099,
       "chapterIndex": 4,
       "text": "To hear of it. They are about the court,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        40
+      ]
     },
     {
       "order": 2100,
@@ -13588,7 +14514,11 @@
       "order": 2151,
       "chapterIndex": 4,
       "text": "I hear him coming. Let’s withdraw, my lord.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 2152,
@@ -13640,7 +14570,11 @@
       "chapterIndex": 4,
       "text": "And by opposing end them? To die—to sleep,",
       "ttsText": "And by opposing end them? To die, to sleep,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 2160,
@@ -13664,7 +14598,11 @@
       "order": 2163,
       "chapterIndex": 4,
       "text": "Devoutly to be wish’d. To die, to sleep.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        40
+      ]
     },
     {
       "order": 2164,
@@ -13689,7 +14627,11 @@
       "order": 2167,
       "chapterIndex": 4,
       "text": "Must give us pause. There’s the respect",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        39
+      ]
     },
     {
       "order": 2168,
@@ -13737,7 +14679,11 @@
       "order": 2175,
       "chapterIndex": 4,
       "text": "With a bare bodkin? Who would these fardels bear,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        49
+      ]
     },
     {
       "order": 2176,
@@ -13809,13 +14755,21 @@
       "order": 2187,
       "chapterIndex": 4,
       "text": "And lose the name of action. Soft you now,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        42
+      ]
     },
     {
       "order": 2188,
       "chapterIndex": 4,
       "text": "The fair Ophelia! Nymph, in thy orisons",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        39
+      ]
     },
     {
       "order": 2189,
@@ -13953,7 +14907,11 @@
       "order": 2210,
       "chapterIndex": 4,
       "text": "Ha, ha! Are you honest?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        23
+      ]
     },
     {
       "order": 2211,
@@ -14031,7 +14989,12 @@
       "order": 2222,
       "chapterIndex": 4,
       "text": "Ay, truly; for the power of beauty will sooner transform honesty from what it is to a bawd than the force of honesty can translate beauty into his likeness. This was sometime a paradox, but now the time gives it proof. I did love you once.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        156,
+        218,
+        239
+      ]
     },
     {
       "order": 2223,
@@ -14057,7 +15020,11 @@
       "order": 2226,
       "chapterIndex": 4,
       "text": "You should not have believed me; for virtue cannot so inoculate our old stock but we shall relish of it. I loved you not.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        104,
+        121
+      ]
     },
     {
       "order": 2227,
@@ -14083,7 +15050,17 @@
       "order": 2230,
       "chapterIndex": 4,
       "text": "Get thee to a nunnery. Why wouldst thou be a breeder of sinners? I am myself indifferent honest; but yet I could accuse me of such things that it were better my mother had not borne me. I am very proud, revengeful, ambitious, with more offences at my beck than I have thoughts to put them in, imagination to give them shape, or time to act them in. What should such fellows as I do crawling between earth and heaven? We are arrant knaves all, believe none of us. Go thy ways to a nunnery. Where’s your father?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        64,
+        185,
+        348,
+        416,
+        462,
+        488,
+        509
+      ]
     },
     {
       "order": 2231,
@@ -14109,7 +15086,11 @@
       "order": 2234,
       "chapterIndex": 4,
       "text": "Let the doors be shut upon him, that he may play the fool nowhere but in’s own house. Farewell.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        85,
+        95
+      ]
     },
     {
       "order": 2235,
@@ -14135,7 +15116,15 @@
       "order": 2238,
       "chapterIndex": 4,
       "text": "If thou dost marry, I’ll give thee this plague for thy dowry. Be thou as chaste as ice, as pure as snow, thou shalt not escape calumny. Get thee to a nunnery, go: farewell. Or if thou wilt needs marry, marry a fool; for wise men know well enough what monsters you make of them. To a nunnery, go; and quickly too. Farewell.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        61,
+        135,
+        172,
+        277,
+        312,
+        322
+      ]
     },
     {
       "order": 2239,
@@ -14161,7 +15150,16 @@
       "order": 2242,
       "chapterIndex": 4,
       "text": "I have heard of your paintings too, well enough. God hath given you one face, and you make yourselves another. You jig, you amble, and you lisp, and nickname God’s creatures, and make your wantonness your ignorance. Go to, I’ll no more on’t, it hath made me mad. I say, we will have no more marriages. Those that are married already, all but one, shall live; the rest shall keep as they are. To a nunnery, go.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        48,
+        110,
+        215,
+        262,
+        301,
+        391,
+        409
+      ]
     },
     {
       "order": 2243,
@@ -14240,7 +15238,11 @@
       "order": 2255,
       "chapterIndex": 4,
       "text": "Blasted with ecstasy. O woe is me,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        34
+      ]
     },
     {
       "order": 2256,
@@ -14266,7 +15268,11 @@
       "order": 2259,
       "chapterIndex": 4,
       "text": "Love? His affections do not that way tend,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        42
+      ]
     },
     {
       "order": 2260,
@@ -14278,7 +15284,11 @@
       "order": 2261,
       "chapterIndex": 4,
       "text": "Was not like madness. There’s something in his soul",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        51
+      ]
     },
     {
       "order": 2262,
@@ -14344,7 +15354,11 @@
       "order": 2272,
       "chapterIndex": 4,
       "text": "From fashion of himself. What think you on’t?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        45
+      ]
     },
     {
       "order": 2273,
@@ -14357,7 +15371,11 @@
       "order": 2274,
       "chapterIndex": 4,
       "text": "It shall do well. But yet do I believe",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        38
+      ]
     },
     {
       "order": 2275,
@@ -14369,7 +15387,11 @@
       "order": 2276,
       "chapterIndex": 4,
       "text": "Sprung from neglected love. How now, Ophelia?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 2277,
@@ -14381,7 +15403,11 @@
       "order": 2278,
       "chapterIndex": 4,
       "text": "We heard it all. My lord, do as you please,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        43
+      ]
     },
     {
       "order": 2279,
@@ -14411,7 +15437,11 @@
       "order": 2283,
       "chapterIndex": 4,
       "text": "Of all their conference. If she find him not,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        45
+      ]
     },
     {
       "order": 2284,
@@ -14455,7 +15485,11 @@
       "chapterIndex": 4,
       "text": "SCENE II. A hall in the Castle.",
       "ttsText": "Scene II. A hall in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        31
+      ]
     },
     {
       "order": 2291,
@@ -14475,7 +15509,16 @@
       "order": 2293,
       "chapterIndex": 4,
       "text": "Speak the speech, I pray you, as I pronounced it to you, trippingly on the tongue. But if you mouth it, as many of your players do, I had as lief the town-crier spoke my lines. Nor do not saw the air too much with your hand, thus, but use all gently; for in the very torrent, tempest, and, as I may say, whirlwind of passion, you must acquire and beget a temperance that may give it smoothness. O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise. I would have such a fellow whipped for o’erdoing Termagant. It out-Herods Herod. Pray you avoid it.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        82,
+        176,
+        394,
+        630,
+        690,
+        711,
+        730
+      ]
     },
     {
       "order": 2294,
@@ -14502,7 +15545,13 @@
       "chapterIndex": 4,
       "text": "Be not too tame neither; but let your own discretion be your tutor. Suit the action to the word, the word to the action, with this special observance, that you o’erstep not the modesty of nature; for anything so overdone is from the purpose of playing, whose end, both at the first and now, was and is, to hold as ’twere the mirror up to nature; to show virtue her own feature, scorn her own image, and the very age and body of the time his form and pressure. Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others. O, there be players that I have seen play—and heard others praise, and that highly—not to speak it profanely, that, neither having the accent of Christians, nor the gait of Christian, pagan, nor man, have so strutted and bellowed that I have thought some of Nature’s journeymen had made men, and not made them well, they imitated humanity so abominably.",
       "ttsText": "Be not too tame neither; but let your own discretion be your tutor. Suit the action to the word, the word to the action, with this special observance, that you o’erstep not the modesty of nature; for anything so overdone is from the purpose of playing, whose end, both at the first and now, was and is, to hold as ’twere the mirror up to nature; to show virtue her own feature, scorn her own image, and the very age and body of the time his form and pressure. Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others. O, there be players that I have seen play, and heard others praise, and that highly, not to speak it profanely, that, neither having the accent of Christians, nor the gait of Christian, pagan, nor man, have so strutted and bellowed that I have thought some of Nature’s journeymen had made men, and not made them well, they imitated humanity so abominably.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        67,
+        459,
+        661,
+        1017
+      ]
     },
     {
       "order": 2298,
@@ -14528,7 +15577,14 @@
       "order": 2301,
       "chapterIndex": 4,
       "text": "O reform it altogether. And let those that play your clowns speak no more than is set down for them. For there be of them that will themselves laugh, to set on some quantity of barren spectators to laugh too, though in the meantime some necessary question of the play be then to be considered. That’s villainous, and shows a most pitiful ambition in the fool that uses it. Go make you ready.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        100,
+        293,
+        372,
+        391
+      ]
     },
     {
       "order": 2302,
@@ -14709,7 +15765,11 @@
       "order": 2329,
       "chapterIndex": 4,
       "text": "To feed and clothe thee? Why should the poor be flatter’d?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        58
+      ]
     },
     {
       "order": 2330,
@@ -14727,7 +15787,11 @@
       "order": 2332,
       "chapterIndex": 4,
       "text": "Where thrift may follow fawning. Dost thou hear?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        48
+      ]
     },
     {
       "order": 2333,
@@ -14745,7 +15809,11 @@
       "order": 2335,
       "chapterIndex": 4,
       "text": "Hath seal’d thee for herself. For thou hast been",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        48
+      ]
     },
     {
       "order": 2336,
@@ -14763,7 +15831,11 @@
       "order": 2338,
       "chapterIndex": 4,
       "text": "Hast ta’en with equal thanks. And blessed are those",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        51
+      ]
     },
     {
       "order": 2339,
@@ -14781,7 +15853,11 @@
       "order": 2341,
       "chapterIndex": 4,
       "text": "To sound what stop she please. Give me that man",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        47
+      ]
     },
     {
       "order": 2342,
@@ -14799,7 +15875,11 @@
       "order": 2344,
       "chapterIndex": 4,
       "text": "As I do thee. Something too much of this.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        41
+      ]
     },
     {
       "order": 2345,
@@ -14835,7 +15915,11 @@
       "order": 2350,
       "chapterIndex": 4,
       "text": "Observe mine uncle. If his occulted guilt",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        41
+      ]
     },
     {
       "order": 2351,
@@ -14859,7 +15943,11 @@
       "order": 2354,
       "chapterIndex": 4,
       "text": "As Vulcan’s stithy. Give him heedful note;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        42
+      ]
     },
     {
       "order": 2355,
@@ -14915,7 +16003,11 @@
       "order": 2363,
       "chapterIndex": 4,
       "text": "They are coming to the play. I must be idle.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        44
+      ]
     },
     {
       "order": 2364,
@@ -14927,7 +16019,12 @@
       "order": 2365,
       "chapterIndex": 4,
       "text": "Danish march. A flourish. Enter King, Queen, Polonius, Ophelia, Rosencrantz, Guildenstern and others.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        25,
+        101
+      ]
     },
     {
       "order": 2366,
@@ -14979,7 +16076,11 @@
       "order": 2373,
       "chapterIndex": 4,
       "text": "No, nor mine now. [ To Polonius. ] My lord, you play’d once i’ th’university, you say?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        86
+      ]
     },
     {
       "order": 2374,
@@ -15018,7 +16119,12 @@
       "order": 2379,
       "chapterIndex": 4,
       "text": "I did enact Julius Caesar. I was kill’d i’ th’ Capitol. Brutus killed me.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        55,
+        73
+      ]
     },
     {
       "order": 2380,
@@ -15031,7 +16137,11 @@
       "order": 2381,
       "chapterIndex": 4,
       "text": "It was a brute part of him to kill so capital a calf there. Be the players ready?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        81
+      ]
     },
     {
       "order": 2382,
@@ -15258,7 +16368,12 @@
       "order": 2416,
       "chapterIndex": 4,
       "text": "O God, your only jig-maker! What should a man do but be merry? For look you how cheerfully my mother looks, and my father died within’s two hours.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        62,
+        146
+      ]
     },
     {
       "order": 2417,
@@ -15284,19 +16399,43 @@
       "order": 2420,
       "chapterIndex": 4,
       "text": "So long? Nay then, let the devil wear black, for I’ll have a suit of sables. O heavens! die two months ago, and not forgotten yet? Then there’s hope a great man’s memory may outlive his life half a year. But by’r lady, he must build churches then; or else shall he suffer not thinking on, with the hobby-horse, whose epitaph is ‘For, O, for O, the hobby-horse is forgot!’",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        76,
+        130,
+        203,
+        371
+      ]
     },
     {
       "order": 2421,
       "chapterIndex": 4,
       "text": "Trumpets sound. The dumb show enters.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        37
+      ]
     },
     {
       "order": 2422,
       "chapterIndex": 4,
       "text": "Enter a King and a Queen very lovingly; the Queen embracing him and he her. She kneels, and makes show of protestation unto him. He takes her up, and declines his head upon her neck. Lays him down upon a bank of flowers. She, seeing him asleep, leaves him. Anon comes in a fellow, takes off his crown, kisses it, pours poison in the King’s ears, and exits. The Queen returns, finds the King dead, and makes passionate action. The Poisoner with some three or four Mutes, comes in again, seeming to lament with her. The dead body is carried away. The Poisoner woos the Queen with gifts. She seems loth and unwilling awhile, but in the end accepts his love.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        75,
+        128,
+        182,
+        220,
+        256,
+        356,
+        425,
+        513,
+        544,
+        584,
+        654
+      ]
     },
     {
       "order": 2423,
@@ -15387,7 +16526,11 @@
       "order": 2436,
       "chapterIndex": 4,
       "text": "Ay, or any show that you’ll show him. Be not you ashamed to show, he’ll not shame to tell you what it means.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        37,
+        108
+      ]
     },
     {
       "order": 2437,
@@ -15551,7 +16694,11 @@
       "order": 2462,
       "chapterIndex": 4,
       "text": "That I distrust you. Yet, though I distrust,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        44
+      ]
     },
     {
       "order": 2463,
@@ -15974,7 +17121,11 @@
       "order": 2531,
       "chapterIndex": 4,
       "text": "’Tis deeply sworn. Sweet, leave me here awhile.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        47
+      ]
     },
     {
       "order": 2532,
@@ -16069,7 +17220,11 @@
       "order": 2546,
       "chapterIndex": 4,
       "text": "Have you heard the argument? Is there no offence in’t?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        54
+      ]
     },
     {
       "order": 2547,
@@ -16108,7 +17263,16 @@
       "order": 2552,
       "chapterIndex": 4,
       "text": "The Mousetrap. Marry, how? Tropically. This play is the image of a murder done in Vienna. Gonzago is the Duke’s name, his wife Baptista: you shall see anon; ’tis a knavish piece of work: but what o’ that? Your majesty, and we that have free souls, it touches us not. Let the gall’d jade wince; our withers are unwrung.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        26,
+        38,
+        89,
+        204,
+        266,
+        318
+      ]
     },
     {
       "order": 2553,
@@ -16200,7 +17364,12 @@
       "chapterIndex": 4,
       "text": "So you mistake your husbands.—Begin, murderer. Pox, leave thy damnable faces, and begin. Come, the croaking raven doth bellow for revenge.",
       "ttsText": "So you mistake your husbands., Begin, murderer. Pox, leave thy damnable faces, and begin. Come, the croaking raven doth bellow for revenge.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        89,
+        139
+      ]
     },
     {
       "order": 2567,
@@ -16262,7 +17431,13 @@
       "order": 2576,
       "chapterIndex": 4,
       "text": "He poisons him i’ th’garden for’s estate. His name’s Gonzago. The story is extant, and written in very choice Italian. You shall see anon how the murderer gets the love of Gonzago’s wife.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        61,
+        118,
+        187
+      ]
     },
     {
       "order": 2577,
@@ -16327,7 +17502,11 @@
       "order": 2586,
       "chapterIndex": 4,
       "text": "Give me some light. Away.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        25
+      ]
     },
     {
       "order": 2587,
@@ -16460,7 +17639,11 @@
       "order": 2607,
       "chapterIndex": 4,
       "text": "O good Horatio, I’ll take the ghost’s word for a thousand pound. Didst perceive?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        64,
+        80
+      ]
     },
     {
       "order": 2608,
@@ -16512,7 +17695,12 @@
       "order": 2615,
       "chapterIndex": 4,
       "text": "Ah, ha! Come, some music. Come, the recorders.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        25,
+        46
+      ]
     },
     {
       "order": 2616,
@@ -16707,7 +17895,11 @@
       "order": 2645,
       "chapterIndex": 4,
       "text": "Nay, good my lord, this courtesy is not of the right breed. If it shall please you to make me a wholesome answer, I will do your mother’s commandment; if not, your pardon and my return shall be the end of my business.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        217
+      ]
     },
     {
       "order": 2646,
@@ -16747,7 +17939,14 @@
       "chapterIndex": 4,
       "text": "Make you a wholesome answer. My wit’s diseased. But, sir, such answer as I can make, you shall command; or rather, as you say, my mother. Therefore no more, but to the matter. My mother, you say,—",
       "ttsText": "Make you a wholesome answer. My wit’s diseased. But, sir, such answer as I can make, you shall command; or rather, as you say, my mother. Therefore no more, but to the matter. My mother, you say,,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        47,
+        137,
+        175,
+        196
+      ]
     },
     {
       "order": 2652,
@@ -16773,7 +17972,11 @@
       "order": 2655,
       "chapterIndex": 4,
       "text": "O wonderful son, that can so stonish a mother! But is there no sequel at the heels of this mother’s admiration?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        111
+      ]
     },
     {
       "order": 2656,
@@ -16799,7 +18002,11 @@
       "order": 2659,
       "chapterIndex": 4,
       "text": "We shall obey, were she ten times our mother. Have you any further trade with us?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        45,
+        81
+      ]
     },
     {
       "order": 2660,
@@ -16838,7 +18045,11 @@
       "order": 2665,
       "chapterIndex": 4,
       "text": "Good my lord, what is your cause of distemper? You do surely bar the door upon your own liberty if you deny your griefs to your friend.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        46,
+        135
+      ]
     },
     {
       "order": 2666,
@@ -16891,7 +18102,11 @@
       "chapterIndex": 4,
       "text": "O, the recorders. Let me see one.—To withdraw with you, why do you go about to recover the wind of me, as if you would drive me into a toil?",
       "ttsText": "O, the recorders. Let me see one., To withdraw with you, why do you go about to recover the wind of me, as if you would drive me into a toil?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        141
+      ]
     },
     {
       "order": 2674,
@@ -16917,7 +18132,11 @@
       "order": 2677,
       "chapterIndex": 4,
       "text": "I do not well understand that. Will you play upon this pipe?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        60
+      ]
     },
     {
       "order": 2678,
@@ -16995,7 +18214,11 @@
       "order": 2689,
       "chapterIndex": 4,
       "text": "’Tis as easy as lying: govern these ventages with your finger and thumb, give it breath with your mouth, and it will discourse most eloquent music. Look you, these are the stops.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        147,
+        178
+      ]
     },
     {
       "order": 2690,
@@ -17008,7 +18231,11 @@
       "order": 2691,
       "chapterIndex": 4,
       "text": "But these cannot I command to any utterance of harmony. I have not the skill.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        77
+      ]
     },
     {
       "order": 2692,
@@ -17021,7 +18248,12 @@
       "order": 2693,
       "chapterIndex": 4,
       "text": "Why, look you now, how unworthy a thing you make of me! You would play upon me; you would seem to know my stops; you would pluck out the heart of my mystery; you would sound me from my lowest note to the top of my compass; and there is much music, excellent voice, in this little organ, yet cannot you make it speak. ’Sblood, do you think I am easier to be played on than a pipe? Call me what instrument you will, though you can fret me, you cannot play upon me.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        379,
+        462
+      ]
     },
     {
       "order": 2694,
@@ -17171,7 +18403,11 @@
       "order": 2716,
       "chapterIndex": 4,
       "text": "By and by is easily said. Leave me, friends.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        44
+      ]
     },
     {
       "order": 2717,
@@ -17196,7 +18432,11 @@
       "order": 2720,
       "chapterIndex": 4,
       "text": "Contagion to this world. Now could I drink hot blood,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        53
+      ]
     },
     {
       "order": 2721,
@@ -17208,7 +18448,11 @@
       "order": 2722,
       "chapterIndex": 4,
       "text": "Would quake to look on. Soft now, to my mother.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        47
+      ]
     },
     {
       "order": 2723,
@@ -17263,7 +18507,11 @@
       "chapterIndex": 4,
       "text": "SCENE III. A room in the Castle.",
       "ttsText": "Scene III. A room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        32
+      ]
     },
     {
       "order": 2732,
@@ -17289,7 +18537,11 @@
       "order": 2735,
       "chapterIndex": 4,
       "text": "To let his madness range. Therefore prepare you,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        48
+      ]
     },
     {
       "order": 2736,
@@ -17387,7 +18639,11 @@
       "order": 2751,
       "chapterIndex": 4,
       "text": "The lives of many. The cease of majesty",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        39
+      ]
     },
     {
       "order": 2752,
@@ -17399,7 +18655,11 @@
       "order": 2753,
       "chapterIndex": 4,
       "text": "What’s near it with it. It is a massy wheel",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        43
+      ]
     },
     {
       "order": 2754,
@@ -17429,7 +18689,11 @@
       "order": 2758,
       "chapterIndex": 4,
       "text": "Attends the boist’rous ruin. Never alone",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        40
+      ]
     },
     {
       "order": 2759,
@@ -17512,7 +18776,11 @@
       "order": 2771,
       "chapterIndex": 4,
       "text": "To hear the process. I’ll warrant she’ll tax him home,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        54
+      ]
     },
     {
       "order": 2772,
@@ -17536,7 +18804,11 @@
       "order": 2775,
       "chapterIndex": 4,
       "text": "The speech of vantage. Fare you well, my liege,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        47
+      ]
     },
     {
       "order": 2776,
@@ -17587,7 +18859,11 @@
       "order": 2783,
       "chapterIndex": 4,
       "text": "A brother’s murder! Pray can I not,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        35
+      ]
     },
     {
       "order": 2784,
@@ -17617,7 +18893,11 @@
       "order": 2788,
       "chapterIndex": 4,
       "text": "And both neglect. What if this cursed hand",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        42
+      ]
     },
     {
       "order": 2789,
@@ -17635,7 +18915,11 @@
       "order": 2791,
       "chapterIndex": 4,
       "text": "To wash it white as snow? Whereto serves mercy",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        46
+      ]
     },
     {
       "order": 2792,
@@ -17659,19 +18943,31 @@
       "order": 2795,
       "chapterIndex": 4,
       "text": "Or pardon’d being down? Then I’ll look up.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        42
+      ]
     },
     {
       "order": 2796,
       "chapterIndex": 4,
       "text": "My fault is past. But O, what form of prayer",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        44
+      ]
     },
     {
       "order": 2797,
       "chapterIndex": 4,
       "text": "Can serve my turn? Forgive me my foul murder!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        45
+      ]
     },
     {
       "order": 2798,
@@ -17720,7 +19016,11 @@
       "order": 2805,
       "chapterIndex": 4,
       "text": "Buys out the law. But ’tis not so above;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        40
+      ]
     },
     {
       "order": 2806,
@@ -17744,13 +19044,22 @@
       "order": 2809,
       "chapterIndex": 4,
       "text": "To give in evidence. What then? What rests?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        31,
+        43
+      ]
     },
     {
       "order": 2810,
       "chapterIndex": 4,
       "text": "Try what repentance can. What can it not?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        41
+      ]
     },
     {
       "order": 2811,
@@ -17762,7 +19071,11 @@
       "order": 2812,
       "chapterIndex": 4,
       "text": "O wretched state! O bosom black as death!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        41
+      ]
     },
     {
       "order": 2813,
@@ -17774,7 +19087,12 @@
       "order": 2814,
       "chapterIndex": 4,
       "text": "Art more engag’d! Help, angels! Make assay:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        31,
+        43
+      ]
     },
     {
       "order": 2815,
@@ -17824,13 +19142,21 @@
       "order": 2822,
       "chapterIndex": 4,
       "text": "And now I’ll do’t. And so he goes to heaven;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        44
+      ]
     },
     {
       "order": 2823,
       "chapterIndex": 4,
       "text": "And so am I reveng’d. That would be scann’d:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        44
+      ]
     },
     {
       "order": 2824,
@@ -17848,7 +19174,11 @@
       "order": 2826,
       "chapterIndex": 4,
       "text": "To heaven. O, this is hire and salary, not revenge.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        51
+      ]
     },
     {
       "order": 2827,
@@ -17878,7 +19208,11 @@
       "order": 2831,
       "chapterIndex": 4,
       "text": "’Tis heavy with him. And am I then reveng’d,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        44
+      ]
     },
     {
       "order": 2832,
@@ -17890,7 +19224,11 @@
       "order": 2833,
       "chapterIndex": 4,
       "text": "When he is fit and season’d for his passage? No.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        48
+      ]
     },
     {
       "order": 2834,
@@ -17938,7 +19276,11 @@
       "order": 2841,
       "chapterIndex": 4,
       "text": "As hell, whereto it goes. My mother stays.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        42
+      ]
     },
     {
       "order": 2842,
@@ -17988,7 +19330,11 @@
       "chapterIndex": 4,
       "text": "SCENE IV. Another room in the Castle.",
       "ttsText": "Scene IV. Another room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        37
+      ]
     },
     {
       "order": 2850,
@@ -18008,7 +19354,11 @@
       "order": 2852,
       "chapterIndex": 4,
       "text": "He will come straight. Look you lay home to him,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        48
+      ]
     },
     {
       "order": 2853,
@@ -18026,7 +19376,11 @@
       "order": 2855,
       "chapterIndex": 4,
       "text": "Much heat and him. I’ll silence me e’en here.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        45
+      ]
     },
     {
       "order": 2856,
@@ -18206,7 +19560,11 @@
       "order": 2883,
       "chapterIndex": 4,
       "text": "And, would it were not so. You are my mother.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        45
+      ]
     },
     {
       "order": 2884,
@@ -18257,7 +19615,11 @@
       "order": 2891,
       "chapterIndex": 4,
       "text": "What wilt thou do? Thou wilt not murder me?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 2892,
@@ -18289,7 +19651,12 @@
       "order": 2896,
       "chapterIndex": 4,
       "text": "How now? A rat? [ Draws. ]",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        15,
+        26
+      ]
     },
     {
       "order": 2897,
@@ -18346,7 +19713,11 @@
       "order": 2905,
       "chapterIndex": 4,
       "text": "Nay, I know not. Is it the King?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        32
+      ]
     },
     {
       "order": 2906,
@@ -18379,7 +19750,11 @@
       "order": 2910,
       "chapterIndex": 4,
       "text": "A bloody deed. Almost as bad, good mother,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        42
+      ]
     },
     {
       "order": 2911,
@@ -18424,7 +19799,11 @@
       "order": 2917,
       "chapterIndex": 4,
       "text": "I took thee for thy better. Take thy fortune,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 2918,
@@ -18437,7 +19816,11 @@
       "order": 2919,
       "chapterIndex": 4,
       "text": "Leave wringing of your hands. Peace, sit you down,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        50
+      ]
     },
     {
       "order": 2920,
@@ -18517,13 +19900,21 @@
       "order": 2932,
       "chapterIndex": 4,
       "text": "And sets a blister there. Makes marriage vows",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        45
+      ]
     },
     {
       "order": 2933,
       "chapterIndex": 4,
       "text": "As false as dicers’ oaths. O such a deed",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        40
+      ]
     },
     {
       "order": 2934,
@@ -18541,7 +19932,11 @@
       "order": 2936,
       "chapterIndex": 4,
       "text": "A rhapsody of words. Heaven’s face doth glow,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        45
+      ]
     },
     {
       "order": 2937,
@@ -18651,7 +20046,11 @@
       "order": 2954,
       "chapterIndex": 4,
       "text": "This was your husband. Look you now what follows.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        49
+      ]
     },
     {
       "order": 2955,
@@ -18663,7 +20062,11 @@
       "order": 2956,
       "chapterIndex": 4,
       "text": "Blasting his wholesome brother. Have you eyes?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        46
+      ]
     },
     {
       "order": 2957,
@@ -18675,7 +20078,11 @@
       "order": 2958,
       "chapterIndex": 4,
       "text": "And batten on this moor? Ha! have you eyes?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        43
+      ]
     },
     {
       "order": 2959,
@@ -18699,7 +20106,11 @@
       "order": 2962,
       "chapterIndex": 4,
       "text": "Would step from this to this? Sense sure you have,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        50
+      ]
     },
     {
       "order": 2963,
@@ -18729,7 +20140,11 @@
       "order": 2967,
       "chapterIndex": 4,
       "text": "To serve in such a difference. What devil was’t",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        47
+      ]
     },
     {
       "order": 2968,
@@ -18759,7 +20174,11 @@
       "order": 2972,
       "chapterIndex": 4,
       "text": "Could not so mope. O shame! where is thy blush?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        47
+      ]
     },
     {
       "order": 2973,
@@ -18783,7 +20202,11 @@
       "order": 2976,
       "chapterIndex": 4,
       "text": "And melt in her own fire. Proclaim no shame",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 2977,
@@ -18913,7 +20336,11 @@
       "order": 2997,
       "chapterIndex": 4,
       "text": "Of your precedent lord. A vice of kings,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        40
+      ]
     },
     {
       "order": 2998,
@@ -18977,7 +20404,11 @@
       "order": 3007,
       "chapterIndex": 4,
       "text": "You heavenly guards! What would your gracious figure?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        53
+      ]
     },
     {
       "order": 3008,
@@ -19034,7 +20465,11 @@
       "order": 3016,
       "chapterIndex": 4,
       "text": "Do not forget. This visitation",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        30
+      ]
     },
     {
       "order": 3017,
@@ -19126,7 +20561,11 @@
       "order": 3031,
       "chapterIndex": 4,
       "text": "Start up and stand an end. O gentle son,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        40
+      ]
     },
     {
       "order": 3032,
@@ -19138,7 +20577,11 @@
       "order": 3033,
       "chapterIndex": 4,
       "text": "Sprinkle cool patience. Whereon do you look?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        44
+      ]
     },
     {
       "order": 3034,
@@ -19151,7 +20594,11 @@
       "order": 3035,
       "chapterIndex": 4,
       "text": "On him, on him! Look you how pale he glares,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        44
+      ]
     },
     {
       "order": 3036,
@@ -19176,7 +20623,11 @@
       "order": 3039,
       "chapterIndex": 4,
       "text": "My stern effects. Then what I have to do",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        40
+      ]
     },
     {
       "order": 3040,
@@ -19329,13 +20780,21 @@
       "order": 3063,
       "chapterIndex": 4,
       "text": "And makes as healthful music. It is not madness",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        47
+      ]
     },
     {
       "order": 3064,
       "chapterIndex": 4,
       "text": "That I have utter’d. Bring me to the test,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        42
+      ]
     },
     {
       "order": 3065,
@@ -19347,7 +20806,11 @@
       "order": 3066,
       "chapterIndex": 4,
       "text": "Would gambol from. Mother, for love of grace,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        45
+      ]
     },
     {
       "order": 3067,
@@ -19377,7 +20840,11 @@
       "order": 3071,
       "chapterIndex": 4,
       "text": "Infects unseen. Confess yourself to heaven,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        43
+      ]
     },
     {
       "order": 3072,
@@ -19395,7 +20862,11 @@
       "order": 3074,
       "chapterIndex": 4,
       "text": "To make them ranker. Forgive me this my virtue;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        47
+      ]
     },
     {
       "order": 3075,
@@ -19451,7 +20922,11 @@
       "order": 3083,
       "chapterIndex": 4,
       "text": "Good night. But go not to mine uncle’s bed.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        43
+      ]
     },
     {
       "order": 3084,
@@ -19487,7 +20962,11 @@
       "order": 3089,
       "chapterIndex": 4,
       "text": "That aptly is put on. Refrain tonight,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        38
+      ]
     },
     {
       "order": 3090,
@@ -19499,7 +20978,11 @@
       "order": 3091,
       "chapterIndex": 4,
       "text": "To the next abstinence. The next more easy;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        43
+      ]
     },
     {
       "order": 3092,
@@ -19517,7 +21000,11 @@
       "order": 3094,
       "chapterIndex": 4,
       "text": "With wondrous potency. Once more, good night,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        45
+      ]
     },
     {
       "order": 3095,
@@ -19529,7 +21016,11 @@
       "order": 3096,
       "chapterIndex": 4,
       "text": "I’ll blessing beg of you. For this same lord",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        44
+      ]
     },
     {
       "order": 3097,
@@ -19565,7 +21056,11 @@
       "order": 3102,
       "chapterIndex": 4,
       "text": "The death I gave him. So again, good night.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        43
+      ]
     },
     {
       "order": 3103,
@@ -19669,7 +21164,11 @@
       "order": 3119,
       "chapterIndex": 4,
       "text": "Such dear concernings hide? Who would do so?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        44
+      ]
     },
     {
       "order": 3120,
@@ -19788,7 +21287,11 @@
       "order": 3138,
       "chapterIndex": 4,
       "text": "And marshal me to knavery. Let it work;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        39
+      ]
     },
     {
       "order": 3139,
@@ -19812,7 +21315,11 @@
       "order": 3142,
       "chapterIndex": 4,
       "text": "And blow them at the moon. O, ’tis most sweet,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        46
+      ]
     },
     {
       "order": 3143,
@@ -19836,7 +21343,11 @@
       "order": 3146,
       "chapterIndex": 4,
       "text": "Mother, good night. Indeed, this counsellor",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        43
+      ]
     },
     {
       "order": 3147,
@@ -19887,7 +21398,11 @@
       "chapterIndex": 5,
       "text": "SCENE I. A room in the Castle.",
       "ttsText": "Scene I. A room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        30
+      ]
     },
     {
       "order": 3155,
@@ -19907,7 +21422,11 @@
       "order": 3157,
       "chapterIndex": 5,
       "text": "There’s matter in these sighs. These profound heaves",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        52
+      ]
     },
     {
       "order": 3158,
@@ -19957,7 +21476,11 @@
       "order": 3165,
       "chapterIndex": 5,
       "text": "What, Gertrude? How does Hamlet?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        32
+      ]
     },
     {
       "order": 3166,
@@ -19976,7 +21499,11 @@
       "order": 3168,
       "chapterIndex": 5,
       "text": "Which is the mightier. In his lawless fit",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        41
+      ]
     },
     {
       "order": 3169,
@@ -20055,7 +21582,11 @@
       "order": 3181,
       "chapterIndex": 5,
       "text": "This mad young man. But so much was our love",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        44
+      ]
     },
     {
       "order": 3182,
@@ -20079,7 +21610,11 @@
       "order": 3185,
       "chapterIndex": 5,
       "text": "Even on the pith of life. Where is he gone?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 3186,
@@ -20110,7 +21645,11 @@
       "order": 3190,
       "chapterIndex": 5,
       "text": "Shows itself pure. He weeps for what is done.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        45
+      ]
     },
     {
       "order": 3191,
@@ -20185,7 +21724,11 @@
       "order": 3202,
       "chapterIndex": 5,
       "text": "Into the chapel. I pray you haste in this.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        42
+      ]
     },
     {
       "order": 3203,
@@ -20234,7 +21777,11 @@
       "order": 3210,
       "chapterIndex": 5,
       "text": "And hit the woundless air. O, come away!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        40
+      ]
     },
     {
       "order": 3211,
@@ -20253,7 +21800,11 @@
       "chapterIndex": 5,
       "text": "SCENE II. Another room in the Castle.",
       "ttsText": "Scene II. Another room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        37
+      ]
     },
     {
       "order": 3214,
@@ -20286,7 +21837,11 @@
       "order": 3218,
       "chapterIndex": 5,
       "text": "[ Within. ] Hamlet! Lord Hamlet!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        32
+      ]
     },
     {
       "order": 3219,
@@ -20299,7 +21854,12 @@
       "order": 3220,
       "chapterIndex": 5,
       "text": "What noise? Who calls on Hamlet? O, here they come.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        32,
+        51
+      ]
     },
     {
       "order": 3221,
@@ -20391,7 +21951,11 @@
       "chapterIndex": 5,
       "text": "That I can keep your counsel, and not mine own. Besides, to be demanded of a sponge—what replication should be made by the son of a king?",
       "ttsText": "That I can keep your counsel, and not mine own. Besides, to be demanded of a sponge, what replication should be made by the son of a king?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        138
+      ]
     },
     {
       "order": 3235,
@@ -20417,7 +21981,11 @@
       "order": 3238,
       "chapterIndex": 5,
       "text": "Ay, sir; that soaks up the King’s countenance, his rewards, his authorities. But such officers do the King best service in the end: he keeps them, like an ape, in the corner of his jaw; first mouthed, to be last swallowed: when he needs what you have gleaned, it is but squeezing you, and, sponge, you shall be dry again.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        321
+      ]
     },
     {
       "order": 3239,
@@ -20443,7 +22011,11 @@
       "order": 3242,
       "chapterIndex": 5,
       "text": "I am glad of it. A knavish speech sleeps in a foolish ear.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        58
+      ]
     },
     {
       "order": 3243,
@@ -20470,7 +22042,11 @@
       "chapterIndex": 5,
       "text": "The body is with the King, but the King is not with the body. The King is a thing—",
       "ttsText": "The body is with the King, but the King is not with the body. The King is a thing,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        61,
+        82
+      ]
     },
     {
       "order": 3247,
@@ -20496,7 +22072,12 @@
       "order": 3250,
       "chapterIndex": 5,
       "text": "Of nothing. Bring me to him. Hide fox, and all after.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        28,
+        53
+      ]
     },
     {
       "order": 3251,
@@ -20509,7 +22090,11 @@
       "chapterIndex": 5,
       "text": "SCENE III. Another room in the Castle.",
       "ttsText": "Scene III. Another room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        38
+      ]
     },
     {
       "order": 3253,
@@ -20564,7 +22149,11 @@
       "order": 3261,
       "chapterIndex": 5,
       "text": "But never the offence. To bear all smooth and even,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        51
+      ]
     },
     {
       "order": 3262,
@@ -20576,7 +22165,11 @@
       "order": 3263,
       "chapterIndex": 5,
       "text": "Deliberate pause. Diseases desperate grown",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        42
+      ]
     },
     {
       "order": 3264,
@@ -20601,7 +22194,11 @@
       "order": 3267,
       "chapterIndex": 5,
       "text": "How now? What hath befall’n?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        28
+      ]
     },
     {
       "order": 3268,
@@ -20672,7 +22269,11 @@
       "order": 3278,
       "chapterIndex": 5,
       "text": "Ho, Guildenstern! Bring in my lord.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        35
+      ]
     },
     {
       "order": 3279,
@@ -20718,7 +22319,11 @@
       "order": 3285,
       "chapterIndex": 5,
       "text": "At supper? Where?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        17
+      ]
     },
     {
       "order": 3286,
@@ -20732,7 +22337,15 @@
       "chapterIndex": 5,
       "text": "Not where he eats, but where he is eaten. A certain convocation of politic worms are e’en at him. Your worm is your only emperor for diet. We fat all creatures else to fat us, and we fat ourselves for maggots. Your fat king and your lean beggar is but variable service,—two dishes, but to one table. That’s the end.",
       "ttsText": "Not where he eats, but where he is eaten. A certain convocation of politic worms are e’en at him. Your worm is your only emperor for diet. We fat all creatures else to fat us, and we fat ourselves for maggots. Your fat king and your lean beggar is but variable service,, two dishes, but to one table. That’s the end.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        97,
+        138,
+        209,
+        300,
+        316
+      ]
     },
     {
       "order": 3288,
@@ -20810,7 +22423,13 @@
       "order": 3299,
       "chapterIndex": 5,
       "text": "In heaven. Send thither to see. If your messenger find him not there, seek him i’ th’other place yourself. But indeed, if you find him not within this month, you shall nose him as you go up the stairs into the lobby.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        31,
+        106,
+        216
+      ]
     },
     {
       "order": 3300,
@@ -20876,7 +22495,11 @@
       "order": 3309,
       "chapterIndex": 5,
       "text": "With fiery quickness. Therefore prepare thyself;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        48
+      ]
     },
     {
       "order": 3310,
@@ -20959,7 +22582,12 @@
       "order": 3322,
       "chapterIndex": 5,
       "text": "I see a cherub that sees them. But, come; for England! Farewell, dear mother.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        54,
+        77
+      ]
     },
     {
       "order": 3323,
@@ -20985,7 +22613,12 @@
       "order": 3326,
       "chapterIndex": 5,
       "text": "My mother. Father and mother is man and wife; man and wife is one flesh; and so, my mother. Come, for England.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        91,
+        110
+      ]
     },
     {
       "order": 3327,
@@ -21004,7 +22637,11 @@
       "order": 3329,
       "chapterIndex": 5,
       "text": "Follow him at foot. Tempt him with speed aboard;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        48
+      ]
     },
     {
       "order": 3330,
@@ -21022,7 +22659,11 @@
       "order": 3332,
       "chapterIndex": 5,
       "text": "That else leans on th’affair. Pray you make haste.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        50
+      ]
     },
     {
       "order": 3333,
@@ -21079,7 +22720,11 @@
       "order": 3341,
       "chapterIndex": 5,
       "text": "The present death of Hamlet. Do it, England;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        44
+      ]
     },
     {
       "order": 3342,
@@ -21091,7 +22736,11 @@
       "order": 3343,
       "chapterIndex": 5,
       "text": "And thou must cure me. Till I know ’tis done,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        45
+      ]
     },
     {
       "order": 3344,
@@ -21110,7 +22759,11 @@
       "chapterIndex": 5,
       "text": "SCENE IV. A plain in Denmark.",
       "ttsText": "Scene IV. A plain in Denmark.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        29
+      ]
     },
     {
       "order": 3347,
@@ -21147,7 +22800,11 @@
       "order": 3352,
       "chapterIndex": 5,
       "text": "Over his kingdom. You know the rendezvous.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        42
+      ]
     },
     {
       "order": 3353,
@@ -21408,7 +23065,11 @@
       "order": 3393,
       "chapterIndex": 5,
       "text": "Why the man dies. I humbly thank you, sir.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        42
+      ]
     },
     {
       "order": 3394,
@@ -21453,7 +23114,11 @@
       "order": 3400,
       "chapterIndex": 5,
       "text": "I’ll be with you straight. Go a little before.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        46
+      ]
     },
     {
       "order": 3401,
@@ -21472,7 +23137,11 @@
       "order": 3403,
       "chapterIndex": 5,
       "text": "And spur my dull revenge. What is a man",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        39
+      ]
     },
     {
       "order": 3404,
@@ -21484,7 +23153,11 @@
       "order": 3405,
       "chapterIndex": 5,
       "text": "Be but to sleep and feed? A beast, no more.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 3406,
@@ -21508,7 +23181,11 @@
       "order": 3409,
       "chapterIndex": 5,
       "text": "To fust in us unus’d. Now whether it be",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        39
+      ]
     },
     {
       "order": 3410,
@@ -21552,7 +23229,11 @@
       "order": 3416,
       "chapterIndex": 5,
       "text": "To do’t. Examples gross as earth exhort me,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        43
+      ]
     },
     {
       "order": 3417,
@@ -21594,7 +23275,11 @@
       "order": 3423,
       "chapterIndex": 5,
       "text": "Even for an eggshell. Rightly to be great",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        41
+      ]
     },
     {
       "order": 3424,
@@ -21612,7 +23297,11 @@
       "order": 3426,
       "chapterIndex": 5,
       "text": "When honour’s at the stake. How stand I then,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 3427,
@@ -21666,7 +23355,11 @@
       "order": 3435,
       "chapterIndex": 5,
       "text": "To hide the slain? O, from this time forth,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 3436,
@@ -21685,7 +23378,12 @@
       "chapterIndex": 5,
       "text": "SCENE V. Elsinore. A room in the Castle.",
       "ttsText": "Scene V. Elsinore. A room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        18,
+        40
+      ]
     },
     {
       "order": 3439,
@@ -21768,7 +23466,11 @@
       "order": 3451,
       "chapterIndex": 5,
       "text": "That carry but half sense. Her speech is nothing,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        49
+      ]
     },
     {
       "order": 3452,
@@ -21956,7 +23658,11 @@
       "order": 3481,
       "chapterIndex": 5,
       "text": "Say you? Nay, pray you mark.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        28
+      ]
     },
     {
       "order": 3482,
@@ -22102,7 +23808,13 @@
       "order": 3504,
       "chapterIndex": 5,
       "text": "Well, God dild you! They say the owl was a baker’s daughter. Lord, we know what we are, but know not what we may be. God be at your table!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        60,
+        116,
+        138
+      ]
     },
     {
       "order": 3505,
@@ -22288,7 +24000,16 @@
       "order": 3534,
       "chapterIndex": 5,
       "text": "I hope all will be well. We must be patient. But I cannot choose but weep, to think they would lay him i’ th’ cold ground. My brother shall know of it. And so I thank you for your good counsel. Come, my coach! Good night, ladies; good night, sweet ladies; good night, good night.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        44,
+        122,
+        151,
+        193,
+        209,
+        279
+      ]
     },
     {
       "order": 3535,
@@ -22326,7 +24047,11 @@
       "order": 3540,
       "chapterIndex": 5,
       "text": "All from her father’s death. O Gertrude, Gertrude,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        50
+      ]
     },
     {
       "order": 3541,
@@ -22338,7 +24063,11 @@
       "order": 3542,
       "chapterIndex": 5,
       "text": "But in battalions. First, her father slain;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 3543,
@@ -22368,7 +24097,11 @@
       "order": 3547,
       "chapterIndex": 5,
       "text": "In hugger-mugger to inter him. Poor Ophelia",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        43
+      ]
     },
     {
       "order": 3548,
@@ -22428,7 +24161,11 @@
       "order": 3557,
       "chapterIndex": 5,
       "text": "In ear and ear. O my dear Gertrude, this,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        41
+      ]
     },
     {
       "order": 3558,
@@ -22472,7 +24209,11 @@
       "order": 3564,
       "chapterIndex": 5,
       "text": "Where are my Switzers? Let them guard the door.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        47
+      ]
     },
     {
       "order": 3565,
@@ -22522,7 +24263,11 @@
       "order": 3572,
       "chapterIndex": 5,
       "text": "O’erbears your offices. The rabble call him lord,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        49
+      ]
     },
     {
       "order": 3573,
@@ -22546,7 +24291,11 @@
       "order": 3576,
       "chapterIndex": 5,
       "text": "They cry ‘Choose we! Laertes shall be king!’",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        44
+      ]
     },
     {
       "order": 3577,
@@ -22673,7 +24422,12 @@
       "order": 3596,
       "chapterIndex": 5,
       "text": "I thank you. Keep the door. O thou vile king,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        27,
+        45
+      ]
     },
     {
       "order": 3597,
@@ -22749,7 +24503,11 @@
       "order": 3608,
       "chapterIndex": 5,
       "text": "Let him go, Gertrude. Do not fear our person.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        45
+      ]
     },
     {
       "order": 3609,
@@ -22846,13 +24604,21 @@
       "order": 3623,
       "chapterIndex": 5,
       "text": "How came he dead? I’ll not be juggled with.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        43
+      ]
     },
     {
       "order": 3624,
       "chapterIndex": 5,
       "text": "To hell, allegiance! Vows, to the blackest devil!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        49
+      ]
     },
     {
       "order": 3625,
@@ -22864,7 +24630,11 @@
       "order": 3626,
       "chapterIndex": 5,
       "text": "I dare damnation. To this point I stand,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        40
+      ]
     },
     {
       "order": 3627,
@@ -23077,7 +24847,11 @@
       "order": 3660,
       "chapterIndex": 5,
       "text": "How now! What noise is that?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        28
+      ]
     },
     {
       "order": 3661,
@@ -23089,7 +24863,11 @@
       "order": 3662,
       "chapterIndex": 5,
       "text": "O heat, dry up my brains. Tears seven times salt,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        49
+      ]
     },
     {
       "order": 3663,
@@ -23107,7 +24885,11 @@
       "order": 3665,
       "chapterIndex": 5,
       "text": "Till our scale turn the beam. O rose of May!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        44
+      ]
     },
     {
       "order": 3666,
@@ -23213,7 +24995,12 @@
       "order": 3682,
       "chapterIndex": 5,
       "text": "You must sing ‘Down a-down, and you call him a-down-a.’ O, how the wheel becomes it! It is the false steward that stole his master’s daughter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        55,
+        84,
+        142
+      ]
     },
     {
       "order": 3683,
@@ -23239,7 +25026,11 @@
       "order": 3686,
       "chapterIndex": 5,
       "text": "There’s rosemary, that’s for remembrance; pray love, remember. And there is pansies, that’s for thoughts.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        62,
+        105
+      ]
     },
     {
       "order": 3687,
@@ -23265,7 +25056,16 @@
       "order": 3690,
       "chapterIndex": 5,
       "text": "There’s fennel for you, and columbines. There’s rue for you; and here’s some for me. We may call it herb of grace o’ Sundays. O you must wear your rue with a difference. There’s a daisy. I would give you some violets, but they wither’d all when my father died. They say he made a good end.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        84,
+        125,
+        169,
+        186,
+        260,
+        289
+      ]
     },
     {
       "order": 3691,
@@ -23375,7 +25175,11 @@
       "order": 3708,
       "chapterIndex": 5,
       "text": "And of all Christian souls, I pray God. God b’ wi’ ye.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        54
+      ]
     },
     {
       "order": 3709,
@@ -23413,7 +25217,11 @@
       "order": 3714,
       "chapterIndex": 5,
       "text": "Or you deny me right. Go but apart,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        35
+      ]
     },
     {
       "order": 3715,
@@ -23550,7 +25358,11 @@
       "chapterIndex": 5,
       "text": "SCENE VI. Another room in the Castle.",
       "ttsText": "Scene VI. Another room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        37
+      ]
     },
     {
       "order": 3737,
@@ -23583,7 +25395,11 @@
       "order": 3741,
       "chapterIndex": 5,
       "text": "Sailors, sir. They say they have letters for you.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        49
+      ]
     },
     {
       "order": 3742,
@@ -23661,7 +25477,12 @@
       "order": 3753,
       "chapterIndex": 5,
       "text": "He shall, sir, and’t please him. There’s a letter for you, sir. It comes from th’ambassador that was bound for England; if your name be Horatio, as I am let to know it is.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        63,
+        171
+      ]
     },
     {
       "order": 3754,
@@ -23674,7 +25495,21 @@
       "order": 3755,
       "chapterIndex": 5,
       "text": "[ Reads. ] ‘Horatio, when thou shalt have overlooked this, give these fellows some means to the King. They have letters for him. Ere we were two days old at sea, a pirate of very warlike appointment gave us chase. Finding ourselves too slow of sail, we put on a compelled valour, and in the grapple I boarded them. On the instant they got clear of our ship, so I alone became their prisoner. They have dealt with me like thieves of mercy. But they knew what they did; I am to do a good turn for them. Let the King have the letters I have sent, and repair thou to me with as much haste as thou wouldst fly death. I have words to speak in thine ear will make thee dumb; yet are they much too light for the bore of the matter. These good fellows will bring thee where I am. Rosencrantz and Guildenstern hold their course for England: of them I have much to tell thee. Farewell.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        101,
+        128,
+        213,
+        314,
+        391,
+        438,
+        500,
+        611,
+        723,
+        770,
+        864,
+        874
+      ]
     },
     {
       "order": 3756,
@@ -23718,7 +25553,11 @@
       "chapterIndex": 5,
       "text": "SCENE VII. Another room in the Castle.",
       "ttsText": "Scene VII. Another room in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        10,
+        38
+      ]
     },
     {
       "order": 3763,
@@ -23775,7 +25614,11 @@
       "order": 3771,
       "chapterIndex": 5,
       "text": "It well appears. But tell me",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        28
+      ]
     },
     {
       "order": 3772,
@@ -23824,7 +25667,11 @@
       "order": 3779,
       "chapterIndex": 5,
       "text": "But yet to me they are strong. The Queen his mother",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        51
+      ]
     },
     {
       "order": 3780,
@@ -23856,7 +25703,11 @@
       "order": 3784,
       "chapterIndex": 5,
       "text": "I could not but by her. The other motive,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        41
+      ]
     },
     {
       "order": 3785,
@@ -23941,7 +25792,11 @@
       "order": 3798,
       "chapterIndex": 5,
       "text": "For her perfections. But my revenge will come.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        46
+      ]
     },
     {
       "order": 3799,
@@ -23954,7 +25809,11 @@
       "order": 3800,
       "chapterIndex": 5,
       "text": "Break not your sleeps for that. You must not think",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        50
+      ]
     },
     {
       "order": 3801,
@@ -23972,7 +25831,11 @@
       "order": 3803,
       "chapterIndex": 5,
       "text": "And think it pastime. You shortly shall hear more.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        50
+      ]
     },
     {
       "order": 3804,
@@ -23998,7 +25861,11 @@
       "order": 3807,
       "chapterIndex": 5,
       "text": "How now? What news?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        19
+      ]
     },
     {
       "order": 3808,
@@ -24030,7 +25897,11 @@
       "order": 3812,
       "chapterIndex": 5,
       "text": "From Hamlet! Who brought them?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        12,
+        30
+      ]
     },
     {
       "order": 3813,
@@ -24049,7 +25920,11 @@
       "order": 3815,
       "chapterIndex": 5,
       "text": "They were given me by Claudio. He receiv’d them",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        47
+      ]
     },
     {
       "order": 3816,
@@ -24087,7 +25962,12 @@
       "order": 3821,
       "chapterIndex": 5,
       "text": "[ Reads. ] ‘High and mighty, you shall know I am set naked on your kingdom. Tomorrow shall I beg leave to see your kingly eyes. When I shall, first asking your pardon thereunto, recount the occasions of my sudden and more strange return.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        75,
+        127,
+        237
+      ]
     },
     {
       "order": 3822,
@@ -24100,7 +25980,11 @@
       "order": 3823,
       "chapterIndex": 5,
       "text": "What should this mean? Are all the rest come back?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        50
+      ]
     },
     {
       "order": 3824,
@@ -24132,7 +26016,11 @@
       "order": 3828,
       "chapterIndex": 5,
       "text": "’Tis Hamlet’s character. ‘Naked!’",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        33
+      ]
     },
     {
       "order": 3829,
@@ -24157,7 +26045,11 @@
       "order": 3832,
       "chapterIndex": 5,
       "text": "I am lost in it, my lord. But let him come,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 3833,
@@ -24196,7 +26088,11 @@
       "chapterIndex": 5,
       "text": "As how should it be so? How otherwise?—",
       "ttsText": "As how should it be so? How otherwise?,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        39
+      ]
     },
     {
       "order": 3839,
@@ -24234,7 +26130,11 @@
       "order": 3844,
       "chapterIndex": 5,
       "text": "To thine own peace. If he be now return’d,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        42
+      ]
     },
     {
       "order": 3845,
@@ -24332,7 +26232,11 @@
       "order": 3860,
       "chapterIndex": 5,
       "text": "Wherein they say you shine. Your sum of parts",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 3861,
@@ -24400,7 +26304,11 @@
       "order": 3871,
       "chapterIndex": 5,
       "text": "Importing health and graveness. Two months since",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        48
+      ]
     },
     {
       "order": 3872,
@@ -24425,7 +26333,11 @@
       "order": 3875,
       "chapterIndex": 5,
       "text": "Had witchcraft in’t. He grew unto his seat,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        43
+      ]
     },
     {
       "order": 3876,
@@ -24443,7 +26355,11 @@
       "order": 3878,
       "chapterIndex": 5,
       "text": "With the brave beast. So far he topp’d my thought",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        49
+      ]
     },
     {
       "order": 3879,
@@ -24520,7 +26436,11 @@
       "order": 3890,
       "chapterIndex": 5,
       "text": "I know him well. He is the brooch indeed",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        40
+      ]
     },
     {
       "order": 3891,
@@ -24569,7 +26489,11 @@
       "order": 3898,
       "chapterIndex": 5,
       "text": "If one could match you. The scrimers of their nation",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        52
+      ]
     },
     {
       "order": 3899,
@@ -24581,7 +26505,11 @@
       "order": 3900,
       "chapterIndex": 5,
       "text": "If you oppos’d them. Sir, this report of his",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        44
+      ]
     },
     {
       "order": 3901,
@@ -24718,7 +26646,11 @@
       "order": 3922,
       "chapterIndex": 5,
       "text": "Dies in his own too much. That we would do,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        43
+      ]
     },
     {
       "order": 3923,
@@ -24748,7 +26680,11 @@
       "order": 3927,
       "chapterIndex": 5,
       "text": "That hurts by easing. But to the quick o’ th’ulcer:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        51
+      ]
     },
     {
       "order": 3928,
@@ -24798,7 +26734,11 @@
       "order": 3935,
       "chapterIndex": 5,
       "text": "Revenge should have no bounds. But good Laertes,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        30,
+        48
+      ]
     },
     {
       "order": 3936,
@@ -24834,7 +26774,11 @@
       "order": 3941,
       "chapterIndex": 5,
       "text": "And wager on your heads. He, being remiss,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        42
+      ]
     },
     {
       "order": 3942,
@@ -24919,7 +26863,11 @@
       "order": 3955,
       "chapterIndex": 5,
       "text": "This is but scratch’d withal. I’ll touch my point",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        49
+      ]
     },
     {
       "order": 3956,
@@ -24956,7 +26904,11 @@
       "order": 3961,
       "chapterIndex": 5,
       "text": "May fit us to our shape. If this should fail,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        45
+      ]
     },
     {
       "order": 3962,
@@ -24968,7 +26920,11 @@
       "order": 3963,
       "chapterIndex": 5,
       "text": "’Twere better not assay’d. Therefore this project",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        49
+      ]
     },
     {
       "order": 3964,
@@ -24980,7 +26936,11 @@
       "order": 3965,
       "chapterIndex": 5,
       "text": "If this did blast in proof. Soft, let me see.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 3966,
@@ -24993,7 +26953,11 @@
       "order": 3967,
       "chapterIndex": 5,
       "text": "I ha’t! When in your motion you are hot and dry,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        48
+      ]
     },
     {
       "order": 3968,
@@ -25055,7 +27019,11 @@
       "order": 3977,
       "chapterIndex": 5,
       "text": "So fast they follow. Your sister’s drown’d, Laertes.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        52
+      ]
     },
     {
       "order": 3978,
@@ -25068,7 +27036,11 @@
       "order": 3979,
       "chapterIndex": 5,
       "text": "Drown’d! O, where?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        8,
+        18
+      ]
     },
     {
       "order": 3980,
@@ -25135,7 +27107,11 @@
       "order": 3990,
       "chapterIndex": 5,
       "text": "Fell in the weeping brook. Her clothes spread wide,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        51
+      ]
     },
     {
       "order": 3991,
@@ -25165,7 +27141,11 @@
       "order": 3995,
       "chapterIndex": 5,
       "text": "Unto that element. But long it could not be",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        43
+      ]
     },
     {
       "order": 3996,
@@ -25228,7 +27208,11 @@
       "order": 4005,
       "chapterIndex": 5,
       "text": "And therefore I forbid my tears. But yet",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        40
+      ]
     },
     {
       "order": 4006,
@@ -25240,13 +27224,21 @@
       "order": 4007,
       "chapterIndex": 5,
       "text": "Let shame say what it will. When these are gone,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        48
+      ]
     },
     {
       "order": 4008,
       "chapterIndex": 5,
       "text": "The woman will be out. Adieu, my lord,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        38
+      ]
     },
     {
       "order": 4009,
@@ -25321,7 +27313,11 @@
       "chapterIndex": 6,
       "text": "SCENE I. A churchyard.",
       "ttsText": "Scene I. A churchyard.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        8,
+        22
+      ]
     },
     {
       "order": 4021,
@@ -25354,7 +27350,11 @@
       "order": 4025,
       "chapterIndex": 6,
       "text": "I tell thee she is, and therefore make her grave straight. The crowner hath sat on her, and finds it Christian burial.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        58,
+        118
+      ]
     },
     {
       "order": 4026,
@@ -25394,7 +27394,12 @@
       "chapterIndex": 6,
       "text": "It must be se offendendo , it cannot be else. For here lies the point: if I drown myself wittingly, it argues an act: and an act hath three branches. It is to act, to do, and to perform: argal, she drowned herself wittingly.",
       "ttsText": "It must be se offendendo, it cannot be else. For here lies the point: if I drown myself wittingly, it argues an act: and an act hath three branches. It is to act, to do, and to perform: argal, she drowned herself wittingly.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        148,
+        223
+      ]
     },
     {
       "order": 4032,
@@ -25422,7 +27427,15 @@
       "chapterIndex": 6,
       "text": "Give me leave. Here lies the water; good. Here stands the man; good. If the man go to this water and drown himself, it is, will he nill he, he goes,—mark you that. But if the water come to him and drown him, he drowns not himself. Argal, he that is not guilty of his own death shortens not his own life.",
       "ttsText": "Give me leave. Here lies the water; good. Here stands the man; good. If the man go to this water and drown himself, it is, will he nill he, he goes,, mark you that. But if the water come to him and drown him, he drowns not himself. Argal, he that is not guilty of his own death shortens not his own life.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        41,
+        68,
+        164,
+        231,
+        304
+      ]
     },
     {
       "order": 4036,
@@ -25461,7 +27474,11 @@
       "order": 4041,
       "chapterIndex": 6,
       "text": "Will you ha’ the truth on’t? If this had not been a gentlewoman, she should have been buried out o’ Christian burial.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        117
+      ]
     },
     {
       "order": 4042,
@@ -25474,7 +27491,12 @@
       "order": 4043,
       "chapterIndex": 6,
       "text": "Why, there thou say’st. And the more pity that great folk should have countenance in this world to drown or hang themselves more than their even Christian. Come, my spade. There is no ancient gentlemen but gardeners, ditchers, and grave-makers: they hold up Adam’s profession.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        155,
+        171,
+        276
+      ]
     },
     {
       "order": 4044,
@@ -25527,7 +27549,15 @@
       "chapterIndex": 6,
       "text": "What, art a heathen? How dost thou understand the Scripture? The Scripture says Adam digg’d. Could he dig without arms? I’ll put another question to thee. If thou answerest me not to the purpose, confess thyself—",
       "ttsText": "What, art a heathen? How dost thou understand the Scripture? The Scripture says Adam digg’d. Could he dig without arms? I’ll put another question to thee. If thou answerest me not to the purpose, confess thyself,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        60,
+        92,
+        119,
+        154,
+        212
+      ]
     },
     {
       "order": 4052,
@@ -25579,7 +27609,14 @@
       "order": 4059,
       "chapterIndex": 6,
       "text": "I like thy wit well in good faith, the gallows does well. But how does it well? It does well to those that do ill. Now, thou dost ill to say the gallows is built stronger than the church; argal, the gallows may do well to thee. To’t again, come.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        57,
+        79,
+        114,
+        227,
+        245
+      ]
     },
     {
       "order": 4060,
@@ -25664,7 +27701,12 @@
       "order": 4072,
       "chapterIndex": 6,
       "text": "Cudgel thy brains no more about it, for your dull ass will not mend his pace with beating; and when you are asked this question next, say ‘a grave-maker’. The houses he makes last till doomsday. Go, get thee to Yaughan; fetch me a stoup of liquor.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        154,
+        194,
+        247
+      ]
     },
     {
       "order": 4073,
@@ -25796,7 +27838,12 @@
       "order": 4093,
       "chapterIndex": 6,
       "text": "That skull had a tongue in it, and could sing once. How the knave jowls it to th’ ground, as if ’twere Cain’s jawbone, that did the first murder! This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        51,
+        145,
+        262
+      ]
     },
     {
       "order": 4094,
@@ -25822,7 +27869,12 @@
       "order": 4097,
       "chapterIndex": 6,
       "text": "Or of a courtier, which could say ‘Good morrow, sweet lord! How dost thou, good lord?’ This might be my lord such-a-one, that praised my lord such-a-one’s horse when he meant to beg it, might it not?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        86,
+        199
+      ]
     },
     {
       "order": 4098,
@@ -25848,7 +27900,13 @@
       "order": 4101,
       "chapterIndex": 6,
       "text": "Why, e’en so: and now my Lady Worm’s; chapless, and knocked about the mazard with a sexton’s spade. Here’s fine revolution, an we had the trick to see’t. Did these bones cost no more the breeding but to play at loggets with ’em? Mine ache to think on’t.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        99,
+        153,
+        228,
+        253
+      ]
     },
     {
       "order": 4102,
@@ -25904,7 +27962,18 @@
       "order": 4110,
       "chapterIndex": 6,
       "text": "There’s another. Why may not that be the skull of a lawyer? Where be his quiddits now, his quillets, his cases, his tenures, and his tricks? Why does he suffer this rude knave now to knock him about the sconce with a dirty shovel, and will not tell him of his action of battery? Hum. This fellow might be in’s time a great buyer of land, with his statutes, his recognizances, his fines, his double vouchers, his recoveries. Is this the fine of his fines, and the recovery of his recoveries, to have his fine pate full of fine dirt? Will his vouchers vouch him no more of his purchases, and double ones too, than the length and breadth of a pair of indentures? The very conveyances of his lands will scarcely lie in this box; and must the inheritor himself have no more, ha?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        59,
+        140,
+        278,
+        283,
+        423,
+        531,
+        659,
+        773
+      ]
     },
     {
       "order": 4111,
@@ -25957,7 +28026,11 @@
       "chapterIndex": 6,
       "text": "They are sheep and calves which seek out assurance in that. I will speak to this fellow.—Whose grave’s this, sir?",
       "ttsText": "They are sheep and calves which seek out assurance in that. I will speak to this fellow., Whose grave’s this, sir?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        59,
+        114
+      ]
     },
     {
       "order": 4119,
@@ -26138,7 +28211,12 @@
       "chapterIndex": 6,
       "text": "How absolute the knave is! We must speak by the card, or equivocation will undo us. By the Lord, Horatio, these three years I have taken note of it, the age is grown so picked that the toe of the peasant comes so near the heel of the courtier he galls his kibe.—How long hast thou been a grave-maker?",
       "ttsText": "How absolute the knave is! We must speak by the card, or equivocation will undo us. By the Lord, Horatio, these three years I have taken note of it, the age is grown so picked that the toe of the peasant comes so near the heel of the courtier he galls his kibe., How long hast thou been a grave-maker?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        83,
+        301
+      ]
     },
     {
       "order": 4147,
@@ -26178,7 +28256,12 @@
       "chapterIndex": 6,
       "text": "Cannot you tell that? Every fool can tell that. It was the very day that young Hamlet was born,—he that is mad, and sent into England.",
       "ttsText": "Cannot you tell that? Every fool can tell that. It was the very day that young Hamlet was born,, he that is mad, and sent into England.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        47,
+        135
+      ]
     },
     {
       "order": 4153,
@@ -26308,7 +28391,11 @@
       "order": 4172,
       "chapterIndex": 6,
       "text": "Why, here in Denmark. I have been sexton here, man and boy, thirty years.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        73
+      ]
     },
     {
       "order": 4173,
@@ -26335,7 +28422,11 @@
       "chapterIndex": 6,
       "text": "Faith, if he be not rotten before he die,—as we have many pocky corses nowadays that will scarce hold the laying in,—he will last you some eight year or nine year. A tanner will last you nine year.",
       "ttsText": "Faith, if he be not rotten before he die,, as we have many pocky corses nowadays that will scarce hold the laying in,, he will last you some eight year or nine year. A tanner will last you nine year.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        165,
+        199
+      ]
     },
     {
       "order": 4177,
@@ -26361,7 +28452,12 @@
       "order": 4180,
       "chapterIndex": 6,
       "text": "Why, sir, his hide is so tann’d with his trade that he will keep out water a great while. And your water is a sore decayer of your whoreson dead body. Here’s a skull now; this skull hath lain in the earth three-and-twenty years.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        89,
+        150,
+        228
+      ]
     },
     {
       "order": 4181,
@@ -26387,7 +28483,11 @@
       "order": 4184,
       "chapterIndex": 6,
       "text": "A whoreson, mad fellow’s it was. Whose do you think it was?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        59
+      ]
     },
     {
       "order": 4185,
@@ -26413,7 +28513,12 @@
       "order": 4188,
       "chapterIndex": 6,
       "text": "A pestilence on him for a mad rogue! A pour’d a flagon of Rhenish on my head once. This same skull, sir, was Yorick’s skull, the King’s jester.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        82,
+        143
+      ]
     },
     {
       "order": 4189,
@@ -26453,7 +28558,20 @@
       "chapterIndex": 6,
       "text": "Let me see. [ Takes the skull. ] Alas, poor Yorick. I knew him, Horatio, a fellow of infinite jest, of most excellent fancy. He hath borne me on his back a thousand times; and now, how abhorred in my imagination it is! My gorge rises at it. Here hung those lips that I have kiss’d I know not how oft. Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar? Not one now, to mock your own grinning? Quite chop-fallen? Now get you to my lady’s chamber, and tell her, let her paint an inch thick, to this favour she must come. Make her laugh at that.—Prithee, Horatio, tell me one thing.",
       "ttsText": "Let me see. [ Takes the skull. ] Alas, poor Yorick. I knew him, Horatio, a fellow of infinite jest, of most excellent fancy. He hath borne me on his back a thousand times; and now, how abhorred in my imagination it is! My gorge rises at it. Here hung those lips that I have kiss’d I know not how oft. Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar? Not one now, to mock your own grinning? Quite chop-fallen? Now get you to my lady’s chamber, and tell her, let her paint an inch thick, to this favour she must come. Make her laugh at that., Prithee, Horatio, tell me one thing.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        51,
+        124,
+        218,
+        240,
+        300,
+        421,
+        461,
+        480,
+        587,
+        649
+      ]
     },
     {
       "order": 4195,
@@ -26505,7 +28623,11 @@
       "order": 4202,
       "chapterIndex": 6,
       "text": "And smelt so? Pah!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        13,
+        18
+      ]
     },
     {
       "order": 4203,
@@ -26537,7 +28659,11 @@
       "order": 4207,
       "chapterIndex": 6,
       "text": "To what base uses we may return, Horatio! Why may not imagination trace the noble dust of Alexander till he find it stopping a bung-hole?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        41,
+        137
+      ]
     },
     {
       "order": 4208,
@@ -26563,7 +28689,12 @@
       "order": 4211,
       "chapterIndex": 6,
       "text": "No, faith, not a jot. But to follow him thither with modesty enough, and likelihood to lead it; as thus. Alexander died, Alexander was buried, Alexander returneth into dust; the dust is earth; of earth we make loam; and why of that loam whereto he was converted might they not stop a beer-barrel?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        104,
+        296
+      ]
     },
     {
       "order": 4212,
@@ -26593,7 +28724,11 @@
       "order": 4216,
       "chapterIndex": 6,
       "text": "But soft! but soft! aside! Here comes the King.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        47
+      ]
     },
     {
       "order": 4217,
@@ -26606,13 +28741,21 @@
       "order": 4218,
       "chapterIndex": 6,
       "text": "The Queen, the courtiers. Who is that they follow?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        50
+      ]
     },
     {
       "order": 4219,
       "chapterIndex": 6,
       "text": "And with such maimed rites? This doth betoken",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 4220,
@@ -26663,7 +28806,11 @@
       "order": 4227,
       "chapterIndex": 6,
       "text": "That is Laertes, a very noble youth. Mark.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        36,
+        42
+      ]
     },
     {
       "order": 4228,
@@ -26695,7 +28842,11 @@
       "order": 4232,
       "chapterIndex": 6,
       "text": "As we have warranties. Her death was doubtful;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        46
+      ]
     },
     {
       "order": 4233,
@@ -26713,7 +28864,11 @@
       "order": 4235,
       "chapterIndex": 6,
       "text": "Till the last trumpet. For charitable prayers,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        46
+      ]
     },
     {
       "order": 4236,
@@ -26806,7 +28961,11 @@
       "order": 4250,
       "chapterIndex": 6,
       "text": "May violets spring. I tell thee, churlish priest,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        49
+      ]
     },
     {
       "order": 4251,
@@ -26844,7 +29003,11 @@
       "order": 4256,
       "chapterIndex": 6,
       "text": "[ Scattering flowers. ] Sweets to the sweet. Farewell.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        44,
+        54
+      ]
     },
     {
       "order": 4257,
@@ -26893,7 +29056,11 @@
       "order": 4264,
       "chapterIndex": 6,
       "text": "Depriv’d thee of. Hold off the earth a while,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        45
+      ]
     },
     {
       "order": 4265,
@@ -26966,7 +29133,11 @@
       "order": 4276,
       "chapterIndex": 6,
       "text": "Like wonder-wounded hearers? This is I,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        39
+      ]
     },
     {
       "order": 4277,
@@ -27028,7 +29199,11 @@
       "order": 4286,
       "chapterIndex": 6,
       "text": "Which let thy wiseness fear. Away thy hand!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        43
+      ]
     },
     {
       "order": 4287,
@@ -27054,7 +29229,11 @@
       "order": 4290,
       "chapterIndex": 6,
       "text": "Hamlet! Hamlet!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        7,
+        15
+      ]
     },
     {
       "order": 4291,
@@ -27142,7 +29321,11 @@
       "order": 4304,
       "chapterIndex": 6,
       "text": "Make up my sum. What wilt thou do for her?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        15,
+        42
+      ]
     },
     {
       "order": 4305,
@@ -27199,7 +29382,11 @@
       "order": 4313,
       "chapterIndex": 6,
       "text": "I’ll do’t. Dost thou come here to whine?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        40
+      ]
     },
     {
       "order": 4314,
@@ -27235,7 +29422,11 @@
       "order": 4319,
       "chapterIndex": 6,
       "text": "Make Ossa like a wart. Nay, an thou’lt mouth,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        45
+      ]
     },
     {
       "order": 4320,
@@ -27303,7 +29494,11 @@
       "order": 4330,
       "chapterIndex": 6,
       "text": "I lov’d you ever. But it is no matter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        38
+      ]
     },
     {
       "order": 4331,
@@ -27397,7 +29592,11 @@
       "chapterIndex": 6,
       "text": "SCENE II. A hall in the Castle.",
       "ttsText": "Scene II. A hall in the Castle.",
-      "role": "heading"
+      "role": "heading",
+      "ttsSentenceEnds": [
+        9,
+        31
+      ]
     },
     {
       "order": 4346,
@@ -27417,7 +29616,11 @@
       "order": 4348,
       "chapterIndex": 6,
       "text": "So much for this, sir. Now let me see the other;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        48
+      ]
     },
     {
       "order": 4349,
@@ -27455,13 +29658,21 @@
       "order": 4354,
       "chapterIndex": 6,
       "text": "That would not let me sleep. Methought I lay",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        44
+      ]
     },
     {
       "order": 4355,
       "chapterIndex": 6,
       "text": "Worse than the mutinies in the bilboes. Rashly,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        47
+      ]
     },
     {
       "order": 4356,
@@ -27698,7 +29909,11 @@
       "order": 4393,
       "chapterIndex": 6,
       "text": "It did me yeoman’s service. Wilt thou know",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        42
+      ]
     },
     {
       "order": 4394,
@@ -27840,7 +30055,11 @@
       "order": 4416,
       "chapterIndex": 6,
       "text": "The changeling never known. Now, the next day",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        45
+      ]
     },
     {
       "order": 4417,
@@ -27966,7 +30185,11 @@
       "order": 4436,
       "chapterIndex": 6,
       "text": "To quit him with this arm? And is’t not to be damn’d",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        52
+      ]
     },
     {
       "order": 4437,
@@ -28010,7 +30233,11 @@
       "order": 4443,
       "chapterIndex": 6,
       "text": "It will be short. The interim is mine;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        38
+      ]
     },
     {
       "order": 4444,
@@ -28040,7 +30267,11 @@
       "order": 4448,
       "chapterIndex": 6,
       "text": "The portraiture of his. I’ll court his favours.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        23,
+        47
+      ]
     },
     {
       "order": 4449,
@@ -28098,7 +30329,11 @@
       "order": 4457,
       "chapterIndex": 6,
       "text": "I humbly thank you, sir. Dost know this waterfly?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        49
+      ]
     },
     {
       "order": 4458,
@@ -28124,7 +30359,11 @@
       "order": 4461,
       "chapterIndex": 6,
       "text": "Thy state is the more gracious; for ’tis a vice to know him. He hath much land, and fertile; let a beast be lord of beasts, and his crib shall stand at the king’s mess; ’tis a chough; but, as I say, spacious in the possession of dirt.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        60,
+        234
+      ]
     },
     {
       "order": 4462,
@@ -28150,7 +30389,11 @@
       "order": 4465,
       "chapterIndex": 6,
       "text": "I will receive it with all diligence of spirit. Put your bonnet to his right use; ’tis for the head.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        100
+      ]
     },
     {
       "order": 4466,
@@ -28216,7 +30459,12 @@
       "chapterIndex": 6,
       "text": "Exceedingly, my lord; it is very sultry,—as ’twere—I cannot tell how. But, my lord, his Majesty bade me signify to you that he has laid a great wager on your head. Sir, this is the matter,—",
       "ttsText": "Exceedingly, my lord; it is very sultry,, as ’twere, I cannot tell how. But, my lord, his Majesty bade me signify to you that he has laid a great wager on your head. Sir, this is the matter,,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        71,
+        165,
+        191
+      ]
     },
     {
       "order": 4476,
@@ -28249,7 +30497,12 @@
       "order": 4480,
       "chapterIndex": 6,
       "text": "Nay, in good faith; for mine ease, in good faith. Sir, here is newly come to court Laertes; believe me, an absolute gentleman, full of most excellent differences, of very soft society and great showing. Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        49,
+        202,
+        351
+      ]
     },
     {
       "order": 4481,
@@ -28262,7 +30515,11 @@
       "order": 4482,
       "chapterIndex": 6,
       "text": "Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail. But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        183,
+        419
+      ]
     },
     {
       "order": 4483,
@@ -28288,7 +30545,11 @@
       "order": 4486,
       "chapterIndex": 6,
       "text": "The concernancy, sir? Why do we wrap the gentleman in our more rawer breath?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        76
+      ]
     },
     {
       "order": 4487,
@@ -28314,7 +30575,11 @@
       "order": 4490,
       "chapterIndex": 6,
       "text": "Is’t not possible to understand in another tongue? You will do’t, sir, really.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        50,
+        78
+      ]
     },
     {
       "order": 4491,
@@ -28393,7 +30658,11 @@
       "order": 4502,
       "chapterIndex": 6,
       "text": "I would you did, sir; yet in faith if you did, it would not much approve me. Well, sir?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        76,
+        87
+      ]
     },
     {
       "order": 4503,
@@ -28472,7 +30741,11 @@
       "order": 4514,
       "chapterIndex": 6,
       "text": "That’s two of his weapons. But well.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        26,
+        36
+      ]
     },
     {
       "order": 4515,
@@ -28485,7 +30758,11 @@
       "order": 4516,
       "chapterIndex": 6,
       "text": "The King, sir, hath wager’d with him six Barbary horses, against the which he has imponed, as I take it, six French rapiers and poniards, with their assigns, as girdle, hangers, and so. Three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        185,
+        327
+      ]
     },
     {
       "order": 4517,
@@ -28537,7 +30814,14 @@
       "order": 4524,
       "chapterIndex": 6,
       "text": "The phrase would be more german to the matter if we could carry cannon by our sides. I would it might be hangers till then. But on. Six Barbary horses against six French swords, their assigns, and three liberal conceited carriages: that’s the French bet against the Danish. Why is this all imponed, as you call it?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        84,
+        123,
+        131,
+        273,
+        314
+      ]
     },
     {
       "order": 4525,
@@ -28550,7 +30834,12 @@
       "order": 4526,
       "chapterIndex": 6,
       "text": "The King, sir, hath laid that in a dozen passes between you and him, he shall not exceed you three hits. He hath laid on twelve for nine. And it would come to immediate trial if your lordship would vouchsafe the answer.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        104,
+        137,
+        219
+      ]
     },
     {
       "order": 4527,
@@ -28589,7 +30878,12 @@
       "order": 4532,
       "chapterIndex": 6,
       "text": "Sir, I will walk here in the hall. If it please his Majesty, it is the breathing time of day with me. Let the foils be brought, the gentleman willing, and the King hold his purpose, I will win for him if I can; if not, I will gain nothing but my shame and the odd hits.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        34,
+        101,
+        269
+      ]
     },
     {
       "order": 4533,
@@ -28681,7 +30975,11 @@
       "chapterIndex": 6,
       "text": "He did comply with his dug before he suck’d it. Thus has he,—and many more of the same bevy that I know the drossy age dotes on,— only got the tune of the time and outward habit of encounter; a kind of yeasty collection, which carries them through and through the most fanned and winnowed opinions; and do but blow them to their trial, the bubbles are out.",
       "ttsText": "He did comply with his dug before he suck’d it. Thus has he,, and many more of the same bevy that I know the drossy age dotes on,, only got the tune of the time and outward habit of encounter; a kind of yeasty collection, which carries them through and through the most fanned and winnowed opinions; and do but blow them to their trial, the bubbles are out.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        47,
+        357
+      ]
     },
     {
       "order": 4547,
@@ -28701,7 +30999,11 @@
       "order": 4549,
       "chapterIndex": 6,
       "text": "My lord, his Majesty commended him to you by young Osric, who brings back to him that you attend him in the hall. He sends to know if your pleasure hold to play with Laertes or that you will take longer time.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        113,
+        208
+      ]
     },
     {
       "order": 4550,
@@ -28714,7 +31016,12 @@
       "order": 4551,
       "chapterIndex": 6,
       "text": "I am constant to my purposes, they follow the King’s pleasure. If his fitness speaks, mine is ready. Now or whensoever, provided I be so able as now.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        62,
+        100,
+        149
+      ]
     },
     {
       "order": 4552,
@@ -28799,7 +31106,13 @@
       "order": 4564,
       "chapterIndex": 6,
       "text": "I do not think so. Since he went into France, I have been in continual practice. I shall win at the odds. But thou wouldst not think how ill all’s here about my heart: but it is no matter.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        80,
+        105,
+        188
+      ]
     },
     {
       "order": 4565,
@@ -28838,7 +31151,11 @@
       "order": 4570,
       "chapterIndex": 6,
       "text": "If your mind dislike anything, obey it. I will forestall their repair hither, and say you are not fit.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        39,
+        102
+      ]
     },
     {
       "order": 4571,
@@ -28851,7 +31168,14 @@
       "order": 4572,
       "chapterIndex": 6,
       "text": "Not a whit, we defy augury. There’s a special providence in the fall of a sparrow. If it be now, ’tis not to come; if it be not to come, it will be now; if it be not now, yet it will come. The readiness is all. Since no man has aught of what he leaves, what is’t to leave betimes?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        82,
+        188,
+        210,
+        280
+      ]
     },
     {
       "order": 4573,
@@ -28891,7 +31215,11 @@
       "order": 4578,
       "chapterIndex": 6,
       "text": "Give me your pardon, sir. I have done you wrong;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        48
+      ]
     },
     {
       "order": 4579,
@@ -28933,7 +31261,11 @@
       "order": 4585,
       "chapterIndex": 6,
       "text": "Was’t Hamlet wrong’d Laertes? Never Hamlet.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        43
+      ]
     },
     {
       "order": 4586,
@@ -28957,7 +31289,12 @@
       "order": 4589,
       "chapterIndex": 6,
       "text": "Who does it, then? His madness. If’t be so,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        31,
+        43
+      ]
     },
     {
       "order": 4590,
@@ -29024,7 +31361,11 @@
       "order": 4600,
       "chapterIndex": 6,
       "text": "To my revenge. But in my terms of honour",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        40
+      ]
     },
     {
       "order": 4601,
@@ -29048,7 +31389,11 @@
       "order": 4604,
       "chapterIndex": 6,
       "text": "To keep my name ungor’d. But till that time",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        24,
+        43
+      ]
     },
     {
       "order": 4605,
@@ -29163,7 +31508,11 @@
       "order": 4622,
       "chapterIndex": 6,
       "text": "Give them the foils, young Osric. Cousin Hamlet,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        33,
+        48
+      ]
     },
     {
       "order": 4623,
@@ -29201,7 +31550,11 @@
       "order": 4628,
       "chapterIndex": 6,
       "text": "I do not fear it. I have seen you both;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        17,
+        39
+      ]
     },
     {
       "order": 4629,
@@ -29220,7 +31573,11 @@
       "order": 4631,
       "chapterIndex": 6,
       "text": "This is too heavy. Let me see another.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        18,
+        38
+      ]
     },
     {
       "order": 4632,
@@ -29233,7 +31590,11 @@
       "order": 4633,
       "chapterIndex": 6,
       "text": "This likes me well. These foils have all a length?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        50
+      ]
     },
     {
       "order": 4634,
@@ -29307,7 +31668,11 @@
       "order": 4645,
       "chapterIndex": 6,
       "text": "In Denmark’s crown have worn. Give me the cups;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        47
+      ]
     },
     {
       "order": 4646,
@@ -29331,7 +31696,11 @@
       "order": 4649,
       "chapterIndex": 6,
       "text": "‘Now the King drinks to Hamlet.’ Come, begin.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        32,
+        45
+      ]
     },
     {
       "order": 4650,
@@ -29447,7 +31816,11 @@
       "order": 4667,
       "chapterIndex": 6,
       "text": "Stay, give me drink. Hamlet, this pearl is thine;",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        49
+      ]
     },
     {
       "order": 4668,
@@ -29490,7 +31863,11 @@
       "order": 4674,
       "chapterIndex": 6,
       "text": "Come. Another hit; what say you?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        5,
+        32
+      ]
     },
     {
       "order": 4675,
@@ -29606,7 +31983,11 @@
       "order": 4692,
       "chapterIndex": 6,
       "text": "I dare not drink yet, madam. By and by.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        39
+      ]
     },
     {
       "order": 4693,
@@ -29671,7 +32052,11 @@
       "order": 4702,
       "chapterIndex": 6,
       "text": "Come for the third, Laertes. You do but dally.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        46
+      ]
     },
     {
       "order": 4703,
@@ -29696,7 +32081,11 @@
       "order": 4706,
       "chapterIndex": 6,
       "text": "Say you so? Come on.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        11,
+        20
+      ]
     },
     {
       "order": 4707,
@@ -29793,7 +32182,11 @@
       "order": 4721,
       "chapterIndex": 6,
       "text": "They bleed on both sides. How is it, my lord?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        45
+      ]
     },
     {
       "order": 4722,
@@ -29864,13 +32257,21 @@
       "order": 4732,
       "chapterIndex": 6,
       "text": "No, no, the drink, the drink! O my dear Hamlet!",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        29,
+        47
+      ]
     },
     {
       "order": 4733,
       "chapterIndex": 6,
       "text": "The drink, the drink! I am poison’d.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        36
+      ]
     },
     {
       "order": 4734,
@@ -29889,13 +32290,22 @@
       "order": 4736,
       "chapterIndex": 6,
       "text": "O villany! Ho! Let the door be lock’d:",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        14,
+        38
+      ]
     },
     {
       "order": 4737,
       "chapterIndex": 6,
       "text": "Treachery! Seek it out.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        10,
+        23
+      ]
     },
     {
       "order": 4738,
@@ -29914,7 +32324,11 @@
       "order": 4740,
       "chapterIndex": 6,
       "text": "It is here, Hamlet. Hamlet, thou art slain.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        43
+      ]
     },
     {
       "order": 4741,
@@ -29938,25 +32352,41 @@
       "order": 4744,
       "chapterIndex": 6,
       "text": "Unbated and envenom’d. The foul practice",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        40
+      ]
     },
     {
       "order": 4745,
       "chapterIndex": 6,
       "text": "Hath turn’d itself on me. Lo, here I lie,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        41
+      ]
     },
     {
       "order": 4746,
       "chapterIndex": 6,
       "text": "Never to rise again. Thy mother’s poison’d.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        20,
+        43
+      ]
     },
     {
       "order": 4747,
       "chapterIndex": 6,
       "text": "I can no more. The King, the King’s to blame.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        45
+      ]
     },
     {
       "order": 4748,
@@ -30008,7 +32438,11 @@
       "order": 4755,
       "chapterIndex": 6,
       "text": "O yet defend me, friends. I am but hurt.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        40
+      ]
     },
     {
       "order": 4756,
@@ -30027,7 +32461,11 @@
       "order": 4758,
       "chapterIndex": 6,
       "text": "Drink off this potion. Is thy union here?",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        22,
+        41
+      ]
     },
     {
       "order": 4759,
@@ -30095,13 +32533,21 @@
       "order": 4769,
       "chapterIndex": 6,
       "text": "Heaven make thee free of it! I follow thee.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        43
+      ]
     },
     {
       "order": 4770,
       "chapterIndex": 6,
       "text": "I am dead, Horatio. Wretched Queen, adieu.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        42
+      ]
     },
     {
       "order": 4771,
@@ -30133,7 +32579,11 @@
       "order": 4775,
       "chapterIndex": 6,
       "text": "But let it be. Horatio, I am dead,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        34
+      ]
     },
     {
       "order": 4776,
@@ -30189,7 +32639,11 @@
       "order": 4784,
       "chapterIndex": 6,
       "text": "Give me the cup. Let go; by Heaven, I’ll have’t.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        16,
+        48
+      ]
     },
     {
       "order": 4785,
@@ -30299,7 +32753,11 @@
       "order": 4802,
       "chapterIndex": 6,
       "text": "On Fortinbras. He has my dying voice.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        14,
+        37
+      ]
     },
     {
       "order": 4803,
@@ -30311,7 +32769,11 @@
       "order": 4804,
       "chapterIndex": 6,
       "text": "Which have solicited. The rest is silence.",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        21,
+        42
+      ]
     },
     {
       "order": 4805,
@@ -30330,7 +32792,11 @@
       "order": 4807,
       "chapterIndex": 6,
       "text": "Now cracks a noble heart. Good night, sweet prince,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        25,
+        51
+      ]
     },
     {
       "order": 4808,
@@ -30399,7 +32865,11 @@
       "order": 4818,
       "chapterIndex": 6,
       "text": "This quarry cries on havoc. O proud death,",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        27,
+        42
+      ]
     },
     {
       "order": 4819,
@@ -30521,7 +32991,11 @@
       "order": 4838,
       "chapterIndex": 6,
       "text": "How these things came about. So shall you hear",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        28,
+        46
+      ]
     },
     {
       "order": 4839,
@@ -30551,7 +33025,11 @@
       "order": 4843,
       "chapterIndex": 6,
       "text": "Fall’n on the inventors’ heads. All this can I",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        31,
+        46
+      ]
     },
     {
       "order": 4844,
@@ -30680,7 +33158,11 @@
       "order": 4864,
       "chapterIndex": 6,
       "text": "Take up the bodies. Such a sight as this",
-      "role": "paragraph"
+      "role": "paragraph",
+      "ttsSentenceEnds": [
+        19,
+        40
+      ]
     },
     {
       "order": 4865,
